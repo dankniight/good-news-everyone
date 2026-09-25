@@ -38,7 +38,7 @@ ROOT = Path(__file__).resolve().parent.parent
 OUTPUT = ROOT / "news.json"
 
 # Be a polite citizen: say who you are. Put your own repo URL here.
-USER_AGENT = "GreenShootsBot/1.0 (+https://github.com/dankniight/green-shoots)"
+USER_AGENT = "GoodNewsEverymoneBot/1.0 (+https://github.com/dankniight/good-news-everyone)"
 REQUEST_TIMEOUT = 15
 MAX_AGE_DAYS = 45          # drop stories older than this
 MAX_ARTICLES = 400         # hard cap on stored stories
