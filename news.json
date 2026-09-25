@@ -1,5 +1,633 @@
 {
-  "lastUpdated": null,
-  "sources": [],
-  "articles": []
+  "lastUpdated": "2026-09-25T13:39:15.918418+00:00",
+  "sources": [
+    {
+      "name": "Good News Network",
+      "site": "https://www.goodnewsnetwork.org",
+      "color": "#2E8B57",
+      "count": 0
+    },
+    {
+      "name": "Positive News",
+      "site": "https://www.positive.news",
+      "color": "#E0A21B",
+      "count": 10
+    },
+    {
+      "name": "Reasons to be Cheerful",
+      "site": "https://reasonstobecheerful.world",
+      "color": "#3B82C4",
+      "count": 10
+    },
+    {
+      "name": "The Optimist Daily",
+      "site": "https://www.optimistdaily.com",
+      "color": "#B84F94",
+      "count": 10
+    },
+    {
+      "name": "Grist",
+      "site": "https://grist.org",
+      "color": "#6F8A2B",
+      "count": 8
+    },
+    {
+      "name": "Canary Media",
+      "site": "https://www.canarymedia.com",
+      "color": "#1799A6",
+      "count": 27
+    },
+    {
+      "name": "Futurism",
+      "site": "https://futurism.com",
+      "color": "#6E56CF",
+      "count": 8
+    }
+  ],
+  "articles": [
+    {
+      "title": "Whether it’s ‘super’ or ‘Godzilla,’ El Niño is already breaking records",
+      "summary": "By now, you’ve seen the headlines, and there’s more of them every day: It’s “ jaw-dropping . It’s poised to make global warming worse .",
+      "link": "https://grist.org/science/whether-its-super-or-godzilla-el-nino-is-already-breaking-records/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/09/Super-El-Nino_rain.jpg",
+      "source": "Grist",
+      "published": "2026-09-25T08:45:00+00:00"
+    },
+    {
+      "title": "My boomer mom’s cheap online shopping habit drives me nuts",
+      "summary": "Dear Leslie, I’ve noticed a real divide between my mindset and my mom’s. She’s a boomer, I’m a millennial. When she furnished her house through Amazon and Wayfair, the thing she was proudest of was how cheap it all was — same with clothes.",
+      "link": "https://grist.org/culture/ask-a-climate-therapist-boomer-mom-cheap-shopping-habit/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/02/climate-therapist-logo.png",
+      "source": "Grist",
+      "published": "2026-09-25T08:30:00+00:00"
+    },
+    {
+      "title": "Nairobi Is Transforming Neglected Libraries Into Vibrant Civic Hubs",
+      "summary": "As Sunil Totti prepared for a job interview with an international tech firm recently, he was hit by a sudden anxiety: What if the electricity failed midway through?",
+      "link": "https://reasonstobecheerful.world/nairobi-libraries-civic-hubs/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/1_After-scaled.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-09-25T08:00:13+00:00"
+    },
+    {
+      "title": "What went right this week: the good news that matters",
+      "summary": "Kosovo was cleared of landmines, Germany set a date for quitting oil, and a new species was discovered, plus more",
+      "link": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/iStock-487000750-2.jpg",
+      "source": "Positive News",
+      "published": "2026-09-25T05:11:56+00:00"
+    },
+    {
+      "title": "Ethiopia’s Green Legacy Initiative is turning citizens into foresters",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM For most of the past century, Ethiopia was losing its forests. From the turn of the millennium to 2025, the country shed 560,000 hectares, about 2,160 square miles, of tree cover to agriculture, logging, and charcoal fuel.",
+      "link": "https://www.optimistdaily.com/2026/09/ethiopias-green-legacy-initiative-is-turning-citizens-into-foresters/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_308867466_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-09-25T00:00:49+00:00"
+    },
+    {
+      "title": "How book clubs and bedtime stories protect and build healthier brains",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM If the book on your nightstand has been gathering dust, here’s your reason to finally open it.",
+      "link": "https://www.optimistdaily.com/2026/09/how-book-clubs-and-bedtime-stories-protect-and-build-healthier-brains/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_796265520_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-09-25T00:00:06+00:00"
+    },
+    {
+      "title": "Advanced grid tech gets a $1.9B DOE boost",
+      "summary": "For years now, grid experts have been trying to get utilities to deploy advanced transmission technologies that can squeeze more capacity out of overstressed U.S. power grids.",
+      "link": "https://www.canarymedia.com/articles/transmission/advanced-grid-tech-doe-boost",
+      "image_url": "https://img.canarymedia.com/content/uploads/High-tension-electrical-power-lines-Highway-58_GettyImages-667160146.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=506ce5c2d705144df39e6fa21d2fda22",
+      "source": "Canary Media",
+      "published": "2026-09-24T21:30:00+00:00"
+    },
+    {
+      "title": "Trump cut their climate jobs. This secretive network found them new ones.",
+      "summary": "Last year was a tough time for anyone who studies climate change for a living. The United States, once respected around the world for its sprawling investments in science, suddenly reversed course.",
+      "link": "https://grist.org/labor/trump-science-funding-network-climate-reserve/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/07/ib8ER.jpeg",
+      "source": "Grist",
+      "published": "2026-09-24T08:30:00+00:00"
+    },
+    {
+      "title": "How the Architecture of Sound Is Transforming Cities",
+      "summary": "Before Chris Downey lost his sight, he had a wind chime on his front porch. After he became blind, he realized that he could listen out for it to help him find his way home.",
+      "link": "https://reasonstobecheerful.world/how-the-architecture-of-sound-is-transforming-cities/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/shutterstock_1163376499-scaled.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-09-24T08:00:50+00:00"
+    },
+    {
+      "title": "A recent legal victory could free $7B in frozen Solar for All funds",
+      "summary": "Denise Abdul-Rahman, founder and CEO of nonprofit Black Sun Light Sustainability, can list in detail the harms that the Trump administration’s shutdown of the $7 billion Solar for All program has caused the Indiana communities she serves.",
+      "link": "https://www.canarymedia.com/articles/politics/solar-for-all-court-ruling",
+      "image_url": "https://img.canarymedia.com/content/uploads/Sunpath-Solar-rooftop-solar-installers-evening-skyline.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=6ce3c8c49b5955c281fc075432f7fe68",
+      "source": "Canary Media",
+      "published": "2026-09-24T07:30:00+00:00"
+    },
+    {
+      "title": "From 2.6% to 97%: how South Korea eliminated food waste and what NYC can learn",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM In Yeouido, Seoul, Seunghwan Hong spends less than a minute dropping off his food scraps.",
+      "link": "https://www.optimistdaily.com/2026/09/from-2-6-to-97-how-south-korea-eliminated-food-waste-and-what-nyc-can-learn/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_112863948_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-09-24T00:00:37+00:00"
+    },
+    {
+      "title": "The tilcayo: new wildcat species discovered in Bolivia’s cloud forest",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM For years, biologists cataloguing Bolivia’s Yungas cloud forest would note a small spotted cat and move on.",
+      "link": "https://www.optimistdaily.com/2026/09/the-tilcayo-new-wildcat-species-discovered-in-bolivias-cloud-forest/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Leopardus_tilcayo_5x3_cropped-1024x613.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-09-24T00:00:08+00:00"
+    },
+    {
+      "title": "Should we get excited about California’s latest virtual power plant?",
+      "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Wednesday via Substack.",
+      "link": "https://www.canarymedia.com/articles/virtual-power-plants/california-latest-virtual-power-plant",
+      "image_url": "https://img.canarymedia.com/content/uploads/CW-santaclara-16.9.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=19881324d860718d093435973d91629a",
+      "source": "Canary Media",
+      "published": "2026-09-23T18:00:00+00:00"
+    },
+    {
+      "title": "Life after… a diagnosis for panic disorder",
+      "summary": "Molly Lambert went viral discussing OCD, helping others recognise frightening experiences they’d been too scared to share",
+      "link": "https://www.positive.news/lifestyle/life-after-a-diagnosis-for-panic-disorder/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/Image_enhanced_under_1MB-e1790244717672.jpg",
+      "source": "Positive News",
+      "published": "2026-09-23T13:14:20+00:00"
+    },
+    {
+      "title": "Marine protected areas aren’t as protected as you think",
+      "summary": "Earlier this year, ocean conservation advocates celebrated what seemed like a major milestone: 10 percent of the Earth’s oceans had been officially designated as marine protected areas.",
+      "link": "https://grist.org/oceans/marine-protected-areas-arent-as-protected-as-you-think/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/07/earth-oceans-heat.jpg",
+      "source": "Grist",
+      "published": "2026-09-23T08:30:00+00:00"
+    },
+    {
+      "title": "What We’re Reading: Singapore Is Paying People to Read",
+      "summary": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
+      "link": "https://reasonstobecheerful.world/what-were-reading-singapore-paying-people-to-read/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2024/01/The-Guardian-logo.jpeg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-09-23T08:00:22+00:00"
+    },
+    {
+      "title": "A new fleet of electric school buses hits New York City streets",
+      "summary": "NEW YORK CITY — School districts nationwide are grappling with record diesel prices this fall as they resume shuttling students back and forth.",
+      "link": "https://www.canarymedia.com/articles/electric-vehicles/electric-school-buses-new-york-city",
+      "image_url": "https://img.canarymedia.com/content/uploads/IMG_6013.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=cf7e99bd59a128b86898ee32ab167307",
+      "source": "Canary Media",
+      "published": "2026-09-23T07:30:00+00:00"
+    },
+    {
+      "title": "How Reefvive is rebuilding coral reefs from discarded oyster shells",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Most artificial reef structures are built from concrete. Concrete is smooth, and smooth surfaces give young coral little to grip.",
+      "link": "https://www.optimistdaily.com/2026/09/how-reefvive-is-rebuilding-coral-reefs-from-discarded-oyster-shells/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_610532992_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-09-23T00:00:54+00:00"
+    },
+    {
+      "title": "Pomegranates and berries produce a gut metabolite that may improve IBD outcomes",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Gut bacteria that break down compounds in pomegranates, walnuts, and berries produce a metabolite called urolithin A.",
+      "link": "https://www.optimistdaily.com/2026/09/pomegranates-and-berries-produce-a-gut-metabolite-that-may-improve-ibd-outcomes/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_671998252_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-09-23T00:00:23+00:00"
+    },
+    {
+      "title": "Trump Says No Need to Regulate AI, Since That Strategy Is Working Fine for Climate Change",
+      "summary": "\"Welcome to the new world of super intelligence.\"",
+      "link": "https://futurism.com/future-society/trump-regulate-ai-deregulation-climate-change-united-nations",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/trump-regulate-ai-deregulation-climate-change-united-nations.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-09-22T21:12:17+00:00"
+    },
+    {
+      "title": "Trump is backing a diesel export ban. How much would that do?",
+      "summary": "Diesel prices have hit a record high nearly every day this month, with a national average on Tuesday at $6.52 a gallon, according to AAA .",
+      "link": "https://grist.org/transportation/trump-is-backing-a-diesel-export-ban-how-much-would-that-do/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/09/diesel-fuel-record-high-all-time-price-united-states-iran-war.jpeg",
+      "source": "Grist",
+      "published": "2026-09-22T21:00:21+00:00"
+    },
+    {
+      "title": "Why scientists want your photos of wildlife eating lunch",
+      "summary": "The food chain you learned about in school isn’t the full picture. Yes, the rat eats your garden crops, the ermine snags the rat, and the eagle picks off the ermine.",
+      "link": "https://grist.org/science/why-scientists-want-your-photos-of-wildlife-eating-lunch/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/09/Chipmunk-eating-another-animal-who-eats-whom.jpg",
+      "source": "Grist",
+      "published": "2026-09-22T18:00:00+00:00"
+    },
+    {
+      "title": "US utilities get failing grade on clean energy transition",
+      "summary": "The biggest U.S. utilities are doing worse on shifting from fossil fuels to clean power than they were at the start of this decade — and more than four in 10 have backtracked on their climate goals since the start of the second Trump administration.",
+      "link": "https://www.canarymedia.com/articles/utilities/us-utilities-failing-grade-clean-energy",
+      "image_url": "https://img.canarymedia.com/content/uploads/Mill-Creek-generating-station-at-night_GettyImages-2261166687.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=79d0ddc3cd38ba6f1ef037a068fab5cd",
+      "source": "Canary Media",
+      "published": "2026-09-22T09:00:00+00:00"
+    },
+    {
+      "title": "A clean energy source is buried under the desert, but it takes water to use it",
+      "summary": "Beneath the Rocky Mountains, the Sierra Nevada, and the deserts in between, lies a massive energy source — and it isn’t a fossil fuel.",
+      "link": "https://grist.org/energy/geothermal-clean-energy-source-water-use/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/09/Rio-Grande-dry.jpg",
+      "source": "Grist",
+      "published": "2026-09-22T08:45:00+00:00"
+    },
+    {
+      "title": "Gallery: winning pictures from Bird Photographer of the Year",
+      "summary": "A striking shot of a gannet flying through the water is among the winners of this year’s award",
+      "link": "https://www.positive.news/environment/winners-of-bird-photographer-of-the-year-announced/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/ADULT-OVERALL-WINNER-Sunball-Rocket-by-Henley-Spiers.jpg",
+      "source": "Positive News",
+      "published": "2026-09-22T07:00:14+00:00"
+    },
+    {
+      "title": "From fire starters to compost: what to do with dryer lint",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM If you clean your dryer’s lint trap after every load, you end up with a soft little cloud of fiber in your hand pretty regularly.",
+      "link": "https://www.optimistdaily.com/2026/09/from-fire-starters-to-compost-what-to-do-with-dryer-lint/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_845554684_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-09-22T00:00:34+00:00"
+    },
+    {
+      "title": "Mexico’s desert ecosystem is healing months after bison reintroduction",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM The 200-year absence of bison from Mexico’s Chihuahuan Desert left a gap that most people stopped noticing.",
+      "link": "https://www.optimistdaily.com/2026/09/mexicos-desert-ecosystem-is-healing-months-after-bison-reintroduction/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_1014308_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-09-22T00:00:11+00:00"
+    },
+    {
+      "title": "Why Great Plains Ranchers Are Setting Fire to Their Own Land",
+      "summary": "Smoke hangs thick over southern Oklahoma’s Arbuckle Mountains as flames lick through prairie grass toward a stand of eastern red cedar trees.",
+      "link": "https://reasonstobecheerful.world/great-plains-ranchers-prescribed-burns/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/tree-in-flames-seth-coffey.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-09-21T14:42:43+00:00"
+    },
+    {
+      "title": "The race to get more young people in the UK into work, education or training",
+      "summary": "The UK has one of the highest NEET rates for young adults in Europe. New figures offer some encouragement",
+      "link": "https://www.positive.news/society/number-of-young-people-out-of-work-and-education-falls-below-one-million/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/new-one.jpg",
+      "source": "Positive News",
+      "published": "2026-09-21T09:39:04+00:00"
+    },
+    {
+      "title": "Can dogs sniff out cancer? New AI study shows promise",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM A company in India is reporting more than 90 percent accuracy in detecting seven types of cancer from breath samples.",
+      "link": "https://www.optimistdaily.com/2026/09/can-dogs-sniff-out-cancer-new-ai-study-shows-promise/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_363668952_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-09-21T00:00:58+00:00"
+    },
+    {
+      "title": "How revisiting old memories can build real self-esteem",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Think about a memory that still makes you wince. Maybe it is the time you said something embarrassing in front of people you wanted to impress, or the moment you felt out of place while everyone around you seemed completely at ease.",
+      "link": "https://www.optimistdaily.com/2026/09/how-revisiting-old-memories-can-build-real-self-esteem/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_840178744_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-09-21T00:00:08+00:00"
+    },
+    {
+      "title": "Solar Power Is Getting So Cheap That It’s Almost Unbelievable",
+      "summary": "\"Offensively cheap.\"",
+      "link": "https://futurism.com/science-energy/solar-power-renewable-energy-incredibly-cheap",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/solar-power-renewable-energy-incredibly-cheap.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-09-20T22:01:00+00:00"
+    },
+    {
+      "title": "Kenya Unleashing Solar-Powered Ambulance With Wicked Long Range for Service to Remote Villages",
+      "summary": "\"It will enable us to go and screen mothers and babies, catch complications early and refer them in real time.\"",
+      "link": "https://futurism.com/science-energy/kenya-solar-power-ambulance-health-africa-rural",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/kenya-solar-powered-ambulance.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-09-20T16:01:00+00:00"
+    },
+    {
+      "title": "Crowd Cheers as RFK Jr. Says the Government Will Investigate “Chemtrails”",
+      "summary": "That's what he's worried about?",
+      "link": "https://futurism.com/science-energy/crowd-cheers-rfk-government-investigate-chemtrails",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/crowd-cheers-rfk-government-investigate-chemtrails.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-09-18T20:33:59+00:00"
+    },
+    {
+      "title": "Federal transit cuts could hit rural America hardest",
+      "summary": "As the executive director of the Living Independent Network Corp, Jeremy Maxand does what he can to help people who don’t drive get around in southern Idaho.",
+      "link": "https://grist.org/solutions/federal-transit-cuts-could-hit-rural-america-hardest/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/02/Madison-Wisconsin-transit-BRT-electric-buses-range-winter-01.jpeg",
+      "source": "Grist",
+      "published": "2026-09-18T08:45:00+00:00"
+    },
+    {
+      "title": "In Remote Alaska, the Promise and Limits of Vertical Farming",
+      "summary": "This story was originally published by Civil Eats. The town of Skagway, in southeast Alaska, is home to approximately 1,000 year-round residents and hosts more than 1.3 million summer cruise ship passengers.",
+      "link": "https://reasonstobecheerful.world/in-remote-alaska-the-promise-and-limits-of-vertical-farming/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/260817-1-in-remote-alaska-promise-limits-vertical-farming-skagway-brewing-co-top.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-09-18T08:00:09+00:00"
+    },
+    {
+      "title": "What went right this week: the EU’s social media ban for kids, plus more",
+      "summary": "EU to ban social media for kids, England approves life-extending cancer drug, and reading linked to better health, plus more",
+      "link": "https://www.positive.news/society/good-news-stories-from-week-38-of-2026/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/iStock-2096480418.jpeg",
+      "source": "Positive News",
+      "published": "2026-09-18T05:28:35+00:00"
+    },
+    {
+      "title": "The World Is Getting Noisier — But We Can Change That",
+      "summary": "I spent years immersed in noise. Sometimes it was deafeningly loud, like the crescendo of horns and two-stroke motorcycles during rush hour in Mumbai.",
+      "link": "https://reasonstobecheerful.world/rethinking-noise-pollution-protect-health-well-being/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/shutterstock_2308183059-scaled.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-09-17T13:55:12+00:00"
+    },
+    {
+      "title": "51 ways to get the planet tipping the right way",
+      "summary": "Researchers have identified 51 environmental solutions to save the planet. Here are five of the most promising",
+      "link": "https://www.positive.news/society/51-ways-to-get-the-planet-tipping-the-right-way/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/iStock-178586669.jpeg",
+      "source": "Positive News",
+      "published": "2026-09-17T05:00:50+00:00"
+    },
+    {
+      "title": "Newsom's last chance to tackle California's electricity costs",
+      "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Wednesday via Substack .",
+      "link": "https://www.canarymedia.com/articles/affordability/newsom-last-chance-california-electricity-costs",
+      "image_url": "https://img.canarymedia.com/content/uploads/CW-newsom.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=adbab9076d7652e2d3f055d4e5e00ea5",
+      "source": "Canary Media",
+      "published": "2026-09-16T17:00:00+00:00"
+    },
+    {
+      "title": "It’s Looking Like Tesla’s Cybercab Might Actually Be Illegal to Sell",
+      "summary": "The government is demanding that Tesla go under oath.",
+      "link": "https://futurism.com/advanced-transport/tesla-cybercab-illegal-sell",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/tesla-cybercab-illegal-sell.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-09-16T16:46:43+00:00"
+    },
+    {
+      "title": "Data Centers Are Causing a Huge Surge in Incredibly Toxic Chemicals Polluting the World",
+      "summary": "\"Data centers create problems that don't stop at municipal boundaries, whether it's pollution or straining the grid and driving up everyone's electric bills.\"",
+      "link": "https://futurism.com/science-energy/data-centers-surge-toxic-chemical-spill-pollution-pfas",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/data-centers-surge-toxic-chemical-spill-pollution-pfas.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-09-16T13:21:24+00:00"
+    },
+    {
+      "title": "What We’re Reading: 20,000 Salmon Return to the Klamath River",
+      "summary": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
+      "link": "https://reasonstobecheerful.world/what-were-reading-klamath-river-salmon-return/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2024/04/Inside-Climate-News-logo.jpeg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-09-16T08:00:56+00:00"
+    },
+    {
+      "title": "Illinois revamps clean energy jobs training for a shifting economy",
+      "summary": "Illinois has spent the last few years training hundreds of people for clean energy jobs. Now, it’s upgrading its keystone program to better respond to new workforce realities.",
+      "link": "https://www.canarymedia.com/articles/clean-energy-jobs/illinois-revamps-clean-energy-jobs-training",
+      "image_url": "https://img.canarymedia.com/content/uploads/GettyImages-686403884.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a6e0b211428f61f161864e22a8e75e4d",
+      "source": "Canary Media",
+      "published": "2026-09-16T07:30:00+00:00"
+    },
+    {
+      "title": "What happened when I stopped filling the silence",
+      "summary": "Angela Garwood swapped conversation for stillness at a device-free silent retreat, hoping to discover what lies beneath the noise",
+      "link": "https://www.positive.news/lifestyle/the-sound-of-stillness-what-happened-when-i-stopped-filling-the-silence/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/Gayles_Retreats_Images_Them_Studio-6-copy-1800x0-c-centermain.jpeg",
+      "source": "Positive News",
+      "published": "2026-09-16T07:00:46+00:00"
+    },
+    {
+      "title": "Trump’s EPA Will Let Power Companies Unleash Unlimited Greenhouse Gas Pollution",
+      "summary": "Giving climate change the coal shoulder.",
+      "link": "https://futurism.com/science-energy/trumps-epa-unlimited-greenhouse-gas",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/trumps-epa-unlimited-greenhouse-gas.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-09-15T17:43:39+00:00"
+    },
+    {
+      "title": "Tesla Investors Disturbed by Cybercab’s Obvious Lack of Progress",
+      "summary": "The risks are becoming impossible to ignore.",
+      "link": "https://futurism.com/advanced-transport/tesla-investors-disturbed-cybercabs-lack-progress",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/tesla-investors-disturbed-cybercabs-lack-progress.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-09-15T15:20:59+00:00"
+    },
+    {
+      "title": "In a first, cement giant to tap thermal batteries for cleaner heat",
+      "summary": "Making the cement that holds together our buildings and streets is a highly carbon-intensive process — one that involves burning lots of fossil fuels to blast materials with searing heat.",
+      "link": "https://www.canarymedia.com/articles/clean-industry/electrified-thermal-solutions-holcim-first-thermal-batteries",
+      "image_url": "https://img.canarymedia.com/content/uploads/Holcim-Hamburg_GettyImages-2200230868-1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=200d0c3b9587e91234137065bcd64ff1",
+      "source": "Canary Media",
+      "published": "2026-09-15T12:00:00+00:00"
+    },
+    {
+      "title": "What if giving away a day’s revenue was the best day of your year?",
+      "summary": "Twenty-five years on from 9/11, one financial services company has managed to turn tragedy into a day with purpose",
+      "link": "https://www.positive.news/society/what-if-giving-away-a-days-revenue-was-the-best-day-of-your-year/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/Nikki-.png",
+      "source": "Positive News",
+      "published": "2026-09-15T10:18:14+00:00"
+    },
+    {
+      "title": "How Afghan Women Are Rebuilding Reproductive Health Care",
+      "summary": "In Helmand province in southern Afghanistan, Ram Bibi, a 30-year-old mother now pregnant with her sixth child, counts herself as one of the lucky ones.",
+      "link": "https://reasonstobecheerful.world/how-afghan-women-are-rebuilding-reproductive-health-care/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/1000082074.jpg-1-scaled.jpeg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-09-15T08:00:40+00:00"
+    },
+    {
+      "title": "California moves to cut red tape for heat pumps, solar, and more",
+      "summary": "Californians could soon find it easier and cheaper to install rooftop solar, home batteries, and energy-saving heat pumps and heat-pump water heaters.",
+      "link": "https://www.canarymedia.com/articles/heat-pumps/california-to-cut-red-tape-heat-pumps-solar",
+      "image_url": "https://img.canarymedia.com/content/uploads/Solar-installer-on-roof-Corona-California_GettyImages-957099610.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=993372a0d8efafee7b309001d1cb755e",
+      "source": "Canary Media",
+      "published": "2026-09-14T20:00:00+00:00"
+    },
+    {
+      "title": "Gavin Newsom’s complicated legacy on climate and clean energy",
+      "summary": "Gavin Newsom’s eight-year run as California’s Democratic governor — and as self-styled U.S. climate change warrior — comes to an end in January.",
+      "link": "https://www.canarymedia.com/articles/clean-energy/gavin-newsom-complicated-clean-energy-legacy",
+      "image_url": "https://img.canarymedia.com/content/uploads/GettyImages-2285912782.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=cd9a2caf518469159a57327833046e83",
+      "source": "Canary Media",
+      "published": "2026-09-14T16:00:00+00:00"
+    },
+    {
+      "title": "How ‘housing first’ is helping people leave rough sleeping behind",
+      "summary": "A housing model that gives people a permanent home before asking them to tackle their other problems has achieved striking results",
+      "link": "https://www.positive.news/society/how-housing-first-is-helping-people-leave-rough-sleeping-behind/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/insta_photos.jpg",
+      "source": "Positive News",
+      "published": "2026-09-14T11:23:22+00:00"
+    },
+    {
+      "title": "With Adapted Sailing, the Sea Is for Everyone",
+      "summary": "César Maquieira has always loved the sea. Born and raised in the northwest of Spain, much of which is bordered by the Atlantic Ocean, he would for years regularly go fishing and on boat trips, and he dabbled in scuba diving.",
+      "link": "https://reasonstobecheerful.world/adapted-sailing-school/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/Credit-Monte-Real-Club-scaled.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-09-14T08:00:33+00:00"
+    },
+    {
+      "title": "Balcony solar is this year’s clean energy superstar in the US",
+      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Summer is only just coming to a close, but this year’s top clean energy trendsetter is already clear.",
+      "link": "https://www.canarymedia.com/articles/balcony-solar/clean-energy-plug-in-solar-panels",
+      "image_url": "https://img.canarymedia.com/content/uploads/Balcony-solar-in-Bavaria_GettyImages-1243438146.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=b02538eee09d78879ccba7a8d95ca1fc",
+      "source": "Canary Media",
+      "published": "2026-09-11T15:47:00+00:00"
+    },
+    {
+      "title": "‘We Held Each Other Up’",
+      "summary": "This week in our New York City office, we found ourselves talking about what we remembered from 25 years ago: the darkness, the sadness — and the ways people cared for one another.",
+      "link": "https://reasonstobecheerful.world/we-held-each-other-up/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/IMG_2843.jpeg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-09-11T08:00:33+00:00"
+    },
+    {
+      "title": "What went right this week: solutions to save the world, plus more",
+      "summary": "Solutions to save the planet, protecting childhood from algorithms, and the new world map, plus more",
+      "link": "https://www.positive.news/society/good-news-stories-from-week-37-of-2026/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/iStock-1347084357.jpeg",
+      "source": "Positive News",
+      "published": "2026-09-11T05:50:39+00:00"
+    },
+    {
+      "title": "Coal-to-solar project lands a rare clean-energy win in Ohio",
+      "summary": "Clean energy scored a rare win in Ohio last month when state regulators unanimously approved a permit for 149 megawatts of solar and 149 MW of battery storage at the Hamden Energy site in Vinton County, located in the southeast quadrant of the state.",
+      "link": "https://www.canarymedia.com/articles/solar/coal-to-solar-project-win-ohio",
+      "image_url": "https://img.canarymedia.com/content/uploads/Ohio-solar-array-in-East-Cleveland.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=c00fe715a631ad6bfa0e7c12abf0b45d",
+      "source": "Canary Media",
+      "published": "2026-09-10T07:30:00+00:00"
+    },
+    {
+      "title": "Virginia kept its climate law. Dominion sees a loophole.",
+      "summary": "Even as data centers spike energy demand and electricity rates rise, Virginia has stood by its landmark climate targets when other states, from New York to Hawaii , have wavered.",
+      "link": "https://www.canarymedia.com/articles/fossil-fuels/virginia-climate-law-dominion-loophole",
+      "image_url": "https://img.canarymedia.com/content/uploads/AP18199714018124.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5317de40e530c6f2ec19dcaedfc508e0",
+      "source": "Canary Media",
+      "published": "2026-09-09T07:30:00+00:00"
+    },
+    {
+      "title": "Shuttered nuclear plant in Iowa gets $1.9B federal loan to restart",
+      "summary": "A third shuttered U.S. nuclear power plant is set to attempt a comeback with hefty support from the federal government.",
+      "link": "https://www.canarymedia.com/articles/nuclear/shuttered-nuclear-plant-in-iowa-gets-1-9b-federal-loan-to-restart",
+      "image_url": "https://img.canarymedia.com/content/uploads/AP-Duane-Arnold.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7f74c01d1087f016f12340b55543cb9d",
+      "source": "Canary Media",
+      "published": "2026-09-08T19:20:00+00:00"
+    },
+    {
+      "title": "Clean energy super PAC looks to take down a Democratic governor",
+      "summary": "The troubled reelection campaign of Rhode Island Gov. Dan McKee is facing a new obstacle: a super PAC determined to take down foes of clean energy.",
+      "link": "https://www.canarymedia.com/articles/politics/clean-energy-super-pac-looks-to-take-down-a-democratic-governor",
+      "image_url": "https://img.canarymedia.com/content/uploads/Dan-McKee-Rhode-Island-portrait_GettyImages-2272891218.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e9dbf5a5ef71616156bfb9aedfc2dd26",
+      "source": "Canary Media",
+      "published": "2026-09-02T20:02:00+00:00"
+    },
+    {
+      "title": "Fervo and Google sign world’s largest deal for next-gen geothermal power",
+      "summary": "Fervo Energy inked a landmark deal to supply Google with nearly 400 megawatts of clean electricity from the startup’s geothermal project in southwest Utah.",
+      "link": "https://www.canarymedia.com/articles/geothermal/fervo-google-deal-next-gen-geothermal",
+      "image_url": "https://img.canarymedia.com/content/uploads/Phase-Two-Power-Plant-and-Drilling-Rigs-2_8.10.26.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=738457ab7cf309e62c3ab2e46a476b06",
+      "source": "Canary Media",
+      "published": "2026-09-01T19:00:00+00:00"
+    },
+    {
+      "title": "California declines to fund its biggest virtual power plant",
+      "summary": "California Gov. Gavin Newsom’s administration has blocked an effort to keep the state’s most successful virtual power plant program funded through next year.",
+      "link": "https://www.canarymedia.com/articles/virtual-power-plants/california-guts-biggest-virtual-power-plant",
+      "image_url": "https://img.canarymedia.com/content/uploads/GettyImages-2218482421.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=167cf91393c113f9765e36f844f6cf08",
+      "source": "Canary Media",
+      "published": "2026-09-01T14:04:00+00:00"
+    },
+    {
+      "title": "Meet the super PAC working to crush clean energy's political foes",
+      "summary": "Last summer, when the Republican-controlled Congress took a wrecking ball to the Inflation Reduction Act, Tom Matzzie was pissed.",
+      "link": "https://www.canarymedia.com/articles/politics/super-pac-crushing-clean-energy-foes",
+      "image_url": "https://img.canarymedia.com/content/uploads/Dont-Mess-With-Solar-billboard-truck-DCGettyImages-2280948571.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5b28c7d2c258e3955157c47f9827198b",
+      "source": "Canary Media",
+      "published": "2026-09-01T07:30:00+00:00"
+    },
+    {
+      "title": "As Ohio grapples with fake comments on clean energy, some want crackdown",
+      "summary": "A troubling trend has shown up in some communities around the U.S.: Public officials are being inundated with seemingly fake public feedback that aims to block renewable energy and promote fossil fuels.",
+      "link": "https://www.canarymedia.com/articles/clean-energy/ohio-fake-comments-clean-energy",
+      "image_url": "https://img.canarymedia.com/content/uploads/Kentucky-agrivoltaics_GettyImages-2285914518.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=c789f0dc1d98b2f2246f557b8c0fb4a7",
+      "source": "Canary Media",
+      "published": "2026-08-25T07:30:00+00:00"
+    },
+    {
+      "title": "Solar delivers as Europe’s power plants struggle amid heat and drought",
+      "summary": "This story was originally published by Grist . Sign up for Grist’s newsletter. Repeated record-breaking heat waves cooked the European continent this summer, delivering the region’s hottest June on record.",
+      "link": "https://www.canarymedia.com/articles/solar/solar-delivers-europe-heat-drought",
+      "image_url": null,
+      "source": "Canary Media",
+      "published": "2026-08-25T07:30:00+00:00"
+    },
+    {
+      "title": "US apartment buildings have tipped toward heat pumps",
+      "summary": "Heat pumps are a key way to get fossil fuels out of buildings — and the tech recently notched a win in the U.S. housing market.",
+      "link": "https://www.canarymedia.com/articles/heat-pumps/most-new-apartment-buildings-have-heat-pumps",
+      "image_url": null,
+      "source": "Canary Media",
+      "published": "2026-08-20T07:30:00+00:00"
+    },
+    {
+      "title": "In Michigan, LG opens one of America’s biggest battery cell factories",
+      "summary": "LANSING, Mich. — The Trump administration has made clear its disdain for electric vehicles and clean energy. Yet at the grand opening of South Korea–based LG Energy Solution’s latest battery manufacturing facility, Interior Secretary Doug Burgum cheered the factory as a fulfillment of the…",
+      "link": "https://www.canarymedia.com/articles/batteries/michigan-lg-biggest-battery-cell-factory",
+      "image_url": null,
+      "source": "Canary Media",
+      "published": "2026-08-19T21:00:00+00:00"
+    },
+    {
+      "title": "Sage Geosystems brings its first next-gen geothermal plant online",
+      "summary": "Sage Geosystems has hit a big milestone out on a rugged tract near San Antonio: The startup is producing power from its first next-generation geothermal plant.",
+      "link": "https://www.canarymedia.com/articles/geothermal/sage-geosystems-next-gen-geothermal-online",
+      "image_url": null,
+      "source": "Canary Media",
+      "published": "2026-08-19T11:00:00+00:00"
+    },
+    {
+      "title": "Geothermal has big potential. Here’s how states can help realize it.",
+      "summary": "Next-generation geothermal energy has massive potential in the western United States, but it won’t be realized unless developers can overcome the big economic barriers these novel systems face.",
+      "link": "https://www.canarymedia.com/articles/geothermal/geothermal-big-potential-states",
+      "image_url": null,
+      "source": "Canary Media",
+      "published": "2026-08-18T09:00:00+00:00"
+    },
+    {
+      "title": "US aluminum is poised for a comeback — if it overcomes these hurdles",
+      "summary": "America’s aluminum sector is growing again after years of decline, spurred by tariffs and a push to revive domestic manufacturing.",
+      "link": "https://www.canarymedia.com/articles/clean-aluminum/us-aluminum-comeback-barriers",
+      "image_url": null,
+      "source": "Canary Media",
+      "published": "2026-08-13T07:30:00+00:00"
+    },
+    {
+      "title": "Federal ruling hands virtual power plants a win in PJM",
+      "summary": "A recent ruling from federal regulators will let virtual power plants help meet surging energy demand in the county’s biggest energy market.",
+      "link": "https://www.canarymedia.com/articles/virtual-power-plants/federal-ruling-virtual-power-plants-pjm",
+      "image_url": null,
+      "source": "Canary Media",
+      "published": "2026-08-13T07:30:00+00:00"
+    },
+    {
+      "title": "In Puerto Rico, Trump admin backs big battery project but snubs solar",
+      "summary": "The Department of Energy is backing a major battery project to bolster Puerto Rico’s fragile electric grid — even as the Trump administration axes funding for key clean energy initiatives across the U.S. territory.",
+      "link": "https://www.canarymedia.com/articles/batteries/puerto-rico-trump-admin-battery-project",
+      "image_url": null,
+      "source": "Canary Media",
+      "published": "2026-08-12T07:30:00+00:00"
+    }
+  ]
 }
