@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T13:39:15.918418+00:00",
+  "lastUpdated": "2026-09-26T03:34:18.001152+00:00",
   "sources": [
     {
       "name": "Good News Network",
@@ -23,7 +23,7 @@
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 10
+      "count": 11
     },
     {
       "name": "Grist",
@@ -35,7 +35,7 @@
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 27
+      "count": 28
     },
     {
       "name": "Futurism",
@@ -45,6 +45,22 @@
     }
   ],
   "articles": [
+    {
+      "title": "The challenges and opportunities of clean energy in rural America",
+      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. The U.S. energy transition runs through rural America: As of last year, 87% of U.S. clean energy generation happened in areas far outside the country’s urban centers, per a Rural Climate…",
+      "link": "https://www.canarymedia.com/articles/land-use/challenges-opportunities-clean-energy-rural-america",
+      "image_url": "https://img.canarymedia.com/content/uploads/Idaho-farm-for-Weekly_260702r2-8536.webp?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=4f8c1e4ecdc3e2b466bb8a621fb1be66",
+      "source": "Canary Media",
+      "published": "2026-09-25T20:00:00+00:00"
+    },
+    {
+      "title": "Podcast Transcript September 25th, 2026— The tilcayo, cancer-sniffing dogs, and 8 more things going right",
+      "summary": "Episode Description: There’s a startup training dogs to detect cancer across seven types… and there’s over 90 percent accuracy across six hospitals.",
+      "link": "https://www.optimistdaily.com/2026/09/podcast-transcript-september-25th-2026-the-tilcayo-cancer-sniffing-dogs-and-8-more-things-going-right/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Podcast-Logo-3000-×-3000-px-2-13-1024x1024.png",
+      "source": "The Optimist Daily",
+      "published": "2026-09-25T16:30:20+00:00"
+    },
     {
       "title": "Whether it’s ‘super’ or ‘Godzilla,’ El Niño is already breaking records",
       "summary": "By now, you’ve seen the headlines, and there’s more of them every day: It’s “ jaw-dropping . It’s poised to make global warming worse .",
@@ -569,7 +585,7 @@
       "title": "Solar delivers as Europe’s power plants struggle amid heat and drought",
       "summary": "This story was originally published by Grist . Sign up for Grist’s newsletter. Repeated record-breaking heat waves cooked the European continent this summer, delivering the region’s hottest June on record.",
       "link": "https://www.canarymedia.com/articles/solar/solar-delivers-europe-heat-drought",
-      "image_url": null,
+      "image_url": "https://img.canarymedia.com/content/uploads/Grist_Solar-europe-e1787100037991.webp?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=10c3aff51d8d03010a7a1a46bbcc969c",
       "source": "Canary Media",
       "published": "2026-08-25T07:30:00+00:00"
     },
@@ -577,7 +593,7 @@
       "title": "US apartment buildings have tipped toward heat pumps",
       "summary": "Heat pumps are a key way to get fossil fuels out of buildings — and the tech recently notched a win in the U.S. housing market.",
       "link": "https://www.canarymedia.com/articles/heat-pumps/most-new-apartment-buildings-have-heat-pumps",
-      "image_url": null,
+      "image_url": "https://img.canarymedia.com/content/uploads/GettyImages-2288280119_2026-08-19-220703_vmgn.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=dcd8e272f09f933b0ef4fbc1fcdac401",
       "source": "Canary Media",
       "published": "2026-08-20T07:30:00+00:00"
     },
@@ -585,7 +601,7 @@
       "title": "In Michigan, LG opens one of America’s biggest battery cell factories",
       "summary": "LANSING, Mich. — The Trump administration has made clear its disdain for electric vehicles and clean energy. Yet at the grand opening of South Korea–based LG Energy Solution’s latest battery manufacturing facility, Interior Secretary Doug Burgum cheered the factory as a fulfillment of the…",
       "link": "https://www.canarymedia.com/articles/batteries/michigan-lg-biggest-battery-cell-factory",
-      "image_url": null,
+      "image_url": "https://img.canarymedia.com/content/uploads/LG-Energy-Solution_ESMI-LansingProductionLine-0181.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5bfbeaad137254f68d8bf62ba38cdea0",
       "source": "Canary Media",
       "published": "2026-08-19T21:00:00+00:00"
     },
@@ -593,7 +609,7 @@
       "title": "Sage Geosystems brings its first next-gen geothermal plant online",
       "summary": "Sage Geosystems has hit a big milestone out on a rugged tract near San Antonio: The startup is producing power from its first next-generation geothermal plant.",
       "link": "https://www.canarymedia.com/articles/geothermal/sage-geosystems-next-gen-geothermal-online",
-      "image_url": null,
+      "image_url": "https://img.canarymedia.com/content/uploads/Sage-SMECI-FacilityPhoto.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=06cddd72e9520feb946961472d688825",
       "source": "Canary Media",
       "published": "2026-08-19T11:00:00+00:00"
     },
@@ -601,7 +617,7 @@
       "title": "Geothermal has big potential. Here’s how states can help realize it.",
       "summary": "Next-generation geothermal energy has massive potential in the western United States, but it won’t be realized unless developers can overcome the big economic barriers these novel systems face.",
       "link": "https://www.canarymedia.com/articles/geothermal/geothermal-big-potential-states",
-      "image_url": null,
+      "image_url": "https://img.canarymedia.com/content/uploads/Fervo-Blog-Landing-Page.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=bb4f4a0f627406d56ebb248e74897a89",
       "source": "Canary Media",
       "published": "2026-08-18T09:00:00+00:00"
     },
@@ -609,7 +625,7 @@
       "title": "US aluminum is poised for a comeback — if it overcomes these hurdles",
       "summary": "America’s aluminum sector is growing again after years of decline, spurred by tariffs and a push to revive domestic manufacturing.",
       "link": "https://www.canarymedia.com/articles/clean-aluminum/us-aluminum-comeback-barriers",
-      "image_url": null,
+      "image_url": "https://img.canarymedia.com/content/uploads/Century-MtHolly_021926_JA_132-1620x1080-36ddb4d.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=4f629918beeda7ff3ddda08efbb14075",
       "source": "Canary Media",
       "published": "2026-08-13T07:30:00+00:00"
     },
@@ -617,7 +633,7 @@
       "title": "Federal ruling hands virtual power plants a win in PJM",
       "summary": "A recent ruling from federal regulators will let virtual power plants help meet surging energy demand in the county’s biggest energy market.",
       "link": "https://www.canarymedia.com/articles/virtual-power-plants/federal-ruling-virtual-power-plants-pjm",
-      "image_url": null,
+      "image_url": "https://img.canarymedia.com/content/uploads/Wires-in-front-of-a-home-in-DC_GettyImages-2169894098.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=9c277e7c07883100e0ec5f8306591386",
       "source": "Canary Media",
       "published": "2026-08-13T07:30:00+00:00"
     },
@@ -625,7 +641,7 @@
       "title": "In Puerto Rico, Trump admin backs big battery project but snubs solar",
       "summary": "The Department of Energy is backing a major battery project to bolster Puerto Rico’s fragile electric grid — even as the Trump administration axes funding for key clean energy initiatives across the U.S. territory.",
       "link": "https://www.canarymedia.com/articles/batteries/puerto-rico-trump-admin-battery-project",
-      "image_url": null,
+      "image_url": "https://img.canarymedia.com/content/uploads/Puerto-Rico-microgrid-in-Adjuntas_GettyImages-2226126823.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=6d96449a65d6c202fb899a83aa7cd467",
       "source": "Canary Media",
       "published": "2026-08-12T07:30:00+00:00"
     }
