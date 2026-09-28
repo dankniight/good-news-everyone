@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-27T03:42:58.222562+00:00",
+  "lastUpdated": "2026-09-28T03:42:04.081374+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 50
+      "count": 54
     },
     {
       "name": "Positive News",
@@ -35,7 +35,7 @@
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 27
+      "count": 25
     },
     {
       "name": "Futurism",
@@ -45,6 +45,38 @@
     }
   ],
   "articles": [
+    {
+      "title": "CA Researchers Identify Odors That Repel Honeybees From Pesticides",
+      "summary": "In a win for pollinator conservation, researchers at the University of California, Riverside, have identified chemical compounds that can safely repel honey bees from pesticide-treated crops.",
+      "link": "https://www.goodnewsnetwork.org/ca-researchers-identify-odors-that-repel-honeybees-from-pesticides/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Honeybee-by-Yu-Fang-University-of-California-Riverside-released.jpg",
+      "source": "Good News Network",
+      "published": "2026-09-27T22:50:42+00:00"
+    },
+    {
+      "title": "Archaeologists Risked Their Lives to Save 30,000 Treasures from ISIS Terrorists—New Study Shows How",
+      "summary": "A new study reveals how archaeologists risked their lives to save thousands of historic treasures from imminent destruction by Islamic State terrorists.",
+      "link": "https://www.goodnewsnetwork.org/archaeologists-risked-their-lives-to-save-thousands-of-treasures-from-isis-terrorists/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Evacuation-of-art-crates-from-Deir-ez-Zor-Museum-during-Syria-war-SWNS-cropped.jpeg",
+      "source": "Good News Network",
+      "published": "2026-09-27T19:58:18+00:00"
+    },
+    {
+      "title": "New York City Collects $131 Million From DoorDash for Delivery Workers Unfairly Paid After $13 Billion Profit",
+      "summary": "The New York City Department of Consumer and Worker Protection (DCWP) announced a historic $131.5 million enforcement action against DoorDash for systematic violations of the local Delivery Worker Laws.",
+      "link": "https://www.goodnewsnetwork.org/nyc-collects-131-million-from-doordash-for-delivery-workers-unfairly-paid/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/DoorDash-workers-reimbursed-New-York-City-Mayors-office-released-.jpg",
+      "source": "Good News Network",
+      "published": "2026-09-27T11:00:38+00:00"
+    },
+    {
+      "title": "Good News in History September 27",
+      "summary": "Happy 50th Birthday to Il Capitano—Francesco Totti. The most iconic Italian football forward of the 21st century, Totti spent a 25-year professional career in the red and orange on the AS Roma team—and is remembered as one of the greatest players of his generation.",
+      "link": "https://www.goodnewsnetwork.org/events060927/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/09/Mural-graffiti-dedicated-to-Francesco-Totti-in-the-Rome-district-Monti-celebrating-the-victory-of-AS-Roma.jpg",
+      "source": "Good News Network",
+      "published": "2026-09-27T07:00:00+00:00"
+    },
     {
       "title": "Nike Founder Phil Knight Gives Away a Billion Dollars – the Largest Single Donation to a Public University",
       "summary": "Phil Knight, who co-founded Nike alongside his former track coach at the University of Oregon (Bill Bowerman), has sprinted back to his alma mater with a huge philanthropic gift.",
@@ -585,7 +617,7 @@
       "title": "Chesapeake Bay Blue Crab Numbers See Encouraging Bounceback in New Survey",
       "summary": "Conservationists working to turn the tide on declining numbers of blue crabs in the Chesapeake Bay, found some good news in their latest field surveys.",
       "link": "https://www.goodnewsnetwork.org/chesapeake-bay-blue-crab-numbers-see-encouraging-bounceback-in-new-survey/",
-      "image_url": null,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Blue-crabs-by-J-Thomas-vM1Lz1ftMU8-unsplash.jpg",
       "source": "Good News Network",
       "published": "2026-09-19T18:55:20+00:00"
     },
@@ -593,7 +625,7 @@
       "title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
       "summary": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
       "link": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-9-19-2026/",
-      "image_url": null,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
       "source": "Good News Network",
       "published": "2026-09-19T10:00:32+00:00"
     },
@@ -601,7 +633,7 @@
       "title": "Good News in History September 19",
       "summary": "51 years ago today, Fawlty Towers premiered on the BBC. John Cleese boldly stepped out into the situational comedy scene without the support of his legendary troupe, Monty Python, and created what the BBC considers “the British sitcom by which all other British sitcoms must be judged.",
       "link": "https://www.goodnewsnetwork.org/events060919/",
-      "image_url": null,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/09/Fawlty_Towers_title_card-Copy.jpg",
       "source": "Good News Network",
       "published": "2026-09-19T07:00:00+00:00"
     },
@@ -617,7 +649,7 @@
       "title": "Company’s Textile Dyes Work Through Magnetism, Cutting Fashion’s Water-Use, Energy, and Pollution",
       "summary": "Hoping to tackle the 50% of textile emissions associated with the dyeing process, a vaunted French startup has created non-toxic dyes that require substantially less water to activate and last just as long.",
       "link": "https://www.goodnewsnetwork.org/companys-textile-dyes-work-through-magnetism-cutting-fashions-water-use-energy-and-pollution/",
-      "image_url": null,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/credit-EverDye-e1789761780757.jpg",
       "source": "Good News Network",
       "published": "2026-09-18T18:30:36+00:00"
     },
@@ -625,7 +657,7 @@
       "title": "Unsealed for the First Time, This 600-yo Tomb in Peru Was Just Declared the ‘Discovery of the Decade’",
       "summary": "An unspoiled, undiscovered tomb containing the remains of an elite society belong to a major Andean civilization has been uncovered in Peru.",
       "link": "https://www.goodnewsnetwork.org/unsealed-for-the-first-time-this-600-yo-tomb-in-peru-was-just-declared-the-discovery-of-the-decade/",
-      "image_url": null,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/The-newly-discovered-tomb-seen-in-the-center-©-ANDINA-Editora-Peru.jpg",
       "source": "Good News Network",
       "published": "2026-09-18T15:30:26+00:00"
     },
@@ -633,7 +665,7 @@
       "title": "Cataract Surgery Restores Sight for 54-Year-Old Chimpanzee–the First Such Procedure at Chimp Haven",
       "summary": "After becoming completely blind from cataracts, a 54-year-old chimpanzee named Pierre is seeing again following a successful surgery at Chimp Haven, the world’s largest chimpanzee sanctuary.",
       "link": "https://www.goodnewsnetwork.org/cataract-surgery-restores-sight-for-54-year-old-chimpanzee-the-first-such-procedure-at-chimp-haven/",
-      "image_url": null,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Pierre-the-Chimp-recovering-from-cataract-surgery-credit-Chimp-Haven-supplied.jpg",
       "source": "Good News Network",
       "published": "2026-09-18T12:30:44+00:00"
     },
@@ -641,7 +673,7 @@
       "title": "New Cat Species Identified for the First Time in Over 100 Years–Meet the Tilcayo",
       "summary": "In a story that proves ‘explorer’ is still a good answer to the question “what do you want to be when you grow up?” a whole new cat species has been identified for the first time in over 100 years.",
       "link": "https://www.goodnewsnetwork.org/new-cat-species-identified-for-the-first-time-in-over-100-years-meet-the-tilcayo/",
-      "image_url": null,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/imrs-e1789720878162.jpg",
       "source": "Good News Network",
       "published": "2026-09-18T08:45:29+00:00"
     },
@@ -665,7 +697,7 @@
       "title": "Good News in History, September 18",
       "summary": "188 years ago today, the Anti-Corn Law League was established in England by the economics-savvy liberals who understood that protectionism is immoral and useless in benefiting the economy.",
       "link": "https://www.goodnewsnetwork.org/events060918/",
-      "image_url": null,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/09/A-meeting-of-the-Anti-Corn-Law-League.jpg",
       "source": "Good News Network",
       "published": "2026-09-18T07:00:00+00:00"
     },
@@ -681,7 +713,7 @@
       "title": "Team Sequesters Plastic and Makes New Products Before it Breaks Down in Environment",
       "summary": "In central California’s city of San Carlos, recycling plastics is a family affair. Nick Schick and his parents, David and Andrea, work exclusively with products made from hard-to-recycle plastic polymers called thermoplastics.",
       "link": "https://www.goodnewsnetwork.org/team-sequesters-plastic-and-makes-new-products-before-it-breaks-down-in-environment/",
-      "image_url": null,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Young-Nick-Schick-takes-a-large-plastic-sheet-off-a-mold-credit-family-photo-submitted-to-CBS.jpg",
       "source": "Good News Network",
       "published": "2026-09-17T18:30:31+00:00"
     },
@@ -689,7 +721,7 @@
       "title": "Scientists Solve Mystery Behind Snowfall That Dropped 695 Billion Tons of Ice on Antarctica",
       "summary": "A warming pool of tropical ocean water has been shown to be the cause of immense snowstorms over East Antarctica which contributed to a net gain of 695 billion tons of ice between 2021 and 2023.",
       "link": "https://www.goodnewsnetwork.org/scientists-solve-mystery-behind-snowfall-that-dropped-695-billion-tons-of-ice-on-antarctica/",
-      "image_url": null,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Matt-Palmer-via-Unsplash.jpg",
       "source": "Good News Network",
       "published": "2026-09-17T15:30:25+00:00"
     },
@@ -705,7 +737,7 @@
       "title": "Chinese Scientists Develop New Oil Refining Method That Cuts Energy Use by 90%",
       "summary": "Rather than bringing crude oil to boiling point over and over again as is done in traditional distillation refining, Chinese scientists have found a way to separate the mixture molecule by molecule at room temperature, cutting energy use by 90%.",
       "link": "https://www.goodnewsnetwork.org/chinese-scientists-develop-new-oil-refining-method-that-cuts-energy-use-by-90/",
-      "image_url": null,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/oil-refinery-refining-petroleum-petro-chemical-plant-credit-Getty-Images-for-Unsplash-.jpg",
       "source": "Good News Network",
       "published": "2026-09-17T13:00:22+00:00"
     },
@@ -713,7 +745,7 @@
       "title": "Students Win James Dyson Award for Device That Screens Students for Concussions in Just 60 Seconds",
       "summary": "A trio of students at Harvard University have invented a low-cost, eye-tracking headset designed to help schools quickly screen child athletes for possible concussions.",
       "link": "https://www.goodnewsnetwork.org/students-win-james-dyson-award-for-device-that-screens-students-for-concussions-in-just-60-seconds/",
-      "image_url": null,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Radhika-Saran-Cleo-Pontone-and-Sophia-DeVito-inventors-of-Rumble-Rims-credit-James-Dyson-Award-released-to-the-media.jpg",
       "source": "Good News Network",
       "published": "2026-09-17T11:01:50+00:00"
     },
@@ -721,7 +753,7 @@
       "title": "Good News in History September 17",
       "summary": "Happy 41st birthday to The Great 8, Alexander Ovechkin. Playing left wing for the Washington Capitals since 2004, he is quite simply among the greatest goal scorers in the history of ice hockey.",
       "link": "https://www.goodnewsnetwork.org/events060917/",
-      "image_url": null,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/09/Alexander-Ovechkin-in-2018-Copy.jpg",
       "source": "Good News Network",
       "published": "2026-09-17T07:00:00+00:00"
     },
@@ -737,7 +769,7 @@
       "title": "Nashville Singer Becomes Local Celebrity Rescuing Foxes and Saving Them from Mange",
       "summary": "A Nashville singer-songwriter has become a star—but not because of his guitar playing. Jerry Vandiver, whose songs have been recorded by country stars like Tim McGraw, moonlights as a volunteer hero to the local red fox population.",
       "link": "https://www.goodnewsnetwork.org/nashville-singer-songwriter-becomes-local-celebrity-rescuing-foxes-and-saving-them-from-mange/",
-      "image_url": null,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/credit-Jerry-Vandiver-retrieved-from-Facebook.jpg",
       "source": "Good News Network",
       "published": "2026-09-16T18:30:06+00:00"
     },
@@ -761,7 +793,7 @@
       "title": "Scientists Determine Australia’s Vast Red Deserts Could Fuel a Hydrogen-Powered Energy Revolution",
       "summary": "Scientists have revealed that Australia may hold the key to generating ample green energy while creating a major export industry, and that it’s buried underneath their feet.",
       "link": "https://www.goodnewsnetwork.org/scientists-determine-australias-vast-red-deserts-could-fuel-a-hydrogen-powered-energy-revolution/",
-      "image_url": null,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Classic-Australian-Pilbara-region-banded-iron-formations-credit-Edith-Cowan-University-released.jpg",
       "source": "Good News Network",
       "published": "2026-09-16T15:35:16+00:00"
     },
@@ -777,7 +809,7 @@
       "title": "Mexico Reintroduced Bison into Precious Desert Ecosystem After Century-Long Absence",
       "summary": "A series of reintroductions have seen the bison return to a landscape in Mexico’s Chihuahua Desert after a 200 year absence.",
       "link": "https://www.goodnewsnetwork.org/mexico-reintroduced-bison-into-precious-desert-ecosystem-after-century-long-absence/",
-      "image_url": null,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/01/credit-Jordan-Crawford-via-Unsplash.jpg",
       "source": "Good News Network",
       "published": "2026-09-16T13:00:13+00:00"
     },
@@ -785,7 +817,7 @@
       "title": "10 Pounds of Viking Silver Found in Finland Extend Incredible Year for Scandinavian Treasure Hunts",
       "summary": "Metal detectors have had a banner year in Scandinavia, where records for the largest recovered Viking silver hoards have been made in Norway, Denmark, and now Finland.",
       "link": "https://www.goodnewsnetwork.org/10-pounds-of-viking-silver-found-in-finland-extend-incredible-year-for-scandinavian-treasure-hunts/",
-      "image_url": null,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/The-two-hoards-credit-Lahti-City-Museums.jpg",
       "source": "Good News Network",
       "published": "2026-09-16T11:00:03+00:00"
     },
@@ -817,7 +849,7 @@
       "title": "Good News in History September 16",
       "summary": "60 years ago today, the Metropolitan Opera House opened at the Lincoln Center on Broadway and Lincoln Square on the Upper West Side of Manhattan, New York City.",
       "link": "https://www.goodnewsnetwork.org/events060916/",
-      "image_url": null,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/09/the-met-opera-house-cc-2.0.-Copy.jpg",
       "source": "Good News Network",
       "published": "2026-09-16T07:00:00+00:00"
     },
@@ -825,7 +857,7 @@
       "title": "Christian Bale Opens Long-Dreamed of Foster Care Village Aimed at Keeping Siblings Together",
       "summary": "The personal passion project of Hollywood A-lister Christian Bale has finally come to fruition, as the Welsh actor cut the ribbon on a children’s foster care village in Palmdale, California.",
       "link": "https://www.goodnewsnetwork.org/christian-bale-opens-long-dreamed-of-foster-care-village-aimed-at-keeping-siblings-together/",
-      "image_url": null,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/credit-Together-California-.jpg",
       "source": "Good News Network",
       "published": "2026-09-15T18:30:28+00:00"
     },
@@ -841,7 +873,7 @@
       "title": "$1,000 Bonus for Every Year of Work: Casino Employees Shocked at Company’s 50th Anniversary",
       "summary": "When thousands of employees at Station Casinos arrived at one of the company’s resorts to celebrate its 50th anniversary, they hadn’t a clue what was about to happen.",
       "link": "https://www.goodnewsnetwork.org/1000-bonus-for-every-year-at-the-company-casino-employees-shocked-at-companys-50th-anniversary/",
-      "image_url": null,
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/credit-Station-Casinos-released-to-the-press.jpg",
       "source": "Good News Network",
       "published": "2026-09-15T15:30:43+00:00"
     },
@@ -1036,22 +1068,6 @@
       "image_url": "https://img.canarymedia.com/content/uploads/Fervo-Blog-Landing-Page.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=bb4f4a0f627406d56ebb248e74897a89",
       "source": "Canary Media",
       "published": "2026-08-18T09:00:00+00:00"
-    },
-    {
-      "title": "US aluminum is poised for a comeback — if it overcomes these hurdles",
-      "summary": "America’s aluminum sector is growing again after years of decline, spurred by tariffs and a push to revive domestic manufacturing.",
-      "link": "https://www.canarymedia.com/articles/clean-aluminum/us-aluminum-comeback-barriers",
-      "image_url": "https://img.canarymedia.com/content/uploads/Century-MtHolly_021926_JA_132-1620x1080-36ddb4d.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=4f629918beeda7ff3ddda08efbb14075",
-      "source": "Canary Media",
-      "published": "2026-08-13T07:30:00+00:00"
-    },
-    {
-      "title": "Federal ruling hands virtual power plants a win in PJM",
-      "summary": "A recent ruling from federal regulators will let virtual power plants help meet surging energy demand in the county’s biggest energy market.",
-      "link": "https://www.canarymedia.com/articles/virtual-power-plants/federal-ruling-virtual-power-plants-pjm",
-      "image_url": "https://img.canarymedia.com/content/uploads/Wires-in-front-of-a-home-in-DC_GettyImages-2169894098.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=9c277e7c07883100e0ec5f8306591386",
-      "source": "Canary Media",
-      "published": "2026-08-13T07:30:00+00:00"
     }
   ]
 }
