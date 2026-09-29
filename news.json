@@ -1,35 +1,35 @@
 {
-  "lastUpdated": "2026-09-28T03:42:04.081374+00:00",
+  "lastUpdated": "2026-09-29T04:17:08.816056+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 54
+      "count": 60
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 10
+      "count": 11
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 10
+      "count": 11
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 11
+      "count": 13
     },
     {
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 8
+      "count": 10
     },
     {
       "name": "Canary Media",
@@ -45,6 +45,102 @@
     }
   ],
   "articles": [
+    {
+      "title": "Resilient French Farmers Use Warming Climate to Grow the Country’s Own Tropical Fruit",
+      "summary": "This is a typical image of the south of France; now the home to an assortment very a-typical European fruit: the banana, the papaya, and the mango.",
+      "link": "https://www.goodnewsnetwork.org/resilient-french-farmers-use-warming-climate-to-grow-the-countrys-own-tropical-fruit/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/maxresdefault-2.jpg",
+      "source": "Good News Network",
+      "published": "2026-09-28T18:30:42+00:00"
+    },
+    {
+      "title": "Vietnam Swiftly Protects Forests Containing the Last of the World’s Most-Endangered Monkey",
+      "summary": "Some of the best forest and mountain scenery Vietnam has to offer will now include a special conservation reserve to protect one of the world’s most-endangered primates.",
+      "link": "https://www.goodnewsnetwork.org/vietnam-swiftly-protects-forests-containing-the-last-of-the-worlds-most-endangered-monkey/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Delacours_langur_Trachypithecus_delacouri_Van_Long_2.jpg",
+      "source": "Good News Network",
+      "published": "2026-09-28T15:30:22+00:00"
+    },
+    {
+      "title": "Brightline shows people want more trains. But who will pay for them?",
+      "summary": "The first thing Brightline wants you to know about its bankruptcy is that the trains will keep running. “BUSINESS AS USUAL,” read a message the company sent to customers after filing for Chapter 11 bankruptcy protection.",
+      "link": "https://grist.org/solutions/brightline-shows-people-want-more-trains-but-who-will-pay-for-them/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/07/California-high-speed-rail-private-funding-bullet-train.jpeg",
+      "source": "Grist",
+      "published": "2026-09-28T15:20:00+00:00"
+    },
+    {
+      "title": "Researchers Unearth a Clay Tablet Inscribed With the World’s Oldest Peace Treaty",
+      "summary": "Look, the order fixed for eternity which the Sun God and the God of the Tempest have created for the country of Egypt and the country of Hatti, (that is) peace and fraternity without leaving place among them to any enmity.",
+      "link": "https://www.goodnewsnetwork.org/researchers-unearth-a-clay-tablet-inscribed-with-the-worlds-oldest-peace-treaty/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Turkiyes-ministry-of-culture-and-tourism.jpg",
+      "source": "Good News Network",
+      "published": "2026-09-28T13:00:54+00:00"
+    },
+    {
+      "title": "18 Year-Old from the Bronx Starts Nonprofit to Sponsor School Children in Ghana",
+      "summary": "High school seniors have a lot on their plate as it is between planning for prom, studying for exams, and applying to universities.",
+      "link": "https://www.goodnewsnetwork.org/18-year-old-from-the-bronx-starts-nonprofit-to-sponsor-school-children-in-ghana/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Max-Owobu-pictured-at-center-in-white-smiles-for-the-camera-surrounded-by-children-from-Calvary-Methodist-Elementary-School-credit-supplied-to-GNN.jpg",
+      "source": "Good News Network",
+      "published": "2026-09-28T11:00:52+00:00"
+    },
+    {
+      "title": "The ethical fashion brand championing change across the industry",
+      "summary": "With a focus on living wages, better fabrics and sustainability, one clothing brand is pushing to transform the fashion industry",
+      "link": "https://www.positive.news/economics/the-ethical-fashion-brand-championing-change-across-the-industry/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/deborahxyesfriends-2.jpg",
+      "source": "Positive News",
+      "published": "2026-09-28T09:05:56+00:00"
+    },
+    {
+      "title": "After Trump opened Bears Ears land to business, prospectors swooped in",
+      "summary": "It didn’t take long for prospectors to stake their claims on land in southeast Utah that was previously protected in Bears Ears National Monument.",
+      "link": "https://grist.org/politics/trump-bears-ears-mining-claims-prospectors-utah/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/08/bob-marshall-wilderness.jpg",
+      "source": "Grist",
+      "published": "2026-09-28T08:15:00+00:00"
+    },
+    {
+      "title": "Forget Recycling. What If We Could Compost or Reuse Everything?",
+      "summary": "Nora Griefahn’s office showcases her work better than words: The interior walls at the C2C LAB on a busy street in Berlin, Germany, are alive with lush, air-purifying plants; lamp shades have been grown from mycelium; in the kitchen, visitors can choose between tea cultivated via regenerative…",
+      "link": "https://reasonstobecheerful.world/forget-recycling-what-if-we-could-compost-or-reuse-everything/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/33515_3-scaled.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-09-28T08:00:46+00:00"
+    },
+    {
+      "title": "Good News in History September 28",
+      "summary": "39 years ago today, Star Trek: The Next Generation debuted on syndicated TV. Spanning 178 episodes over seven seasons, it starred English actor Patrick Stewart as Captain Jean-Luc Picard of the Starship Enterprise.",
+      "link": "https://www.goodnewsnetwork.org/events060928/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/09/Star-Trek.jpg",
+      "source": "Good News Network",
+      "published": "2026-09-28T07:00:00+00:00"
+    },
+    {
+      "title": "Newly Identified Frog-like Creature Named by Student Scientists After Their Moms",
+      "summary": "A newly identified frog-like creature that lived before the dinosaurs has been named by the student scientists who discovered it—and they named it after their moms.",
+      "link": "https://www.goodnewsnetwork.org/newly-identified-frog-like-creature-named-by-student-scientists-after-their-moms/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Allison-Sefcovic-and-Payton-Kohlberg-hold-epoxy-sculptures-of-new-species-Jeanerpeton-mazonensis-Credit-Chicago-Field-Museum.jpg",
+      "source": "Good News Network",
+      "published": "2026-09-28T03:00:01+00:00"
+    },
+    {
+      "title": "Soft productivity is the smarter way to work, and here’s how to start",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM There’s a kind of workday most of us know too well. You’re logged on early, you barely step away for lunch, and by 6 pm you’re not entirely sure what you have to show for it.",
+      "link": "https://www.optimistdaily.com/2026/09/soft-productivity-is-the-smarter-way-to-work-and-heres-how-to-start/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_610026084_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-09-28T00:00:59+00:00"
+    },
+    {
+      "title": "Athens’ former airport is becoming Europe’s largest coastal urban park",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Two million square meters of former airport land in the southern suburbs of Athens are being converted into The Ellinikon Park.",
+      "link": "https://www.optimistdaily.com/2026/09/athens-former-airport-is-becoming-europes-largest-coastal-urban-park/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Coastal-Front_1-1024x756.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-09-28T00:00:17+00:00"
+    },
     {
       "title": "CA Researchers Identify Odors That Repel Honeybees From Pesticides",
       "summary": "In a win for pollinator conservation, researchers at the University of California, Riverside, have identified chemical compounds that can safely repel honey bees from pesticide-treated crops.",
@@ -62,7 +158,7 @@
       "published": "2026-09-27T19:58:18+00:00"
     },
     {
-      "title": "New York City Collects $131 Million From DoorDash for Delivery Workers Unfairly Paid After $13 Billion Profit",
+      "title": "New York City Collects $131 Million From DoorDash for Delivery Workers Unfairly Paid After $13 Billion Earnings",
       "summary": "The New York City Department of Consumer and Worker Protection (DCWP) announced a historic $131.5 million enforcement action against DoorDash for systematic violations of the local Delivery Worker Laws.",
       "link": "https://www.goodnewsnetwork.org/nyc-collects-131-million-from-doordash-for-delivery-workers-unfairly-paid/",
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/DoorDash-workers-reimbursed-New-York-City-Mayors-office-released-.jpg",
