@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-09-29T04:17:08.816056+00:00",
+  "lastUpdated": "2026-09-30T04:01:05.307921+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 60
+      "count": 65
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 11
+      "count": 12
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 11
+      "count": 12
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 13
+      "count": 15
     },
     {
       "name": "Grist",
@@ -41,10 +41,98 @@
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 10
+      "count": 12
     }
   ],
   "articles": [
+    {
+      "title": "12-yo’s Annual ‘Diaper Drive’ Delivers 30,000 Diapers Off at Arizona Food Bank",
+      "summary": "Employees at a food bank in Phoenix were left scratching their heads when they saw an entire Uhaul truck of donated diapers arrive at their location, knowing that a middle-schooler was behind the enormous load.",
+      "link": "https://www.goodnewsnetwork.org/12-yos-annual-diaper-drive-dumps-30000-diapers-off-at-arizona-food-bank/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Sloan-at-the-end-of-her-5th-annual-Diaper-Drive-credit-Sloans-Diaper-Drive.jpg",
+      "source": "Good News Network",
+      "published": "2026-09-29T19:30:02+00:00"
+    },
+    {
+      "title": "Scientists Alarmed by “Kelvin Wave” That Could Raise California Ocean Level by a Whole Foot",
+      "summary": "\"It's a wave unlike the ones you're used to at the beach.\"",
+      "link": "https://futurism.com/science-energy/scientists-alarmed-kelvin-wave-el-nino-california-ecuador-ocean",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/scientists-alarmed-kelvin-wave-el-nino-california-ecuador-ocean.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-09-29T19:25:15+00:00"
+    },
+    {
+      "title": "Scientists Unveil Underwater Solar Panels",
+      "summary": "Far out, literally.",
+      "link": "https://futurism.com/future-society/scientists-underwater-solar-panels-china-pervoskite",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/scientists-underwater-solar-panels-china-pervoskite.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-09-29T16:13:34+00:00"
+    },
+    {
+      "title": "This Stone Wall Seems to Have Finally Settled Debate About The Town That Became Paris",
+      "summary": "Excavations in central Paris have turned up a stone wall that may have finally settled the debate regarding the true origins of the city.",
+      "link": "https://www.goodnewsnetwork.org/this-stone-wall-seems-to-have-finally-settled-debate-about-the-town-that-became-paris/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/credit-Anastasia-Choquet-DRAC-Ile-de-France-released.jpg",
+      "source": "Good News Network",
+      "published": "2026-09-29T15:30:41+00:00"
+    },
+    {
+      "title": "A Strategy of Cash-for-Photos Turns Animal Hunters into Animal Protectors in Indonesia",
+      "summary": "From that magical island called Borneo comes the story of a bottom-up, pay-per-pic program that’s making a significant impact for the conservation of endangered birds and orangutans.",
+      "link": "https://www.goodnewsnetwork.org/a-strategy-of-cash-for-photos-turns-animal-hunters-into-animal-protectors-in-indonesia/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/foto_pengamatan-20250924-003412_8446.jpg",
+      "source": "Good News Network",
+      "published": "2026-09-29T13:00:01+00:00"
+    },
+    {
+      "title": "Norway’s Newest Marine Protected Area Shelters Rich Marine Habitat, Whales, and Seabirds",
+      "summary": "On September 18th, the Norwegian government established a new marine protected area covering approximately 714 square miles, equivalent to almost 260,000 football pitches.",
+      "link": "https://www.goodnewsnetwork.org/norways-newest-marine-protected-area-shelters-rich-marine-habitat-whales-and-seabirds/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/The-seascape-of-Anfjorden-credit-credit-Jan-Harald-TomassenStatsforvaltaren-i-Troms-and-Finnmark.jpg",
+      "source": "Good News Network",
+      "published": "2026-09-29T11:00:24+00:00"
+    },
+    {
+      "title": "‘The forest is life’: how Indigenous communities in Peru are preventing wildfires",
+      "summary": "Forest fires have ravaged Peru in recent years, but some Indigenous communities are actually seeing a decline.",
+      "link": "https://www.positive.news/environment/the-forest-is-life-how-indigenous-communities-in-peru-are-preventing-wildfires/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/RS2995_IMG_7832-1_lpr.jpg",
+      "source": "Positive News",
+      "published": "2026-09-29T08:00:53+00:00"
+    },
+    {
+      "title": "A Place to Sleep for Denver’s Homeless College Students",
+      "summary": "This story was originally published by Chalkbeat. Sign up for their newsletters at ckbe.at/newsletters. During her first semester at Chicago’s Malcolm X College, Nikya Harrell had had enough.",
+      "link": "https://reasonstobecheerful.world/home-for-denver-homeless-college-students/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/RP6MAXEGSRFNDBMMOAKENQDH5E.avif",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-09-29T08:00:24+00:00"
+    },
+    {
+      "title": "Good News in History September 29",
+      "summary": "30 years ago today, the Nintendo 64 video game console was released in North America. Critically acclaimed as “quite simply, the fastest, most graceful game machine on the market”, the N64 was one of the first gaming consoles to have four controller ports and could handle a 4-player split-screen…",
+      "link": "https://www.goodnewsnetwork.org/events060929/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/09/Nintendo-64-gaming-console-public-domain.jpg",
+      "source": "Good News Network",
+      "published": "2026-09-29T07:00:00+00:00"
+    },
+    {
+      "title": "What Japan’s 107,677 centenarians reveal about diet, lifestyle, and aging",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM There are 107,677 people in Japan who are currently aged 100 or older, according to recently released health ministry figures.",
+      "link": "https://www.optimistdaily.com/2026/09/what-japans-107677-centenarians-reveal-about-diet-lifestyle-and-aging/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_55757129_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-09-29T00:00:32+00:00"
+    },
+    {
+      "title": "Colorado’s largest wildlife overpass cut I-25 collisions by 91 percent",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Nine months in, North America’s largest wildlife overpass has cut vehicle collisions on a stretch of Interstate 25 in Colorado by 91 percent.",
+      "link": "https://www.optimistdaily.com/2026/09/colorados-largest-wildlife-overpass-cut-i-25-collisions-by-91-percent/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_401827524_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-09-29T00:00:14+00:00"
+    },
     {
       "title": "Resilient French Farmers Use Warming Climate to Grow the Country’s Own Tropical Fruit",
       "summary": "This is a typical image of the south of France; now the home to an assortment very a-typical European fruit: the banana, the papaya, and the mango.",
@@ -86,7 +174,7 @@
       "published": "2026-09-28T11:00:52+00:00"
     },
     {
-      "title": "The ethical fashion brand championing change across the industry",
+      "title": "Can affordable ethical fashion scale up?",
       "summary": "With a focus on living wages, better fabrics and sustainability, one clothing brand is pushing to transform the fashion industry",
       "link": "https://www.positive.news/economics/the-ethical-fashion-brand-championing-change-across-the-industry/",
       "image_url": "https://www.positive.news/wp-content/uploads/2026/09/deborahxyesfriends-2.jpg",
@@ -398,7 +486,7 @@
       "published": "2026-09-23T15:30:08+00:00"
     },
     {
-      "title": "Life after… a diagnosis for panic disorder",
+      "title": "Life after: a diagnosis for panic disorder",
       "summary": "Molly Lambert went viral discussing OCD, helping others recognise frightening experiences they’d been too scared to share",
       "link": "https://www.positive.news/lifestyle/life-after-a-diagnosis-for-panic-disorder/",
       "image_url": "https://www.positive.news/wp-content/uploads/2026/09/Image_enhanced_under_1MB-e1790244717672.jpg",
