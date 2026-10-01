@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-09-30T04:01:05.307921+00:00",
+  "lastUpdated": "2026-10-01T04:12:23.316828+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 65
+      "count": 70
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 12
+      "count": 13
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 12
+      "count": 13
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 15
+      "count": 17
     },
     {
       "name": "Grist",
@@ -35,16 +35,112 @@
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 25
+      "count": 27
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 12
+      "count": 13
     }
   ],
   "articles": [
+    {
+      "title": "Senate permitting bill could greatly expand power lines and clean energy",
+      "summary": "The U.S. Senate energy permitting bill unveiled Wednesday could streamline the buildout of high-voltage power lines across the country, potentially delivering billions of dollars in electricity cost savings and dramatically improving the power system’s reliability over the coming decade — if…",
+      "link": "https://www.canarymedia.com/articles/transmission/senate-permitting-bill-power-lines",
+      "image_url": "https://img.canarymedia.com/content/uploads/Los-Banos-California-transmissin-line_GettyImages-1322194997.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=72391c72bef386431b5f9aaedf5fa3d0",
+      "source": "Canary Media",
+      "published": "2026-09-30T22:00:00+00:00"
+    },
+    {
+      "title": "New Jersey So Flooded That a Shark Was Spotted Swimming Through a Suburban Neighborhood",
+      "summary": "\"It's coming this way!\"",
+      "link": "https://futurism.com/science-energy/new-jersey-flood-shark",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/09/new-jersey-flood-shark.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-09-30T19:08:28+00:00"
+    },
+    {
+      "title": "New Gobi Desert Fossil Rewrites a Chapter of Mammal Evolution",
+      "summary": "A remarkably well-preserved fossil from Mongolia’s Gobi Desert is reshaping scientists’ understanding of mammal evolution during the age of dinosaurs.",
+      "link": "https://www.goodnewsnetwork.org/new-gobi-desert-fossil-rewrites-a-chapter-of-mammal-evolution/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/tamirkhan-fossil-2460-1384_wideexact_2460.jpg",
+      "source": "Good News Network",
+      "published": "2026-09-30T18:00:54+00:00"
+    },
+    {
+      "title": "Electric trucks cost too much. California has a law for that.",
+      "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Wednesday via Substack.",
+      "link": "https://www.canarymedia.com/articles/clean-fleets/electric-trucks-cost-too-much-california-has-a-bill-for-that",
+      "image_url": "https://img.canarymedia.com/content/uploads/CW-etruck-16.9.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=cadc2659ec553c9e9deb222df384ed8d",
+      "source": "Canary Media",
+      "published": "2026-09-30T17:30:00+00:00"
+    },
+    {
+      "title": "Chris Evans Puts His Limelight on a Bonded Dog Pair with Cute Video, Immediately Sees Them Adopted",
+      "summary": "Hollywood A-lister Chris Evans recently went out of his way to see if he could convince someone to make room in their home for two dogs who had to be adopted together.",
+      "link": "https://www.goodnewsnetwork.org/chris-evans-puts-his-limelight-on-a-bonded-dog-pair-with-cute-video-immediately-sees-them-adopted/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Left-Greg-and-Carley-a-pair-bonded-dog-couple-right-Chris-Evans-in-2023-credits-Animal-Rescue-League-of-Boston-via-Facebook.jpg",
+      "source": "Good News Network",
+      "published": "2026-09-30T13:00:30+00:00"
+    },
+    {
+      "title": "Coastal Golf Course Turned into Vital Wetland Habitat for Seabirds",
+      "summary": "With an eye towards making room for native wildlife, a pair of golf courses are looking an awful lot more green.",
+      "link": "https://www.goodnewsnetwork.org/coastal-golf-course-turned-into-vital-wetland-habitat-for-seabirds/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Sandilands-Nature-Reserve-credit-National-Trust-photo-by-John-Miller.jpg",
+      "source": "Good News Network",
+      "published": "2026-09-30T11:00:31+00:00"
+    },
+    {
+      "title": "I stopped reading bad news for 48 hours. Here’s what happened",
+      "summary": "What changes when you swap the daily doomscroll for journalism that asks not just what’s wrong, but what’s working?",
+      "link": "https://www.positive.news/lifestyle/i-stopped-reading-bad-news-for-48-hours-heres-what-happened/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/IMG_0702-scaled.jpg",
+      "source": "Positive News",
+      "published": "2026-09-30T10:15:35+00:00"
+    },
+    {
+      "title": "First Ever Recorded Sea Turtle Nests on America’s West Coast",
+      "summary": "A bombshell report last week from the LA Times details that a series of olive ridley sea turtles which laid their eggs on beaches in Southern California are the first of their race ever recorded buildings nests on the country’s West Coast.",
+      "link": "https://www.goodnewsnetwork.org/first-ever-recorded-sea-turtle-nests-on-americas-west-coast/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Eggs-from-an-olive-ridley-sea-turtle-were-laid-near-Seal-Beach-Credit-City-of-Huntington-Beach.jpg",
+      "source": "Good News Network",
+      "published": "2026-09-30T09:52:15+00:00"
+    },
+    {
+      "title": "What We’re Reading: Rat Rangers to the Rescue",
+      "summary": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
+      "link": "https://reasonstobecheerful.world/what-were-reading-rat-rangers-dc/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2025/10/npr-logo-2025.svg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-09-30T08:00:58+00:00"
+    },
+    {
+      "title": "Good News in History September 30",
+      "summary": "163 years ago, George Bizet’s famous opera Les Pêcheurs de Perles, The Pearl Fishermen, debuted at the Théâtre Lyrique in Paris.",
+      "link": "https://www.goodnewsnetwork.org/events060930/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/09/A-page-from-the-libretto-1886-of-The-Pearl-Fishermen-from-La-Scala-in-Milan-pub-domain.jpg",
+      "source": "Good News Network",
+      "published": "2026-09-30T07:00:00+00:00"
+    },
+    {
+      "title": "Why noise is an underestimated health hazard and what to do about it",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Most of the damage noise does to your body is preventable, and the tools you need are either free or already in your pocket.",
+      "link": "https://www.optimistdaily.com/2026/09/why-noise-is-an-underestimated-health-hazard-and-what-to-do-about-it/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_787470858_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-09-30T00:00:24+00:00"
+    },
+    {
+      "title": "Dolly Parton’s Imagination Library doubles its London reach even after her death",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Dolly Parton launched the Imagination Library in 1995 on a premise that hasn’t changed since: send a free book to every registered child under five, once a month, for the first years of their life.",
+      "link": "https://www.optimistdaily.com/2026/09/dolly-partons-imagination-library-doubles-its-london-reach-even-after-her-death/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_871798200_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-09-30T00:00:22+00:00"
+    },
     {
       "title": "12-yo’s Annual ‘Diaper Drive’ Delivers 30,000 Diapers Off at Arizona Food Bank",
       "summary": "Employees at a food bank in Phoenix were left scratching their heads when they saw an entire Uhaul truck of donated diapers arrive at their location, knowing that a middle-schooler was behind the enormous load.",
@@ -95,7 +191,7 @@
     },
     {
       "title": "‘The forest is life’: how Indigenous communities in Peru are preventing wildfires",
-      "summary": "Forest fires have ravaged Peru in recent years, but some Indigenous communities are actually seeing a decline.",
+      "summary": "Forest fires have ravaged Peru in recent years, but some Indigenous communities are seeing a decline. Meet the forest protectors of Paamari",
       "link": "https://www.positive.news/environment/the-forest-is-life-how-indigenous-communities-in-peru-are-preventing-wildfires/",
       "image_url": "https://www.positive.news/wp-content/uploads/2026/09/RS2995_IMG_7832-1_lpr.jpg",
       "source": "Positive News",
