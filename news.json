@@ -1,35 +1,35 @@
 {
-  "lastUpdated": "2026-10-01T04:12:23.316828+00:00",
+  "lastUpdated": "2026-10-02T04:05:58.046478+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 70
+      "count": 75
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 13
+      "count": 14
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 13
+      "count": 14
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 17
+      "count": 19
     },
     {
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 10
+      "count": 11
     },
     {
       "name": "Canary Media",
@@ -41,10 +41,98 @@
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 13
+      "count": 14
     }
   ],
   "articles": [
+    {
+      "title": "California just made it legal to turn balconies into tiny power plants",
+      "summary": "As free and abundant as sunlight may be, harnessing its power remains stubbornly difficult for homeowners. While the cost of solar energy has plummeted more than 90 percent in the last decade, panels remain a significant investment.",
+      "link": "https://grist.org/solutions/california-just-made-it-legal-to-turn-balconies-into-tiny-power-plants/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/09/california-germany-balcony-solar-legal-ok.jpeg",
+      "source": "Grist",
+      "published": "2026-10-01T19:07:38+00:00"
+    },
+    {
+      "title": "‘Flourishing’ Sycamore Gap Tree Has Ring of New Shoots Already 3-Feet Tall",
+      "summary": "3 years on from the illegal felling of Britain’s famous Sycamore Gap tree, new aerial images reveal how the stump is flourishing, and the basal sprouts that emerged are growing fast.",
+      "link": "https://www.goodnewsnetwork.org/flourishing-sycamore-gap-tree-has-ring-of-new-shoots-already-3-feet-tall/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/overlooking-the-sycamore-gap-stump-on-hadrians-wall.-credit-nt-images-annapurna-mellor.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-01T18:30:18+00:00"
+    },
+    {
+      "title": "NASA Telescope Careening Down to Earth After Failed Rescue Mission",
+      "summary": "It's not dead quite yet, but its days are counted.",
+      "link": "https://futurism.com/space/nasa-telescope-careening-earth-failed-rescue-mission",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/nasa-telescope-careening-earth-failed-rescue-mission.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-01T17:06:03+00:00"
+    },
+    {
+      "title": "Chinese Commercial Reactor Achieves Nuclear Fusion with Clean Hydrogen-Boron Fuel",
+      "summary": "In a world first, Chinese engineers have achieved brief nuclear fusion with a much cleaner and abundant fuel supply in what an international review team called a “significant and valuable” advance in the field.",
+      "link": "https://www.goodnewsnetwork.org/chinese-commercial-reactor-achieves-nuclear-fusion-with-clean-hydrogen-boron-fuel/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/ENN-Groups-EXL-50U-spherical-device-which-successfully-achieved-hydrogen-boron-fusion-reactions-credit-handout.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-01T15:30:26+00:00"
+    },
+    {
+      "title": "Reviving L.A.’s Burned Landscapes, One Seed Bomb at a Time",
+      "summary": "If you’ve been through a wildfire, you may never forget the torrid heat, the acrid smell of smoke and the threatening sight of flames closing in.",
+      "link": "https://reasonstobecheerful.world/california-fires-seed-bomb-project/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/sunflower-on-our-lot.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-10-01T14:25:04+00:00"
+    },
+    {
+      "title": "Genetic Analysis All But Confirms the Most Unique of Humpback Populations Is Actually a Subspecies",
+      "summary": "This breathtaking photograph is of an Arabian Sea humpback whale—the subject of a new genetic analysis that seems to confirm beyond a shadow of a doubt that it’s a totally different subspecies compared to its cousins in the Pacific or Atlantic.",
+      "link": "https://www.goodnewsnetwork.org/genetic-analysis-all-but-confirms-the-most-unique-of-humpback-populations-is-actually-a-subspecies/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/An-Arabian-Sea-humpback-whale-breaches-following-interaction-with-another-whale-in-Hallaniyat-Bay-Oman-credit-Darryl-MacDonald-©.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-01T13:00:21+00:00"
+    },
+    {
+      "title": "Stunning Collection of Stolen Greek Artifacts Spanning 5,000 Years Were Just Returned to Greece",
+      "summary": "Millions of dollars in ancient Greek artifacts were recently repatriated to their mother country by New York authorities after they were identified at the Metropolitan Museum of Art.",
+      "link": "https://www.goodnewsnetwork.org/stunning-collection-of-stolen-greek-artifacts-spanning-5000-years-were-just-returned-to-greece/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Greek-Ministry-of-Culture-released.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-01T11:00:34+00:00"
+    },
+    {
+      "title": "Why good leaders listen",
+      "summary": "Listening is often overlooked as a leadership skill, but it can challenge assumptions and lead to better decisions, writes social innovator Ken Banks",
+      "link": "https://www.positive.news/lifestyle/why-good-leaders-listen/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/iStock-2226795526-copy.jpg",
+      "source": "Positive News",
+      "published": "2026-10-01T07:00:31+00:00"
+    },
+    {
+      "title": "Good News in History, October 1",
+      "summary": "102 years ago today, former President Jimmy Carter was born The 39th president of the United States from 1977–1981, is one of the few American presidents to receive the Nobel Peace Prize (for his Camp David Accords).",
+      "link": "https://www.goodnewsnetwork.org/events061001/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/10/Jimmy-Carter-White-House-photo-cropped.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-01T07:00:00+00:00"
+    },
+    {
+      "title": "The herbs and spices dietitians say support immune function",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Every fall, the same conversation starts about how to stay well through cold and flu season.",
+      "link": "https://www.optimistdaily.com/2026/10/the-herbs-and-spices-dietitians-say-support-immune-function/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_814668808_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-01T00:00:22+00:00"
+    },
+    {
+      "title": "How Argentina’s battery-powered Tren Solar is recharging an ancient Andean route",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM There are places where the land itself seems to generate energy. The Quebrada de Humahuaca in Jujuy province, in Argentina’s far northwest, is one of them.",
+      "link": "https://www.optimistdaily.com/2026/10/how-argentinas-battery-powered-tren-solar-is-recharging-an-ancient-andean-route/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Tren_de_la_quebrada_01-1024x576.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-01T00:00:22+00:00"
+    },
     {
       "title": "Senate permitting bill could greatly expand power lines and clean energy",
       "summary": "The U.S. Senate energy permitting bill unveiled Wednesday could streamline the buildout of high-voltage power lines across the country, potentially delivering billions of dollars in electricity cost savings and dramatically improving the power system’s reliability over the coming decade — if…",
@@ -446,7 +534,7 @@
       "published": "2026-09-25T08:00:13+00:00"
     },
     {
-      "title": "What went right this week: the good news that matters",
+      "title": "What went right this week: a brighter future for Kosovo, plus more",
       "summary": "Kosovo was cleared of landmines, Germany set a date for quitting oil, and a new species was discovered, plus more",
       "link": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/",
       "image_url": "https://www.positive.news/wp-content/uploads/2026/09/iStock-487000750-2.jpg",
