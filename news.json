@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-10-02T04:05:58.046478+00:00",
+  "lastUpdated": "2026-10-03T03:49:43.429191+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 75
+      "count": 80
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 14
+      "count": 15
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 14
+      "count": 15
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 19
+      "count": 22
     },
     {
       "name": "Grist",
@@ -35,16 +35,104 @@
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 27
+      "count": 26
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 14
+      "count": 15
     }
   ],
   "articles": [
+    {
+      "title": "Hunter-Gatherers Don’t Have Trouble Sleeping: Why? and What Can We Learn from Them?",
+      "summary": "The BBC recently spoke with a sleep scientist who’s spent much of his career studying the sleeping habits of the last remaining, contactable, hunter-gatherer societies on Earth.",
+      "link": "https://www.goodnewsnetwork.org/hunter-gatherers-dont-have-trouble-sleeping-why-and-what-can-we-learn-from-them/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/03/Man-From-Hadza-in-Tanzania-David-Raichlen-of-USC-and-Brian-Wood-of-UCLA-e1790938298146.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-02T18:30:12+00:00"
+    },
+    {
+      "title": "Podcast Transcript October 2nd, 2026— A wildlife overpass, a solar train, and Japan’s massive centenarian population",
+      "summary": "Episode Description: This week Arielle and Karissa cover the Colorado wildlife overpass that came in $15 million under budget and brought pronghorn back to habitat they hadn’t reached in decades, what Japan’s 107,000-plus centenarians reveal about diet and aging, Dolly Parton’s Imagination Library…",
+      "link": "https://www.optimistdaily.com/2026/10/podcast-transcript-october-2nd-2026-a-wildlife-overpass-a-solar-train-and-japans-massive-centenarian-population/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Podcast-Logo-3000-×-3000-px-2-12-1024x1024.png",
+      "source": "The Optimist Daily",
+      "published": "2026-10-02T16:30:56+00:00"
+    },
+    {
+      "title": "UK’s National Museums to Continue 25-Year Policy of Free Entry for Foreign Visitors",
+      "summary": "After months of discussions between UK ministries, the tourism sector, and London’s museums, the government has decided that the country’s national museums will remain free to international visitors.",
+      "link": "https://www.goodnewsnetwork.org/uks-national-museums-to-continue-25-year-policy-of-free-entry-for-foreign-visitors/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/06/The-British-Museum-credit-Luke-Massey-the-Greater-London-National-Park-City-Initiative.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-02T15:30:56+00:00"
+    },
+    {
+      "title": "Trump Launched an America.org “Super Intelligence” Chatbot and It Immediately Disagrees With Him on Huge Topics, Including Whether He Won the 2020 Election",
+      "summary": "A \"super intelligence\" can't be wrong, right?",
+      "link": "https://futurism.com/artificial-intelligence/trump-ai-disagrees-election",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/trump-ai-disagrees-election.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-02T13:54:08+00:00"
+    },
+    {
+      "title": "Antarctica’s Wind Farm Saves 122,000 Gallons of Diesel Over 15 Years Powering McMurdo Station",
+      "summary": "As they near the end of their productive lives, the 3 wind turbines spinning on Antarctica’s Ross Island have made an enormous impact on the energy market of the continent.",
+      "link": "https://www.goodnewsnetwork.org/antarcticas-wind-farm-saves-122000-gallons-of-diesel-over-15-years-powering-mcmurdo-station/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Ross-Island-Wind-Farm-credit-retrived-from-Meridian-Energy-e1790930850358.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-02T13:00:15+00:00"
+    },
+    {
+      "title": "30 Years of Clean-Up and Monitoring Work at Closed Copper Mine Wins Honors for World’s Top Miner",
+      "summary": "In British Columbia, a small award ceremony was held to commend mine operators who continue to monitor and spend on mine reclamation, years after the pickaxes are hung up.",
+      "link": "https://www.goodnewsnetwork.org/30-years-of-clean-up-and-monitoring-work-at-closed-copper-mine-wins-honors-for-worlds-top-miner/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Left-Island-Copper-Mine-site-and-pit-lake-looking-east-right-a-BHP-representaive-accepting-the-award-credit-left-BHP-supplied-right-TRCR-Awards-Subcommittee-released.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-02T11:00:18+00:00"
+    },
+    {
+      "title": "The Spark: The ‘Community Lighthouses’ Where Neighbors Help Neighbors",
+      "summary": "Welcome back to The Spark, our monthly celebration of how people just like you are creating positive change, one meaningful step at a time.",
+      "link": "https://reasonstobecheerful.world/the-spark-the-community-lighthouses/",
+      "image_url": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f50c.png",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-10-02T08:00:29+00:00"
+    },
+    {
+      "title": "Good News in History, October 2",
+      "summary": "69 years ago today, a new island, or Ilha Novo, appeared on the edge of the westernmost island (Faial) in the Azores chain after the eruption of Capelinhos, or “little cape,” one of many submerged cone volcanoes in the area.",
+      "link": "https://www.goodnewsnetwork.org/events061002/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/CapelinhosFaialAzores1.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-02T07:00:00+00:00"
+    },
+    {
+      "title": "What went right this week: the good news that matters",
+      "summary": "The ‘alternative Nobel prize’, global progress on ageism, and a boost for gorillas, plus more",
+      "link": "https://www.positive.news/society/democracy/good-news-stories-from-week-40-of-2026/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/RS24644_Timnit-Gebru-2026-right-livelihood-laureate-002.jpg",
+      "source": "Positive News",
+      "published": "2026-10-02T05:46:05+00:00"
+    },
+    {
+      "title": "How a simple urine test could spare most women from invasive womb cancer procedures",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Researchers at the University of Manchester developed a non-invasive womb cancer test that correctly identified most cancers and returned a negative result for 93 percent of women who did not have the disease.",
+      "link": "https://www.optimistdaily.com/2026/10/how-a-simple-urine-test-could-spare-most-women-from-invasive-womb-cancer-procedures/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_43069909_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-02T00:00:48+00:00"
+    },
+    {
+      "title": "Fighting dengue with sterile insects: Lisbon’s experimental approach",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Portugal has released 30,000 sterile male mosquitoes in Lisbon as part of a push to bring down populations of the Asian tiger mosquito (Aedes albopictus), a species that can carry dengue, Zika, and yellow fever.",
+      "link": "https://www.optimistdaily.com/2026/10/fighting-dengue-with-sterile-insects-lisbons-experimental-approach/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_48209325_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-02T00:00:31+00:00"
+    },
     {
       "title": "California just made it legal to turn balconies into tiny power plants",
       "summary": "As free and abundant as sunlight may be, harnessing its power remains stubbornly difficult for homeowners. While the cost of solar energy has plummeted more than 90 percent in the last decade, panels remain a significant investment.",
@@ -103,7 +191,7 @@
     },
     {
       "title": "Why good leaders listen",
-      "summary": "Listening is often overlooked as a leadership skill, but it can challenge assumptions and lead to better decisions, writes social innovator Ken Banks",
+      "summary": "Listening is often overlooked as a leadership skill, but it can challenge assumptions and lead to better decisions",
       "link": "https://www.positive.news/lifestyle/why-good-leaders-listen/",
       "image_url": "https://www.positive.news/wp-content/uploads/2026/09/iStock-2226795526-copy.jpg",
       "source": "Positive News",
@@ -279,7 +367,7 @@
     },
     {
       "title": "‘The forest is life’: how Indigenous communities in Peru are preventing wildfires",
-      "summary": "Forest fires have ravaged Peru in recent years, but some Indigenous communities are seeing a decline. Meet the forest protectors of Paamari",
+      "summary": "Ancient knowledge and new technology are combining to help Indigenous communities in Peru tackle forest fires",
       "link": "https://www.positive.news/environment/the-forest-is-life-how-indigenous-communities-in-peru-are-preventing-wildfires/",
       "image_url": "https://www.positive.news/wp-content/uploads/2026/09/RS2995_IMG_7832-1_lpr.jpg",
       "source": "Positive News",
@@ -1428,14 +1516,6 @@
       "image_url": "https://img.canarymedia.com/content/uploads/Sage-SMECI-FacilityPhoto.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=06cddd72e9520feb946961472d688825",
       "source": "Canary Media",
       "published": "2026-08-19T11:00:00+00:00"
-    },
-    {
-      "title": "Geothermal has big potential. Here’s how states can help realize it.",
-      "summary": "Next-generation geothermal energy has massive potential in the western United States, but it won’t be realized unless developers can overcome the big economic barriers these novel systems face.",
-      "link": "https://www.canarymedia.com/articles/geothermal/geothermal-big-potential-states",
-      "image_url": "https://img.canarymedia.com/content/uploads/Fervo-Blog-Landing-Page.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=bb4f4a0f627406d56ebb248e74897a89",
-      "source": "Canary Media",
-      "published": "2026-08-18T09:00:00+00:00"
     }
   ]
 }
