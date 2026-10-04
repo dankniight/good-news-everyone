@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-03T03:49:43.429191+00:00",
+  "lastUpdated": "2026-10-04T04:21:06.605096+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 80
+      "count": 85
     },
     {
       "name": "Positive News",
@@ -35,7 +35,7 @@
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 26
+      "count": 24
     },
     {
       "name": "Futurism",
@@ -45,6 +45,46 @@
     }
   ],
   "articles": [
+    {
+      "title": "Underwater Umbrellas Could Protect Coral Reefs From Heat Damage",
+      "summary": "Underwater umbrellas could protect coral reefs from heat—and even partly reverse the bleaching, according to a new study by Florida scientists.",
+      "link": "https://www.goodnewsnetwork.org/underwater-umbrellas-could-protect-coral-reefs-from-heat-damage/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Underwater-Coral-umbrellas-by-Nova-Southeastern-University-in-Florida-Journal-Frontiers-in-Marine-Science.jpeg",
+      "source": "Good News Network",
+      "published": "2026-10-03T21:13:54+00:00"
+    },
+    {
+      "title": "Ancient Christian Complex Reopens in Syria After 14 Years, a War, and an Earthquake",
+      "summary": "A 5th-century Christian heritage site has reopened to visitors in Aleppo, Syria, after rehabilitation, restoration, and clearing the remnants of war.",
+      "link": "https://www.goodnewsnetwork.org/ancient-christian-site-reopens-in-syria-after-14-years-a-war-and-an-earthquake/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Saint-Simeon-church-by-Syrian-Directorate-General-of-Antiquities-and-Museums-SWNS.jpeg",
+      "source": "Good News Network",
+      "published": "2026-10-03T17:18:47+00:00"
+    },
+    {
+      "title": "Fan ‘Storms Out’ as Team Loses on TV, Only to Become Hero for Woman Stuck in Mud Chest-high",
+      "summary": "Just after Alastair Cass stormed out of his house because his football team lost he become a hero for a woman in dire need of a win—to save her life.",
+      "link": "https://www.goodnewsnetwork.org/fan-storms-out-as-team-loses-and-finds-woman-stuck-in-mud/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/mudhole-rescue-by-Alastair-Cass-via-SWNS.jpeg",
+      "source": "Good News Network",
+      "published": "2026-10-03T14:59:55+00:00"
+    },
+    {
+      "title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
+      "summary": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+      "link": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-3-2026/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-03T10:00:45+00:00"
+    },
+    {
+      "title": "Good News in History, October 3",
+      "summary": "4,483 years ago today, or so it’s said, the sky above the Korean Peninsula opened and Hwanung, the mythical progenitor of Korean People descended from heaven.",
+      "link": "https://www.goodnewsnetwork.org/events061003/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/credit-Ateneo-Korean-Studies-Program.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-03T07:00:00+00:00"
+    },
     {
       "title": "Hunter-Gatherers Don’t Have Trouble Sleeping: Why? and What Can We Learn from Them?",
       "summary": "The BBC recently spoke with a sleep scientist who’s spent much of his career studying the sleeping habits of the last remaining, contactable, hunter-gatherer societies on Earth.",
@@ -1500,22 +1540,6 @@
       "image_url": "https://img.canarymedia.com/content/uploads/GettyImages-2288280119_2026-08-19-220703_vmgn.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=dcd8e272f09f933b0ef4fbc1fcdac401",
       "source": "Canary Media",
       "published": "2026-08-20T07:30:00+00:00"
-    },
-    {
-      "title": "In Michigan, LG opens one of America’s biggest battery cell factories",
-      "summary": "LANSING, Mich. — The Trump administration has made clear its disdain for electric vehicles and clean energy. Yet at the grand opening of South Korea–based LG Energy Solution’s latest battery manufacturing facility, Interior Secretary Doug Burgum cheered the factory as a fulfillment of the…",
-      "link": "https://www.canarymedia.com/articles/batteries/michigan-lg-biggest-battery-cell-factory",
-      "image_url": "https://img.canarymedia.com/content/uploads/LG-Energy-Solution_ESMI-LansingProductionLine-0181.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5bfbeaad137254f68d8bf62ba38cdea0",
-      "source": "Canary Media",
-      "published": "2026-08-19T21:00:00+00:00"
-    },
-    {
-      "title": "Sage Geosystems brings its first next-gen geothermal plant online",
-      "summary": "Sage Geosystems has hit a big milestone out on a rugged tract near San Antonio: The startup is producing power from its first next-generation geothermal plant.",
-      "link": "https://www.canarymedia.com/articles/geothermal/sage-geosystems-next-gen-geothermal-online",
-      "image_url": "https://img.canarymedia.com/content/uploads/Sage-SMECI-FacilityPhoto.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=06cddd72e9520feb946961472d688825",
-      "source": "Canary Media",
-      "published": "2026-08-19T11:00:00+00:00"
     }
   ]
 }
