@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-04T04:21:06.605096+00:00",
+  "lastUpdated": "2026-10-05T04:06:10.375365+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 85
+      "count": 90
     },
     {
       "name": "Positive News",
@@ -29,22 +29,78 @@
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 11
+      "count": 12
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 24
+      "count": 23
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 15
+      "count": 16
     }
   ],
   "articles": [
+    {
+      "title": "Pomegranates, Walnuts and Berries Could Unlock Heart Failure Treatment By Producing Urolithin A",
+      "summary": "A compound produced in the body after eating pomegranates improves heart function by up to 80%, particularly for a type of heart failure with limited treatment options.",
+      "link": "https://www.goodnewsnetwork.org/pomegranates-walnuts-and-berries-could-unlock-heart-failure-treatment-with-urolithin-a/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/11/pomegranates-fruit-pubdomain-Margarita-Zueva.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-04T23:21:48+00:00"
+    },
+    {
+      "title": "Finalists Win Big Laughs in The Comedy Wildlife Photography Awards – LOOK",
+      "summary": "It’s that time of the year again, when the cutest, most spontaneous snapshots that capture the amusing side of nature, compete in a bid to win the Comedy Wildlife Photography Awards.",
+      "link": "https://www.goodnewsnetwork.org/finalists-win-big-laughs-in-the-comedy-wildlife-photography-awards-look/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Squirrel-by-Udo-Harms-Nikon-Comedy-Wildlife-Award.jpeg",
+      "source": "Good News Network",
+      "published": "2026-10-04T21:21:40+00:00"
+    },
+    {
+      "title": "Rare 1-in-100M ‘Ghost Lobster’ Goes to School to Help Scientists Crack Genetic Mystery–in Time for Halloween",
+      "summary": "A ‘ghost’ lobster so rare that the odds of finding one are 1 in 100 million is going to school, and its new home is Maine’s Marine Science Center—arriving just in time for Halloween.",
+      "link": "https://www.goodnewsnetwork.org/100m-ghost-lobster-goes-to-college/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Casper-the-white-lobster-at-University-of-New-England-Arthur-P-Girard-Marine-Science-Center-released.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-04T15:04:49+00:00"
+    },
+    {
+      "title": "Facebook Is Letting Accounts Commit Stolen Valor Using AI Slop of Troops in Warzones",
+      "summary": "\"My mother won't just lose a soldier — she'll lose the boy she raised. If you still support our veterans, hit that follow button.\"",
+      "link": "https://futurism.com/artificial-intelligence/facebook-content-farms-stolen-valor-ai-slop-troops-war",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/facebook-content-farms-stolen-valor-ai-slop-troops-war.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-04T14:01:00+00:00"
+    },
+    {
+      "title": "To win over locals, data centers pump $340M into rural Texas projects",
+      "summary": "A new water tower in Turkey: $3 million. Upgrades for a museum in Stamford: $400,000. A first responders appreciation barbecue in Medina County: $10,000.",
+      "link": "https://grist.org/accountability/to-win-over-locals-data-centers-pump-340m-into-rural-texas-projects/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/08/GettyImages-2276899078.jpg",
+      "source": "Grist",
+      "published": "2026-10-04T13:00:00+00:00"
+    },
+    {
+      "title": "AI Chatbots Will Never Replace Advice From Elders, Say Seven of 10 in New Poll",
+      "summary": "More than seven in 10 Brits believe AI will never replace advice from their elders. A study of 2,000 adults found while 21 percent use these artificial intelligence tools for help several times a week, 92 percent believe some forms of wisdom can only be gained through lived experience.",
+      "link": "https://www.goodnewsnetwork.org/ai-chatbots-will-never-replace-advice-from-elders-say-seven-of-10-in-new-poll/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Senior-Actress-Sue-Johnston-for-Maltesers-SWNS.jpeg",
+      "source": "Good News Network",
+      "published": "2026-10-04T11:00:36+00:00"
+    },
+    {
+      "title": "Good News in History, October 4",
+      "summary": "22 years ago today, SpaceShipOne, funded by Microsoft’s Paul Allen, became the first private manned spacecraft to fly into sub-orbital space.",
+      "link": "https://www.goodnewsnetwork.org/events061004/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/10/SpaceShipOne-after-first-private-space-launch-2004-cc-D-Ramey-Logan.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-04T07:00:00+00:00"
+    },
     {
       "title": "Underwater Umbrellas Could Protect Coral Reefs From Heat Damage",
       "summary": "Underwater umbrellas could protect coral reefs from heat—and even partly reverse the bleaching, according to a new study by Florida scientists.",
@@ -1532,14 +1588,6 @@
       "image_url": "https://img.canarymedia.com/content/uploads/Grist_Solar-europe-e1787100037991.webp?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=10c3aff51d8d03010a7a1a46bbcc969c",
       "source": "Canary Media",
       "published": "2026-08-25T07:30:00+00:00"
-    },
-    {
-      "title": "US apartment buildings have tipped toward heat pumps",
-      "summary": "Heat pumps are a key way to get fossil fuels out of buildings — and the tech recently notched a win in the U.S. housing market.",
-      "link": "https://www.canarymedia.com/articles/heat-pumps/most-new-apartment-buildings-have-heat-pumps",
-      "image_url": "https://img.canarymedia.com/content/uploads/GettyImages-2288280119_2026-08-19-220703_vmgn.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=dcd8e272f09f933b0ef4fbc1fcdac401",
-      "source": "Canary Media",
-      "published": "2026-08-20T07:30:00+00:00"
     }
   ]
 }
