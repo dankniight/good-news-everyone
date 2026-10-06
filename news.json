@@ -1,50 +1,154 @@
 {
-  "lastUpdated": "2026-10-05T04:06:10.375365+00:00",
+  "lastUpdated": "2026-10-06T04:54:57.764404+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 90
+      "count": 95
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 15
+      "count": 16
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 15
+      "count": 16
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 22
+      "count": 24
     },
     {
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 12
+      "count": 14
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 23
+      "count": 24
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 16
+      "count": 17
     }
   ],
   "articles": [
+    {
+      "title": "Our Solar System Is Unstable and Doomed for Destruction",
+      "summary": "Finally, some good news!",
+      "link": "https://futurism.com/space/solar-system-unstable-doomed-destruction",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/solar-system-unstable-doomed-destruction.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-05T20:17:03+00:00"
+    },
+    {
+      "title": "Fighting Wildfires from Prison, A New Law Gives Ex-Cons Route to California Fire Dept. Jobs on Release",
+      "summary": "Rather than being stuck on the chain gang, California prisoners are often on the bucket brigade. Roughly half of all California firefighters are incarcerated individuals.",
+      "link": "https://www.goodnewsnetwork.org/fighting-wildfires-from-prison-a-new-law-gives-ex-cons-route-to-california-fire-dept-jobs-on-release/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Calmatters.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-05T18:30:19+00:00"
+    },
+    {
+      "title": "Star Quarterback Wants to Help Gen Z Handle Money with New Video Series ‘Finance with Fernando’",
+      "summary": "As starting quarterback, Heisman Trophy winner, #1 NFL Draft pick, and aspiring philanthropist, Fernando Mendoza seems all lined up for a dynamite career in football.",
+      "link": "https://www.goodnewsnetwork.org/star-quarterback-wants-to-help-gen-z-handle-money-with-new-video-series-finance-with-fernando/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Fernando-Mendoza-screengrab.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-05T15:30:35+00:00"
+    },
+    {
+      "title": "Nonprofit Brings Free Music Education to More Than 20,000 Miami Students in 131 Schools",
+      "summary": "Down in Miami-Dade County, educators are seeing how school doesn’t mean a thing if it ain’t got that swing. Showing up, taking an interest in school and the community therein, comes that much easier for the some 21,000 students benefiting from free music classes offered at 131 schools by Young…",
+      "link": "https://www.goodnewsnetwork.org/nonprofit-brings-free-music-education-to-more-than-20000-miami-students-in-131-schools/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/maxresdefault-1.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-05T13:00:20+00:00"
+    },
+    {
+      "title": "Orphaned, Rescued, and Rewilded, Female Gorilla Becomes a Mother in Historic Conservation Success",
+      "summary": "One of the first-ever eastern lowland gorillas to be successfully returned to the wild gave birth on May 21st in her new/old home of Virunga National Park in the Democratic Republic of the Congo (DRC).",
+      "link": "https://www.goodnewsnetwork.org/orphaned-rescued-and-rewilded-female-gorilla-becomes-a-mother-in-historic-conservation-success/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Lulingu-and-her-infant-credit-Rewild-released-e1791180403372.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-05T11:00:53+00:00"
+    },
+    {
+      "title": "Extreme heat left this student athlete on life support. He won’t be the last.",
+      "summary": "Matthew Mayich stepped onto the field of Sun Angel Stadium in Tempe, Arizona, at about 7 a.m. on August 20. It was the standout hockey player’s first official practice with his new team, and temperatures were already in the mid-80s.",
+      "link": "https://grist.org/extreme-heat/extreme-heat-left-this-student-athlete-on-life-support-he-wont-be-the-last/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/10/Matthew-Mayich-St-Louis-Blues-Arizona-State-hockey-heat-.jpeg",
+      "source": "Grist",
+      "published": "2026-10-05T08:45:00+00:00"
+    },
+    {
+      "title": "Two years after Hurricane Helene, survivors are taking lessons for the future",
+      "summary": "In the days and weeks after Hurricane Helene, people throughout western North Carolina and beyond found themselves thrust into new situations, forced to learn new skills to help themselves and their neighbors.",
+      "link": "https://grist.org/extreme-weather/two-years-after-hurricane-helene-survivors-are-taking-lessons-for-the-future/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/10/Katie-Myers-microgrids2.jpg",
+      "source": "Grist",
+      "published": "2026-10-05T08:30:00+00:00"
+    },
+    {
+      "title": "The Hospital That Silenced the Machines",
+      "summary": "Beep. Beep. Beep. The heartbeat monitor chirps. Hospitals have long tried to fight acoustic chaos with passive tactics — hanging sound-absorbing ceiling tiles, laying soft rubber flooring or begging clinical staff to whisper in the corridors.",
+      "link": "https://reasonstobecheerful.world/the-hospital-that-silenced-the-machines/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/shutterstock_2714031703-scaled.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-10-05T08:00:28+00:00"
+    },
+    {
+      "title": "This hidden device could free up gigawatts of power for the US grid",
+      "summary": "America’s energy supply crunch is driving a surge of federal and private investment in new electricity generation — from polluting gas turbines to cleaner developments like solar farms and geothermal plants.",
+      "link": "https://www.canarymedia.com/articles/energy-efficiency/hidden-device-free-up-gigawatts-grid",
+      "image_url": "https://img.canarymedia.com/content/uploads/Danfoss-VFD-1.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=bb01bb06202acf5a2ad7c9380c37526c",
+      "source": "Canary Media",
+      "published": "2026-10-05T07:30:00+00:00"
+    },
+    {
+      "title": "Meet the 14-year-old uncovering London’s lost history",
+      "summary": "Seasoned mudlark Emmylou Vaxby has spent nearly a decade searching the Thames foreshore for fragments of the city’s past",
+      "link": "https://www.positive.news/environment/meet-the-14-year-old-uncovering-londons-lost-history/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/IMG_4220-copy.jpg",
+      "source": "Positive News",
+      "published": "2026-10-05T07:00:44+00:00"
+    },
+    {
+      "title": "Good News in History, October 5",
+      "summary": "20 years ago today, the 60-year-old rock star Jon Bon Jovi, who’s sold 100 million records, launched a charity foundation to combat poverty issues like food and housing to ease economic despair.",
+      "link": "https://www.goodnewsnetwork.org/events061005/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/01/Jon-Bon-Jovi-JBJ-Soul-Kitchen-Instagram.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-05T07:00:00+00:00"
+    },
+    {
+      "title": "Wisconsin’s first certified Shinrin-yoku trail is open to everyone",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Think about the last time you went for a walk in the woods. Were you listening to a podcast?",
+      "link": "https://www.optimistdaily.com/2026/10/wisconsins-first-certified-shinrin-yoku-trail-is-open-to-everyone/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_80631962_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-05T00:00:46+00:00"
+    },
+    {
+      "title": "DeafCity Hub and the fight to build a space where sign language can live and thrive",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Sign language interpreters at rap concerts go viral for a reason. There’s something genuinely arresting about watching BSL in full flight: the expressiveness, the grammar operating in three-dimensional space, a face carrying as much meaning as the hands.",
+      "link": "https://www.optimistdaily.com/2026/10/deafcity-hub-and-the-fight-to-build-a-space-where-sign-language-can-live-and-thrive/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_285836350_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-05T00:00:02+00:00"
+    },
     {
       "title": "Pomegranates, Walnuts and Berries Could Unlock Heart Failure Treatment By Producing Urolithin A",
       "summary": "A compound produced in the body after eating pomegranates improves heart function by up to 80%, particularly for a type of heart failure with limited treatment options.",
