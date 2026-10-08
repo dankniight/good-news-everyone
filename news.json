@@ -1,50 +1,162 @@
 {
-  "lastUpdated": "2026-10-07T04:21:37.284807+00:00",
+  "lastUpdated": "2026-10-08T04:33:15.673688+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 100
+      "count": 105
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 17
+      "count": 18
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 16
+      "count": 17
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 26
+      "count": 28
     },
     {
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 15
+      "count": 16
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 24
+      "count": 26
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 19
+      "count": 21
     }
   ],
   "articles": [
+    {
+      "title": "Finland Orders Google to Suspend New Data Centers After Contractors Pave Over Protected Forests",
+      "summary": "A company spokesperson admitted they have \"fallen short of our own high standards.\"",
+      "link": "https://futurism.com/artificial-intelligence/finland-google-data-centers-forests-environment",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/finland-google-data-centers-forests-environment.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-07T19:58:01+00:00"
+    },
+    {
+      "title": "Strangers Showed Up to Man’s Destroyed House to Put Up a Tarp Having Seen His Televised Plea",
+      "summary": "After a storm dumped a silver maple tree down through his roof, Kansas resident Gilbert Kirk told local news that he wasn’t looking for a miracle or an insurance handout.",
+      "link": "https://www.goodnewsnetwork.org/strangers-showed-up-to-mans-destroyed-house-to-put-up-a-tarp-having-seen-his-televised-plea/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Gilbert-Kirk-is-interviewed-amid-work-by-his-neighbors-to-put-a-tarp-on-his-house-roof-credit-Steven-Vega-retrieved-from-Facebook.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-07T18:30:02+00:00"
+    },
+    {
+      "title": "California amps up pressure on grid buildouts that take too long",
+      "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Wednesday via Substack.",
+      "link": "https://www.canarymedia.com/articles/transmission/california-amps-grid-upgrades",
+      "image_url": "https://img.canarymedia.com/content/uploads/CW-transmission-16.9.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=02c73addbc47ca348e049a1e78707169",
+      "source": "Canary Media",
+      "published": "2026-10-07T17:00:00+00:00"
+    },
+    {
+      "title": "“Has No Friends”: Amazon Is Keeping Amazingly Detailed Records on Its Customers and They Are Downright Insulting",
+      "summary": "Here's how to check yours.",
+      "link": "https://futurism.com/future-society/amazon-detailed-records-customers-insulting",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/amazon-detailed-records-customers-insulting.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-07T16:54:19+00:00"
+    },
+    {
+      "title": "A Swarm of Seven Meteor Showers Will Light Up the Night Skies All October Long",
+      "summary": "October will feature nothing less than 7 separate meteor showers, but in terms of activity, one above all others merits an entry on your calendar.",
+      "link": "https://www.goodnewsnetwork.org/a-swarm-of-seven-meteor-showers-will-light-up-the-night-skies-all-october-long/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/09/man-at-night-in-stars-meteor-shower-space-pubdomain-Klemen-Vrankar.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-07T16:00:40+00:00"
+    },
+    {
+      "title": "Saudi Solar Park Proves Brilliant Breeding Ground for Threatened Sand Gazelles",
+      "summary": "In clearing two hurdles with one bound, Saudi conservationists have turned a large solar farm into a breeding shelter for a vulnerable species of native gazelle.",
+      "link": "https://www.goodnewsnetwork.org/saudi-solar-park-proves-brilliant-breeding-ground-for-threatened-sand-gazelles/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/supplied-by-the-Prince-bin-Salman-Nature-Reserve.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-07T13:00:15+00:00"
+    },
+    {
+      "title": "‘You’re Walking!’ – Dad Surprises Children Having Recovered Ability to Walk After Serious Brain Injury",
+      "summary": "After 3 years of recovery from a brain injury sustained in a car accident, a father surprised his children by walking independently again.",
+      "link": "https://www.goodnewsnetwork.org/youre-walking-dad-surprises-children-having-recovered-ability-to-walk-after-serious-brain-injury/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-screengrab-via-@glittersparkles.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-07T11:00:39+00:00"
+    },
+    {
+      "title": "A future worth building. What to expect in the new issue of Positive News magazine",
+      "summary": "From future-focused projects to secret schools, the people in this issue are choosing to act for a world they may never see",
+      "link": "https://www.positive.news/society/media/a-future-worth-building-what-to-expect-in-the-new-issue-of-positive-news-magazine/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/PN127-tile-shot-3x5_1200px.jpg",
+      "source": "Positive News",
+      "published": "2026-10-07T10:16:24+00:00"
+    },
+    {
+      "title": "The Northeast’s reliance on heating oil is turning into a crisis",
+      "summary": "There are many markers of fall: vibrant foliage, apple picking, and pumpkin-spiced everything, to name a few. Cranking up the heat is another.",
+      "link": "https://grist.org/solutions/the-northeasts-reliance-on-heating-oil-is-turning-into-a-crisis/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/09/diesel-fuel-record-high-all-time-price-united-states-iran-war.jpeg?quality=75&strip=all&w=768",
+      "source": "Grist",
+      "published": "2026-10-07T08:30:00+00:00"
+    },
+    {
+      "title": "What We’re Reading: California Joins the Balcony Solar Revolution",
+      "summary": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
+      "link": "https://reasonstobecheerful.world/what-were-reading-california-balcony-solar/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2024/04/grist-logo.png",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-10-07T08:00:46+00:00"
+    },
+    {
+      "title": "Connecticut’s solar ambitions hit skepticism from a major utility",
+      "summary": "Connecticut is trying to clean up its grid with more solar energy. But a major utility’s reluctance to commit to buying power from some projects is raising questions about the prospects for success.",
+      "link": "https://www.canarymedia.com/articles/solar/connecticut-solar-utility-skepticism",
+      "image_url": "https://img.canarymedia.com/content/uploads/BlueWave-solar-farm-MA_GettyImages-893157996.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a2b010c92ed9f7a47fcfe198c8e305fd",
+      "source": "Canary Media",
+      "published": "2026-10-07T07:30:00+00:00"
+    },
+    {
+      "title": "Good News in History, October 7",
+      "summary": "Happy 71st Birthday to the brilliant cellist Yo-Yo Ma, who was born in France. The Chinese-American musician was a child prodigy, performing from the age of five, when his mother, a singer, and father, a violinist, moved to New York City.",
+      "link": "https://www.goodnewsnetwork.org/events061007/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2014/10/yo-yo-ma-songs-from-the-arc-of-life-cover-grab.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-07T07:00:00+00:00"
+    },
+    {
+      "title": "Fatima Ezzahra El Mansouri becomes Morocco’s first woman prime minister",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM On September 29, King Mohammed VI appointed Fatima Ezzahra El Mansouri as Morocco’s prime minister, making the 50-year-old urban planner and longtime mayor of Marrakesh the first woman to hold the role in the kingdom’s history.",
+      "link": "https://www.optimistdaily.com/2026/10/fatima-ezzahra-el-mansouri-becomes-moroccos-first-woman-prime-minister/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/fatima-ezzahra-el-mansouri-portrait-683x1024.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-07T00:00:32+00:00"
+    },
+    {
+      "title": "How to choose running shoes: what a physical therapists wants you to know",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM The running boom shows no sign of slowing, and the shoe market has followed with thicker foams, carbon-fiber plates, and marketing claims that more technology means less injury and faster times.",
+      "link": "https://www.optimistdaily.com/2026/10/how-to-choose-running-shoes-what-a-physical-therapists-wants-you-to-know/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_168757080_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-07T00:00:27+00:00"
+    },
     {
       "title": "Oldest Man in Oregon Credits Clean Diet and “Good Mind” for Reaching 108-years Young",
       "summary": "A man who’s believed to be the oldest individual in the state of Oregon recently rung in 108-years-young with a cake and some words of wisdom.",
@@ -97,7 +209,7 @@
       "title": "The future of commuter rail could be taking shape in Boston",
       "summary": "Marvin Martin was in the Four Corners area of Dorchester one day when a train sped by on the Fairmount Line into downtown Boston.",
       "link": "https://grist.org/solutions/the-future-of-commuter-rail-could-be-taking-shape-in-boston/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/03/Caltrain-electrification-electric-trains-transit-rail.jpeg",
+      "image_url": "https://grist.org/wp-content/uploads/2026/03/Caltrain-electrification-electric-trains-transit-rail.jpeg?quality=75&strip=all&w=768",
       "source": "Grist",
       "published": "2026-10-06T08:45:00+00:00"
     },
@@ -273,7 +385,7 @@
       "title": "To win over locals, data centers pump $340M into rural Texas projects",
       "summary": "A new water tower in Turkey: $3 million. Upgrades for a museum in Stamford: $400,000. A first responders appreciation barbecue in Medina County: $10,000.",
       "link": "https://grist.org/accountability/to-win-over-locals-data-centers-pump-340m-into-rural-texas-projects/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/08/GettyImages-2276899078.jpg",
+      "image_url": "https://grist.org/wp-content/uploads/2026/08/GettyImages-2276899078.jpg?quality=75&strip=all&w=768",
       "source": "Grist",
       "published": "2026-10-04T13:00:00+00:00"
     },
@@ -713,7 +825,7 @@
       "title": "Brightline shows people want more trains. But who will pay for them?",
       "summary": "The first thing Brightline wants you to know about its bankruptcy is that the trains will keep running. “BUSINESS AS USUAL,” read a message the company sent to customers after filing for Chapter 11 bankruptcy protection.",
       "link": "https://grist.org/solutions/brightline-shows-people-want-more-trains-but-who-will-pay-for-them/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/07/California-high-speed-rail-private-funding-bullet-train.jpeg",
+      "image_url": "https://grist.org/wp-content/uploads/2026/07/California-high-speed-rail-private-funding-bullet-train.jpeg?quality=75&strip=all&w=768",
       "source": "Grist",
       "published": "2026-09-28T15:20:00+00:00"
     },
