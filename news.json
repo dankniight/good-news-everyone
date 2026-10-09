@@ -1,50 +1,146 @@
 {
-  "lastUpdated": "2026-10-08T04:33:15.673688+00:00",
+  "lastUpdated": "2026-10-09T04:36:35.653973+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 105
+      "count": 110
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 18
+      "count": 19
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 17
+      "count": 18
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 28
+      "count": 30
     },
     {
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 16
+      "count": 17
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 26
+      "count": 27
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 21
+      "count": 22
     }
   ],
   "articles": [
+    {
+      "title": "The bipartisan energy bill tearing the climate movement apart",
+      "summary": "In order to solve climate change, you have to do two things — stop burning fossil fuels, and build clean energy to replace them.",
+      "link": "https://grist.org/politics/permitting-reform-baaja-climate-debate-clean-energy-fossil-fuels/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/10/representative_jared_huffman_california.jpg",
+      "source": "Grist",
+      "published": "2026-10-08T20:19:26+00:00"
+    },
+    {
+      "title": "Nearly 200-year-old Tortoise Becomes First to Contribute Extraordinary Epigenome to Aging Research",
+      "summary": "A giant tortoise called Jonathan reinforces what we know from humans about healthy aging, say scientists, only the difference is that Jon is almost 200.",
+      "link": "https://www.goodnewsnetwork.org/nearly-200-year-old-tortoise-becomes-first-to-contribute-extraordinary-epigenome-to-aging-research/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/12/Jonathan-oldest-tortoise-by-St-Helena-Tourism.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-08T18:30:07+00:00"
+    },
+    {
+      "title": "NYC Parks Extends Late Night Soccer at 5 Fields for Night Workers–And Their Reactions Are Awesome (WATCH)",
+      "summary": "New York City authorities decided to leave the lights on at 5 urban soccer pitches around the city, hoping to even the playing field of recreation opportunities for those who work late.",
+      "link": "https://www.goodnewsnetwork.org/nyc-parks-extends-late-night-soccer-at-5-fields-for-night-workers-and-their-reactions-are-awesome-watch/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-NYC-Mayors-Office.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-08T15:30:39+00:00"
+    },
+    {
+      "title": "Influencers Are Promoting Cheap Dupes of Meta AI Glasses that Don’t Have the “Annoying Blinking Light” When They Record",
+      "summary": "\"I'm recording you right now and you probably can't even tell, because these don't have that annoying blinking light.\"",
+      "link": "https://futurism.com/artificial-intelligence/influencers-promoting-cheap-dupes-meta-glasses-light",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/influencers-promoting-cheap-dupes-meta-glasses-light.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-08T14:51:43+00:00"
+    },
+    {
+      "title": "Neighbors Flock to Rescue a Wounded Owl Tangled Up in Barbed Wire",
+      "summary": "From the Cowboy State Daily comes the story of a rural community flocking to the side of an injured owl and rescuing it from a dreadful fate.",
+      "link": "https://www.goodnewsnetwork.org/neighbors-flock-to-rescue-a-wounded-owl-tangled-up-in-barbed-wire/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/The-Black-Hills-Raptor-Center-rehabilitated-great-horned-owl-Courtesy-Scott-Jacobs-via-Cowboy-State-Daily.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-08T13:00:03+00:00"
+    },
+    {
+      "title": "Prince William launches kit to help communities prepare for emergencies",
+      "summary": "The free, how-to resource shows people how to build resilience in their communities",
+      "link": "https://www.positive.news/society/prince-william-launches-kit-to-help-communities-prepare-for-emergencies/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/55573230610_ccd534dc38_k-e1791457252615.jpg",
+      "source": "Positive News",
+      "published": "2026-10-08T11:27:24+00:00"
+    },
+    {
+      "title": "More Than 14,000 Derelict Explosives Cleared from Libyan City and Nearby Farmland",
+      "summary": "Demining operations have cleared just over 14,000 pieces of derelict explosives in a coastal Libyan city this year.",
+      "link": "https://www.goodnewsnetwork.org/more-than-14000-derelict-explosives-cleared-from-libyan-city-and-nearby-farmland/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/An-ammunition-depot-in-Misratah-Libya-credit-UN-Photo-UNSMIL.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-08T11:00:03+00:00"
+    },
+    {
+      "title": "How NYC Students Saved School Lunch",
+      "summary": "There were three clear reasons why Leslie Gomez Rivera avoided the cafeteria at her high school in Brooklyn: She didn’t like the food, the room felt hectic and there was a stigma attached to eating school meals.",
+      "link": "https://reasonstobecheerful.world/how-nyc-students-saved-school-lunch/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/YFA-Leadership-training-1-scaled.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-10-08T08:00:50+00:00"
+    },
+    {
+      "title": "A new group to help US small towns lead the clean energy transition",
+      "summary": "As the mayor of tiny Enfield, North Carolina, Mondale Robinson has huge clean energy ambitions . Among them: building a solar farm to power the entire town of about 2,000, replacing the town’s decrepit substation to distribute those renewable electrons, and building a thermal energy network to…",
+      "link": "https://www.canarymedia.com/articles/clean-energy/new-group-small-towns-clean-energy",
+      "image_url": "https://img.canarymedia.com/content/uploads/Mayor-Mondale-Robinson-at-substation_image_2026-10-07-211756_bzmd.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=9c2c1b7be4a9235c7a049000b029b12c",
+      "source": "Canary Media",
+      "published": "2026-10-08T07:30:00+00:00"
+    },
+    {
+      "title": "Good News in History, October 8",
+      "summary": "81 years ago toady, the microwave oven was patented by Percy Spencer. The self-taught engineer from Howland, Maine, employed by Raytheon at the time, noticed that microwaves from an active radar set he was working on started to melt a Mr.",
+      "link": "https://www.goodnewsnetwork.org/events061008/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/Jo-Lizzy-CC-2.0-e1694081991377.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-08T07:00:00+00:00"
+    },
+    {
+      "title": "Berlin mapped 900,000 street trees. Now 12,000 people water them.",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Amanda Gläser-Bligh named her street tree Linda. Linda is a linden, eight years old, growing outside Gläser-Bligh’s apartment building in Charlottenburg, and once a week during Berlin’s hot months, Gläser-Bligh makes a couple of trips up and down the stairs with…",
+      "link": "https://www.optimistdaily.com/2026/10/berlin-mapped-900000-street-trees-now-12000-people-water-them/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_199512700_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-08T00:00:55+00:00"
+    },
+    {
+      "title": "London’s Oxford Street gets fully pedestrianized this month: here’s what that means",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Oxford Street, one of the busiest shopping streets in the world, goes traffic-free on October 26.",
+      "link": "https://www.optimistdaily.com/2026/10/londons-oxford-street-gets-fully-pedestrianized-this-month-heres-what-that-means/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_29807437_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-08T00:00:44+00:00"
+    },
     {
       "title": "Finland Orders Google to Suspend New Data Centers After Contractors Pave Over Protected Forests",
       "summary": "A company spokesperson admitted they have \"fallen short of our own high standards.\"",
@@ -510,7 +606,7 @@
       "published": "2026-10-02T07:00:00+00:00"
     },
     {
-      "title": "What went right this week: the good news that matters",
+      "title": "What went right this week: the ‘alternative Nobel prize’, plus more",
       "summary": "The ‘alternative Nobel prize’, global progress on ageism, and a boost for gorillas, plus more",
       "link": "https://www.positive.news/society/democracy/good-news-stories-from-week-40-of-2026/",
       "image_url": "https://www.positive.news/wp-content/uploads/2026/10/RS24644_Timnit-Gebru-2026-right-livelihood-laureate-002.jpg",
