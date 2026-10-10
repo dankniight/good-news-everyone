@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-10-09T04:36:35.653973+00:00",
+  "lastUpdated": "2026-10-10T04:22:28.310702+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 110
+      "count": 115
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 19
+      "count": 22
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 18
+      "count": 19
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 30
+      "count": 33
     },
     {
       "name": "Grist",
@@ -35,16 +35,136 @@
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 27
+      "count": 26
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 22
+      "count": 24
     }
   ],
   "articles": [
+    {
+      "title": "NPR-Inspired Homework Leads Teen to Find Hidden Message a Decade After a Stranger’s Kindness",
+      "summary": "From Seattle’s chapter of National Public Radio comes the remarkable story of the kindness of strangers immortalized in an origami crane.",
+      "link": "https://www.goodnewsnetwork.org/npr-inspired-homework-leads-teen-to-find-hidden-message-a-decade-after-a-strangers-kindness/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/courtesy-of-Mika-Matsuda-supplied-to-KUOW.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-09T18:30:46+00:00"
+    },
+    {
+      "title": "Clean-energy super PAC names its target list for general elections",
+      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Midterm elections are less than a month away.",
+      "link": "https://www.canarymedia.com/articles/politics/clean-energy-super-pac-target",
+      "image_url": "https://img.canarymedia.com/content/uploads/GettyImages-2278694786.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=0f2047773ec06fb1bfdf49b11813f9c5",
+      "source": "Canary Media",
+      "published": "2026-10-09T17:33:00+00:00"
+    },
+    {
+      "title": "Chinese High-Speed Rail Station Breaks World Record, Serving One Million Riders in a Single Day",
+      "summary": "Jaw-dropping.",
+      "link": "https://futurism.com/advanced-transport/china-high-speed-rail-record-million-riders",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/chinese-rail-station-breaks-world-record-riders.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-09T16:49:02+00:00"
+    },
+    {
+      "title": "Podcast Transcript October 9th, 2026— (Guest Interview) A place to breathe: inside #CreateConnectCare, the youth mental health program giving young people a voice | World Mental Health Day 2026",
+      "summary": "Episode Description: If you have a teenager in your life and you’ve felt them pull away from conversations you used to have easily, this episode is for you.",
+      "link": "https://www.optimistdaily.com/2026/10/podcast-transcript-october-9th-2026-guest-interview-a-place-to-breathe-inside-createconnectcare-the-youth-mental-health-program-giving-young-people-a-voice-world-mental-health-day-202/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Podcast-Logo-3000-×-3000-px-2-12-1024x1024.png",
+      "source": "The Optimist Daily",
+      "published": "2026-10-09T16:30:08+00:00"
+    },
+    {
+      "title": "Meta Won’t Say If It Violates Its Policies to Upload AI-Generated Videos of Sobbing Little Children Begging for Likes and Follows So They Don’t Get Arrested by Police",
+      "summary": "\"You don't have enough followers and shares on your videos,\" the officer explains. \"If the person watching this video follows and shares, then you will be free.\"",
+      "link": "https://futurism.com/artificial-intelligence/meta-facebook-ai-generated-videos-sobbing-children-begging-arrested",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/meta-facebook-ai-generated-videos-sobbing-children-begging-arrested.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-09T16:04:38+00:00"
+    },
+    {
+      "title": "Australia Announces 3 New National Parks to Protect Gliders, Owls, and Other Victoria Wildlife",
+      "summary": "More than 250 square miles of forests at the center of Victoria state in Australia have become new national parks.",
+      "link": "https://www.goodnewsnetwork.org/australia-announces-3-new-national-parks-to-protect-gliders-owls-and-other-victoria-wildlife/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Lederderg-River-in-Wombat-Forest-credit-Sandy-Scheltema-via-Victorian-National-Parks-Association-all-rights-reserved.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-09T15:30:11+00:00"
+    },
+    {
+      "title": "Local Opinion and Involvement Found as Key Determinant in World’s Conservation Success Stories",
+      "summary": "Scientists seeking out why some endangered animals or ecosystems are thriving while others are in decline have made an encouraging determination.",
+      "link": "https://www.goodnewsnetwork.org/local-opinion-and-involvement-found-as-key-determinant-in-worlds-conservation-success-stories/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Professor-Josh-Cinner-working-on-coral-reef-conservation-with-local-community-in-PNG.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-09T13:00:08+00:00"
+    },
+    {
+      "title": "‘I can breathe again’. Readers share their experiences of a more balanced media diet",
+      "summary": "We often talk about the impact journalism has on democracy and how we understand the world. But what about its impact on how we feel?",
+      "link": "https://www.positive.news/society/media/readers-share-their-experiences-of-a-more-balanced-media-diet/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/shutterstock_1458127130-scaled.jpg",
+      "source": "Positive News",
+      "published": "2026-10-09T12:45:19+00:00"
+    },
+    {
+      "title": "World’s Largest ‘Glacial Archeology’ Expedition Recovers 48 Stone Age Arrowheads and Shafts",
+      "summary": "In a mountainous region of southern Norway, scientists are in their 20th year of surveying glaciers for ancient artifacts entombed therein.",
+      "link": "https://www.goodnewsnetwork.org/worlds-largest-glacial-archeology-expedition-recovers-48-stone-age-arrowheads-and-shafts/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/14.-Complete-arrow-with-arrowhead-and-shaft.-Photo.-Espen-Finstad-Innlandet-County-Municipality-Secrets-of-The-Ice.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-09T11:00:30+00:00"
+    },
+    {
+      "title": "Gen Z Is Rescuing Millions in Medical Supplies",
+      "summary": "In early August, a freight truck pulled up to an OhioHealth facility in Columbus and took roughly 30,000 pounds of N95 masks and hot-and-cold packs, all boxed, sealed and stamped with expiration dates still a year or two out.",
+      "link": "https://reasonstobecheerful.world/gen-z-is-rescuing-millions-in-medical-supplies/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/DSC5239-1-scaled.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-10-09T08:00:14+00:00"
+    },
+    {
+      "title": "Three surprising reasons to slow down for a thoughtful, nutritious breakfast",
+      "summary": "From cognitive function to reinforcing family bonds, the benefits of making time for good, whole foods in the morning are plentiful",
+      "link": "https://www.positive.news/environment/food/three-surprising-reasons-to-slow-down-for-a-thoughtful-nutritious-breakfast/",
+      "image_url": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/iStock-1355162946.jpg",
+      "source": "Positive News",
+      "published": "2026-10-09T07:00:26+00:00"
+    },
+    {
+      "title": "Good News in History, October 9",
+      "summary": "On this day, in Game 2 of the 1909 World Series, Ty Cobb stole home base. The details around this famous of all capers are what make it so.",
+      "link": "https://www.goodnewsnetwork.org/events061009/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/Cobb-slides-into-third-base-for-a-triple-against-the-Washington-Senators-at-Griffith-Stadium-August-16-1924-Pub-domain.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-09T07:00:00+00:00"
+    },
+    {
+      "title": "What went right this week: the good news that matters",
+      "summary": "A pivotal moment for climate justice in Australia, the Nobel prize winners, and a promising drug for Parkinson’s, plus more",
+      "link": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/shutterstock_1156815706.jpg",
+      "source": "Positive News",
+      "published": "2026-10-09T05:09:55+00:00"
+    },
+    {
+      "title": "The floating scarecrow saving seabirds from fishing nets",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM A bird-shaped kite and a floating scarecrow with spinning eyes reduced seabird deaths in Cornish fishing nets by up to 71 percent in a two-year trial.",
+      "link": "https://www.optimistdaily.com/2026/10/the-floating-scarecrow-saving-seabirds-from-fishing-nets/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_534880686_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-09T00:00:41+00:00"
+    },
+    {
+      "title": "Coffee’s memory boosting effect might have nothing to do with caffeine, study suggests",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM In a small experiment, researchers found that only participants who drank decaffeinated coffee showed significant improvements on memory tests.",
+      "link": "https://www.optimistdaily.com/2026/10/coffees-memory-boosting-effect-might-have-nothing-to-do-with-caffeine-study-suggests/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_59305845_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-09T00:00:24+00:00"
+    },
     {
       "title": "The bipartisan energy bill tearing the climate movement apart",
       "summary": "In order to solve climate change, you have to do two things — stop burning fossil fuels, and build clean energy to replace them.",
@@ -54,8 +174,8 @@
       "published": "2026-10-08T20:19:26+00:00"
     },
     {
-      "title": "Nearly 200-year-old Tortoise Becomes First to Contribute Extraordinary Epigenome to Aging Research",
-      "summary": "A giant tortoise called Jonathan reinforces what we know from humans about healthy aging, say scientists, only the difference is that Jon is almost 200.",
+      "title": "Nearly 200-year-old Tortoise Becomes First to Contribute Extraordinary Epigenome to Research on Aging",
+      "summary": "A giant tortoise called Jonathan reinforces what we know about humans and healthy aging, say scientists—especially because Jon is almost 200.",
       "link": "https://www.goodnewsnetwork.org/nearly-200-year-old-tortoise-becomes-first-to-contribute-extraordinary-epigenome-to-aging-research/",
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/12/Jonathan-oldest-tortoise-by-St-Helena-Tourism.jpg",
       "source": "Good News Network",
@@ -1972,22 +2092,6 @@
       "image_url": "https://img.canarymedia.com/content/uploads/Dont-Mess-With-Solar-billboard-truck-DCGettyImages-2280948571.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5b28c7d2c258e3955157c47f9827198b",
       "source": "Canary Media",
       "published": "2026-09-01T07:30:00+00:00"
-    },
-    {
-      "title": "As Ohio grapples with fake comments on clean energy, some want crackdown",
-      "summary": "A troubling trend has shown up in some communities around the U.S.: Public officials are being inundated with seemingly fake public feedback that aims to block renewable energy and promote fossil fuels.",
-      "link": "https://www.canarymedia.com/articles/clean-energy/ohio-fake-comments-clean-energy",
-      "image_url": "https://img.canarymedia.com/content/uploads/Kentucky-agrivoltaics_GettyImages-2285914518.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=c789f0dc1d98b2f2246f557b8c0fb4a7",
-      "source": "Canary Media",
-      "published": "2026-08-25T07:30:00+00:00"
-    },
-    {
-      "title": "Solar delivers as Europe’s power plants struggle amid heat and drought",
-      "summary": "This story was originally published by Grist . Sign up for Grist’s newsletter. Repeated record-breaking heat waves cooked the European continent this summer, delivering the region’s hottest June on record.",
-      "link": "https://www.canarymedia.com/articles/solar/solar-delivers-europe-heat-drought",
-      "image_url": "https://img.canarymedia.com/content/uploads/Grist_Solar-europe-e1787100037991.webp?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=10c3aff51d8d03010a7a1a46bbcc969c",
-      "source": "Canary Media",
-      "published": "2026-08-25T07:30:00+00:00"
     }
   ]
 }
