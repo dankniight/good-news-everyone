@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-10T04:22:28.310702+00:00",
+  "lastUpdated": "2026-10-11T04:03:07.960692+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 115
+      "count": 120
     },
     {
       "name": "Positive News",
@@ -29,7 +29,7 @@
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 17
+      "count": 18
     },
     {
       "name": "Canary Media",
@@ -41,10 +41,66 @@
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 24
+      "count": 25
     }
   ],
   "articles": [
+    {
+      "title": "Sloth Bear Named By Julia Roberts is Flourishing After Rescue From Dancing Trade in India",
+      "summary": "A sloth bear that made headlines when it was given a name by Julia Roberts after being saved from abuse is now flourishing, according to a rescue charity.",
+      "link": "https://www.goodnewsnetwork.org/sloth-bear-given-a-name-by-julia-roberts-is-flourishing/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/A-sloth-bear-named-Odum-by-Intl-Animal-Rescue-and-Wildlife-SOS-via-SWNS.jpeg",
+      "source": "Good News Network",
+      "published": "2026-10-10T19:57:53+00:00"
+    },
+    {
+      "title": "One of America’s Last Remaining Chestnut Groves Could Soon Be Wiped Out to Make Room for an AI Data Center",
+      "summary": "It's \"one of the largest single AI infrastructure investments in US history.\"",
+      "link": "https://futurism.com/artificial-intelligence/chestnut-grove-last-remaining-anthropic-ai-data-center",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/chestnut-grove-last-remaining-anthropic-ai-data-center.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-10T17:01:00+00:00"
+    },
+    {
+      "title": "Daughter Gets to Join Dad as Co-Pilot, With Mom Serving on Flight’s Cabin Crew: A Surprise Full Circle Moment",
+      "summary": "A young pilot flew a commercial jet alongside her father as captain for the first time—while her mother worked in the cabin crew on the same flight.",
+      "link": "https://www.goodnewsnetwork.org/daughter-gets-to-join-dad-as-co-pilot-with-mom-serving-on-cabin-crew/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Family-is-airline-crew-released-by-Zoe-de-Bruijn-via-SWNS.jpeg",
+      "source": "Good News Network",
+      "published": "2026-10-10T15:25:15+00:00"
+    },
+    {
+      "title": "Lost Italian Statue by Trevi Fountain Artist Discovered in Salvage Yard Among the Garden Ornaments",
+      "summary": "A Roman artifact from the Italian sculptor responsible for the Trevi Fountain was discovered in a reclamation yard for a mere 300 British pounds ($400).",
+      "link": "https://www.goodnewsnetwork.org/lost-italian-statue-by-trevi-fountain-artist-discovered-in-salvage-yard/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Model-detail-by-Baroque-master-Pietro-Bracci-of-Pope-Clement-XII-circa-1736-Woolley-and-Wallis-SWNS.jpeg",
+      "source": "Good News Network",
+      "published": "2026-10-10T13:46:41+00:00"
+    },
+    {
+      "title": "Fifty billion seedlings: Can Ethiopia replant its ravaged forests?",
+      "summary": "Niku Argane’s farm sits on a steep hillside in central Ethiopia’s semi-mountainous Gurage Zone, where years of flooding have carved deep gullies through the land.",
+      "link": "https://grist.org/solutions/fifty-billion-seedlings-can-ethiopia-replant-its-ravaged-forests/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/10/Ethiopia-Planting_Clayton.webp",
+      "source": "Grist",
+      "published": "2026-10-10T13:00:00+00:00"
+    },
+    {
+      "title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
+      "summary": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+      "link": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-10-2026/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-10T10:00:59+00:00"
+    },
+    {
+      "title": "Good News in History, October 10",
+      "summary": "63 years ago today, the second, and often considered best film starring James Bond, was released as From Russia With Love.",
+      "link": "https://www.goodnewsnetwork.org/events061010/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/From_Russia_with_Love_–_UK_cinema_poster.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-10T07:00:00+00:00"
+    },
     {
       "title": "NPR-Inspired Homework Leads Teen to Find Hidden Message a Decade After a Stranger’s Kindness",
       "summary": "From Seattle’s chapter of National Public Radio comes the remarkable story of the kindness of strangers immortalized in an origami crane.",
