@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-11T04:03:07.960692+00:00",
+  "lastUpdated": "2026-10-12T04:22:32.375435+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 120
+      "count": 124
     },
     {
       "name": "Positive News",
@@ -41,10 +41,66 @@
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 25
+      "count": 28
     }
   ],
   "articles": [
+    {
+      "title": "New Way to Relieve Arthritic Knees Without Drugs or Surgery by Changing Your Gait",
+      "summary": "Scientists are reporting that a simple adjustment to how people walk can relieve knee arthritis pain as effectively as prescription drugs—while also slowing the deterioration of cartilage.",
+      "link": "https://www.goodnewsnetwork.org/new-way-to-relieve-arthritic-knees-without-drugs-or-surgery-by-changing-your-gait/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Knee-pain-from-arthritis-by-Getty-Images-For-Unsplash-Zfi2Hb_qlaY.jpeg",
+      "source": "Good News Network",
+      "published": "2026-10-11T22:18:55+00:00"
+    },
+    {
+      "title": "The AI Data Center Boom Is Causing a Gigantic Spike in Smog-Spewing Gas Power Plants",
+      "summary": "\"These facilities could lock America into decades of continued fossil fuel dependence.\"",
+      "link": "https://futurism.com/future-society/ai-data-center-boom-smog-spewing-gas-power",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/ai-data-center-boom-smog-spewing-gas-power.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-11T17:01:00+00:00"
+    },
+    {
+      "title": "Giant Tortoise Population is Thriving–Survey Finds 180,000 on One Island Chain",
+      "summary": "A landmark survey of the world’s largest free-roaming giant tortoise population has revealed the once-endangered species is now thriving.",
+      "link": "https://www.goodnewsnetwork.org/giant-tortoise-population-is-thriving-survey-finds-180000-on-one-island-chain/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Giant-Tortoises-in-the-Seychelles-SWNS.jpeg",
+      "source": "Good News Network",
+      "published": "2026-10-11T16:11:41+00:00"
+    },
+    {
+      "title": "Amid Terrifying Readings, Experts Fear El Niño Is About to Wreak Havoc",
+      "summary": "\"The warning lights are flashing.\"",
+      "link": "https://futurism.com/science-energy/experts-fear-el-nino-wreak-havoc",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/experts-fear-el-nino-wreak-havoc.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-11T16:01:00+00:00"
+    },
+    {
+      "title": "Statins May Protect People From Glaucoma or Blindness By Preventing or Slowing Nerve Cell Death",
+      "summary": "Statins may be protecting people from more than just cholesterol, suggests new research from the University of California in San Diego.",
+      "link": "https://www.goodnewsnetwork.org/statin-drugs-may-protect-people-from-glaucoma/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/04/eye-sight-eyeball-pubdomain-Vanessa-Bumbeers.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-11T15:20:19+00:00"
+    },
+    {
+      "title": "Tesla Factory Planning Massive Increase of Toxic Heavy Metal Emissions Near Elementary School",
+      "summary": "\"This will include toxic metals such as arsenic, beryllium, and cadmium.\"",
+      "link": "https://futurism.com/advanced-transport/tesla-factory-toxic-emissions-elementary-school-california",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/tesla-factory-toxic-emissions-elementary-school-california.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-11T11:01:00+00:00"
+    },
+    {
+      "title": "Good News in History, October 11",
+      "summary": "51 years ago today, Saturday Night Live premiered on NBC with George Carlin as host. The seminal comedy television program in American history, SNL has launched the careers of dozens of talented writers, comics, and actors.",
+      "link": "https://www.goodnewsnetwork.org/events061011/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2014/10/chevy-chase-weekend-update.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-11T07:00:00+00:00"
+    },
     {
       "title": "Sloth Bear Named By Julia Roberts is Flourishing After Rescue From Dancing Trade in India",
       "summary": "A sloth bear that made headlines when it was given a name by Julia Roberts after being saved from abuse is now flourishing, according to a rescue charity.",
@@ -231,7 +287,7 @@
     },
     {
       "title": "Nearly 200-year-old Tortoise Becomes First to Contribute Extraordinary Epigenome to Research on Aging",
-      "summary": "A giant tortoise called Jonathan reinforces what we know about humans and healthy aging, say scientists—especially because Jon is almost 200.",
+      "summary": "A giant tortoise called Jonathan reinforces what we know about humans and healthy aging, say scientists—especially because Jonathan is nearly 200 years old.",
       "link": "https://www.goodnewsnetwork.org/nearly-200-year-old-tortoise-becomes-first-to-contribute-extraordinary-epigenome-to-aging-research/",
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/12/Jonathan-oldest-tortoise-by-St-Helena-Tourism.jpg",
       "source": "Good News Network",
