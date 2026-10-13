@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-10-12T04:22:32.375435+00:00",
+  "lastUpdated": "2026-10-13T05:30:59.490863+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 124
+      "count": 129
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 22
+      "count": 23
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 19
+      "count": 20
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 33
+      "count": 35
     },
     {
       "name": "Grist",
@@ -35,7 +35,7 @@
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 26
+      "count": 27
     },
     {
       "name": "Futurism",
@@ -45,6 +45,86 @@
     }
   ],
   "articles": [
+    {
+      "title": "Montana High School Softball Player Discovered Long-Lost Sister on Opposing Team",
+      "summary": "A softball diamond in Montana was the scene of a larger-than-life family reunion. Like something out of Field of Dreams, a teen softball player had lined up against an out-of-state team for an August match—and her long-lost biological sister was on the opposite roster.",
+      "link": "https://www.goodnewsnetwork.org/montana-high-school-softball-player-discovered-long-lost-sister-on-opposing-team/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Kyann-Dean-left-and-Samantha-Rensvold-right-credit-Rensvold-family-photo.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-12T18:30:44+00:00"
+    },
+    {
+      "title": "‘Like Caring for a Pet’ – the App That Lets You Know if Your Neighborhood Tree Is Thirsty",
+      "summary": "An open-source app has thousands of Berliners adopting and watering city trees as if they were their pets, helping keep the city green amid repeated summer heatwaves.",
+      "link": "https://www.goodnewsnetwork.org/like-caring-for-a-pet-the-app-that-lets-you-know-if-your-neighborhood-tree-is-thirsty/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Thanh-Thu-Nguyen-CityLAB-Berlin.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-12T15:30:39+00:00"
+    },
+    {
+      "title": "Teen’s Wish to Return Kindness She Received Sees Her Lemonade Stand Become $5 Million Charity Engine",
+      "summary": "When summer’s heat becomes too much to bear, a glass of iced lemonade is a welcome relief, but what tens of thousands across Ohio have learned is that lemonade can provide a different sort of relief as well.",
+      "link": "https://www.goodnewsnetwork.org/teens-wish-to-return-kindness-she-received-sees-her-lemonade-stand-become-5-million-charity-engine/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Patyons-Lemonade-Stand.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-12T12:30:49+00:00"
+    },
+    {
+      "title": "Putting a ring on it: the plan to green London’s beloved edges",
+      "summary": "Ten million people will benefit from a more biodiverse capital, say the organisers of an ambitious project to reconnect its wilder spaces",
+      "link": "https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/iStock-471932407.jpg",
+      "source": "Positive News",
+      "published": "2026-10-12T09:55:22+00:00"
+    },
+    {
+      "title": "Can Students and Teachers Learn to Trust Each Other in the Age of A.I.?",
+      "summary": "“I’m worried if I use an em dash they’ll think it’s A.I.,” I told my mom from where I sat at the kitchen counter, trying to work on one of my college essays.",
+      "link": "https://reasonstobecheerful.world/can-students-and-teachers-learn-to-trust-each-other-in-the-age-of-ai/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/Body-image-1-idea-1-Paper-scaled.jpeg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-10-12T08:00:25+00:00"
+    },
+    {
+      "title": "With scaled-back plans, green banks navigate Trump’s funding freeze",
+      "summary": "A community solar project built for New Orleans’ oldest historically Black Catholic order of nuns. An all-electric affordable housing complex in Salt Lake City.",
+      "link": "https://www.canarymedia.com/articles/climatetech-finance/green-banks-progress-trump-funding-freeze",
+      "image_url": "https://img.canarymedia.com/content/uploads/Sisters-of-the-Holy-Family-community-solar-nun-in-foreground-courtesy-Together-New-Orleans.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=102ad73cb69b806a5e51017716acafd8",
+      "source": "Canary Media",
+      "published": "2026-10-12T07:30:00+00:00"
+    },
+    {
+      "title": "Good News in History, October 12",
+      "summary": "81 years ago today, Desmond Doss became the only conscientious objector to win the Medal of Honor after saving an estimated 75 men during the Battle of Hacksaw Ridge in the invasion of Okinawa.",
+      "link": "https://www.goodnewsnetwork.org/events061012/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/Corporal-Doss-receiving-the-Medal-of-Honor-from-President-Harry-S.-Truman-on-October-12-1945.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-12T07:00:00+00:00"
+    },
+    {
+      "title": "Family Sells 650 Acres on East Texas Lake to Become State Park, Saying Land is ‘Part of my soul’",
+      "summary": "A “gem” of a landscape in eastern Texas has been sold by its multigenerational owners for the purpose of becoming a state park.",
+      "link": "https://www.goodnewsnetwork.org/family-sells-650-acres-on-east-texas-lake-to-become-state-park-saying-land-is-part-of-my-soul/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Sunset-on-Lake-Palestine-credit-TexasLand-provided-to-TPWF-as-a-courtesy.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-12T06:21:02+00:00"
+    },
+    {
+      "title": "How to quiet performance anxiety, according to sport psychology",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM You know that moment. The job interview is starting in 30 seconds, and your brain decides now is the perfect time to replay every mistake you’ve ever made.",
+      "link": "https://www.optimistdaily.com/2026/10/how-to-quiet-performance-anxiety-according-to-sport-psychology/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_72551725_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-12T00:00:56+00:00"
+    },
+    {
+      "title": "Australia sets a new renewable energy record, with rooftop solar leading the way",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM On Saturday, September 22, solar and wind met 80.4 percent of demand on Australia’s national electricity market, with the grid covering the eastern states, South Australia, and the Australian Capital Territory.",
+      "link": "https://www.optimistdaily.com/2026/10/australia-sets-a-new-renewable-energy-record-with-rooftop-solar-leading-the-way/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_9578065_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-12T00:00:55+00:00"
+    },
     {
       "title": "New Way to Relieve Arthritic Knees Without Drugs or Surgery by Changing Your Gait",
       "summary": "Scientists are reporting that a simple adjustment to how people walk can relieve knee arthritis pain as effectively as prescription drugs—while also slowing the deterioration of cartilage.",
