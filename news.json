@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-10-13T05:30:59.490863+00:00",
+  "lastUpdated": "2026-10-14T03:34:35.676364+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 129
+      "count": 134
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 23
+      "count": 24
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 20
+      "count": 21
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 35
+      "count": 37
     },
     {
       "name": "Grist",
@@ -45,6 +45,78 @@
     }
   ],
   "articles": [
+    {
+      "title": "Scientists Shocked to Discover ‘D-rex’, a Giant Fungus from Chinese Forests Dating Back 65 Million Years",
+      "summary": "Deep in the forests of southwest China, scientists have discovered a ‘fungal giant’ that challenges our understanding of how large fungi can become.",
+      "link": "https://www.goodnewsnetwork.org/scientists-shocked-to-discover-d-rex-a-giant-fungus-from-chinese-forests-dating-back-65-million-years/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/pictured-the-stromata-of-Dianjunus-rex-in-the-field.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-13T18:30:53+00:00"
+    },
+    {
+      "title": "Italian Bio-methane Plant Comes Online, Providing Renewable Gas to Over 3,000 Homes",
+      "summary": "A European energy developer has switched on a major biomethane plant in southern Italy that will save some 9,000 tons of CO2 annually by producing a natural gas substitute with agricultural waste.",
+      "link": "https://www.goodnewsnetwork.org/italian-biomethane-plant-comes-online-providing-renewable-gas-supply-to-over-3000-homes/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/The-Grottole-biomethane-plant-operated-by-Axpo-credit-Axpo-released.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-13T15:30:50+00:00"
+    },
+    {
+      "title": "Barbie Honors Serena Williams with New Signature Doll to Serve Inspiration to Next Generation of Women",
+      "summary": "Barbie has released a signature edition doll of none other than tennis legend Serena Williams. The release came in tandem with news that Williams officially joined Team Barbie, a group of powerful female athletes and role models who inspire and uplift as women, as leaders, and as the iconic dolls.",
+      "link": "https://www.goodnewsnetwork.org/barbie-honors-serena-williams-with-new-signature-doll-to-serve-inspiration-to-next-generation-of-women/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/released-by-Barbie.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-13T13:00:10+00:00"
+    },
+    {
+      "title": "Elderly Theater Worker Surprised by $146,000 for Her Retirement Crowdfunded by Young Moviegoer",
+      "summary": "It’s becoming something of a trend: young people encountering elders working long past retirement age and raising thousands for them to finally take a rest.",
+      "link": "https://www.goodnewsnetwork.org/elderly-theater-worker-surprised-with-146000-for-retirement-crowdfunded-by-young-moviegoer/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Mary-the-theater-worker-credit-GoFundMe.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-13T11:00:52+00:00"
+    },
+    {
+      "title": "The ‘in awe’ artist painting a wilder Britain",
+      "summary": "Rebecca Howard’s paintings capture a wilder Britain in the making. Her exhibition celebrates nine projects restoring nature",
+      "link": "https://www.positive.news/environment/the-in-awe-artist-painting-a-wilder-britain/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/DSCF2218.jpg",
+      "source": "Positive News",
+      "published": "2026-10-13T09:25:37+00:00"
+    },
+    {
+      "title": "Young Adults Are Building Safe Spaces for Unhoused Peers",
+      "summary": "In his first year at the University of California, Davis, Liam commuted three hours a day from his family’s home in the Bay Area to campus and back again.",
+      "link": "https://reasonstobecheerful.world/young-adults-are-building-safe-spaces-for-unhoused-peers/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/y2y-kitchen-2.png",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-10-13T08:00:49+00:00"
+    },
+    {
+      "title": "Good News in History, October 13",
+      "summary": "95 years ago today, Cristo Redentor, or Christ the Redeemer, opened to the public in the hills above Rio de Janeiro.",
+      "link": "https://www.goodnewsnetwork.org/events061013/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/10/Christ-the-Redeemer-above-Rio-de-Janeiro-credit-Artyominc-CC-3.0.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-13T07:00:00+00:00"
+    },
+    {
+      "title": "The common skin care mistakes dermatologists say are working against your routine",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM There’s a particular kind of Sunday evening spiral that happens when you’ve spent twenty minutes reading about an ingredient you’ve never heard of, and you’re now convinced your entire routine is wrong.",
+      "link": "https://www.optimistdaily.com/2026/10/the-common-skin-care-mistakes-dermatologists-say-are-working-against-your-routine/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_605033682_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-13T00:00:49+00:00"
+    },
+    {
+      "title": "How a floating shade can help coral survive a marine heatwave",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM When divers installed floating shade structures over 20 colonies of brain coral in the lower Florida Keys in August 2024, the corals underneath began recovering their color.",
+      "link": "https://www.optimistdaily.com/2026/10/how-a-floating-shade-can-help-coral-survive-a-marine-heatwave/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Screenshot-2026-10-11-at-74619-PM-1024x788.png",
+      "source": "The Optimist Daily",
+      "published": "2026-10-13T00:00:30+00:00"
+    },
     {
       "title": "Montana High School Softball Player Discovered Long-Lost Sister on Opposing Team",
       "summary": "A softball diamond in Montana was the scene of a larger-than-life family reunion. Like something out of Field of Dreams, a teen softball player had lined up against an out-of-state team for an August match—and her long-lost biological sister was on the opposite roster.",
