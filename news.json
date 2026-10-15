@@ -1,50 +1,146 @@
 {
-  "lastUpdated": "2026-10-14T03:34:35.676364+00:00",
+  "lastUpdated": "2026-10-15T03:14:37.862110+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 134
+      "count": 139
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 24
+      "count": 25
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 21
+      "count": 22
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 37
+      "count": 39
     },
     {
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 18
+      "count": 19
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 27
+      "count": 28
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 28
+      "count": 29
     }
   ],
   "articles": [
+    {
+      "title": "Teen Triathlete Raises More Than $30,000 to Donate Bikes and Riding Lessons to Low-Income Families",
+      "summary": "Continuing GNN’s coverage of youth nonprofit leaders, the Pedal Forward Foundation in Georgia has distributed hundreds of bicycles to low income families, and taught hundreds of children how to ride them.",
+      "link": "https://www.goodnewsnetwork.org/teen-triathlete-raises-more-than-30000-to-donate-bikes-and-riding-lessons-to-low-income-families/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Jonathan-Thai-credit-screengrab-via-Pedal-Forward.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-14T18:30:16+00:00"
+    },
+    {
+      "title": "Pittsburgh Water Launches Debt Forgiveness Program to Help Families with Rising Costs",
+      "summary": "Residents of Pittsburgh with outstanding debt on their water utilities can see it forgiven over a 24-month period.",
+      "link": "https://www.goodnewsnetwork.org/pittsburgh-water-launches-debt-forgiveness-program-to-help-families-with-rising-costs/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/09/erase-debt-CC-Images_of_Money-e1776148421784.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-14T15:30:44+00:00"
+    },
+    {
+      "title": "OpenAI Sued for Allegedly Building Models Out of Children’s “Fears, Hopes, and Secrets”",
+      "summary": "\"OpenAI manipulates children into sharing their most private thoughts and images with ChatGPT.\"",
+      "link": "https://futurism.com/artificial-intelligence/openai-sued-children-fears-hopes-secrets",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/openai-sued-children-fears-hopes-secrets.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-14T13:04:16+00:00"
+    },
+    {
+      "title": "Inches Below the Forest Floor, Archeologists in Germany Unearthed a Roman Temple to the War God",
+      "summary": "Along a series of Roman fortifications cutting across Germany just north of Frankfurt, archeological excavations have revealed extensive floorplans belonging to a temple, a military camp, and craft center.",
+      "link": "https://www.goodnewsnetwork.org/inches-below-the-forest-floor-archeologists-in-germany-unearthed-a-roman-temple-to-the-war-god/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Lars-Gorze-MA-Hesse-State-Office-for-Monument-Preservation-e1791968271919.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-14T13:00:21+00:00"
+    },
+    {
+      "title": "World’s Heaviest Pumpkin Sets Incredible New Record at 2,856 lbs.",
+      "summary": "This seismic squash was just certified as the largest ever grown by a man at a recent British competition. When volunteers at the Wargrave Nursery Giant Pumpkin Weigh-Off finally hoisted the specimen onto the scale, the reading was simply incredible—2,856.8lbs (1,295.8kg) It’s heavier than a white…",
+      "link": "https://www.goodnewsnetwork.org/worlds-heaviest-pumpkin-sets-incredible-new-record-at-2856-lbs/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Ian-Paton.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-14T11:00:23+00:00"
+    },
+    {
+      "title": "Pampered city trees deal with stress better than their country cousins",
+      "summary": "The next time you pass an urban tree, stop to appreciate what it’s been through. As a youngster, it was especially vulnerable to pests and diseases, not to mention vandalism.",
+      "link": "https://grist.org/cities/pampered-city-trees-deal-with-stress-better-than-their-country-cousins/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/06/GettyImages-2272795415.jpeg?quality=75&strip=all&w=768",
+      "source": "Grist",
+      "published": "2026-10-14T08:30:00+00:00"
+    },
+    {
+      "title": "Teenagers Worldwide Are Tackling the Plastics Crisis",
+      "summary": "When students in Singapore looked around their school cafeteria, they could see a problem shared all over the world: Single-use Styrofoam was ubiquitous.",
+      "link": "https://reasonstobecheerful.world/teenagers-worldwide-are-tackling-the-plastics-crisis/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/shutterstock_2740852089-scaled.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-10-14T08:00:09+00:00"
+    },
+    {
+      "title": "Wildlife photographer of the year 2026, the winning images",
+      "summary": "This year’s competition has attracted a record-breaking number of entries",
+      "link": "https://www.positive.news/society/wildlife-photographer-of-the-year-2026-the-winning-images/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/©-Loren-Elliott.jpg",
+      "source": "Positive News",
+      "published": "2026-10-14T07:00:50+00:00"
+    },
+    {
+      "title": "Good News in History, October 14",
+      "summary": "And, 136 years ago today, Dwight D. Eisenhower, the 34th US President and Commander of the European Allied Forces in WWII, was born in Texas.",
+      "link": "https://www.goodnewsnetwork.org/events061014/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/President-General-Dwight-D-Eisenhower-1959.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-14T07:00:00+00:00"
+    },
+    {
+      "title": "Why October is the best time to get your flu shot this year",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Flu season usually builds in late fall, but this year it’s getting a jump start.",
+      "link": "https://www.optimistdaily.com/2026/10/why-october-is-the-best-time-to-get-your-flu-shot-this-year/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_42557355_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-14T00:00:03+00:00"
+    },
+    {
+      "title": "Scientists discovered the world’s largest octopus nursery off the California coast",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Most of the deep seafloor is cold, dark, and barely mapped. The Monterey Bay National Marine Sanctuary covers more than 6,000 square miles of ocean along California’s central coast and is better studied than most of it.",
+      "link": "https://www.optimistdaily.com/2026/10/scientists-discovered-the-worlds-largest-octopus-nursery-off-the-california-coast/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_264749180_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-14T00:00:03+00:00"
+    },
+    {
+      "title": "What to say to Californians worried about grid batteries",
+      "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Wednesday via Substack.",
+      "link": "https://www.canarymedia.com/articles/batteries/how-to-counter-californians-grid-battery-fears-with-safety-facts",
+      "image_url": "https://img.canarymedia.com/content/uploads/CW-battery-16.9.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=aa042617d1c2fbebf98fbe4ca34eac44",
+      "source": "Canary Media",
+      "published": "2026-10-13T22:06:00+00:00"
+    },
     {
       "title": "Scientists Shocked to Discover ‘D-rex’, a Giant Fungus from Chinese Forests Dating Back 65 Million Years",
       "summary": "Deep in the forests of southwest China, scientists have discovered a ‘fungal giant’ that challenges our understanding of how large fungi can become.",
