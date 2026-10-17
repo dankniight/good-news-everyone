@@ -1,50 +1,178 @@
 {
-  "lastUpdated": "2026-10-16T03:10:15.226710+00:00",
+  "lastUpdated": "2026-10-17T03:01:19.775075+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 143
+      "count": 149
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 26
+      "count": 27
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 23
+      "count": 25
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 41
+      "count": 44
     },
     {
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 20
+      "count": 22
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 30
+      "count": 29
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 29
+      "count": 30
     }
   ],
   "articles": [
+    {
+      "title": "Amazon Launches Ominous Wearable Ankle Monitor-Style Gadget That Records You Constantly",
+      "summary": "It's designed to \"stay with you through a full week without interruption.\"",
+      "link": "https://futurism.com/future-society/amazon-launches-bee-device-surveillance-watch-ai",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/amazon-launches-bee-device-surveillance-watch-ai.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-16T19:59:28+00:00"
+    },
+    {
+      "title": "North America’s Largest Wildlife Overpass Is Working: Animal Collisions on I-25 Down 91%",
+      "summary": "In March, GNN reported that North America’s largest wildlife overpass had opened in December over Interstate 25 near Larkspur, in Colorado.",
+      "link": "https://www.goodnewsnetwork.org/north-americas-largest-wildlife-overpass-is-working-animal-collisions-on-i-25-down-91/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Colorado-Department-of-Transportation.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-16T18:30:38+00:00"
+    },
+    {
+      "title": "Podcast Transcript October 16th, 2026— Flu is already spreading: why October is the window to get vaccinated, plus nine more solutions",
+      "summary": "Episode Description: Arielle and Karissa cover ten solutions this week, including 20,000 octopuses hiding in well-studied waters off the California coast, what Indonesian mosque loudspeakers have to do with earthquake survival, and a garden chore you now have a very good reason to skip.",
+      "link": "https://www.optimistdaily.com/2026/10/podcast-transcript-october-16th-2026-flu-is-already-spreading-why-october-is-the-window-to-get-vaccinated-plus-nine-more-solutions/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Podcast-Logo-3000-×-3000-px-2-14-1024x1024.png",
+      "source": "The Optimist Daily",
+      "published": "2026-10-16T16:30:22+00:00"
+    },
+    {
+      "title": "Drape Some of This ‘Plant Armor’ Fabric Over a Strawberry Patch to Triple Yields with Less Pesticides",
+      "summary": "A new textile used to cover strawberry plants more than tripled fruit yields in field tests, without negatively impacting plant health.",
+      "link": "https://www.goodnewsnetwork.org/drape-some-of-this-plant-armor-fabric-over-a-strawberry-patch-to-triple-yields-with-less-pesticides/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Left-uncovered-strawberry-yield-right-yield-from-strawberries-grown-with-Plant-Armor-credit-Gabriel-Olawuyi-released-by-NCSU.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-16T15:30:40+00:00"
+    },
+    {
+      "title": "US EV sales are rising again. Here’s why the recovery is set to last.",
+      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. It’s a great time to have an electric vehicle — and more Americans are getting the message.",
+      "link": "https://www.canarymedia.com/articles/electric-vehicles/us-ev-sales-rebound",
+      "image_url": "https://img.canarymedia.com/content/uploads/GettyImages-1430176974.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=fb1d5a80da28abfeacf7269d752636a8",
+      "source": "Canary Media",
+      "published": "2026-10-16T14:23:00+00:00"
+    },
+    {
+      "title": "Teen’s Disaster Messaging App Can ‘Hop’ Across Bluetooth When Cellular Networks Collapse",
+      "summary": "It’s not just homes that collapse during an earthquake, but cell towers and the networks they maintain. On February 6th, 2023, earthquakes devastated southern Türkiye and northern Syria.",
+      "link": "https://www.goodnewsnetwork.org/teens-disaster-messaging-app-can-hop-across-bluetooth-when-cellular-networks-collapse/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Crisis-Connect-Press-1400x700-1.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-16T13:00:35+00:00"
+    },
+    {
+      "title": "Largest Private Conservation Project in the US Hits Major Milestone as Free-Roaming Bison Pass 1,000",
+      "summary": "As autumn descends upon the Great Plains of North America, the largest private land conservation project in the country is ringing in an inspirational milestone.",
+      "link": "https://www.goodnewsnetwork.org/largest-private-conservation-project-in-the-us-hits-major-milestone-as-free-roaming-bison-pass-1000/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/unnamed.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-16T11:00:30+00:00"
+    },
+    {
+      "title": "What Dementia Taught Me About Living Through a Callous Time",
+      "summary": "Just as President Joe Biden was showing signs of cognitive decline so conspicuous that he was compelled to drop out of the presidential race in 2024, my own father’s dementia was worsening.",
+      "link": "https://reasonstobecheerful.world/what-dementia-taught-me-about-living-through-a-callous-time/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/Dad-and-I-at-Thanksgiving-1-scaled.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-10-16T08:30:34+00:00"
+    },
+    {
+      "title": "Advice from a climate therapist: Touch grass. (No, really.)",
+      "summary": "In my years as a psychotherapist, I’ve worked with many people facing similar struggles. One such pattern is embodied by a client I’ll call Emma (whose real name and identifying details I’ve changed for privacy purposes).",
+      "link": "https://grist.org/culture/ask-a-climate-therapist-advice-nature-mental-health-touch-grass/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/02/climate-therapist-logo.png",
+      "source": "Grist",
+      "published": "2026-10-16T08:30:00+00:00"
+    },
+    {
+      "title": "Welcome to the Depolarization Project",
+      "summary": "If you’re anything like us, you’re not exactly in a congenial mood right now. With the U.S. midterm elections fewer than three weeks away, you might be feeling combat-ready.",
+      "link": "https://reasonstobecheerful.world/depolarization-project-introduction/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/Landing-Page-1024x576.png",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-10-16T08:00:02+00:00"
+    },
+    {
+      "title": "Is coal really making a comeback?",
+      "summary": "Coal was on the way out. That’s how it looked last year, anyway, when the International Energy Agency forecast that global demand for the dirtiest fossil fuel had plateaued and was poised to start declining .",
+      "link": "https://grist.org/energy/is-coal-making-comeback-energy-crisis/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/07/US-tech-coal-power-AI-data-center.jpg?quality=75&strip=all&w=768",
+      "source": "Grist",
+      "published": "2026-10-16T08:00:00+00:00"
+    },
+    {
+      "title": "US clean energy jobs fell in 2025 for the first time in years",
+      "summary": "See more from Canary Media’s ​“Chart of the Week” column . Clean energy installations have persisted at record levels despite President Donald Trump’s best efforts to stop them.",
+      "link": "https://www.canarymedia.com/articles/clean-energy-jobs/trump-us-employment-falls-data-2025",
+      "image_url": "https://img.canarymedia.com/content/uploads/COTW-rooftop-solar-4_2026-10-15-195509_xcwk.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=500fcdc042a8cbedb9efa60e9697be3d",
+      "source": "Canary Media",
+      "published": "2026-10-16T07:30:00+00:00"
+    },
+    {
+      "title": "Good News in History, October 16",
+      "summary": "57 years ago today, New York’s underdog baseball crew ‘The Miracle Mets’ won the World Series in just 5 games, a romantic triumph over a heavily-favored Orioles team.",
+      "link": "https://www.goodnewsnetwork.org/events061016/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/10/Miracle-Mets-1969-fairuse-youtube.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-16T07:00:00+00:00"
+    },
+    {
+      "title": "What went right this week: the good news that matters",
+      "summary": "Indonesia’s plummeting poverty rate, America’s largest wildlife bridge, and ‘a new era’ for the River Thames, plus more",
+      "link": "https://www.positive.news/society/good-news-stories-from-week-42-of-2026/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/iStock-475084328.jpg",
+      "source": "Positive News",
+      "published": "2026-10-16T05:00:50+00:00"
+    },
+    {
+      "title": "What to leave alone in your garden this October to help overwintering bees",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Every fall there’s a pull to tidy things up. Cut back the perennials, rake the leaves, clear the beds, put the garden to rest.",
+      "link": "https://www.optimistdaily.com/2026/10/what-to-leave-alone-in-your-garden-this-october-to-help-overwintering-bees/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_607168542_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-16T00:00:41+00:00"
+    },
+    {
+      "title": "What sets Japanese sweet potatoes apart, nutritionally speaking",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM If you’ve bought a Japanese sweet potato, cut into it expecting orange, and found creamy white instead, you’ve already spotted the first thing that sets it apart.",
+      "link": "https://www.optimistdaily.com/2026/10/what-sets-japanese-sweet-potatoes-apart-nutritionally-speaking/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_226713878_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-16T00:00:30+00:00"
+    },
     {
       "title": "Tech giants want clean energy in N.C. Is Duke finally ready to help?",
       "summary": "In North Carolina, tech giants and other large corporations that want their own 24/7 carbon-free electricity have a problem.",
@@ -52,6 +180,14 @@
       "image_url": "https://img.canarymedia.com/content/uploads/GettyImages-1945727090-copy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=ffd33165822abac37d9c590c136d6306",
       "source": "Canary Media",
       "published": "2026-10-15T20:25:00+00:00"
+    },
+    {
+      "title": "An Extinct Crocodilian’s Skull Was Found in the Rocks That Built the Sphinx, and it’s Also Missing its Nose",
+      "summary": "A new crocodilian species has been identified from fossils recovered from a rock layer harvested by ancient Egyptians to build the Sphinx And funnily enough, just like the iconic Egyptian landmark, this fossilized reptile is missing the tip of its snout.",
+      "link": "https://www.goodnewsnetwork.org/an-extinct-crocodilians-skull-was-found-in-the-rocks-that-built-the-sphinx-and-its-also-missing-its-nose/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/low-res_herugavialis_cairensis-e1792061695449.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-15T17:30:16+00:00"
     },
     {
       "title": "Tribe Just a Signature Away from Recovering 1,100 Ancestral Acres Along Undammed Elwha River",
@@ -2516,30 +2652,6 @@
       "image_url": "https://img.canarymedia.com/content/uploads/Dan-McKee-Rhode-Island-portrait_GettyImages-2272891218.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e9dbf5a5ef71616156bfb9aedfc2dd26",
       "source": "Canary Media",
       "published": "2026-09-02T20:02:00+00:00"
-    },
-    {
-      "title": "Fervo and Google sign world’s largest deal for next-gen geothermal power",
-      "summary": "Fervo Energy inked a landmark deal to supply Google with nearly 400 megawatts of clean electricity from the startup’s geothermal project in southwest Utah.",
-      "link": "https://www.canarymedia.com/articles/geothermal/fervo-google-deal-next-gen-geothermal",
-      "image_url": "https://img.canarymedia.com/content/uploads/Phase-Two-Power-Plant-and-Drilling-Rigs-2_8.10.26.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=738457ab7cf309e62c3ab2e46a476b06",
-      "source": "Canary Media",
-      "published": "2026-09-01T19:00:00+00:00"
-    },
-    {
-      "title": "California declines to fund its biggest virtual power plant",
-      "summary": "California Gov. Gavin Newsom’s administration has blocked an effort to keep the state’s most successful virtual power plant program funded through next year.",
-      "link": "https://www.canarymedia.com/articles/virtual-power-plants/california-guts-biggest-virtual-power-plant",
-      "image_url": "https://img.canarymedia.com/content/uploads/GettyImages-2218482421.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=167cf91393c113f9765e36f844f6cf08",
-      "source": "Canary Media",
-      "published": "2026-09-01T14:04:00+00:00"
-    },
-    {
-      "title": "Meet the super PAC working to crush clean energy's political foes",
-      "summary": "Last summer, when the Republican-controlled Congress took a wrecking ball to the Inflation Reduction Act, Tom Matzzie was pissed.",
-      "link": "https://www.canarymedia.com/articles/politics/super-pac-crushing-clean-energy-foes",
-      "image_url": "https://img.canarymedia.com/content/uploads/Dont-Mess-With-Solar-billboard-truck-DCGettyImages-2280948571.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5b28c7d2c258e3955157c47f9827198b",
-      "source": "Canary Media",
-      "published": "2026-09-01T07:30:00+00:00"
     }
   ]
 }
