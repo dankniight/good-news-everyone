@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-18T03:03:57.640314+00:00",
+  "lastUpdated": "2026-10-19T03:17:41.958354+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 154
+      "count": 159
     },
     {
       "name": "Positive News",
@@ -41,10 +41,58 @@
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 31
+      "count": 32
     }
   ],
   "articles": [
+    {
+      "title": "Contact With Nature is Linked to Healthy Eating, Shows Encouraging New Study",
+      "summary": "A new study has discovered that contact with nature may help people develop healthier eating habits. The research from Anglia Ruskin University in the UK is reportedly the first to provide evidence that exposure to natural environments can influence people’s relationship with food.",
+      "link": "https://www.goodnewsnetwork.org/contact-with-nature-is-linked-to-healthy-eating-study/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Woman-sitting-in-nature-meditate-by-Sara-Kurfess-QyjwUq5Amp8-unsplash.jpeg",
+      "source": "Good News Network",
+      "published": "2026-10-18T22:41:09+00:00"
+    },
+    {
+      "title": "Tiny Black Cat Stuck in Car Engine Brings Unexpected Joy to Couple With Halloween Wedding Anniversary",
+      "summary": "A high school teacher in Sandy Springs, Georgia, got an unexpected surprise on her way to work earlier this month.",
+      "link": "https://www.goodnewsnetwork.org/mystery-black-kitten-stuck-in-engine-brings-unexpected-joy-to-couple/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Fire-and-Rescue-service-rescues-kitten-in-suspension-SUBMITTED.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-18T20:32:45+00:00"
+    },
+    {
+      "title": "Director Blows $1.5 Million Generating Horrendous AI Slop Movie, Says AI Actually Saved Him Tens of Millions",
+      "summary": "The magic of Christmas, brought to life with horrendous slop.",
+      "link": "https://futurism.com/artificial-intelligence/director-slop-movie-savings",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/director-slop-movie-savings.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-18T17:50:00+00:00"
+    },
+    {
+      "title": "Retired Couple Surprised With New HVAC System Worth $16k in a ‘Feel the Love’ Program That’s Aided 3100 Folks",
+      "summary": "An Oregon couple facing financial hardship can now endure the winter in comfort and with ‘peace of mind’ since a new HVAC system was installed in their home at no cost.",
+      "link": "https://www.goodnewsnetwork.org/retired-couple-surprised-with-new-hvac-system-worth-16k/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Aviator-Heating-and-Cooling-gives-Diane-and-Brian-Johnsen-free-HVAC-Submitted.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-18T17:19:59+00:00"
+    },
+    {
+      "title": "Village Installs Knitted Traffic Cops to Slow Down Speeding Drivers",
+      "summary": "Villagers have knitted speed cameras and life-sized traffic cops to fake-out reckless motorists, in a bid to slow down drivers.",
+      "link": "https://www.goodnewsnetwork.org/village-installs-knitted-traffic-cops-to-slow-speeding-drivers/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Knitted-traffic-officer-by-Emma-Trimble-via-SWNS.jpeg",
+      "source": "Good News Network",
+      "published": "2026-10-18T13:42:17+00:00"
+    },
+    {
+      "title": "Good News in History, October 18",
+      "summary": "896 years ago today, Zhu Xi, a revolutionary Confucian scholar of the Song Dynasty, was born. His shifting of the emphasis from the I Ching to the Four Books reshaped the Chinese view of the world, which is not an easy thing to do.",
+      "link": "https://www.goodnewsnetwork.org/events061018/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/Zhu-Xi-pub-domain.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-18T07:00:00+00:00"
+    },
     {
       "title": "99-yo Woman Snags ‘World’s Oldest Wing-Walker’ Title – 3 Months After Another Gran Did It (LOOK)",
       "summary": "A 99-year-old has become the world’s oldest wing-walker—just three months after her niece saw another elderly woman do it, and the staff at her assisted-living facility urged her to try.",
