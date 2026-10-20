@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-10-19T03:17:41.958354+00:00",
+  "lastUpdated": "2026-10-20T03:26:18.757098+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 159
+      "count": 164
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 27
+      "count": 28
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 25
+      "count": 26
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 44
+      "count": 46
     },
     {
       "name": "Grist",
@@ -35,7 +35,7 @@
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 28
+      "count": 31
     },
     {
       "name": "Futurism",
@@ -45,6 +45,102 @@
     }
   ],
   "articles": [
+    {
+      "title": "Mozambique Protects the ‘Butterfly Forest’ of Mount Mabu, Home to 200 Species",
+      "summary": "A government decree published on August 24th set aside 23,000 acres as the Mount Mabu Community Conservation Area in Mozambique.",
+      "link": "https://www.goodnewsnetwork.org/mozambique-protects-the-butterfly-forest-of-mount-mabu-home-to-200-species/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Mount-Mabu-in-Mozambique-credit-httpsdoi.org10.3897zse.92.9948-CC-4.0.-Int.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-19T18:30:41+00:00"
+    },
+    {
+      "title": "This geothermal startup produced a tiny bit of power from the seafloor",
+      "summary": "A tiny power plant notched a big win last month off the coast of Oregon: For nearly 30 seconds, it generated electricity using the heat of an underwater volcano.",
+      "link": "https://www.canarymedia.com/articles/geothermal/geothermal-startup-power-seafloor-drilling",
+      "image_url": "https://img.canarymedia.com/content/uploads/Copy-of-Adelie_On_Guardian-106.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=d9b66993e39265de8d0240d1365b9064",
+      "source": "Canary Media",
+      "published": "2026-10-19T16:00:00+00:00"
+    },
+    {
+      "title": "Unprecedented Collab Between China and The Met Uncovers Secrets of Huge Chinese Mural in NYC",
+      "summary": "A major arts and heritage conservation project in China has born unexpected fruit thousands of miles away in New York City.",
+      "link": "https://www.goodnewsnetwork.org/unprecedented-collab-between-china-and-the-met-uncovers-secrets-of-chinese-mural-during-exhaustive-reproduction/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/From-the-Met-public-domain.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-19T15:30:49+00:00"
+    },
+    {
+      "title": "Brazil Ends Long Tradition of 6-Day Workweek via Constitutional Amendment",
+      "summary": "With Brazil’s senate voting 75 to 1 in favor, one wonders what took them so long? The nation was one of the richest in the world that still had a customary 6-day workweek, with fulltime employment considered 44 hours, rather than the 40 we know of in the US.",
+      "link": "https://www.goodnewsnetwork.org/brazil-ends-long-tradition-of-6-day-workweek-via-constitutional-amendment/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Brazils-Senate-chamber-credit-Wilson-DiasABr-Agencia-Brasil-CC-3.0-Br.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-19T13:00:17+00:00"
+    },
+    {
+      "title": "Simple ‘Soil Steaming’ Found as Effective Replacement for Chemicals in Organic Strawberry Farming",
+      "summary": "A mere puff of steam could be the ticket to much larger and reliable strawberry yields in California, the LA Times reported.",
+      "link": "https://www.goodnewsnetwork.org/simple-soil-steaming-found-as-effective-replacement-for-chemicals-in-organic-strawberry-farming/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/strawberr-unsplash.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-19T11:00:50+00:00"
+    },
+    {
+      "title": "A Wall Meant to Divide Is Uniting Left and Right in Texas",
+      "summary": "In August, videos of bulldozers ripping up the mouth of the iconic Santa Elena Canyon in Texas’ Big Bend went viral, propelling one of the country’s most remote national parks into the national spotlight.",
+      "link": "https://reasonstobecheerful.world/behind-the-remarkable-resistance-to-trumps-big-bend-wall/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/IMG_9553-scaled-e1792091783224.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-10-19T08:00:14+00:00"
+    },
+    {
+      "title": "A cleaner solution to America’s aluminum crunch is hiding in landfills",
+      "summary": "A global supply shortage and U.S. tariffs have roiled the aluminum market this year, putting greater pressure on the United States to produce more of its own metal.",
+      "link": "https://www.canarymedia.com/articles/clean-aluminum/how-to-recover-more-scrap-metal-us",
+      "image_url": "https://img.canarymedia.com/content/uploads/SWC-bags-3.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=45fe66a0fa464235e2447c0f92f3467f",
+      "source": "Canary Media",
+      "published": "2026-10-19T07:30:00+00:00"
+    },
+    {
+      "title": "Illinois needs batteries. Will a new incentive program help?",
+      "summary": "Illinois has built out large amounts of renewables in the past decade to reach its mandate of 100% clean energy by 2050 .",
+      "link": "https://www.canarymedia.com/articles/batteries/illinois-storage-procurement-incentives-results",
+      "image_url": "https://img.canarymedia.com/content/uploads/NY-battery.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=56becf10127dd20f8afa32ea30f9cfaa",
+      "source": "Canary Media",
+      "published": "2026-10-19T07:30:00+00:00"
+    },
+    {
+      "title": "Volunteers became salmon, deer and earthworms. Then they set out to save their river",
+      "summary": "An experiment is helping a Somerset community see its landscape through the eyes of wildlife – and plot a 30-year route to change it",
+      "link": "https://www.positive.news/society/volunteers-became-salmon-deer-and-earthworms-then-they-set-out-to-save-their-river/",
+      "image_url": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/Atlantic-Salmon-001-©-Darren-Honeywill-2026.jpg",
+      "source": "Positive News",
+      "published": "2026-10-19T07:00:44+00:00"
+    },
+    {
+      "title": "Good News in History, October 19",
+      "summary": "6 years ago today, the high-profile sale of a Ming Dynasty artwork brought the world not only into contact with the most remarkable painting of a stone ever made, but also the depth of the Chinese relationship with the natural world.",
+      "link": "https://www.goodnewsnetwork.org/events061019/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/One-of-the-ten-views-of-Lingbi-Rock-fair-use.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-19T07:00:00+00:00"
+    },
+    {
+      "title": "How one small device is solving the apartment solar access problem",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM An Australian device that splits rooftop solar power across an entire apartment building just won the country’s top design honor.",
+      "link": "https://www.optimistdaily.com/2026/10/how-one-small-device-is-solving-the-apartment-solar-access-problem/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_212943538_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-19T00:00:53+00:00"
+    },
+    {
+      "title": "Hungary repeals anti-LGBTQ law, unlocking billions in EU funds",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Hungary’s parliament voted last Tuesday to repeal the 2021 Child Protection Law that banned the portrayal or promotion of homosexuality and transgender identities in schools and media.",
+      "link": "https://www.optimistdaily.com/2026/10/hungary-repeals-anti-lgbtq-law-unlocking-billions-in-eu-funds/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_82430258_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-19T00:00:01+00:00"
+    },
     {
       "title": "Contact With Nature is Linked to Healthy Eating, Shows Encouraging New Study",
       "summary": "A new study has discovered that contact with nature may help people develop healthier eating habits. The research from Anglia Ruskin University in the UK is reportedly the first to provide evidence that exposure to natural environments can influence people’s relationship with food.",
