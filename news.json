@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-10-20T03:26:18.757098+00:00",
+  "lastUpdated": "2026-10-21T03:20:56.298557+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 164
+      "count": 169
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 28
+      "count": 29
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 26
+      "count": 27
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 46
+      "count": 48
     },
     {
       "name": "Grist",
@@ -35,16 +35,104 @@
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 31
+      "count": 32
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 32
+      "count": 33
     }
   ],
   "articles": [
+    {
+      "title": "Student Plays Truly Epic Birthday Prank on High School Principal Who Changed His Life (WATCH)",
+      "summary": "There’s viral—and then there’s the video that recently dropped on social media platforms of Georgia high schoolers playing the prank of a lifetime on their principal.",
+      "link": "https://www.goodnewsnetwork.org/student-plays-truly-epic-birthday-prank-on-high-school-principal-who-changed-his-life-watch/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Screengrabs-Lauren-Cantrell-via-Facebook.png",
+      "source": "Good News Network",
+      "published": "2026-10-20T18:30:00+00:00"
+    },
+    {
+      "title": "Isle of Jersey Expands Marine Protections to Cover 21% of Territorial Waters",
+      "summary": "The self-governing British Isle of Jersey announced in late August it would increase its percentage of protected waters by 15%.",
+      "link": "https://www.goodnewsnetwork.org/isle-of-jersey-expands-marine-protections-to-cover-21-of-territorial-waters/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Jersey-as-seen-from-Copernicus-Sentinel-2-credit-ESA-CC-3.0.-SA-IGO.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-20T15:30:53+00:00"
+    },
+    {
+      "title": "Google’s DeepMind Quietly Hiring Nuclear Physicists",
+      "summary": "The ideal candidate will be familiar with policy related to \"stockpile stewardship, nonproliferation, arms control, or threat reduction.\"",
+      "link": "https://futurism.com/artificial-intelligence/google-deepmind-nuclear-physicists-weapon-ai-lab",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/google-deepmind-nuclear-physicists-weapon-ai-lab.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-20T14:09:15+00:00"
+    },
+    {
+      "title": "Texas Man Finds More Than $128,000 on Top of a Bank’s ATM–and Returns Every Dollar",
+      "summary": "A man and a woman stopping at a Texas ATM noticed a bag lying atop the machine. Every inch of the bag was stuffed with money, yet the anonymous Samaritan immediately called the Lewisville Police Department.",
+      "link": "https://www.goodnewsnetwork.org/texas-man-finds-more-than-128000-on-top-of-a-banks-atm-and-returns-every-dollar/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/maxresdefault-4.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-20T13:00:43+00:00"
+    },
+    {
+      "title": "Man Proposes to His Girlfriend After They Were Struck by Lightning–She Restarted His Heart Twice",
+      "summary": "Nick Broderick describes the moment he decided to marry his girlfriend Eva as electric: it was as if he were struck by lightning.",
+      "link": "https://www.goodnewsnetwork.org/man-proposes-to-his-girlfriend-after-they-were-struck-by-lightning-she-restarted-his-heart-twice/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Nick-and-Eva-Broderick-on-their-hike-which-nearly-killed-them-credit-Nick-Broderick.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-20T11:00:16+00:00"
+    },
+    {
+      "title": "There Are Ways to Reduce Campus Sexual Assaults. Will More Colleges Use Them?",
+      "summary": "This story was originally published by The Understory. When I was a student at Cornell University, I read the book “Fraternity Gang Rape” by Peggy Reeves Sanday for one of my classes.",
+      "link": "https://reasonstobecheerful.world/there-are-ways-to-reduce-campus-sexual-assaults-will-more-colleges-use-them/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/shutterstock_2546714637-scaled.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-10-20T08:00:27+00:00"
+    },
+    {
+      "title": "Will a second US city tax billion-dollar firms to fund clean energy?",
+      "summary": "Amy Winton doesn’t like that she has to depend on fossil gas for her restaurant, Mexican taquería Pandita in Eugene, Oregon.",
+      "link": "https://www.canarymedia.com/articles/clean-energy/eugene-ballot-measure-tax-companies-climate-fund",
+      "image_url": "https://img.canarymedia.com/content/uploads/Eugene-OR.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=679fa554aac91725367e888465ba0d9e",
+      "source": "Canary Media",
+      "published": "2026-10-20T07:30:00+00:00"
+    },
+    {
+      "title": "The new certification scheme helping solar farms become havens for wildlife",
+      "summary": "A new solar certification scheme encourages developers to create better habitats for wildlife alongside clean electricity generation",
+      "link": "https://www.positive.news/environment/the-new-certification-scheme-helping-solar-farms-become-havens-for-wildlife/",
+      "image_url": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/20220713_122129.jpg",
+      "source": "Positive News",
+      "published": "2026-10-20T07:00:20+00:00"
+    },
+    {
+      "title": "Good News in History, October 20",
+      "summary": "76 years ago today, Tom Petty, was born in Gainesville, Florida. As an 11-year-old he met Elvis Presley, which sparked his love of rock and roll.",
+      "link": "https://www.goodnewsnetwork.org/events061020/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2017/10/Tom-Petty-Album-Cover-Released.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-20T07:00:00+00:00"
+    },
+    {
+      "title": "A Dutch startup is making concrete that grows its own moss",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Most building materials are designed to resist the elements, to stay sealed and unchanged for as long as possible.",
+      "link": "https://www.optimistdaily.com/2026/10/a-dutch-startup-is-making-concrete-that-grows-its-own-moss/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_68561537_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-20T00:00:58+00:00"
+    },
+    {
+      "title": "The surprising history of pumpkins: from ancient staple to autumn icon",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Pumpkin spice lattes, jack-o’-lanterns, and Thanksgiving pies: pumpkins are the unofficial mascots of fall.",
+      "link": "https://www.optimistdaily.com/2026/10/the-surprising-history-of-pumpkins-from-ancient-staple-to-autumn-icon/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/8152946_m-1024x686.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-20T00:00:55+00:00"
+    },
     {
       "title": "Mozambique Protects the ‘Butterfly Forest’ of Mount Mabu, Home to 200 Species",
       "summary": "A government decree published on August 24th set aside 23,000 acres as the Mount Mabu Community Conservation Area in Mozambique.",
