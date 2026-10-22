@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-10-21T03:20:56.298557+00:00",
+  "lastUpdated": "2026-10-22T03:19:27.972560+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 169
+      "count": 174
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 29
+      "count": 30
     },
     {
       "name": "Reasons to be Cheerful",
@@ -23,28 +23,124 @@
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 48
+      "count": 50
     },
     {
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 22
+      "count": 23
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 32
+      "count": 34
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 33
+      "count": 34
     }
   ],
   "articles": [
+    {
+      "title": "Strangers Help 86-Year-Old Who’s Been Building a 62-foot Boat in his Yard Since 1987 (WATCH)",
+      "summary": "An 86-year-old man named Dale has spent nearly four decades welding a 62-foot steel boat in his front yard. Now, a wave of kindness is bringing his long-held dream within reach—just when it seemed to be beyond his reach.",
+      "link": "https://www.goodnewsnetwork.org/total-strangers-help-86-year-old-man-make-40-year-dream-reality/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/benfhhh.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-21T18:30:34+00:00"
+    },
+    {
+      "title": "Random Ohio Town Turns Into Scene From ‘Silent Hill’ After Massive Chemical Leak",
+      "summary": "\"I can't see out my window.\"",
+      "link": "https://futurism.com/science-energy/toledo-ohio-chemical-leak-explosion",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/toledo-ohio-chemical-leak-explosion.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-21T16:57:19+00:00"
+    },
+    {
+      "title": "Japan Successfully Launches Mission to Bring Home the First-Ever Martian Moon Samples",
+      "summary": "In a stellar step forward for planetary science, Japan successfully launched a spacecraft on October 19th, headed for the mysterious moons of Mars.",
+      "link": "https://www.goodnewsnetwork.org/japan-launches-first-mission-mars-moon-samples/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/04/solar-eclipse-on-Mars-by-JPL-NASA.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-21T16:00:45+00:00"
+    },
+    {
+      "title": "Scientists Discover a Simple, Low-Energy Way to Recycle Acrylic Glass into Brand-New Material",
+      "summary": "Researchers at ETH Zurich have found a practical new method that breaks down acrylic glass—known by the brand name Plexiglas—almost entirely into its original building blocks, making high-quality recycling realistic and affordable for the first time.",
+      "link": "https://www.goodnewsnetwork.org/scientists-discover-way-to-recycle-acrylic-glass-into-brand-new-material/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/acrylic-glass-plexiglass-credit-Unsplash-e1792497349349.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-21T13:00:45+00:00"
+    },
+    {
+      "title": "10-Year-Old Dog Found After a Month Lost in Yellowstone",
+      "summary": "A 10-year-old Jack Russell terrier named Luna was happily reunited with her owners after surviving more than a month on her own in Yellowstone National Park.⁠ Luna escaped on Sept.",
+      "link": "https://www.goodnewsnetwork.org/10-year-old-dog-found-month-lost-in-yellowstone/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/849575391_1127940682909652_807340687886918863_n-e1792414065589.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-21T11:00:41+00:00"
+    },
+    {
+      "title": "‘Writing is a way of dealing with things’",
+      "summary": "Scottish author Ian Rankin talks about making sense of difficult experiences through fiction, and giving away a share of his success",
+      "link": "https://www.positive.news/lifestyle/arts/writing-is-a-way-of-dealing-with-things-ian-rankin/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/IAN-RANKIN-Portrait-Louise-Mather-2024.jpg-1.jpeg",
+      "source": "Positive News",
+      "published": "2026-10-21T09:20:24+00:00"
+    },
+    {
+      "title": "At the Wall of Wind, engineers blow homes apart to learn how to save them",
+      "summary": "The first signs of trouble are subtle. The vinyl skirting flutters. Siding near the roofline pulls away. Then the 12 massive fans arrayed across the 14-foot-high Wall of Wind accelerate in unison, forcing air across the laboratory at highway speeds.",
+      "link": "https://grist.org/housing/at-the-wall-of-wind-engineers-blow-homes-apart-to-learn-how-to-save-them/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/10/Wall-of-wind_cinderblocks.jpg",
+      "source": "Grist",
+      "published": "2026-10-21T08:45:00+00:00"
+    },
+    {
+      "title": "New Mexico’s transition to clean energy is actually ahead of schedule",
+      "summary": "New Mexico boasts stark landscapes unlike anywhere else, a clearly defined regional cuisine built around fiery Hatch chiles, and cultural centers that predate the United States by several centuries.",
+      "link": "https://www.canarymedia.com/articles/clean-energy/new-mexico-transition-ahead-of-schedule",
+      "image_url": "https://img.canarymedia.com/content/uploads/wind-new-mexico.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=29e9b2c9d77784963486da42e78ffc66",
+      "source": "Canary Media",
+      "published": "2026-10-21T07:30:00+00:00"
+    },
+    {
+      "title": "New York to build state’s first two utility-scale thermal networks",
+      "summary": "For the past four years, the UpgradeNY coalition of clean energy, environmental, and labor groups has been pushing New York regulators to approve projects that could switch entire neighborhoods from fossil gas to clean electric heating — and to do it without undermining fossil gas utility jobs and…",
+      "link": "https://www.canarymedia.com/articles/geothermal/new-york-first-utility-scale-thermal-network",
+      "image_url": "https://img.canarymedia.com/content/uploads/Haverstraw_NY_Skyline.JPG?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=aa9c6003c3b97afc4f45350cd335e556",
+      "source": "Canary Media",
+      "published": "2026-10-21T07:30:00+00:00"
+    },
+    {
+      "title": "Good News in History, October 21",
+      "summary": "86 years ago today, Ernest Hemingway’s novel For Whom the Bell Tolls was first published. A story about a young American volunteer who joined the government of Spain as a guerrilla fighter during the Spanish Civil War, a conflict that was widely viewed as a dress rehearsal for the Second World War…",
+      "link": "https://www.goodnewsnetwork.org/events061021/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2019/10/For-Whom-the-Bell-Tolls-cover-fairuse.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-21T07:00:00+00:00"
+    },
+    {
+      "title": "Fall nostalgia: why your nervous system reaches for reruns when autumn arrives",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Every fall, something happens in the body before it happens in the mind. The smell of wood smoke drifting through a cracked window, the particular weight of October light slanting across the floor, and suddenly you’re somewhere else entirely, back in a kitchen…",
+      "link": "https://www.optimistdaily.com/2026/10/fall-nostalgia-why-your-nervous-system-reaches-for-reruns-when-autumn-arrives/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_912520928_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-21T00:00:39+00:00"
+    },
+    {
+      "title": "World’s tallest wind turbine reaches 1,197 feet in Germany",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM The world’s tallest wind turbine just reached full height in Germany. GICON‘s pilot turbine in Schipkau, eastern Germany, now stands 365 meters (1,197 feet) tall from base to blade tip, making it Germany’s second-tallest structure after Berlin’s TV tower.",
+      "link": "https://www.optimistdaily.com/2026/10/worlds-tallest-wind-turbine-reaches-1197-feet-in-germany/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_813864502_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-21T00:00:19+00:00"
+    },
     {
       "title": "Student Plays Truly Epic Birthday Prank on High School Principal Who Changed His Life (WATCH)",
       "summary": "There’s viral—and then there’s the video that recently dropped on social media platforms of Georgia high schoolers playing the prank of a lifetime on their principal.",
