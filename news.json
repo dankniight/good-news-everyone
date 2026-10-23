@@ -1,35 +1,35 @@
 {
-  "lastUpdated": "2026-10-22T03:19:27.972560+00:00",
+  "lastUpdated": "2026-10-23T03:24:55.910933+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 174
+      "count": 180
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 30
+      "count": 31
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 27
+      "count": 28
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 50
+      "count": 52
     },
     {
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 23
+      "count": 25
     },
     {
       "name": "Canary Media",
@@ -45,6 +45,102 @@
     }
   ],
   "articles": [
+    {
+      "title": "A Towering Figure of Tolerance From 2,500 Years Ago Has Found a New Home in Atlanta",
+      "summary": "A statue of an ancient Persian king might seem like an unlikely addition to the city of Atlanta. To the people who spent years bringing him here, there’s no more fitting place in America.",
+      "link": "https://www.goodnewsnetwork.org/a-towering-figure-of-tolerance-from-2500-years-ago-has-found-a-new-home-in-atlanta/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/1ed67e1b-5689-495c-8a2b-35b2e83bba17.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-22T23:28:14+00:00"
+    },
+    {
+      "title": "Europe’s hottest summer ever was also its deadliest — by far",
+      "summary": "Climate scientists have already established that Europe’s sweltering summer was the hottest on record. Now they are saying it was likely the deadliest as well, with their models showing that the extreme heat led to more than 50,000 excess deaths in cities alone.",
+      "link": "https://grist.org/extreme-heat/europes-hottest-summer-ever-was-also-its-deadliest-by-far/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/09/GettyImages-2284641859s.jpeg?quality=75&strip=all&w=768",
+      "source": "Grist",
+      "published": "2026-10-22T23:01:00+00:00"
+    },
+    {
+      "title": "‘World’s Largest Deforestation Project’ Halted Early, Saving Potentially 4 Million Acres",
+      "summary": "Indonesian authorities have paused, and perhaps ended, the “world’s largest deforestation project. Having achieved self-sufficiency in rice cultivation some 3 years ahead of a government schedule, around 4 million acres of rainforest, swamps, and peatlands across large Indonesian islands will be…",
+      "link": "https://www.goodnewsnetwork.org/indonesia-calls-an-early-halt-to-worlds-largest-deforestation-project-saving-potentially-4-million-acres/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Land-clearned-in-South-Papua-for-rice-and-sugar-cultivation-credit-Yusuf-Wahil-Mighty-Earth.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-22T18:30:59+00:00"
+    },
+    {
+      "title": "Major Supermarket Begins Wide-Scale Tests to Bring Heritage Apple Varieties to Market",
+      "summary": "See these apples here? They rank among the most consumed worldwide—and one of Europe’s largest supermarkets would like to see that changed.",
+      "link": "https://www.goodnewsnetwork.org/major-supermarket-begins-wide-scale-tests-to-bring-heritage-apple-varieties-to-market/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Golden-Delicious-SweeTango-Granny-Smith-and-Gala-apples-by-Dllu-CC-BY-SA-4.0.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-22T15:30:32+00:00"
+    },
+    {
+      "title": "Coconut Oil Could Make Great Sustainable Jet Fuel, Pioneering Experiments Demonstrate",
+      "summary": "Great for frying, perfect for your skin, and irreplicable in a ketogenic diet, coconut oil is a wonderful product.",
+      "link": "https://www.goodnewsnetwork.org/coconut-oil-could-make-great-sustainable-jet-fuel-pioneering-experiments-demonstrate/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/coconut-oil-unsplash.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-22T13:00:14+00:00"
+    },
+    {
+      "title": "Samoan Island Witnesses Explosion of Native Wildlife Following Removal of Invasive Rats and Pigs",
+      "summary": "Just one year after ecological restoration efforts on Samoa, forests, wildlife, and food resources are showing remarkable signs of recovery.",
+      "link": "https://www.goodnewsnetwork.org/samoan-island-witnesses-explosion-of-native-wildlife-following-removal-of-invasive-rats-and-pigs/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Credit-Island-Conservation-Cozette-Romero.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-22T11:00:10+00:00"
+    },
+    {
+      "title": "The farmer growing a future under Ghana’s trees",
+      "summary": "Cocoa farmer Susana Afrifa Ankrah is helping show how protecting forests can sustain livelihoods and build resilience to a changing climate",
+      "link": "https://www.positive.news/society/the-farmer-growing-a-future-under-ghanas-trees/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/SharedLand_Story03b_WebHeader_1800x1080.jpg",
+      "source": "Positive News",
+      "published": "2026-10-22T08:44:40+00:00"
+    },
+    {
+      "title": "California just showed how home batteries will radically remake the grid",
+      "summary": "Until recently, you’ve had no choice but to be a passive participant in the electrical grid, paying exorbitantly for the juice that flows into your home.",
+      "link": "https://grist.org/solutions/california-just-showed-how-home-batteries-will-radically-remake-the-grid/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/07/GettyImages-1025875324d.jpeg?quality=75&strip=all&w=768",
+      "source": "Grist",
+      "published": "2026-10-22T08:15:00+00:00"
+    },
+    {
+      "title": "The Door-to-Door Technique That Actually Changes Minds",
+      "summary": "One weekend, a canvasser — let’s call her Cindy — was out door-knocking and found a gentleman at home. After establishing that he’d heard of gender transition surgeries for minors, a topic that’s become a major focal point across the U.S. in the run-up to the midterm elections, Cindy asked...",
+      "link": "https://reasonstobecheerful.world/the-door-to-door-technique-defying-americas-political-division/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/B-PromoCanvassing10-3-105-b-scaled.png",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-10-22T08:00:35+00:00"
+    },
+    {
+      "title": "Good News in History, October 22",
+      "summary": "51 years ago today, Venera 9, the Soviet Union orbiter-lander spacecraft, became the first mission to enter orbit around Venus, and to return images from the surface of another planet.",
+      "link": "https://www.goodnewsnetwork.org/events061022/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/replica-of-Venera-9-credit-Stolbovsky-CC-4.0.-SA-Copy.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-22T07:00:00+00:00"
+    },
+    {
+      "title": "How kites and ancient design are replacing fuel in Antarctic exploration",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM The last time a team completed a comparable crossing of Antarctica’s interior, they burned through roughly 170,000 liters (about 45,000 gallons) of fuel to do it.",
+      "link": "https://www.optimistdaily.com/2026/10/how-kites-and-ancient-design-are-replacing-fuel-in-antarctic-exploration/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/WindSled_2017-1024x557.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-22T00:00:52+00:00"
+    },
+    {
+      "title": "Is this nut the most underrated sleepy-time snack? Here’s what the sleep research says",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM You’re doing everything right at bedtime: you stay away from screens after nine, take a soothing dark shower, sip on that herbal tea cooling on the nightstand, and maintain a reasonably consistent sleep schedule.",
+      "link": "https://www.optimistdaily.com/2026/10/is-this-nut-the-most-underrated-sleepy-time-snack-heres-what-the-sleep-research-says/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_55785253_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-22T00:00:12+00:00"
+    },
     {
       "title": "Strangers Help 86-Year-Old Who’s Been Building a 62-foot Boat in his Yard Since 1987 (WATCH)",
       "summary": "An 86-year-old man named Dale has spent nearly four decades welding a 62-foot steel boat in his front yard. Now, a wave of kindness is bringing his long-held dream within reach—just when it seemed to be beyond his reach.",
@@ -526,7 +622,7 @@
       "published": "2026-10-16T07:00:00+00:00"
     },
     {
-      "title": "What went right this week: the good news that matters",
+      "title": "What went right this week: Indonesia’s plummeting poverty rate, plus more",
       "summary": "Indonesia’s plummeting poverty rate, America’s largest wildlife bridge, and ‘a new era’ for the River Thames, plus more",
       "link": "https://www.positive.news/society/good-news-stories-from-week-42-of-2026/",
       "image_url": "https://www.positive.news/wp-content/uploads/2026/10/iStock-475084328.jpg",
