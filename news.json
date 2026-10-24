@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-10-23T03:24:55.910933+00:00",
+  "lastUpdated": "2026-10-24T03:19:20.515770+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 180
+      "count": 185
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 31
+      "count": 32
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 28
+      "count": 29
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 52
+      "count": 55
     },
     {
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 25
+      "count": 26
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 34
+      "count": 35
     },
     {
       "name": "Futurism",
@@ -46,8 +46,104 @@
   ],
   "articles": [
     {
+      "title": "The planet’s vital signs are getting worse. One of the easiest fixes is your diet.",
+      "summary": "A new report examining more than a dozen of the Earth’s life-sustaining systems paints a pretty bleak picture.",
+      "link": "https://grist.org/food-and-agriculture/the-planets-vital-signs-are-getting-worse-one-of-the-easiest-fixes-is-your-diet/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/10/fossil-fuel-oil-american-dream.jpg?quality=75&strip=all&w=768",
+      "source": "Grist",
+      "published": "2026-10-23T18:53:14+00:00"
+    },
+    {
+      "title": "Rescuers Ensure Orphaned Baby Walrus Gets a Second Chance (LOOK)",
+      "summary": "Found alone and oppressed by scavengers on a remote northern Alaska beach, an orphaned Pacific walrus calf now has a new home at SeaWorld Orlando.",
+      "link": "https://www.goodnewsnetwork.org/rescuers-ensure-orphaned-baby-walrus-gets-a-second-chance-look/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/A-USFWS-Intern-and-Annautaq-credit-supplied-to-GNN-by-SeaWorld-Orlando-Stephanie-Bechara-cropped.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-23T18:30:31+00:00"
+    },
+    {
+      "title": "Podcast Transcript October 23rd, 2026— Hungary repeals anti-LGBTQ law, world’s tallest wind turbine, and why fall makes you reach for reruns",
+      "summary": "Episode Description: Germany just finished building the world’s tallest wind turbine: 1,197 feet tall, and built without a crane.",
+      "link": "https://www.optimistdaily.com/2026/10/podcast-transcript-october-23rd-2026-hungary-repeals-anti-lgbtq-law-worlds-tallest-wind-turbine-and-why-fall-makes-you-reach-for-reruns/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Podcast-Logo-3000-×-3000-px-2-14-1024x1024.png",
+      "source": "The Optimist Daily",
+      "published": "2026-10-23T16:30:54+00:00"
+    },
+    {
+      "title": "One Teacher’s Idea for Daily Positivity Practice Sweeps Through His Elementary School",
+      "summary": "A Kansas Elementary School teacher is earning the praise of his community for sending children home full of positive affirmations.",
+      "link": "https://www.goodnewsnetwork.org/one-teachers-idea-for-daily-positivity-practice-sweeps-through-his-elementary-school/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/maxresdefault-6.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-23T15:30:59+00:00"
+    },
+    {
+      "title": "3 Italian ‘Hobbits’ Searched for Irishman’s ‘Precious’ Wedding Ring for Days Before Bringing it to His Home",
+      "summary": "A man’s misfortunate on vacation turned into a story fit for a fantasy novel, as complete strangers came to his rescue inspired by The Lord of the Rings.",
+      "link": "https://www.goodnewsnetwork.org/3-italian-hobbits-searched-for-irishmans-precious-wedding-ring-for-days-before-bringing-it-to-his-home/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Irishman-Patrick-Mohr-second-from-left-holds-up-his-wedding-ring-alongside-the-three-Italian-friends-who-found-it-provided-to-CBC-by-Patrick-Mohr.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-23T13:00:12+00:00"
+    },
+    {
+      "title": "Vines Produce Bigger, Healthier Wine Grapes When Grown Under Solar Panels",
+      "summary": "Solar panels grown above grapevines substantially increased the development and fruit production of the crop—all while generating clean energy.",
+      "link": "https://www.goodnewsnetwork.org/vines-produce-bigger-healthier-wine-grapes-when-grown-under-solar-panels/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-supplied-to-PV-Magazine-by-Giuseppe-Ferrara.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-23T11:00:15+00:00"
+    },
+    {
+      "title": "How ‘Artivism’ Is Driving the Resistance in Paris",
+      "summary": "Suddenly Darth Vader climbs up onto a chair in front of the Hôtel de Ville in Paris. Clad in all black, he swings his sword like a conductor’s baton while 200 musicians and volunteers, most in their early twenties, get ready.",
+      "link": "https://reasonstobecheerful.world/paris-student-protests-orchestra-artistic-expression/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/DSC09137-scaled.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-10-23T08:00:26+00:00"
+    },
+    {
+      "title": "As US grid batteries surge, risk of fires plummets",
+      "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen.",
+      "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
+      "image_url": "https://img.canarymedia.com/content/uploads/COTW-battery-safety-take-2.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=dc1a2e84b79570b0dd08e88888da6fef",
+      "source": "Canary Media",
+      "published": "2026-10-23T07:30:00+00:00"
+    },
+    {
+      "title": "Good News in History, October 23",
+      "summary": "Happy 50th Birthday to Ryan Reynolds, the always-handsome and hilarious Canadian actor who first starred in the sitcom Two Guys and a Girl in 1998, then rose to fame in a range of films like The Proposal and Green Lantern.",
+      "link": "https://www.goodnewsnetwork.org/events061023/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Deadpoll-and-Ryan-Reynolds-in-2019-Dick-Thomas-Johnson-cc.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-23T07:00:00+00:00"
+    },
+    {
+      "title": "What went right this week: the good news that matters",
+      "summary": "Rewilding gave low-lying islands hope, a basic income trial showed promise, and a Bangladeshi factory won an award, plus more",
+      "link": "https://www.positive.news/society/good-news-stories-from-week-43-of-2026/",
+      "image_url": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/iStock-900706714.jpg",
+      "source": "Positive News",
+      "published": "2026-10-23T05:00:52+00:00"
+    },
+    {
+      "title": "New research identifies the exact spot where Alzheimer’s protein tangles lock in",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Researchers at Northwestern University and UC Santa Barbara identified a specific contact point on tau proteins where the misfolding that drives Alzheimer’s disease begins.",
+      "link": "https://www.optimistdaily.com/2026/10/new-research-identifies-the-exact-spot-where-alzheimers-protein-tangles-lock-in/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/pathological-phosphorylation-yellow-tau-proteins-Depositphotos_250900006_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-23T00:00:57+00:00"
+    },
+    {
+      "title": "The Giving Grove: how Kansas City’s free community orchards became a national model",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM It is harvest time in Kansas City, and at Kansas City Academy, students are stepping outside during lunch to pick jujubes straight off the trees.",
+      "link": "https://www.optimistdaily.com/2026/10/the-giving-grove-how-kansas-citys-free-community-orchards-became-a-national-model/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/jujube-05-Depositphotos_10053331_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-23T00:00:57+00:00"
+    },
+    {
       "title": "A Towering Figure of Tolerance From 2,500 Years Ago Has Found a New Home in Atlanta",
-      "summary": "A statue of an ancient Persian king might seem like an unlikely addition to the city of Atlanta. To the people who spent years bringing him here, there’s no more fitting place in America.",
+      "summary": "This week, crews installed a 29-foot bronze statue of Cyrus the Great in Atlanta, an ancient Persian king might seem like an unlikely addition to the city To the people who spent years bringing him here, however, there’s no more fitting place in America for a man who authored what’s sometimes…",
       "link": "https://www.goodnewsnetwork.org/a-towering-figure-of-tolerance-from-2500-years-ago-has-found-a-new-home-in-atlanta/",
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/1ed67e1b-5689-495c-8a2b-35b2e83bba17.jpg",
       "source": "Good News Network",
@@ -68,6 +164,14 @@
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Land-clearned-in-South-Papua-for-rice-and-sugar-cultivation-credit-Yusuf-Wahil-Mighty-Earth.jpg",
       "source": "Good News Network",
       "published": "2026-10-22T18:30:59+00:00"
+    },
+    {
+      "title": "What kind of virtual power plant would you choose?",
+      "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Thursday via Substack.",
+      "link": "https://www.canarymedia.com/articles/virtual-power-plants/what-virtual-power-plant-would-you-choose",
+      "image_url": "https://img.canarymedia.com/content/uploads/CW-vpp-16.9.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=6c7418faedce1d37ce093a7de9efc558",
+      "source": "Canary Media",
+      "published": "2026-10-22T16:30:00+00:00"
     },
     {
       "title": "Major Supermarket Begins Wide-Scale Tests to Bring Heritage Apple Varieties to Market",
@@ -3108,14 +3212,6 @@
       "image_url": "https://img.canarymedia.com/content/uploads/AP18199714018124.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5317de40e530c6f2ec19dcaedfc508e0",
       "source": "Canary Media",
       "published": "2026-09-09T07:30:00+00:00"
-    },
-    {
-      "title": "Shuttered nuclear plant in Iowa gets $1.9B federal loan to restart",
-      "summary": "A third shuttered U.S. nuclear power plant is set to attempt a comeback with hefty support from the federal government.",
-      "link": "https://www.canarymedia.com/articles/nuclear/shuttered-nuclear-plant-in-iowa-gets-1-9b-federal-loan-to-restart",
-      "image_url": "https://img.canarymedia.com/content/uploads/AP-Duane-Arnold.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7f74c01d1087f016f12340b55543cb9d",
-      "source": "Canary Media",
-      "published": "2026-09-08T19:20:00+00:00"
     }
   ]
 }
