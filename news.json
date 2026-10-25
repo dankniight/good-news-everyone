@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-24T03:19:20.515770+00:00",
+  "lastUpdated": "2026-10-25T03:14:21.343540+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 185
+      "count": 190
     },
     {
       "name": "Positive News",
@@ -35,7 +35,7 @@
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 35
+      "count": 34
     },
     {
       "name": "Futurism",
@@ -45,6 +45,46 @@
     }
   ],
   "articles": [
+    {
+      "title": "Star Clusters in Van Gogh’s Starry Night Matches Taurus Sky From July 1889, Shows Study",
+      "summary": "The sky painted by Vincent Van Gogh in The Starry Night matches the sky in July of 1889, the year he immortalized the French horizon.",
+      "link": "https://www.goodnewsnetwork.org/stars-in-van-gogh-starry-night-matches-sky-in-july-1889/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Stars-in-Van-Goghs-The-Starry-Night-1889-match-with-the-Hyades-cluster-in-July-of-1889.jpeg",
+      "source": "Good News Network",
+      "published": "2026-10-24T17:19:53+00:00"
+    },
+    {
+      "title": "Minnesota Youth Jumps Onto Runaway School Bus and Saves 18 Kids After Driver has Seizure",
+      "summary": "Luckily, this 27-year-old was taking a break at work on a slow Monday in Minnesota—because his actions, jumping on a moving school bus, saved 18 students and their bus driver.",
+      "link": "https://www.goodnewsnetwork.org/st-paul-man-jumps-onto-runaway-school-bus-saves-18-children/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/surveillance-video-of-school-bus-Ya-Bricks-Snacks-and-Tobacco.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-24T14:14:30+00:00"
+    },
+    {
+      "title": "New U.S. National Park Preserves ‘Land of Standing-Up Rocks’ and its Apache Culture in Arizona",
+      "summary": "The U.S. has designated a new National Park in Arizona, preserving the distinctive landscape known as Chiricahua, the land of ‘Standing-Up Rocks’.",
+      "link": "https://www.goodnewsnetwork.org/new-us-national-park-preserves-land-of-standing-up-rocks/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Balancing-rocks-in-Chiricahua-National-Park-by-NPS-released.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-24T13:00:11+00:00"
+    },
+    {
+      "title": "Your Positive Weekly Horoscope: ‘Free Will Astrology’ by Rob Brezsny",
+      "summary": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+      "link": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-24-2026/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-24T10:00:24+00:00"
+    },
+    {
+      "title": "Good News in History, October 24",
+      "summary": "Happy 41st Birthday to Wayne Rooney, former Manchester United talisman and captain of the England national team.",
+      "link": "https://www.goodnewsnetwork.org/events061024/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/10/Manchester_United_v_Wigan_Athletic_January_2017_06.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-24T07:00:00+00:00"
+    },
     {
       "title": "The planet’s vital signs are getting worse. One of the easiest fixes is your diet.",
       "summary": "A new report examining more than a dozen of the Earth’s life-sustaining systems paints a pretty bleak picture.",
@@ -3204,14 +3244,6 @@
       "image_url": "https://img.canarymedia.com/content/uploads/Ohio-solar-array-in-East-Cleveland.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=c00fe715a631ad6bfa0e7c12abf0b45d",
       "source": "Canary Media",
       "published": "2026-09-10T07:30:00+00:00"
-    },
-    {
-      "title": "Virginia kept its climate law. Dominion sees a loophole.",
-      "summary": "Even as data centers spike energy demand and electricity rates rise, Virginia has stood by its landmark climate targets when other states, from New York to Hawaii , have wavered.",
-      "link": "https://www.canarymedia.com/articles/fossil-fuels/virginia-climate-law-dominion-loophole",
-      "image_url": "https://img.canarymedia.com/content/uploads/AP18199714018124.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5317de40e530c6f2ec19dcaedfc508e0",
-      "source": "Canary Media",
-      "published": "2026-09-09T07:30:00+00:00"
     }
   ]
 }
