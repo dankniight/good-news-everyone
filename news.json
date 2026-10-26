@@ -1,23 +1,23 @@
 {
-  "lastUpdated": "2026-10-25T03:14:21.343540+00:00",
+  "lastUpdated": "2026-10-26T03:15:35.492145+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 190
+      "count": 195
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 32
+      "count": 31
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 29
+      "count": 27
     },
     {
       "name": "The Optimist Daily",
@@ -35,7 +35,7 @@
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 34
+      "count": 32
     },
     {
       "name": "Futurism",
@@ -46,6 +46,46 @@
   ],
   "articles": [
     {
+      "title": "LIVE Webcam Brings You Inside Cheetah Den With 5 Tiny Cubs Tended By Mom (WATCH and LISTEN)",
+      "summary": "On October 5, a cheetah named Zura gave birth to five adorable cubs at the Smithsonian’s Conservation Institute in Virginia—and you can spy on them night and day.",
+      "link": "https://www.goodnewsnetwork.org/live-smithsonian-webcam-for-cheetah-den-and-5-cubs/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Cheetah-Cam-screenshot-via-Smithsonian-Conservation-Biology-Institute-.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-25T21:51:15+00:00"
+    },
+    {
+      "title": "53 Orangutans Rescued from Fires in Borneo, With Many Rewilded to Forest Preserves Across the Island",
+      "summary": "Forest and peatland wildfires continue to burn across the island of Borneo, endangering the air quality for both humans and wildlife—and torching the food supply for critically endangered orangutans.",
+      "link": "https://www.goodnewsnetwork.org/53-orangutans-rescued-from-fires-in-borneo/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Dr-Karmele-Llano-Sanchez-rescues-baby-orangutan-Credit-YIARI-BKSDA-and-International-Animal-Rescue-RELEASED.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-25T18:06:02+00:00"
+    },
+    {
+      "title": "Flood Worries? Tape Can Block 99% of Water Compared to Expensive Sandbags That Break Your Back",
+      "summary": "Homes at risk of flooding could be better protected in an emergency using widely available and affordable tape rather than traditional sandbags, shows new research from the UK’s University of Hull.",
+      "link": "https://www.goodnewsnetwork.org/tape-can-block-99-of-water-compared-to-expensive-sandbags/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/07/Vermont-Montpelier-Flood-submitted-Credit-to-Bob-Fitch.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-25T16:05:34+00:00"
+    },
+    {
+      "title": "A Chance Meeting in a Chinese Restaurant Saved a Man’s Life – As Everything Happens for a Reason",
+      "summary": "Everything happens for a reason. Every small choice can create lasting change—and even save a life. That’s what David Couture was reminiscing about, recently, when he shared with GNN a miraculous story from more than a decade ago.",
+      "link": "https://www.goodnewsnetwork.org/chance-meeting-in-chinese-restaurant-saved-a-life/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Chinese-Restaurant-by-Don-W-2011-fair-use.jpeg",
+      "source": "Good News Network",
+      "published": "2026-10-25T13:52:48+00:00"
+    },
+    {
+      "title": "Good News in History, October 25",
+      "summary": "145 years ago, the visionary artist Pablo Picasso was born. A Spanish painter and sculptor, he had trouble getting out of bed in the morning, and usually spent the afternoon conversing and drinking with friends.",
+      "link": "https://www.goodnewsnetwork.org/events061025/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/pablo-picasso-with-painting.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-25T07:00:00+00:00"
+    },
+    {
       "title": "Star Clusters in Van Gogh’s Starry Night Matches Taurus Sky From July 1889, Shows Study",
       "summary": "The sky painted by Vincent Van Gogh in The Starry Night matches the sky in July of 1889, the year he immortalized the French horizon.",
       "link": "https://www.goodnewsnetwork.org/stars-in-van-gogh-starry-night-matches-sky-in-july-1889/",
@@ -54,7 +94,7 @@
       "published": "2026-10-24T17:19:53+00:00"
     },
     {
-      "title": "Minnesota Youth Jumps Onto Runaway School Bus and Saves 18 Kids After Driver has Seizure",
+      "title": "Minnesota Worker Jumps Onto Runaway School Bus to Save 18 Kids After Driver has Seizure",
       "summary": "Luckily, this 27-year-old was taking a break at work on a slow Monday in Minnesota—because his actions, jumping on a moving school bus, saved 18 students and their bus driver.",
       "link": "https://www.goodnewsnetwork.org/st-paul-man-jumps-onto-runaway-school-bus-saves-18-children/",
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/surveillance-video-of-school-bus-Ya-Bricks-Snacks-and-Tobacco.jpg",
@@ -3204,46 +3244,6 @@
       "image_url": "https://www.positive.news/wp-content/uploads/2026/09/insta_photos.jpg",
       "source": "Positive News",
       "published": "2026-09-14T11:23:22+00:00"
-    },
-    {
-      "title": "With Adapted Sailing, the Sea Is for Everyone",
-      "summary": "César Maquieira has always loved the sea. Born and raised in the northwest of Spain, much of which is bordered by the Atlantic Ocean, he would for years regularly go fishing and on boat trips, and he dabbled in scuba diving.",
-      "link": "https://reasonstobecheerful.world/adapted-sailing-school/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/Credit-Monte-Real-Club-scaled.jpg",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-09-14T08:00:33+00:00"
-    },
-    {
-      "title": "Balcony solar is this year’s clean energy superstar in the US",
-      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Summer is only just coming to a close, but this year’s top clean energy trendsetter is already clear.",
-      "link": "https://www.canarymedia.com/articles/balcony-solar/clean-energy-plug-in-solar-panels",
-      "image_url": "https://img.canarymedia.com/content/uploads/Balcony-solar-in-Bavaria_GettyImages-1243438146.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=b02538eee09d78879ccba7a8d95ca1fc",
-      "source": "Canary Media",
-      "published": "2026-09-11T15:47:00+00:00"
-    },
-    {
-      "title": "‘We Held Each Other Up’",
-      "summary": "This week in our New York City office, we found ourselves talking about what we remembered from 25 years ago: the darkness, the sadness — and the ways people cared for one another.",
-      "link": "https://reasonstobecheerful.world/we-held-each-other-up/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/IMG_2843.jpeg",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-09-11T08:00:33+00:00"
-    },
-    {
-      "title": "What went right this week: solutions to save the world, plus more",
-      "summary": "Solutions to save the planet, protecting childhood from algorithms, and the new world map, plus more",
-      "link": "https://www.positive.news/society/good-news-stories-from-week-37-of-2026/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/iStock-1347084357.jpeg",
-      "source": "Positive News",
-      "published": "2026-09-11T05:50:39+00:00"
-    },
-    {
-      "title": "Coal-to-solar project lands a rare clean-energy win in Ohio",
-      "summary": "Clean energy scored a rare win in Ohio last month when state regulators unanimously approved a permit for 149 megawatts of solar and 149 MW of battery storage at the Hamden Energy site in Vinton County, located in the southeast quadrant of the state.",
-      "link": "https://www.canarymedia.com/articles/solar/coal-to-solar-project-win-ohio",
-      "image_url": "https://img.canarymedia.com/content/uploads/Ohio-solar-array-in-East-Cleveland.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=c00fe715a631ad6bfa0e7c12abf0b45d",
-      "source": "Canary Media",
-      "published": "2026-09-10T07:30:00+00:00"
     }
   ]
 }
