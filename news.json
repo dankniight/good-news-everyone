@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-10-26T03:15:35.492145+00:00",
+  "lastUpdated": "2026-10-27T03:44:41.723175+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 195
+      "count": 197
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 31
+      "count": 29
     },
     {
       "name": "Reasons to be Cheerful",
@@ -23,30 +23,126 @@
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 55
+      "count": 57
     },
     {
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 26
+      "count": 28
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 32
+      "count": 29
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 34
+      "count": 33
     }
   ],
   "articles": [
     {
-      "title": "LIVE Webcam Brings You Inside Cheetah Den With 5 Tiny Cubs Tended By Mom (WATCH and LISTEN)",
+      "title": "Stunning New Opera House Opens With a Gravity-Defying Grand Staircase (LOOK)",
+      "summary": "Despite its curtain raising rather late in the year, Shanghai’s new opera house has elbowed its way to the front row of international architectural debuts—thanks to a gravity-defying grand staircase.",
+      "link": "https://www.goodnewsnetwork.org/stunning-new-opera-house-welcomes-you-with-gravity-defying-grand-staircase-look/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/2016299_OS_N814.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-26T18:30:24+00:00"
+    },
+    {
+      "title": "Tiny Scottish Island’s Little Historical Society Makes Massive Discovery",
+      "summary": "A Scottish island is now confirmed to have been one of earliest centers of Christian evangelism in the British Isles thanks to a small-town historical society.",
+      "link": "https://www.goodnewsnetwork.org/tiny-scottish-islands-little-historical-society-makes-massive-discovery/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/An-aerial-view-of-the-archaeological-trenches-dug-around-Lismores-parish-church-credit-Clare-Ellis-et-al.-Antiquity-2026-e1793014269132.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-26T15:30:56+00:00"
+    },
+    {
+      "title": "Want the News to Unite People? Let Them Report It",
+      "summary": "Every few weeks, Jackie Jantzi sits in on school board meetings in Akron, Ohio, taking notes on her laptop. Afterward, she polishes a summary of what happened, to be published online, free for anyone to read.",
+      "link": "https://reasonstobecheerful.world/want-the-news-to-unite-people-let-them-report-it/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/Documenter-on-assignment-in-Chicago-scaled.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-10-26T14:54:18+00:00"
+    },
+    {
+      "title": "Top Economist Finds That AI Has Provided “Zero Financial Payoff” to Companies Outside Tech",
+      "summary": "\"There are still no signs of AI boosting productivity growth.\"",
+      "link": "https://futurism.com/artificial-intelligence/economist-ai-provided-zero-economic-benefit-companies-outside-tech",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/economist-ai-provided-zero-economic-benefit-companies-outside-tech.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-26T14:17:35+00:00"
+    },
+    {
+      "title": "Numbers of Endangered and Sacred River Dolphin Grow by 6 After Successful Breeding Season",
+      "summary": "River dolphins are among the world’s most endangered species, whether found in the New World, or the Old. Yet at least for now, things are looking up for these animals considered sacred by the people living along a stretch of the Mekong River in Cambodia, as the most recent calving season produced…",
+      "link": "https://www.goodnewsnetwork.org/numbers-of-endangered-and-sacred-river-dolphin-grow-by-6-after-successful-breeding-season/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Irrawaddy-dolphin-CC-4.0.-Int-Stefan-Brending.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-26T13:00:58+00:00"
+    },
+    {
+      "title": "Free tool helps young men to take responsibility for sexual harm",
+      "summary": "Young men are using a free tool designed to help them reflect on their sexual behaviour – offering an alternative to the manosphere",
+      "link": "https://www.positive.news/society/free-tool-helps-young-men-to-take-responsibility-for-sexual-harm/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/SafeBAE-Students-2.jpg",
+      "source": "Positive News",
+      "published": "2026-10-26T12:41:17+00:00"
+    },
+    {
+      "title": "Man Named ‘Service’ Cleans Up NYC Dumping Site on His Own Initiative",
+      "summary": "It’s not uncommon to walk past litter in a major city: what’s uncommon is stopping to do something about it. Yet it wasn’t just litter that Queens resident Joshua Service walked past on a recent rail commute, but a spontaneous dumping site.",
+      "link": "https://www.goodnewsnetwork.org/man-named-service-cleans-up-nyc-dumping-site-on-his-own-initiative/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-@thegeneraljo_-via-Instagram.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-26T11:30:53+00:00"
+    },
+    {
+      "title": "Climate change rarely goes on trial. This one could be a landmark.",
+      "summary": "Climate change gets a rare day in court today when 15 Canadian youth will accuse the federal government of violating their constitutional rights by failing to adequately address the country’s role in global warming.",
+      "link": "https://grist.org/justice/climate-change-rarely-goes-on-trial-this-one-could-be-a-landmark/",
+      "image_url": "https://grist.org/wp-content/uploads/2025/01/Rikki-Held.jpg?quality=75&strip=all&w=768",
+      "source": "Grist",
+      "published": "2026-10-26T08:15:00+00:00"
+    },
+    {
+      "title": "California has a plan for El Niño’s torrential rain: Save it for later",
+      "summary": "Something ominous just hit California: rain . The life-giving water that normally hydrates people and crops is bringing an aura of dread this autumn, thanks to the strongest El Niño ever recorded .",
+      "link": "https://grist.org/solutions/california-has-a-plan-for-el-ninos-torrential-rain-save-it-for-later/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/10/GettyImages-1612704466.jpeg",
+      "source": "Grist",
+      "published": "2026-10-26T08:00:00+00:00"
+    },
+    {
+      "title": "Good News in History, October 26",
+      "summary": "201 years ago today, the Erie Canal opened a passageway from New York to the Great Lakes. The canal was built to create a navigable water route from the Atlantic Ocean to the Midwestern US and took 8 years to construct the 36 locks which overcame a total elevation differential of about 565 feet…",
+      "link": "https://www.goodnewsnetwork.org/events061026/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2014/10/Erie-Canal-Drawing-1836-pubdomain.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-26T07:00:00+00:00"
+    },
+    {
+      "title": "NYC food pantries are now stocking pet food for struggling households",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM If you’ve ever moved a bit of food off your own plate just so your dog could eat, too, then you know the feeling this program is trying to address.",
+      "link": "https://www.optimistdaily.com/2026/10/nyc-food-pantries-are-now-stocking-pet-food-for-struggling-households/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/cat-food-in-scoop-on-Depositphotos_96912150_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-26T00:00:28+00:00"
+    },
+    {
+      "title": "Age-by-age Halloween tips from a board-certified pediatrician",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Halloween might be the one night a year when the whole family ends up outside together, moving through the neighborhood in the dark.",
+      "link": "https://www.optimistdaily.com/2026/10/age-by-age-halloween-tips-from-a-board-certified-pediatrician/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/smiling-young-woman-taking-selfie-Depositphotos_313589982_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-26T00:00:11+00:00"
+    },
+    {
+      "title": "LIVE Webcam Brings You Inside Cheetah Den With 5 Tiny Cubs Tended By Mom (The Meows are Mesmerizing)",
       "summary": "On October 5, a cheetah named Zura gave birth to five adorable cubs at the Smithsonian’s Conservation Institute in Virginia—and you can spy on them night and day.",
       "link": "https://www.goodnewsnetwork.org/live-smithsonian-webcam-for-cheetah-den-and-5-cubs/",
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Cheetah-Cam-screenshot-via-Smithsonian-Conservation-Biology-Institute-.jpg",
@@ -3148,102 +3244,6 @@
       "image_url": "https://img.canarymedia.com/content/uploads/GettyImages-686403884.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a6e0b211428f61f161864e22a8e75e4d",
       "source": "Canary Media",
       "published": "2026-09-16T07:30:00+00:00"
-    },
-    {
-      "title": "What happened when I stopped filling the silence",
-      "summary": "Angela Garwood swapped conversation for stillness at a device-free silent retreat, hoping to discover what lies beneath the noise",
-      "link": "https://www.positive.news/lifestyle/the-sound-of-stillness-what-happened-when-i-stopped-filling-the-silence/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/Gayles_Retreats_Images_Them_Studio-6-copy-1800x0-c-centermain.jpeg",
-      "source": "Positive News",
-      "published": "2026-09-16T07:00:46+00:00"
-    },
-    {
-      "title": "Good News in History September 16",
-      "summary": "60 years ago today, the Metropolitan Opera House opened at the Lincoln Center on Broadway and Lincoln Square on the Upper West Side of Manhattan, New York City.",
-      "link": "https://www.goodnewsnetwork.org/events060916/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/09/the-met-opera-house-cc-2.0.-Copy.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-16T07:00:00+00:00"
-    },
-    {
-      "title": "Christian Bale Opens Long-Dreamed of Foster Care Village Aimed at Keeping Siblings Together",
-      "summary": "The personal passion project of Hollywood A-lister Christian Bale has finally come to fruition, as the Welsh actor cut the ribbon on a children’s foster care village in Palmdale, California.",
-      "link": "https://www.goodnewsnetwork.org/christian-bale-opens-long-dreamed-of-foster-care-village-aimed-at-keeping-siblings-together/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/credit-Together-California-.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-15T18:30:28+00:00"
-    },
-    {
-      "title": "Trump’s EPA Will Let Power Companies Unleash Unlimited Greenhouse Gas Pollution",
-      "summary": "Giving climate change the coal shoulder.",
-      "link": "https://futurism.com/science-energy/trumps-epa-unlimited-greenhouse-gas",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/trumps-epa-unlimited-greenhouse-gas.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-09-15T17:43:39+00:00"
-    },
-    {
-      "title": "$1,000 Bonus for Every Year of Work: Casino Employees Shocked at Company’s 50th Anniversary",
-      "summary": "When thousands of employees at Station Casinos arrived at one of the company’s resorts to celebrate its 50th anniversary, they hadn’t a clue what was about to happen.",
-      "link": "https://www.goodnewsnetwork.org/1000-bonus-for-every-year-at-the-company-casino-employees-shocked-at-companys-50th-anniversary/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/credit-Station-Casinos-released-to-the-press.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-15T15:30:43+00:00"
-    },
-    {
-      "title": "Tesla Investors Disturbed by Cybercab’s Obvious Lack of Progress",
-      "summary": "The risks are becoming impossible to ignore.",
-      "link": "https://futurism.com/advanced-transport/tesla-investors-disturbed-cybercabs-lack-progress",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/tesla-investors-disturbed-cybercabs-lack-progress.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-09-15T15:20:59+00:00"
-    },
-    {
-      "title": "In a first, cement giant to tap thermal batteries for cleaner heat",
-      "summary": "Making the cement that holds together our buildings and streets is a highly carbon-intensive process — one that involves burning lots of fossil fuels to blast materials with searing heat.",
-      "link": "https://www.canarymedia.com/articles/clean-industry/electrified-thermal-solutions-holcim-first-thermal-batteries",
-      "image_url": "https://img.canarymedia.com/content/uploads/Holcim-Hamburg_GettyImages-2200230868-1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=200d0c3b9587e91234137065bcd64ff1",
-      "source": "Canary Media",
-      "published": "2026-09-15T12:00:00+00:00"
-    },
-    {
-      "title": "What if giving away a day’s revenue was the best day of your year?",
-      "summary": "Twenty-five years on from 9/11, one financial services company has managed to turn tragedy into a day with purpose",
-      "link": "https://www.positive.news/society/what-if-giving-away-a-days-revenue-was-the-best-day-of-your-year/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/Nikki-.png",
-      "source": "Positive News",
-      "published": "2026-09-15T10:18:14+00:00"
-    },
-    {
-      "title": "How Afghan Women Are Rebuilding Reproductive Health Care",
-      "summary": "In Helmand province in southern Afghanistan, Ram Bibi, a 30-year-old mother now pregnant with her sixth child, counts herself as one of the lucky ones.",
-      "link": "https://reasonstobecheerful.world/how-afghan-women-are-rebuilding-reproductive-health-care/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/1000082074.jpg-1-scaled.jpeg",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-09-15T08:00:40+00:00"
-    },
-    {
-      "title": "California moves to cut red tape for heat pumps, solar, and more",
-      "summary": "Californians could soon find it easier and cheaper to install rooftop solar, home batteries, and energy-saving heat pumps and heat-pump water heaters.",
-      "link": "https://www.canarymedia.com/articles/heat-pumps/california-to-cut-red-tape-heat-pumps-solar",
-      "image_url": "https://img.canarymedia.com/content/uploads/Solar-installer-on-roof-Corona-California_GettyImages-957099610.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=993372a0d8efafee7b309001d1cb755e",
-      "source": "Canary Media",
-      "published": "2026-09-14T20:00:00+00:00"
-    },
-    {
-      "title": "Gavin Newsom’s complicated legacy on climate and clean energy",
-      "summary": "Gavin Newsom’s eight-year run as California’s Democratic governor — and as self-styled U.S. climate change warrior — comes to an end in January.",
-      "link": "https://www.canarymedia.com/articles/clean-energy/gavin-newsom-complicated-clean-energy-legacy",
-      "image_url": "https://img.canarymedia.com/content/uploads/GettyImages-2285912782.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=cd9a2caf518469159a57327833046e83",
-      "source": "Canary Media",
-      "published": "2026-09-14T16:00:00+00:00"
-    },
-    {
-      "title": "How ‘housing first’ is helping people leave rough sleeping behind",
-      "summary": "A housing model that gives people a permanent home before asking them to tackle their other problems has achieved striking results",
-      "link": "https://www.positive.news/society/how-housing-first-is-helping-people-leave-rough-sleeping-behind/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/insta_photos.jpg",
-      "source": "Positive News",
-      "published": "2026-09-14T11:23:22+00:00"
     }
   ]
 }
