@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-27T03:44:41.723175+00:00",
+  "lastUpdated": "2026-10-28T04:01:46.601161+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 197
+      "count": 196
     },
     {
       "name": "Positive News",
@@ -23,28 +23,124 @@
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 57
+      "count": 59
     },
     {
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 28
+      "count": 29
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 29
+      "count": 28
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 33
+      "count": 32
     }
   ],
   "articles": [
+    {
+      "title": "Solar Panels Are Now Producing So Much Power That They’re Leaving Nuclear Plants in the Dust",
+      "summary": "\"Solar is now the engine of the power transition.\"",
+      "link": "https://futurism.com/science-energy/solar-panels-electricity-energy-nuclear-power",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/solar-panels-electricity-energy-nuclear-power.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-27T17:52:00+00:00"
+    },
+    {
+      "title": "FDA-Approval for Drill-Free Cavity Care May Be Imminent After Great Phase 3 Treatment Trial",
+      "summary": "FDA approval may be imminent for a key innovation in dentistry that could spare thousands of children from painful pulling, drilling, and infections with a simple fluid coating.",
+      "link": "https://www.goodnewsnetwork.org/fda-approval-for-drill-free-cavity-care-may-be-imminent-after-great-phase-3-treatment-trial/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/01/Teeth-dentist-caveties-by-Ozkan-Guner-lQNl2Vdn0fs-unsplash.jpeg",
+      "source": "Good News Network",
+      "published": "2026-10-27T16:30:24+00:00"
+    },
+    {
+      "title": "High School Baseball Team Has All the Vibes of Success But Never Won a Game: Kids Don’t Mind",
+      "summary": "One might say it’s a very Canadian story: that the Dartmouth High School Spartans haven’t won a game of baseball in 6 years, yet still feel like winners.",
+      "link": "https://www.goodnewsnetwork.org/high-school-baseball-team-has-all-the-vibes-of-success-but-never-won-a-game-kids-dont-mind/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/baseball-unsplash.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-27T15:30:59+00:00"
+    },
+    {
+      "title": "NGO Celebrates 70 Million Amazon Acres Conserved After Protecting Are Called a ‘Link of Life’",
+      "summary": "American NGO the Rainforest Trust recently aided in the creation of a 715,000-acre wildlife reserve in Bolivia along the Iténez River, considered by scientists to be a “link of life.",
+      "link": "https://www.goodnewsnetwork.org/ngo-celebrates-70-million-amazon-acres-conserved-after-protecting-are-called-a-link-of-life/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Sunrise-on-the-Itenez-River-credit-Gabriela-Villaneuva-CC-4.0.-BY-SA-e1793094098653.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-27T13:00:06+00:00"
+    },
+    {
+      "title": "Ford’s new EV pickup will come with more affordable home-power backup",
+      "summary": "Electric vehicles can serve as home backup batteries. But so far, most EVs have needed expensive bidirectional chargers to do that — a tough sell for customers.",
+      "link": "https://www.canarymedia.com/articles/electric-vehicles/ford-fathom-ev-pickup-home-power-backup",
+      "image_url": "https://img.canarymedia.com/content/uploads/Ford-Home-Power-Station-Ford-Home-Backup-Panel-garage-artist-rendering.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=45200ab024e79772f5399a4a704a13a3",
+      "source": "Canary Media",
+      "published": "2026-10-27T13:00:00+00:00"
+    },
+    {
+      "title": "Family That’s Fostered 500 Children Saved from Housefire Thanks to Stranger’s Wrong Turn",
+      "summary": "A complete stranger named Casey knew he was in the wrong place, yet at the right time—when he saw the smoke from a burning house in the distance.",
+      "link": "https://www.goodnewsnetwork.org/family-thats-fostered-500-children-saved-from-housefire-thanks-to-strangers-wrong-turn/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/The-Burke-Family-credit-Flourish-Foster-Care-Closet-Support.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-27T11:30:43+00:00"
+    },
+    {
+      "title": "As extreme heat worsens, renters are gaining a ‘right to cooling’",
+      "summary": "Subjecting the incarcerated residents of Texas to extreme heat constitutes cruel and unusual punishment, and prisons statewide must install air-conditioning by the end of 2029.",
+      "link": "https://grist.org/extreme-heat/as-extreme-heat-worsens-renters-are-gaining-a-right-to-cooling/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/10/extreme-heat-cooling-renters-air-conditioning-right-to-cooling-apartments.jpeg",
+      "source": "Grist",
+      "published": "2026-10-27T08:30:00+00:00"
+    },
+    {
+      "title": "Finally, Something Americans Agree On!",
+      "summary": "Patty Spillman and her husband farm over 400 acres of corn, soybeans and wheat in central Ohio. Both have lived in the area all their lives; his family has been on the land since 1861.",
+      "link": "https://reasonstobecheerful.world/data-center-opposition-ai-republicans-democrats-bipartisan-agreement/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/Patty-and-her-husband-on-their-land-2.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-10-27T08:00:32+00:00"
+    },
+    {
+      "title": "Cream of the crop: one brand’s quiet quest to reinvent the dairy industry",
+      "summary": "Regenerative agriculture is being explored as a way to make dairy farming more resilient. But what does it mean?",
+      "link": "https://www.positive.news/environment/cream-of-the-crop-one-brands-quiet-quest-to-reinvent-the-dairy-industry/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/iStock-636373182.jpg",
+      "source": "Positive News",
+      "published": "2026-10-27T07:00:17+00:00"
+    },
+    {
+      "title": "Good News in History, October 27",
+      "summary": "64 years ago today, one man in the right place, at the right time, did the right thing, saving the world from probably nuclear war.",
+      "link": "https://www.goodnewsnetwork.org/events061027/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/10/Vasili_Arkhipov-CC-SA-4.0.-Olga-Arkhipov.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-27T07:00:00+00:00"
+    },
+    {
+      "title": "New Jersey Transit is turning commuter stations into art galleries",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Most people moving through a train station aren’t really paying attention.",
+      "link": "https://www.optimistdaily.com/2026/10/new-jersey-transit-is-turning-commuter-stations-into-art-galleries/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/new-jersey-transit-commuter-train-Depositphotos_473170438_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-27T00:00:50+00:00"
+    },
+    {
+      "title": "5 research-backed ways to banish aches and feel better at your desk",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Researchers at Columbia University Medical Center wanted to answer a specific question: what is the least amount of movement needed to offset the effects of prolonged sitting?",
+      "link": "https://www.optimistdaily.com/2026/10/5-research-backed-ways-to-banish-aches-and-feel-better-at-your-desk/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/unhappy-young-woman-eyeglasses-hand-Depositphotos_625446286_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-27T00:00:30+00:00"
+    },
     {
       "title": "Stunning New Opera House Opens With a Gravity-Defying Grand Staircase (LOOK)",
       "summary": "Despite its curtain raising rather late in the year, Shanghai’s new opera house has elbowed its way to the front row of international architectural debuts—thanks to a gravity-defying grand staircase.",
@@ -87,7 +183,7 @@
     },
     {
       "title": "Free tool helps young men to take responsibility for sexual harm",
-      "summary": "Young men are using a free tool designed to help them reflect on their sexual behaviour – offering an alternative to the manosphere",
+      "summary": "Young men are using a digital tool designed to help them reflect on their sexual behaviour – offering an alternative to the manosphere",
       "link": "https://www.positive.news/society/free-tool-helps-young-men-to-take-responsibility-for-sexual-harm/",
       "image_url": "https://www.positive.news/wp-content/uploads/2026/10/SafeBAE-Students-2.jpg",
       "source": "Positive News",
@@ -3148,102 +3244,6 @@
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/oil-refinery-refining-petroleum-petro-chemical-plant-credit-Getty-Images-for-Unsplash-.jpg",
       "source": "Good News Network",
       "published": "2026-09-17T13:00:22+00:00"
-    },
-    {
-      "title": "Students Win James Dyson Award for Device That Screens Students for Concussions in Just 60 Seconds",
-      "summary": "A trio of students at Harvard University have invented a low-cost, eye-tracking headset designed to help schools quickly screen child athletes for possible concussions.",
-      "link": "https://www.goodnewsnetwork.org/students-win-james-dyson-award-for-device-that-screens-students-for-concussions-in-just-60-seconds/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Radhika-Saran-Cleo-Pontone-and-Sophia-DeVito-inventors-of-Rumble-Rims-credit-James-Dyson-Award-released-to-the-media.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-17T11:01:50+00:00"
-    },
-    {
-      "title": "Good News in History September 17",
-      "summary": "Happy 41st birthday to The Great 8, Alexander Ovechkin. Playing left wing for the Washington Capitals since 2004, he is quite simply among the greatest goal scorers in the history of ice hockey.",
-      "link": "https://www.goodnewsnetwork.org/events060917/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/09/Alexander-Ovechkin-in-2018-Copy.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-17T07:00:00+00:00"
-    },
-    {
-      "title": "51 ways to get the planet tipping the right way",
-      "summary": "Researchers have identified 51 environmental solutions to save the planet. Here are five of the most promising",
-      "link": "https://www.positive.news/society/51-ways-to-get-the-planet-tipping-the-right-way/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/iStock-178586669.jpeg",
-      "source": "Positive News",
-      "published": "2026-09-17T05:00:50+00:00"
-    },
-    {
-      "title": "Nashville Singer Becomes Local Celebrity Rescuing Foxes and Saving Them from Mange",
-      "summary": "A Nashville singer-songwriter has become a star—but not because of his guitar playing. Jerry Vandiver, whose songs have been recorded by country stars like Tim McGraw, moonlights as a volunteer hero to the local red fox population.",
-      "link": "https://www.goodnewsnetwork.org/nashville-singer-songwriter-becomes-local-celebrity-rescuing-foxes-and-saving-them-from-mange/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/credit-Jerry-Vandiver-retrieved-from-Facebook.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-16T18:30:06+00:00"
-    },
-    {
-      "title": "Newsom's last chance to tackle California's electricity costs",
-      "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Wednesday via Substack .",
-      "link": "https://www.canarymedia.com/articles/affordability/newsom-last-chance-california-electricity-costs",
-      "image_url": "https://img.canarymedia.com/content/uploads/CW-newsom.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=adbab9076d7652e2d3f055d4e5e00ea5",
-      "source": "Canary Media",
-      "published": "2026-09-16T17:00:00+00:00"
-    },
-    {
-      "title": "It’s Looking Like Tesla’s Cybercab Might Actually Be Illegal to Sell",
-      "summary": "The government is demanding that Tesla go under oath.",
-      "link": "https://futurism.com/advanced-transport/tesla-cybercab-illegal-sell",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/tesla-cybercab-illegal-sell.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-09-16T16:46:43+00:00"
-    },
-    {
-      "title": "Scientists Determine Australia’s Vast Red Deserts Could Fuel a Hydrogen-Powered Energy Revolution",
-      "summary": "Scientists have revealed that Australia may hold the key to generating ample green energy while creating a major export industry, and that it’s buried underneath their feet.",
-      "link": "https://www.goodnewsnetwork.org/scientists-determine-australias-vast-red-deserts-could-fuel-a-hydrogen-powered-energy-revolution/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Classic-Australian-Pilbara-region-banded-iron-formations-credit-Edith-Cowan-University-released.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-16T15:35:16+00:00"
-    },
-    {
-      "title": "Data Centers Are Causing a Huge Surge in Incredibly Toxic Chemicals Polluting the World",
-      "summary": "\"Data centers create problems that don't stop at municipal boundaries, whether it's pollution or straining the grid and driving up everyone's electric bills.\"",
-      "link": "https://futurism.com/science-energy/data-centers-surge-toxic-chemical-spill-pollution-pfas",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/data-centers-surge-toxic-chemical-spill-pollution-pfas.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-09-16T13:21:24+00:00"
-    },
-    {
-      "title": "Mexico Reintroduced Bison into Precious Desert Ecosystem After Century-Long Absence",
-      "summary": "A series of reintroductions have seen the bison return to a landscape in Mexico’s Chihuahua Desert after a 200 year absence.",
-      "link": "https://www.goodnewsnetwork.org/mexico-reintroduced-bison-into-precious-desert-ecosystem-after-century-long-absence/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/01/credit-Jordan-Crawford-via-Unsplash.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-16T13:00:13+00:00"
-    },
-    {
-      "title": "10 Pounds of Viking Silver Found in Finland Extend Incredible Year for Scandinavian Treasure Hunts",
-      "summary": "Metal detectors have had a banner year in Scandinavia, where records for the largest recovered Viking silver hoards have been made in Norway, Denmark, and now Finland.",
-      "link": "https://www.goodnewsnetwork.org/10-pounds-of-viking-silver-found-in-finland-extend-incredible-year-for-scandinavian-treasure-hunts/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/The-two-hoards-credit-Lahti-City-Museums.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-16T11:00:03+00:00"
-    },
-    {
-      "title": "What We’re Reading: 20,000 Salmon Return to the Klamath River",
-      "summary": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
-      "link": "https://reasonstobecheerful.world/what-were-reading-klamath-river-salmon-return/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2024/04/Inside-Climate-News-logo.jpeg",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-09-16T08:00:56+00:00"
-    },
-    {
-      "title": "Illinois revamps clean energy jobs training for a shifting economy",
-      "summary": "Illinois has spent the last few years training hundreds of people for clean energy jobs. Now, it’s upgrading its keystone program to better respond to new workforce realities.",
-      "link": "https://www.canarymedia.com/articles/clean-energy-jobs/illinois-revamps-clean-energy-jobs-training",
-      "image_url": "https://img.canarymedia.com/content/uploads/GettyImages-686403884.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a6e0b211428f61f161864e22a8e75e4d",
-      "source": "Canary Media",
-      "published": "2026-09-16T07:30:00+00:00"
     }
   ]
 }
