@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-28T04:01:46.601161+00:00",
+  "lastUpdated": "2026-10-29T04:25:14.835615+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 196
+      "count": 193
     },
     {
       "name": "Positive News",
@@ -17,34 +17,130 @@
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 27
+      "count": 26
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 59
+      "count": 61
     },
     {
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 29
+      "count": 28
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 28
+      "count": 29
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 32
+      "count": 34
     }
   ],
   "articles": [
+    {
+      "title": "The DOE announces $5B loan to Constellation for nuclear uprates",
+      "summary": "The pro-nuclear Trump administration continues to put its money where its mouth is. On Tuesday, the U.S. Department of Energy announced a conditional loan commitment of up to $5 billion to boost the output of 15 reactors at eight nuclear power plants in Illinois, Maryland, and Pennsylvania by a…",
+      "link": "https://www.canarymedia.com/articles/nuclear/doe-5b-loan-constellation-energy",
+      "image_url": "https://img.canarymedia.com/content/uploads/Constellations-Clinton-nuclear-plant-Illinois-GettyImages-2227026774.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=210161679089185f3779fa8fc4c7d1d1",
+      "source": "Canary Media",
+      "published": "2026-10-28T19:00:00+00:00"
+    },
+    {
+      "title": "Nature-Inspired Tech Prevents Microplastics Entering Atlantic Ocean Through Wastewater",
+      "summary": "Princeton alumni have designed what’s called a first-in-the-world device to filter microplastics out of wastewater at scale, and it’s already been deployed in Atlantic City.",
+      "link": "https://www.goodnewsnetwork.org/nature-inspired-tech-prevents-microplastics-entering-atlantic-ocean-through-wastewater/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-supplied-to-WHYY-as-a-courtesy-PolyGone-Systems.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-28T18:30:55+00:00"
+    },
+    {
+      "title": "Bizarre Rescue Sees Divers Save Kangaroo That Found Itself Over a Mile from Dry Land",
+      "summary": "In a story too ‘Australiana’ to believe, a scuba diver and his crew rescued a kangaroo over one and a half miles out to sea.",
+      "link": "https://www.goodnewsnetwork.org/bizarre-rescue-sees-divers-save-kangaroo-that-found-itself-over-a-mile-from-dry-land/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Jake-Murray-and-the-rescued-roo-supplied-to-ABC-by-Jake-Murray.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-28T15:30:15+00:00"
+    },
+    {
+      "title": "Unannounced Test by Controversial “Sunlight-as-a-Service” Space Startup Shocks Astronomers",
+      "summary": "\"This is not a 'concern' — this is like a bullet in your head. It’s the end of ground-based astronomy.\"",
+      "link": "https://futurism.com/space/test-controversial-sunlight-space-astronomers",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/test-controversial-sunlight-space-astronomers.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-28T14:42:31+00:00"
+    },
+    {
+      "title": "It Turns Out That the Air You’re Breathing Is Doing Irreparable Damage to Your Brain",
+      "summary": "A breath of deathly air.",
+      "link": "https://futurism.com/science-energy/air-breathing-damage-brain",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/air-breathing-damage-brain.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-28T13:42:08+00:00"
+    },
+    {
+      "title": "Etsy Cracks Down on AI-Generated Content to Protect Buyers from Barrage of Slop",
+      "summary": "For the world’s largest online e-commerce market for handicrafts, the impact of AI generated media was always going to loom large.",
+      "link": "https://www.goodnewsnetwork.org/etsy-cracks-down-on-ai-generated-content-to-protect-buyers-from-barrage-of-slop/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Etsys-offices-in-Ireland-CC-3.0.-BY-SA-Cograng-replicated-with-AI-for-humors-sake.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-28T13:00:04+00:00"
+    },
+    {
+      "title": "Stranger Anonymously Pays $420 Lunch Tab for 27 Disabled Residents and Caregivers",
+      "summary": "Members of a South Korean disabled community group were shocked to hear that a total stranger had paid for their barbecue lunch worth $420.",
+      "link": "https://www.goodnewsnetwork.org/anonymously-pays-dinner-tab-for-27-disability-staff-in-south-korea/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Getty-Images-for-Unsplash-.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-28T11:30:33+00:00"
+    },
+    {
+      "title": "Positive News launches new video podcast exploring what’s going right in the world",
+      "summary": "The What Went Right series is expanding to YouTube and other podcast platforms, bringing its weekly roundup of progress to new audiences",
+      "link": "https://www.positive.news/society/positive-news-launches-new-video-podcast-exploring-whats-going-right-in-the-world/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/WWR_hosts_3x2.jpg",
+      "source": "Positive News",
+      "published": "2026-10-28T09:43:33+00:00"
+    },
+    {
+      "title": "What We’re Reading: A Quiz That Reveals Americans’ Surprising Common Ground",
+      "summary": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
+      "link": "https://reasonstobecheerful.world/what-were-reading-americans-want-the-same-things/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2025/06/Wall-street-journal-logo.gif",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-10-28T08:00:42+00:00"
+    },
+    {
+      "title": "Good News in History, October 28",
+      "summary": "61 years ago today, the Gateway Arch in St. Louis, Missouri was completed. Clad in stainless steel and standing 630 feet high, it is the tallest monument in the Western Hemisphere.",
+      "link": "https://www.goodnewsnetwork.org/events061028/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/05/Gateway-Arch-National-Park-St-Louis-skyline-pubdomain-Kenny-Nguyen.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-28T07:00:00+00:00"
+    },
+    {
+      "title": "Student Makers, a deeper dive: bringing free STEM to students on three continents",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM This article kicks off The Optimist Daily’s Local Changemakers 2026 series, spotlighting changemakers 30 and under.",
+      "link": "https://www.optimistdaily.com/2026/10/student-makers-a-deeper-dive-bringing-free-stem-to-students-on-three-continents/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Local-Changemakers-Story-Covers-6-1.png",
+      "source": "The Optimist Daily",
+      "published": "2026-10-28T00:00:52+00:00"
+    },
+    {
+      "title": "Meet Vivian Ho: the 17-year-old who built a supply network around dignity, not charity",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM This article is part of The Optimist Daily’s Local Changemakers 2026 series, spotlighting changemakers 30 and under.",
+      "link": "https://www.optimistdaily.com/2026/10/meet-vivian-ho-the-17-year-old-who-built-a-supply-network-around-dignity-not-charity/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Local-Changemakers-Story-Covers-10-1.png",
+      "source": "The Optimist Daily",
+      "published": "2026-10-28T00:00:04+00:00"
+    },
     {
       "title": "Solar Panels Are Now Producing So Much Power That They’re Leaving Nuclear Plants in the Dust",
       "summary": "\"Solar is now the engine of the power transition.\"",
@@ -390,7 +486,7 @@
       "published": "2026-10-23T07:00:00+00:00"
     },
     {
-      "title": "What went right this week: the good news that matters",
+      "title": "What went right this week: how rewilding can ‘save’ low-lying islands, plus more",
       "summary": "Rewilding gave low-lying islands hope, a basic income trial showed promise, and a Bangladeshi factory won an award, plus more",
       "link": "https://www.positive.news/society/good-news-stories-from-week-43-of-2026/",
       "image_url": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/iStock-900706714.jpg",
@@ -3148,102 +3244,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/09/crowd-cheers-rfk-government-investigate-chemtrails.jpg?quality=85&w=2048",
       "source": "Futurism",
       "published": "2026-09-18T20:33:59+00:00"
-    },
-    {
-      "title": "Company’s Textile Dyes Work Through Magnetism, Cutting Fashion’s Water-Use, Energy, and Pollution",
-      "summary": "Hoping to tackle the 50% of textile emissions associated with the dyeing process, a vaunted French startup has created non-toxic dyes that require substantially less water to activate and last just as long.",
-      "link": "https://www.goodnewsnetwork.org/companys-textile-dyes-work-through-magnetism-cutting-fashions-water-use-energy-and-pollution/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/credit-EverDye-e1789761780757.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-18T18:30:36+00:00"
-    },
-    {
-      "title": "Unsealed for the First Time, This 600-yo Tomb in Peru Was Just Declared the ‘Discovery of the Decade’",
-      "summary": "An unspoiled, undiscovered tomb containing the remains of an elite society belong to a major Andean civilization has been uncovered in Peru.",
-      "link": "https://www.goodnewsnetwork.org/unsealed-for-the-first-time-this-600-yo-tomb-in-peru-was-just-declared-the-discovery-of-the-decade/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/The-newly-discovered-tomb-seen-in-the-center-©-ANDINA-Editora-Peru.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-18T15:30:26+00:00"
-    },
-    {
-      "title": "Cataract Surgery Restores Sight for 54-Year-Old Chimpanzee–the First Such Procedure at Chimp Haven",
-      "summary": "After becoming completely blind from cataracts, a 54-year-old chimpanzee named Pierre is seeing again following a successful surgery at Chimp Haven, the world’s largest chimpanzee sanctuary.",
-      "link": "https://www.goodnewsnetwork.org/cataract-surgery-restores-sight-for-54-year-old-chimpanzee-the-first-such-procedure-at-chimp-haven/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Pierre-the-Chimp-recovering-from-cataract-surgery-credit-Chimp-Haven-supplied.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-18T12:30:44+00:00"
-    },
-    {
-      "title": "New Cat Species Identified for the First Time in Over 100 Years–Meet the Tilcayo",
-      "summary": "In a story that proves ‘explorer’ is still a good answer to the question “what do you want to be when you grow up?” a whole new cat species has been identified for the first time in over 100 years.",
-      "link": "https://www.goodnewsnetwork.org/new-cat-species-identified-for-the-first-time-in-over-100-years-meet-the-tilcayo/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/imrs-e1789720878162.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-18T08:45:29+00:00"
-    },
-    {
-      "title": "Federal transit cuts could hit rural America hardest",
-      "summary": "As the executive director of the Living Independent Network Corp, Jeremy Maxand does what he can to help people who don’t drive get around in southern Idaho.",
-      "link": "https://grist.org/solutions/federal-transit-cuts-could-hit-rural-america-hardest/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/02/Madison-Wisconsin-transit-BRT-electric-buses-range-winter-01.jpeg",
-      "source": "Grist",
-      "published": "2026-09-18T08:45:00+00:00"
-    },
-    {
-      "title": "In Remote Alaska, the Promise and Limits of Vertical Farming",
-      "summary": "This story was originally published by Civil Eats. The town of Skagway, in southeast Alaska, is home to approximately 1,000 year-round residents and hosts more than 1.3 million summer cruise ship passengers.",
-      "link": "https://reasonstobecheerful.world/in-remote-alaska-the-promise-and-limits-of-vertical-farming/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/260817-1-in-remote-alaska-promise-limits-vertical-farming-skagway-brewing-co-top.jpg",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-09-18T08:00:09+00:00"
-    },
-    {
-      "title": "Good News in History, September 18",
-      "summary": "188 years ago today, the Anti-Corn Law League was established in England by the economics-savvy liberals who understood that protectionism is immoral and useless in benefiting the economy.",
-      "link": "https://www.goodnewsnetwork.org/events060918/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/09/A-meeting-of-the-Anti-Corn-Law-League.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-18T07:00:00+00:00"
-    },
-    {
-      "title": "What went right this week: the EU’s social media ban for kids, plus more",
-      "summary": "EU to ban social media for kids, England approves life-extending cancer drug, and reading linked to better health, plus more",
-      "link": "https://www.positive.news/society/good-news-stories-from-week-38-of-2026/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/iStock-2096480418.jpeg",
-      "source": "Positive News",
-      "published": "2026-09-18T05:28:35+00:00"
-    },
-    {
-      "title": "Team Sequesters Plastic and Makes New Products Before it Breaks Down in Environment",
-      "summary": "In central California’s city of San Carlos, recycling plastics is a family affair. Nick Schick and his parents, David and Andrea, work exclusively with products made from hard-to-recycle plastic polymers called thermoplastics.",
-      "link": "https://www.goodnewsnetwork.org/team-sequesters-plastic-and-makes-new-products-before-it-breaks-down-in-environment/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Young-Nick-Schick-takes-a-large-plastic-sheet-off-a-mold-credit-family-photo-submitted-to-CBS.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-17T18:30:31+00:00"
-    },
-    {
-      "title": "Scientists Solve Mystery Behind Snowfall That Dropped 695 Billion Tons of Ice on Antarctica",
-      "summary": "A warming pool of tropical ocean water has been shown to be the cause of immense snowstorms over East Antarctica which contributed to a net gain of 695 billion tons of ice between 2021 and 2023.",
-      "link": "https://www.goodnewsnetwork.org/scientists-solve-mystery-behind-snowfall-that-dropped-695-billion-tons-of-ice-on-antarctica/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Matt-Palmer-via-Unsplash.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-17T15:30:25+00:00"
-    },
-    {
-      "title": "The World Is Getting Noisier — But We Can Change That",
-      "summary": "I spent years immersed in noise. Sometimes it was deafeningly loud, like the crescendo of horns and two-stroke motorcycles during rush hour in Mumbai.",
-      "link": "https://reasonstobecheerful.world/rethinking-noise-pollution-protect-health-well-being/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/shutterstock_2308183059-scaled.jpg",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-09-17T13:55:12+00:00"
-    },
-    {
-      "title": "Chinese Scientists Develop New Oil Refining Method That Cuts Energy Use by 90%",
-      "summary": "Rather than bringing crude oil to boiling point over and over again as is done in traditional distillation refining, Chinese scientists have found a way to separate the mixture molecule by molecule at room temperature, cutting energy use by 90%.",
-      "link": "https://www.goodnewsnetwork.org/chinese-scientists-develop-new-oil-refining-method-that-cuts-energy-use-by-90/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/oil-refinery-refining-petroleum-petro-chemical-plant-credit-Getty-Images-for-Unsplash-.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-17T13:00:22+00:00"
     }
   ]
 }
