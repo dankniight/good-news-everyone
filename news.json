@@ -1,23 +1,23 @@
 {
-  "lastUpdated": "2026-10-29T04:25:14.835615+00:00",
+  "lastUpdated": "2026-10-30T04:25:05.728036+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 193
+      "count": 192
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 29
+      "count": 30
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 26
+      "count": 27
     },
     {
       "name": "The Optimist Daily",
@@ -35,16 +35,120 @@
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 29
+      "count": 30
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 34
+      "count": 32
     }
   ],
   "articles": [
+    {
+      "title": "‘Panther Pat’ Shines a Light on the Nearly Forgotten First Woman to Play Pro Football",
+      "summary": "JoyDrops champions awards-eligible documentary shorts about joy, a counterweight to a category often dominated by tragedy.",
+      "link": "https://www.goodnewsnetwork.org/panther-pat-shines-a-light-on-the-nearly-forgotten-first-woman-to-play-pro-football/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/CELEB-POST-PP-27-x-40-OFFICIAL-POSTER-e1793294882546.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-29T19:07:07+00:00"
+    },
+    {
+      "title": "JoyDrops: Short Films Big on Inspiration and Bigger Awards Aspirations",
+      "summary": "JoyDrops: Short Films With Big Hearts and Even Bigger Ambitions Good News Network and Switchboard Magazine have joined forces on JoyDrops, a curated slate of awards-season documentary short films that offer positive perspectives, made by artisan filmmakers that have already racked up numerous…",
+      "link": "https://www.goodnewsnetwork.org/joydrops-short-films-big-on-inspiration-and-bigger-awards-aspirations/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Screenshot-2026-10-29-at-2.59.16-PM.png",
+      "source": "Good News Network",
+      "published": "2026-10-29T19:06:13+00:00"
+    },
+    {
+      "title": "Disabled Veteran Receives Donated Car Beautifully Refurbished by Auto Collision Students",
+      "summary": "After spending years without wheels but with no shortage of errands, a Minneapolis veteran recently received a transformational gift.",
+      "link": "https://www.goodnewsnetwork.org/disabled-veteran-receives-donated-car-beautifully-refurbished-by-auto-collision-students/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/4cafc2d5-67da-40f6-a326-76e7548bf9ad.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-29T18:30:19+00:00"
+    },
+    {
+      "title": "Google Starved Out Publishers With AI Search. Now, Its Pivot Is Blowing Up in Its Face.",
+      "summary": "Its AI Mode isn't the cash cow it hoped it would be.",
+      "link": "https://futurism.com/artificial-intelligence/google-starved-out-publishers-ai-mode-revenue",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/google-starved-out-publishers-ai-mode-revenue.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-29T17:09:03+00:00"
+    },
+    {
+      "title": "California’s long road to make EV charging more reliable",
+      "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Thursday via Substack.",
+      "link": "https://www.canarymedia.com/articles/ev-charging/california-ev-charging-reliable",
+      "image_url": "https://img.canarymedia.com/content/uploads/CW-EVchargers-16.9.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=dce0d278a5099f7ced57c9d815b3843f",
+      "source": "Canary Media",
+      "published": "2026-10-29T17:00:00+00:00"
+    },
+    {
+      "title": "Birdwatching Rewires the Brain and Slows Cognitive Decline",
+      "summary": "A famous poet once wrote that hope is a thing with feathers. Well, new research may suggest that healthy aging is too.",
+      "link": "https://www.goodnewsnetwork.org/birdwatching-rewires-the-brain-and-slows-cognitive-decline/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/birdwatching-birding-birder-credit-Curated-Lifestyle.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-29T15:30:03+00:00"
+    },
+    {
+      "title": "Romans Made Color-Changing Glass–and We’ve Just Replicated After 1,600 Years",
+      "summary": "The Romans were incredible materials scientists, having famously invented self-healing concrete that allowed their structures to stand for millennia.",
+      "link": "https://www.goodnewsnetwork.org/romans-made-color-changing-glass-and-weve-just-replicated-after-1600-years/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/The-Lycurgus-Cup-located-in-the-British-Museum-credits-left-Johnbod-CC-3.0.-SA-right-Chappsnet-4.0.-BY.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-29T12:46:36+00:00"
+    },
+    {
+      "title": "Bereaved Parents Ask Court to Consider ‘Lightest Possible Sentence’ for Driver Who Killed Their Son",
+      "summary": "“If the court is able to consider it, we respectfully request that she receive the lightest possible sentence.",
+      "link": "https://www.goodnewsnetwork.org/bereaved-parents-ask-court-to-consider-lightest-possible-sentence-for-driver-who-killed-their-son/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/The-late-4-year-old-Osal-Pokhrel-credit-supplied-to-ABC-Au.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-29T11:00:58+00:00"
+    },
+    {
+      "title": "The Student Exchange Program That Never Leaves the U.S.",
+      "summary": "In 1991, Saskia Sassen published The Global City in which she asserted that London had more in common with New York and Tokyo than it did with other parts of the U.K.",
+      "link": "https://reasonstobecheerful.world/america-student-exchange-program-empathy/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/IMG_0449-1024x768.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-10-29T08:00:15+00:00"
+    },
+    {
+      "title": "Smartphones, ancient tracking skills and a future for desert lions",
+      "summary": "In Namibia, rangers are using real-time data and traditional knowledge to support farmers and safeguard a recovering lion population",
+      "link": "https://www.positive.news/society/smartphones-ancient-tracking-skills-and-a-future-for-desert-lions/",
+      "image_url": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/PN_SharedLand_Story04_WebHeader_1800x1080.jpg",
+      "source": "Positive News",
+      "published": "2026-10-29T07:00:10+00:00"
+    },
+    {
+      "title": "Good News in History, October 29",
+      "summary": "61 years ago, The Who released their iconic single “My Generation. The hit was ranked #11 on Rolling Stone magazine’s list of the 500 Greatest Songs of All Time.",
+      "link": "https://www.goodnewsnetwork.org/events061029/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/The-Who-My-Generation-fairuse.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-29T07:00:00+00:00"
+    },
+    {
+      "title": "Will vinegar actually keep bugs out this fall? Pest experts explain what works",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM As temperatures drop, bugs start looking for the same thing you do: somewhere warmer.",
+      "link": "https://www.optimistdaily.com/2026/10/will-vinegar-actually-keep-bugs-out-this-fall-pest-experts-explain-what-works/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/zero-waste-natural-home-cleaner-Depositphotos_445206200_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-29T00:00:18+00:00"
+    },
+    {
+      "title": "Kenya unlocks $160 million to protect the Maasai Mara and Tsavo ecosystems",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Kenya committed $160 million over ten years to protect 173,000 square kilometers (roughly 67,000 square miles, or 17.3 million hectares) across some of the least-disturbed land in Africa: the Great Rift Valley, the Maasai Mara, and surrounding biodiversity areas.",
+      "link": "https://www.optimistdaily.com/2026/10/kenya-unlocks-160-million-to-protect-the-maasai-mara-and-tsavo-ecosystems/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/three-adult-giraffes-walking-line-Depositphotos_413297952_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-29T00:00:06+00:00"
+    },
     {
       "title": "The DOE announces $5B loan to Constellation for nuclear uprates",
       "summary": "The pro-nuclear Trump administration continues to put its money where its mouth is. On Tuesday, the U.S. Department of Energy announced a conditional loan commitment of up to $5 billion to boost the output of 15 reactors at eight nuclear power plants in Illinois, Maryland, and Pennsylvania by a…",
@@ -3140,110 +3244,6 @@
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Ice-Age-craftspeople-mimicked-lines-of-mammoth-ivory-SWNS.jpeg",
       "source": "Good News Network",
       "published": "2026-09-21T03:20:17+00:00"
-    },
-    {
-      "title": "Can dogs sniff out cancer? New AI study shows promise",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM A company in India is reporting more than 90 percent accuracy in detecting seven types of cancer from breath samples.",
-      "link": "https://www.optimistdaily.com/2026/09/can-dogs-sniff-out-cancer-new-ai-study-shows-promise/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_363668952_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-09-21T00:00:58+00:00"
-    },
-    {
-      "title": "How revisiting old memories can build real self-esteem",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Think about a memory that still makes you wince. Maybe it is the time you said something embarrassing in front of people you wanted to impress, or the moment you felt out of place while everyone around you seemed completely at ease.",
-      "link": "https://www.optimistdaily.com/2026/09/how-revisiting-old-memories-can-build-real-self-esteem/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_840178744_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-09-21T00:00:08+00:00"
-    },
-    {
-      "title": "Couple Fosters 59 Dogs in Retirement: ‘We love to get them out of the kennels’",
-      "summary": "Meet the British couple who spent the last 15 years fostering 59 dogs—with no plans of stopping. While working from home and designing electronics, Nicole and Gary Wordsworth have been taking in pups from the Battersea Dogs Home in Buckinghamshire.",
-      "link": "https://www.goodnewsnetwork.org/couple-fosters-59-dogs-in-retirement-we-love-to-get-them-out-of-the-kennels/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Dog-foster-parents-w-husky-Credit-Battersea-Dogs-Home-SWNS-.jpeg",
-      "source": "Good News Network",
-      "published": "2026-09-20T22:48:46+00:00"
-    },
-    {
-      "title": "Solar Power Is Getting So Cheap That It’s Almost Unbelievable",
-      "summary": "\"Offensively cheap.\"",
-      "link": "https://futurism.com/science-energy/solar-power-renewable-energy-incredibly-cheap",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/solar-power-renewable-energy-incredibly-cheap.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-09-20T22:01:00+00:00"
-    },
-    {
-      "title": "165-Mile Bike Trail Through Minnesota Finally Completed After 30 years, One of the Longest in America",
-      "summary": "After more than 30 years of planning, construction, and fundraising, a paved bike trail ambling through 165 miles of Minnesota beauty has officially been completed—and now becomes one of the longest paved cycling trails in America.",
-      "link": "https://www.goodnewsnetwork.org/165mi-bike-trail-through-minnesota-finally-completed-after-30-yrs/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Iron-ridge-Minnesota-Mesabi-Trail-for-bikes-and-cyclists.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-20T17:39:10+00:00"
-    },
-    {
-      "title": "Kenya Unleashing Solar-Powered Ambulance With Wicked Long Range for Service to Remote Villages",
-      "summary": "\"It will enable us to go and screen mothers and babies, catch complications early and refer them in real time.\"",
-      "link": "https://futurism.com/science-energy/kenya-solar-power-ambulance-health-africa-rural",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/kenya-solar-powered-ambulance.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-09-20T16:01:00+00:00"
-    },
-    {
-      "title": "Good News in History September 20",
-      "summary": "46 years ago today, Blizzard of Ozz, the debut solo album of the great and lately deceased metal singer Ozzy Osbourne, was released to moderate reviews and success.",
-      "link": "https://www.goodnewsnetwork.org/events060920/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/09/Blizzard-of-Ozz-cover-art-fair-use.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-20T07:00:00+00:00"
-    },
-    {
-      "title": "New York City is Putting ‘The Park’ Back in Park Avenue – And Adding a Protected Bike Lane (LOOK)",
-      "summary": "Until the 1920s Park Avenue in Manhattan actually park running through it. Now, New York City has unveiled a new plan for transforming Park Avenue back into its original natural character, adding trees, benches, and a protected bike lane.",
-      "link": "https://www.goodnewsnetwork.org/new-york-city-is-putting-the-park-back-in-park-avenue/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Park-Avenue-redesign-in-NYC-Credit-Starr-Whitehouse-Landscape-Architects-and-Planners.jpeg",
-      "source": "Good News Network",
-      "published": "2026-09-19T21:56:51+00:00"
-    },
-    {
-      "title": "Fox Left For Dead After Being Run Over is Now Recovering Thanks to Swimming Lessons",
-      "summary": "A fox cub that was left for dead after being hit by a car is making a miracle recovery thanks to hydrotherapy swimming sessions.",
-      "link": "https://www.goodnewsnetwork.org/fox-left-for-dead-on-road-is-recovering-thanks-to-swim-lessons/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Fox-gets-hydrotherapy-at-Mansfield-Canine-Centre-by-Tom-Maddick-for-SWNS.jpeg",
-      "source": "Good News Network",
-      "published": "2026-09-19T20:13:56+00:00"
-    },
-    {
-      "title": "Chesapeake Bay Blue Crab Numbers See Encouraging Bounceback in New Survey",
-      "summary": "Conservationists working to turn the tide on declining numbers of blue crabs in the Chesapeake Bay, found some good news in their latest field surveys.",
-      "link": "https://www.goodnewsnetwork.org/chesapeake-bay-blue-crab-numbers-see-encouraging-bounceback-in-new-survey/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Blue-crabs-by-J-Thomas-vM1Lz1ftMU8-unsplash.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-19T18:55:20+00:00"
-    },
-    {
-      "title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
-      "summary": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
-      "link": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-9-19-2026/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-19T10:00:32+00:00"
-    },
-    {
-      "title": "Good News in History September 19",
-      "summary": "51 years ago today, Fawlty Towers premiered on the BBC. John Cleese boldly stepped out into the situational comedy scene without the support of his legendary troupe, Monty Python, and created what the BBC considers “the British sitcom by which all other British sitcoms must be judged.",
-      "link": "https://www.goodnewsnetwork.org/events060919/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/09/Fawlty_Towers_title_card-Copy.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-19T07:00:00+00:00"
-    },
-    {
-      "title": "Crowd Cheers as RFK Jr. Says the Government Will Investigate “Chemtrails”",
-      "summary": "That's what he's worried about?",
-      "link": "https://futurism.com/science-energy/crowd-cheers-rfk-government-investigate-chemtrails",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/crowd-cheers-rfk-government-investigate-chemtrails.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-09-18T20:33:59+00:00"
     }
   ]
 }
