@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-30T04:25:05.728036+00:00",
+  "lastUpdated": "2026-10-31T04:05:49.950106+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 192
+      "count": 190
     },
     {
       "name": "Positive News",
@@ -23,7 +23,7 @@
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 61
+      "count": 62
     },
     {
       "name": "Grist",
@@ -35,7 +35,7 @@
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 30
+      "count": 31
     },
     {
       "name": "Futurism",
@@ -45,6 +45,94 @@
     }
   ],
   "articles": [
+    {
+      "title": "Best Spud Harvest in a Decade Clears the Gloom of Crops Failing from Scorching Summer",
+      "summary": "Amid a summer of crop failures, a spud-tacular potato harvest in Japan showed that banner years are still in the almanac even as climate uncertainty continues to make farming more challenging.",
+      "link": "https://www.goodnewsnetwork.org/best-spud-harvest-in-a-decade-clears-the-gloom-of-crops-failing-from-scorching-summer/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/12/potato-unsplash.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-30T18:30:53+00:00"
+    },
+    {
+      "title": "Podcast Transcript October 30th, 2026— Kenya’s wildlife deal, Halloween tips across the ages, and EV energy security",
+      "summary": "Episode Description: A teenager built a supply distribution network where families request what they need without filling out any forms or declaring themselves as someone in need.",
+      "link": "https://www.optimistdaily.com/2026/10/podcast-transcript-october-23rd-2026-kenyas-wildlife-deal-halloween-tips-across-the-ages-and-ev-energy-security/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Podcast-Logo-3000-×-3000-px-2-13-1024x1024.png",
+      "source": "The Optimist Daily",
+      "published": "2026-10-30T16:30:08+00:00"
+    },
+    {
+      "title": "5 ballot proposals that could drive or derail clean energy",
+      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. The midterm elections are upon us.",
+      "link": "https://www.canarymedia.com/articles/politics/ballot-proposals-clean-energy",
+      "image_url": "https://img.canarymedia.com/content/uploads/GettyImages-2301317478.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=65b96fc0f3d4d79b8cfa7f25f0dc6c01",
+      "source": "Canary Media",
+      "published": "2026-10-30T15:52:00+00:00"
+    },
+    {
+      "title": "New Texas School Is Named For Longtime Janitor ‘Miss Marilyn’ (Watch Her Reaction)",
+      "summary": "Unlike beauty, honor manifests in the eye of the honored. And though it isn’t a Super Bowl ring or an Academy Award, for one career custodian at a Texas school district, the honor she lately received is greater than anything she had ever imagined.",
+      "link": "https://www.goodnewsnetwork.org/new-texas-school-is-named-for-longtime-janitor-miss-marilyn-watch-her-reaction/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Marilyn-Hampton-when-she-graduated-high-school-credit-family-photo.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-30T15:30:55+00:00"
+    },
+    {
+      "title": "A Farmer Didn’t Know His Cell Number Was on an Exam Question, Now Uses the Calls He Gets as Opportunities to Inspire",
+      "summary": "A young student has been accepted into a prestigious university thanks in part to an unusual source of inspiration: a strawberry farmer he met because of a question on an English exam.",
+      "link": "https://www.goodnewsnetwork.org/a-farmer-didnt-know-his-cell-number-was-on-an-exam-question-now-uses-the-calls-he-gets-as-opportunities-to-inspire/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Left-Mr.-He-and-Mr.-Wang-shake-hands-6-years-after-meeting-through-an-English-exam-question-credit-retrieved-from-social-media-Douyin.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-30T13:00:13+00:00"
+    },
+    {
+      "title": "In Lieu of Flowers or Tributes, Patrick Stewart’s Family Suggests a Donation to Alzheimer’s Research",
+      "summary": "Legendary actor Sir Patrick Stewart passed away yesterday at the age of 86 following a brief struggle with Alzheimer’s disease and Lewy Body Dementia.",
+      "link": "https://www.goodnewsnetwork.org/in-lieu-of-flowers-or-tributes-patrick-stewarts-family-suggests-a-donation-to-alzheimers-research/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Patrick-Stewart-in-1999-credit-John-Mathew-Smith-CC-2.0.-via-Flickr.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-30T11:30:01+00:00"
+    },
+    {
+      "title": "Truth, Elections and the Questionable History of the Club Sandwich",
+      "summary": "In the early-ish days of Wikipedia, my college friends and I had an ongoing contest to see who could introduce a lie into an entry that would stick the longest.",
+      "link": "https://reasonstobecheerful.world/truth-elections-and-the-questionable-history-of-the-club-sandwich/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2022/09/memb-banner-mob.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-10-30T08:00:30+00:00"
+    },
+    {
+      "title": "Good News in History, October 30",
+      "summary": "53 years ago today, the Bosporus Bridge was completed, linking mainland Europe with Anatolia over the Bosporus Straits for the first time.",
+      "link": "https://www.goodnewsnetwork.org/events061030/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/10/Bosphorus-Bridge-Istanbul-1973-e1667028468403.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-30T07:00:00+00:00"
+    },
+    {
+      "title": "What went right this week: the good news that matters",
+      "summary": "There was renewed hope for the Amazon rainforest, a skin cancer vaccine showed promise, and a nicotine loophole was closed in the UK, plus more",
+      "link": "https://www.positive.news/society/good-news-stories-from-week-44-of-2026/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/iStock-495829576.jpg",
+      "source": "Positive News",
+      "published": "2026-10-30T05:00:13+00:00"
+    },
+    {
+      "title": "How EV fleets are shielding Europe from oil price volatility",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM A new analysis by energy think tank Ember finds that six European countries collectively avoided close to $2.2 billion (approximately €2 billion) in oil import costs between March and August 2026.",
+      "link": "https://www.optimistdaily.com/2026/10/how-ev-fleets-are-shielding-europe-from-oil-price-volatility/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/electric-vehicle-charging-station-convenient-Depositphotos_437547032_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-30T00:00:47+00:00"
+    },
+    {
+      "title": "The 7 best vegetables to plant if you want to offset rising grocery costs",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Not every vegetable belongs in a backyard garden. Some take up space, demand attention, and still cost more to grow than to buy once you factor in seeds, soil, and the time it takes.",
+      "link": "https://www.optimistdaily.com/2026/10/the-7-best-vegetables-to-plant-if-you-want-to-offset-rising-grocery-costs/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/vibrant-asparagus-spears-emerging-rich-Depositphotos_806772814_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-10-30T00:00:11+00:00"
+    },
     {
       "title": "‘Panther Pat’ Shines a Light on the Nearly Forgotten First Woman to Play Pro Football",
       "summary": "JoyDrops champions awards-eligible documentary shorts about joy, a counterweight to a category often dominated by tragedy.",
@@ -3156,94 +3244,6 @@
       "image_url": "https://www.positive.news/wp-content/uploads/2026/09/ADULT-OVERALL-WINNER-Sunball-Rocket-by-Henley-Spiers.jpg",
       "source": "Positive News",
       "published": "2026-09-22T07:00:14+00:00"
-    },
-    {
-      "title": "Good News in History September 22",
-      "summary": "25 years ago today, 35 American TV networks and cable channels simultaneously aired ‘A Tribute to Heroes’, a live commercial-free benefit concert and telethon organized to raise money for victims and their families– especially firefighters– following the 9/11 terrorist attacks on the Pentagon and…",
-      "link": "https://www.goodnewsnetwork.org/events060922/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2025/09/Various_Artists_-_America_A_Tribute_to_Heroes.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-22T07:00:00+00:00"
-    },
-    {
-      "title": "From fire starters to compost: what to do with dryer lint",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM If you clean your dryer’s lint trap after every load, you end up with a soft little cloud of fiber in your hand pretty regularly.",
-      "link": "https://www.optimistdaily.com/2026/09/from-fire-starters-to-compost-what-to-do-with-dryer-lint/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_845554684_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-09-22T00:00:34+00:00"
-    },
-    {
-      "title": "Mexico’s desert ecosystem is healing months after bison reintroduction",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM The 200-year absence of bison from Mexico’s Chihuahuan Desert left a gap that most people stopped noticing.",
-      "link": "https://www.optimistdaily.com/2026/09/mexicos-desert-ecosystem-is-healing-months-after-bison-reintroduction/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_1014308_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-09-22T00:00:11+00:00"
-    },
-    {
-      "title": "New AI Model Can Detect Heart Disease Markers in Simple Electrocardiogram Readings–a Breakthrough",
-      "summary": "Artificial intelligence has brought about a revolution in medical screening practices, with the technology able to make detections across hundreds of scans in seconds which can be forwarded to trained pairs of human eyes.",
-      "link": "https://www.goodnewsnetwork.org/new-ai-model-can-detect-heart-disease-markers-in-simple-electrocardiogram-readings-a-breakthrough/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/echocardiogram-Getty-Images-for-Unsplash-.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-21T18:30:20+00:00"
-    },
-    {
-      "title": "Rural French Mayors Rally to Save Their Local Cafe-Bistro, and Help Reverse National Trend",
-      "summary": "With the help of the mayor and local council, a small town in Burgundy has saved its local cafe-bistro, what’s been described as the “heart” of the rural French economy and society.",
-      "link": "https://www.goodnewsnetwork.org/rural-french-mayors-rally-to-save-their-local-cafe-bistro-and-help-reverse-national-trend/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Bistro-des-Philosophes-credit-Mali-Desha-Unsplash.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-21T15:30:38+00:00"
-    },
-    {
-      "title": "Why Great Plains Ranchers Are Setting Fire to Their Own Land",
-      "summary": "Smoke hangs thick over southern Oklahoma’s Arbuckle Mountains as flames lick through prairie grass toward a stand of eastern red cedar trees.",
-      "link": "https://reasonstobecheerful.world/great-plains-ranchers-prescribed-burns/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/tree-in-flames-seth-coffey.jpg",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-09-21T14:42:43+00:00"
-    },
-    {
-      "title": "Korean Drone Rescue Program Helps Mozambique Achieve Zero Fatalities During Worst Flood in Decades",
-      "summary": "In January, a community in northern Mozambique experienced one of its worst floods in decades, yet the raging waters failed to claim a single life.",
-      "link": "https://www.goodnewsnetwork.org/korean-drone-rescue-program-helps-mozambique-achieve-zero-fatalities-during-worst-flood-in-decades/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/A-Mozambique-pilot-learns-to-pilot-a-drone-from-an-experienced-South-Korean-operator-credit-African-Development-Bank-released.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-21T13:00:32+00:00"
-    },
-    {
-      "title": "Historic Philanthropic Gift Will Expand Veterinary Care Access to Millions of Americans and Their Pets",
-      "summary": "Hoping to allow millions of pet owners to access critical veterinary care beyond their budgets, a philanthropic organization has announced a groundbreaking $250 million commitment over the next 5 years The initiative represents one of the largest, private philanthropic investments ever made in…",
-      "link": "https://www.goodnewsnetwork.org/historic-philanthropic-gift-will-expand-veterinary-care-access-to-millions-of-americans-and-their-pets/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/veterinarian-pet-care-animal-hospital-credit-Jonatan-Bustos-via-Unsplash.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-21T11:00:29+00:00"
-    },
-    {
-      "title": "The race to get more young people in the UK into work, education or training",
-      "summary": "The UK has one of the highest NEET rates for young adults in Europe. New figures offer some encouragement",
-      "link": "https://www.positive.news/society/number-of-young-people-out-of-work-and-education-falls-below-one-million/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/new-one.jpg",
-      "source": "Positive News",
-      "published": "2026-09-21T09:39:04+00:00"
-    },
-    {
-      "title": "Good News in History September 21",
-      "summary": "45 years ago today, Sandra Day O’Connor was sworn in as the first female Supreme Court Justice. She was approved in the Senate 99-0, with one Montana Senator being absent from who vote, who later sent her a copy of A River Runs Through It, by way of an apology.",
-      "link": "https://www.goodnewsnetwork.org/events060921/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/09/Sandra-Day-OConnor-being-sworn-in-public-domain.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-21T07:00:00+00:00"
-    },
-    {
-      "title": "Cavemen Used Mammoth Tusk Patterns to Create Unique Art, Reveals New Research",
-      "summary": "[Stephen Beech | SWNS news] Cavemen used mammoth tusk patterns to create unique art, reveals new research. Intricate designs engraved on the surface of 18,000-year-old female figurines carved from mammoth ivory were inspired by “distinctive” growth patterns visible in the tusks, say scientists.",
-      "link": "https://www.goodnewsnetwork.org/cavemen-used-mammoth-tusk-patterns-to-create-unique-art-reveals-new-research/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Ice-Age-craftspeople-mimicked-lines-of-mammoth-ivory-SWNS.jpeg",
-      "source": "Good News Network",
-      "published": "2026-09-21T03:20:17+00:00"
     }
   ]
 }
