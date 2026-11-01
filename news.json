@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-10-31T04:05:49.950106+00:00",
+  "lastUpdated": "2026-11-01T04:27:21.672892+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 190
+      "count": 192
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 30
+      "count": 29
     },
     {
       "name": "Reasons to be Cheerful",
@@ -29,22 +29,70 @@
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 28
+      "count": 27
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 31
+      "count": 30
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 32
+      "count": 33
     }
   ],
   "articles": [
+    {
+      "title": "Girl Sitting in Dirt at Bus Stop Gets Surprise Bench From Homeowner–Camera Catches her Jig (WATCH)",
+      "summary": "Florida teachers Maren and David Douglass went viral for some heartwarming acts of kindness shown to a young schoolgirl whose bus stop was assigned to the end of their driveway.",
+      "link": "https://www.goodnewsnetwork.org/girl-sitting-in-dirt-at-bus-stop-gets-surprise-bench-from-couple/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Bus-stop-kindness-Courtesy-of-TikTok-Teacher-and-Traveler.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-31T18:10:43+00:00"
+    },
+    {
+      "title": "Sam Altman to Infuriated Mathematicians: The Math Slop Won’t Stop",
+      "summary": "Sorry, not sorry.",
+      "link": "https://futurism.com/artificial-intelligence/sam-altman-mathematicians-math-slop",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/sam-altman-mathematicians-math-slop.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-10-31T17:51:00+00:00"
+    },
+    {
+      "title": "B-Vitamin Supplement Can Treat Psoriasis, a Skin Condition with No Cure",
+      "summary": "New research suggests a common skin disease with no cure could be treated with nutritional supplements. The B vitamin derivative showed “encouraging” results for reducing psoriasis symptoms in studies with both humans and mice.",
+      "link": "https://www.goodnewsnetwork.org/b-vitamin-supplement-can-treat-psoriasis/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Skin-psoriasis-before-after-by-2026-Cao-at-State-Key-Laboratory-of-Biomedical-Analysis-via-SWNS.jpeg",
+      "source": "Good News Network",
+      "published": "2026-10-31T15:22:53+00:00"
+    },
+    {
+      "title": "Retirees Who Lost Spouses Fall in Love Again at 88, After Meeting in the Gym",
+      "summary": "A pair of retirees who both lost their partners have fallen in love again at age 88—after meeting among the barbells at the gym.",
+      "link": "https://www.goodnewsnetwork.org/retirees-who-lost-spouses-fall-in-love-again-at-88-meeting-in-gym/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Seniors-working-out-w-weights-in-gym-by-ExtraCare-Charitable-Trust-via-SWNS.jpeg",
+      "source": "Good News Network",
+      "published": "2026-10-31T13:21:50+00:00"
+    },
+    {
+      "title": "Your Halloween Horoscope Advice: ‘Free Will Astrology’ by Rob Brezsny",
+      "summary": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+      "link": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-31-2026/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Freewill-Astrology-horoscope-logo-Halloween.jpeg",
+      "source": "Good News Network",
+      "published": "2026-10-31T10:00:12+00:00"
+    },
+    {
+      "title": "Good News in History, October 31",
+      "summary": "On this day, 76 years ago, the British-Iraqi architect Zaha Hadid was born. Described as the “Queen of Curves,” who “liberated architectural geometry, giving it a whole new expressive identity,” Hadid was knighted by Queen Elizabeth II for her contributions to world architecture.",
+      "link": "https://www.goodnewsnetwork.org/events061031/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/492px-Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013-Copy.jpg",
+      "source": "Good News Network",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
     {
       "title": "Best Spud Harvest in a Decade Clears the Gloom of Crops Failing from Scorching Summer",
       "summary": "Amid a summer of crop failures, a spud-tacular potato harvest in Japan showed that banner years are still in the almanac even as climate uncertainty continues to make farming more challenging.",
@@ -358,7 +406,7 @@
       "published": "2026-10-27T15:30:59+00:00"
     },
     {
-      "title": "NGO Celebrates 70 Million Amazon Acres Conserved After Protecting Are Called a ‘Link of Life’",
+      "title": "NGO Celebrates 70 Million Rainforest Acres Conserved After Protecting Area Called a ‘Link of Life’",
       "summary": "American NGO the Rainforest Trust recently aided in the creation of a 715,000-acre wildlife reserve in Bolivia along the Iténez River, considered by scientists to be a “link of life.",
       "link": "https://www.goodnewsnetwork.org/ngo-celebrates-70-million-amazon-acres-conserved-after-protecting-are-called-a-link-of-life/",
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Sunrise-on-the-Itenez-River-credit-Gabriela-Villaneuva-CC-4.0.-BY-SA-e1793094098653.jpg",
@@ -3196,54 +3244,6 @@
       "image_url": "https://grist.org/wp-content/uploads/2026/09/Chipmunk-eating-another-animal-who-eats-whom.jpg",
       "source": "Grist",
       "published": "2026-09-22T18:00:00+00:00"
-    },
-    {
-      "title": "This Curious Bird Had Never Been Seen Before, and its Discovery Changed Ecuador–Perhaps Forever",
-      "summary": "In the late 1990s, a group of scientists were birdwatching in a remote forest in Ecuador when they heard a call like no other.",
-      "link": "https://www.goodnewsnetwork.org/this-curious-bird-had-never-been-seen-before-and-its-discovery-changed-ecuador-perhaps-forever/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Grallaria-ridgelyi-at-the-Jocotoco-Foundations-Tapichalaca-Reserve-credit-Patty-McGann-CC-2.0.-BY.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-22T15:30:15+00:00"
-    },
-    {
-      "title": "135,000 Shelter Pets Found Forever Homes in August Thanks to NBC’s Annual Adopt-a-thon",
-      "summary": "It’s been a banner year for the annual campaign run by NBC and its parent company Universal to encourage shelter pet adoption nationwide, with 135,000 dogs, cats, and more taken home from shelters.",
-      "link": "https://www.goodnewsnetwork.org/135000-shelter-pets-found-forever-homes-in-august-thanks-to-nbcs-annual-adopt-a-thon/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/generic-animal-shelter-image.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-22T13:00:22+00:00"
-    },
-    {
-      "title": "Prisoners Prove Unlikely Heroes to Monarch Butterflies Thanks to Wisconsin Correctional Program",
-      "summary": "Wisconsin prison inmates have been offered a unique way to give back to their community by raising monarch butterflies from the inside.",
-      "link": "https://www.goodnewsnetwork.org/prisoners-prove-unlikely-heroes-to-monarch-butterflies-thanks-to-wisconsin-correctional-program/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Wisconsin-Dept.-of-Corrections-provided-to-Corrections1.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-22T11:00:21+00:00"
-    },
-    {
-      "title": "US utilities get failing grade on clean energy transition",
-      "summary": "The biggest U.S. utilities are doing worse on shifting from fossil fuels to clean power than they were at the start of this decade — and more than four in 10 have backtracked on their climate goals since the start of the second Trump administration.",
-      "link": "https://www.canarymedia.com/articles/utilities/us-utilities-failing-grade-clean-energy",
-      "image_url": "https://img.canarymedia.com/content/uploads/Mill-Creek-generating-station-at-night_GettyImages-2261166687.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=79d0ddc3cd38ba6f1ef037a068fab5cd",
-      "source": "Canary Media",
-      "published": "2026-09-22T09:00:00+00:00"
-    },
-    {
-      "title": "A clean energy source is buried under the desert, but it takes water to use it",
-      "summary": "Beneath the Rocky Mountains, the Sierra Nevada, and the deserts in between, lies a massive energy source — and it isn’t a fossil fuel.",
-      "link": "https://grist.org/energy/geothermal-clean-energy-source-water-use/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/09/Rio-Grande-dry.jpg",
-      "source": "Grist",
-      "published": "2026-09-22T08:45:00+00:00"
-    },
-    {
-      "title": "Gallery: winning pictures from Bird Photographer of the Year",
-      "summary": "A striking shot of a gannet flying through the water is among the winners of this year’s award",
-      "link": "https://www.positive.news/environment/winners-of-bird-photographer-of-the-year-announced/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/ADULT-OVERALL-WINNER-Sunball-Rocket-by-Henley-Spiers.jpg",
-      "source": "Positive News",
-      "published": "2026-09-22T07:00:14+00:00"
     }
   ]
 }
