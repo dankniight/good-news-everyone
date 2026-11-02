@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-01T04:27:21.672892+00:00",
+  "lastUpdated": "2026-11-02T04:29:33.495702+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 192
+      "count": 195
     },
     {
       "name": "Positive News",
@@ -23,13 +23,13 @@
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 62
+      "count": 60
     },
     {
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 27
+      "count": 26
     },
     {
       "name": "Canary Media",
@@ -45,6 +45,62 @@
     }
   ],
   "articles": [
+    {
+      "title": "Islands Near Portugal Turn Off Lights to Protect Seabird Fledglings Every October – 30k Already Saved",
+      "summary": "Each autumn, during the last five nights in October, there is a blackout on Corvo island—but it’s not by accident.",
+      "link": "https://www.goodnewsnetwork.org/islands-near-portugal-turn-off-lights-to-protect-seabird-fledglings-every-oct/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Corys-shearwater-on-Wikipedia-by-Hobbyfotowiki-CC0.jpeg",
+      "source": "Good News Network",
+      "published": "2026-11-02T03:04:49+00:00"
+    },
+    {
+      "title": "Housing Nonprofit Funds $16.5 Million in Eviction Relief to Assist Renters",
+      "summary": "The Atlanta-based nonprofit that launched an Eviction Relief Fund during the COVID pandemic has now assisted over 5,500 families so they could stay in their apartments.",
+      "link": "https://www.goodnewsnetwork.org/housing-nonprofit-funds-16-5-million-in-eviction-relief-for-renters/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Kids-in-the-Star-C-Program-submitted-by-nonprofit.jpeg",
+      "source": "Good News Network",
+      "published": "2026-11-01T22:53:28+00:00"
+    },
+    {
+      "title": "New Data Centers in the US Set to Wipe Out 15 Years of Greenhouse Gas Reductions",
+      "summary": "\"The numbers continue to sort of boggle our minds.\"",
+      "link": "https://futurism.com/artificial-intelligence/data-centers-us-greenhouse-gas-reductions-emissions",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/10/data-centers-us-greenhouse-gas-reductions-emissions.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-11-01T16:11:00+00:00"
+    },
+    {
+      "title": "High School Fills Entire Football Field With Groceries to Replenish New Jersey Food Banks",
+      "summary": "Hundreds of New Jersey students collected over a quarter million pounds of food during the second annual 100-Yard Food Drive Challenge last week.",
+      "link": "https://www.goodnewsnetwork.org/high-school-fills-football-field-with-groceries-for-nj-food-banks/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Football-field-full-of-food-bank-donations-in-NY-Credit-Tommy-Pantaleo-for-Dermer-Dreams-submitted.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-01T15:34:01+00:00"
+    },
+    {
+      "title": "How the biggest renewable energy project in US history finally got built",
+      "summary": "When the sun goes down, the wind picks up in central New Mexico, whipping through arid canyons with a ghostly howl that for centuries, locals have likened to the wails of the folkloric ghost La Llorona.",
+      "link": "https://grist.org/solutions/how-the-biggest-renewable-energy-project-in-us-history-finally-got-built/",
+      "image_url": "https://grist.org/wp-content/uploads/2024/04/Tohono-Oodham-Eliseu-Cavalcante-1-1-min.jpg?quality=75&strip=all&w=768",
+      "source": "Grist",
+      "published": "2026-11-01T14:00:00+00:00"
+    },
+    {
+      "title": "Hero Support Dog Saves Husband’s Life After Alerting Deaf Owner to His Deadly Midnight Fall Down Stairs",
+      "summary": "A deaf woman says her support dog saved her husband’s life after he fell down the stairs—by waking her from a dead sleep to insist something was wrong.",
+      "link": "https://www.goodnewsnetwork.org/hero-support-dog-saves-husbands-life-after-alerting-deaf-owner-to-deadly-fall/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Gary-with-Support-Dog-named-Storm-SWNS.jpeg",
+      "source": "Good News Network",
+      "published": "2026-11-01T12:55:07+00:00"
+    },
+    {
+      "title": "Good News in History, November 1",
+      "summary": "69 years ago today, the Mackinac Bridge opened to connect the Upper and Lower peninsulas of Michigan over the Straits of Mackinac.",
+      "link": "https://www.goodnewsnetwork.org/events061101/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/11/Mackinac-Bridge-credit-WMrapids-CC-0.0.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-01T08:00:00+00:00"
+    },
     {
       "title": "Girl Sitting in Dirt at Bus Stop Gets Surprise Bench From Homeowner–Camera Catches her Jig (WATCH)",
       "summary": "Florida teachers Maren and David Douglass went viral for some heartwarming acts of kindness shown to a young schoolgirl whose bus stop was assigned to the end of their driveway.",
@@ -3188,62 +3244,6 @@
       "image_url": "https://img.canarymedia.com/content/uploads/IMG_6013.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=cf7e99bd59a128b86898ee32ab167307",
       "source": "Canary Media",
       "published": "2026-09-23T07:30:00+00:00"
-    },
-    {
-      "title": "Good News in History September 23",
-      "summary": "165 years ago today, Robert Bosch, founder of the corporation Robert Bosch GmbH, was born in Ulm. One of the most important German industrialists of the 19th and 20th centuries, Bosch and the engineers at his company pioneered the high-voltage magneto ignition system that created the first…",
-      "link": "https://www.goodnewsnetwork.org/events060923/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/09/Robert-Bosch-in-1925.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-23T07:00:00+00:00"
-    },
-    {
-      "title": "How Reefvive is rebuilding coral reefs from discarded oyster shells",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Most artificial reef structures are built from concrete. Concrete is smooth, and smooth surfaces give young coral little to grip.",
-      "link": "https://www.optimistdaily.com/2026/09/how-reefvive-is-rebuilding-coral-reefs-from-discarded-oyster-shells/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_610532992_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-09-23T00:00:54+00:00"
-    },
-    {
-      "title": "Pomegranates and berries produce a gut metabolite that may improve IBD outcomes",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Gut bacteria that break down compounds in pomegranates, walnuts, and berries produce a metabolite called urolithin A.",
-      "link": "https://www.optimistdaily.com/2026/09/pomegranates-and-berries-produce-a-gut-metabolite-that-may-improve-ibd-outcomes/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_671998252_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-09-23T00:00:23+00:00"
-    },
-    {
-      "title": "Trump Says No Need to Regulate AI, Since That Strategy Is Working Fine for Climate Change",
-      "summary": "\"Welcome to the new world of super intelligence.\"",
-      "link": "https://futurism.com/future-society/trump-regulate-ai-deregulation-climate-change-united-nations",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/trump-regulate-ai-deregulation-climate-change-united-nations.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-09-22T21:12:17+00:00"
-    },
-    {
-      "title": "Trump is backing a diesel export ban. How much would that do?",
-      "summary": "Diesel prices have hit a record high nearly every day this month, with a national average on Tuesday at $6.52 a gallon, according to AAA .",
-      "link": "https://grist.org/transportation/trump-is-backing-a-diesel-export-ban-how-much-would-that-do/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/09/diesel-fuel-record-high-all-time-price-united-states-iran-war.jpeg",
-      "source": "Grist",
-      "published": "2026-09-22T21:00:21+00:00"
-    },
-    {
-      "title": "Exceptional Detection Rates of Bladder Cancer Recorded in Study of Simple, Yet State-of-the-Art Test",
-      "summary": "An observational study in the UK has just produced substantially positive results for a new, non-invasive, genetic urine test for bladder cancer.",
-      "link": "https://www.goodnewsnetwork.org/exceptional-detection-rates-of-bladder-cancer-recorded-in-study-of-simple-yet-state-of-the-art-test/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/06/woman-scientist-microscope-research-lab-test-pubdomain-National-Cancer-Institute.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-22T18:30:33+00:00"
-    },
-    {
-      "title": "Why scientists want your photos of wildlife eating lunch",
-      "summary": "The food chain you learned about in school isn’t the full picture. Yes, the rat eats your garden crops, the ermine snags the rat, and the eagle picks off the ermine.",
-      "link": "https://grist.org/science/why-scientists-want-your-photos-of-wildlife-eating-lunch/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/09/Chipmunk-eating-another-animal-who-eats-whom.jpg",
-      "source": "Grist",
-      "published": "2026-09-22T18:00:00+00:00"
     }
   ]
 }
