@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T04:29:33.495702+00:00",
+  "lastUpdated": "2026-11-03T05:24:31.189674+00:00",
   "sources": [
     {
       "name": "Good News Network",
@@ -17,7 +17,7 @@
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 27
+      "count": 26
     },
     {
       "name": "The Optimist Daily",
@@ -29,22 +29,118 @@
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 26
+      "count": 27
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 30
+      "count": 28
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 33
+      "count": 35
     }
   ],
   "articles": [
+    {
+      "title": "Brutal NIMBY Regulations Are Crushing the Kind of Solar Farms Researchers Say Are a Godsend for Local Ecology",
+      "summary": "\"We're seeing a complete slowdown.\"",
+      "link": "https://futurism.com/science-energy/regulations-crushing-solar-farms-bees-ecology-alberta",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/regulations-crushing-solar-farms-bees-ecology-alberta.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-11-03T02:12:55+00:00"
+    },
+    {
+      "title": "New AI Data Center Is So Huge That It’ll Generate the Heat of 23 Atomic Bombs Every Single Day",
+      "summary": "It could be \"the largest single-site heat source on the entire planet.\"",
+      "link": "https://futurism.com/artificial-intelligence/ai-data-center-23-atomic-bombs",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/ai-data-center-23-atomic-bombs.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-11-02T21:51:34+00:00"
+    },
+    {
+      "title": "Whale Festival Kicks Off on Amelia Island in Florida Celebrating the Return of the Right Whale",
+      "summary": "Have you ever heard of Amelia Island? Northeast Florida’s barrier island describes itself as a natural gem, and a great excuse to visit is happening this weekend in the form of the annual Right Whale Festival.",
+      "link": "https://www.goodnewsnetwork.org/whale-festival-to-kick-off-amelia-island-in-florida-to-celebrate-the-return-of-the-right-whale/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Right-Whale-Festival-supplied.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-02T19:30:58+00:00"
+    },
+    {
+      "title": "The Student Movement Addressing Campus Polarization Head On",
+      "summary": "Just weeks after conservative activist Charlie Kirk was assassinated while speaking at a college last September, students gathered in a University of Michigan classroom to discuss freedom of speech.",
+      "link": "https://reasonstobecheerful.world/students-addressing-campus-polarization-healthy-debate/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/Workshop-1-scaled.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-11-02T18:20:08+00:00"
+    },
+    {
+      "title": "Over 750 Ukraine Civilians Evacuated from Famine Conditions in Most Substantial Truce of the War",
+      "summary": "Thousands of Ukrainian residents stranded in a Russian-occupied city have been evacuated through a humanitarian escort corridor.",
+      "link": "https://www.goodnewsnetwork.org/over-750-ukraine-civilians-evacuated-from-famine-conditions-in-most-substantial-truce-of-the-war/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/The-evacuation-underway-with-the-buses-seen-on-the-right-which-took-residents-wishing-to-leave-on-their-way-to-Kviv-via-Crimea-credit-Kherson-Regional-State-Administration-CC-BY-4.0.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-02T16:30:13+00:00"
+    },
+    {
+      "title": "Weather.pet App Generates Forecasts for Dogs’ Head and Paws Based on Ground Temps and More",
+      "summary": "A dog lover and entrepreneur has created a weather service tailored specifically to dogs. It broadcasts tens of thousands of reports to users every month with the weather at the level of a dog’s head and paws.",
+      "link": "https://www.goodnewsnetwork.org/weather-pet-app-generates-forecasts-for-dogs-head-and-paws-based-on-ground-temps-and-more/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-retrieved-from-Pawcast.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-02T14:00:25+00:00"
+    },
+    {
+      "title": "Strangers Ran Towards the Fire to Save Teen–Her Mom Now Funds Scholarships for Heroes Like Them",
+      "summary": "5 years ago, 18-year-old Kenli Riney suffered a head-on collision on a Texas highway. Her car spun into a ditch and caught fire.",
+      "link": "https://www.goodnewsnetwork.org/strangers-ran-toward-burning-car-to-save-teen-her-mom-now-funds-scholarships-for-heroes-like-them/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/supplied-by-Marjohn-Riney.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-02T12:00:52+00:00"
+    },
+    {
+      "title": "Exclusive: Most voters believe climate change threatens the American Dream",
+      "summary": "In his inaugural address in January 2025, President Donald Trump promised that “the American Dream will soon be back and thriving like never before.",
+      "link": "https://grist.org/culture/american-dream-climate-change-poll-costs/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/10/amdream-q5-apple-news.png",
+      "source": "Grist",
+      "published": "2026-11-02T09:30:00+00:00"
+    },
+    {
+      "title": "The women’s boxing nights helping abuse survivors",
+      "summary": "A new series of all-female fight nights aims to fund free boxing classes that help women rebuild their confidence after abusive relationships",
+      "link": "https://www.positive.news/society/the-womens-boxing-nights-helping-abuse-survivors/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/BQ3A3519-scaled.jpg",
+      "source": "Positive News",
+      "published": "2026-11-02T09:26:16+00:00"
+    },
+    {
+      "title": "Osage Nation speeds up orphan well cleanup as federal oversight recedes",
+      "summary": "This story was originally published by Osage News , and is published through the Indigenous News Alliance.​ At the entrance to Harvest Land Farms, Fred Beartrack prepares to plug another orphaned well.",
+      "link": "https://grist.org/indigenous/osage-nation-speeds-up-orphan-well-cleanup-as-federal-oversight-recedes/",
+      "image_url": "https://grist.org/wp-content/uploads/2023/11/osage-abandoned-well-roach-property.jpeg?quality=75&strip=all&w=768",
+      "source": "Grist",
+      "published": "2026-11-02T09:00:00+00:00"
+    },
+    {
+      "title": "Boise plans to tap its geothermal network to heat 300 affordable homes",
+      "summary": "Boise already knows how to tap the carbon-free heat beneath our feet. The city operates the country’s largest geothermal heating system, which pipes naturally warmed, 177-degree-Fahrenheit water from underground to about 100 buildings — including the Idaho State Capitol.",
+      "link": "https://www.canarymedia.com/articles/geothermal/boise-geothermal-network-affordable-homes",
+      "image_url": "https://img.canarymedia.com/content/uploads/Boise_Idaho.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=83fd11bb2ce3f22a85adb7de5cdeacee",
+      "source": "Canary Media",
+      "published": "2026-11-02T08:30:00+00:00"
+    },
+    {
+      "title": "Good News in History, November 2",
+      "summary": "This daily column features all the good news, anniversaries and birthdays from this day in history—November 2.",
+      "link": "https://www.goodnewsnetwork.org/events061102/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/11/Jersey-Joe-Walcott-in-1937.-CC-3.0.-The-Ring-Boxing-Copy.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-02T08:00:00+00:00"
+    },
     {
       "title": "Islands Near Portugal Turn Off Lights to Protect Seabird Fledglings Every October – 30k Already Saved",
       "summary": "Each autumn, during the last five nights in October, there is a blackout on Corvo island—but it’s not by accident.",
@@ -52,6 +148,22 @@
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Corys-shearwater-on-Wikipedia-by-Hobbyfotowiki-CC0.jpeg",
       "source": "Good News Network",
       "published": "2026-11-02T03:04:49+00:00"
+    },
+    {
+      "title": "California legalizes balcony solar for renters and beyond",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM California just gave apartment renters a shot at solar. Governor Gavin Newsom signed a bill legalizing plug-in solar panels, also called balcony solar, clearing the way for a technology that doesn’t require a roof you own, a contractor, or tens of thousands of…",
+      "link": "https://www.optimistdaily.com/2026/11/california-legalizes-balcony-solar-for-renters-and-beyond/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Balkonkraftwerk2-scaled-e1793582907457-1024x633.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-02T00:00:33+00:00"
+    },
+    {
+      "title": "Sardinian restaurants are banning phones for families at meals",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM The Italian federation of pediatricians designed a box of games to help parents ask their kids how their day went.",
+      "link": "https://www.optimistdaily.com/2026/11/sardinian-restaurants-are-banning-phones-for-families-at-meals/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/family-eating-in-the-garden-Depositphotos_10848206_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-02T00:00:30+00:00"
     },
     {
       "title": "Housing Nonprofit Funds $16.5 Million in Eviction Relief to Assist Renters",
@@ -215,7 +327,7 @@
     },
     {
       "title": "What went right this week: the good news that matters",
-      "summary": "There was renewed hope for the Amazon rainforest, a skin cancer vaccine showed promise, and a nicotine loophole was closed in the UK, plus more",
+      "summary": "There was renewed hope for the Amazon, a skin cancer vaccine showed promise, and a nicotine loophole was closed in the UK, plus more",
       "link": "https://www.positive.news/society/good-news-stories-from-week-44-of-2026/",
       "image_url": "https://www.positive.news/wp-content/uploads/2026/10/iStock-495829576.jpg",
       "source": "Positive News",
@@ -3132,118 +3244,6 @@
       "image_url": "https://grist.org/wp-content/uploads/2026/07/ib8ER.jpeg",
       "source": "Grist",
       "published": "2026-09-24T08:30:00+00:00"
-    },
-    {
-      "title": "How the Architecture of Sound Is Transforming Cities",
-      "summary": "Before Chris Downey lost his sight, he had a wind chime on his front porch. After he became blind, he realized that he could listen out for it to help him find his way home.",
-      "link": "https://reasonstobecheerful.world/how-the-architecture-of-sound-is-transforming-cities/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/shutterstock_1163376499-scaled.jpg",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-09-24T08:00:50+00:00"
-    },
-    {
-      "title": "A recent legal victory could free $7B in frozen Solar for All funds",
-      "summary": "Denise Abdul-Rahman, founder and CEO of nonprofit Black Sun Light Sustainability, can list in detail the harms that the Trump administration’s shutdown of the $7 billion Solar for All program has caused the Indiana communities she serves.",
-      "link": "https://www.canarymedia.com/articles/politics/solar-for-all-court-ruling",
-      "image_url": "https://img.canarymedia.com/content/uploads/Sunpath-Solar-rooftop-solar-installers-evening-skyline.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=6ce3c8c49b5955c281fc075432f7fe68",
-      "source": "Canary Media",
-      "published": "2026-09-24T07:30:00+00:00"
-    },
-    {
-      "title": "Good News in History September 24",
-      "summary": "72 years ago today, the London street scene was made all the more iconic with the introduction of the Routemaster 8 (RM8) from AEC—becoming the double-decker red bus so associated with the British capital.",
-      "link": "https://www.goodnewsnetwork.org/events060924/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/09/RM8-first-production-AEC-Routemaster-at-a-bus-rally-in-Ocean-Village-Southampton-credit-Murgatroyd-CC-4.0.-By-SA.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-24T07:00:00+00:00"
-    },
-    {
-      "title": "From 2.6% to 97%: how South Korea eliminated food waste and what NYC can learn",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM In Yeouido, Seoul, Seunghwan Hong spends less than a minute dropping off his food scraps.",
-      "link": "https://www.optimistdaily.com/2026/09/from-2-6-to-97-how-south-korea-eliminated-food-waste-and-what-nyc-can-learn/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_112863948_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-09-24T00:00:37+00:00"
-    },
-    {
-      "title": "The tilcayo: new wildcat species discovered in Bolivia’s cloud forest",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM For years, biologists cataloguing Bolivia’s Yungas cloud forest would note a small spotted cat and move on.",
-      "link": "https://www.optimistdaily.com/2026/09/the-tilcayo-new-wildcat-species-discovered-in-bolivias-cloud-forest/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Leopardus_tilcayo_5x3_cropped-1024x613.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-09-24T00:00:08+00:00"
-    },
-    {
-      "title": "Bikes Outnumbered Cars on Scottish Rush Hour Route for the First Time Ever",
-      "summary": "A combination of e-bike rentals and segregated bike lanes has boosted cycling in the Scottish capital to the point that bikes outnumbered cars during a May morning rush hour for the first time in history.",
-      "link": "https://www.goodnewsnetwork.org/bikes-outnumbered-cars-on-scottish-rush-hour-route-for-the-first-time-ever/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Cyclists-on-Leith-Walks-segregated-bike-lane-credit-Cycling-Scotland-e1790159948672.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-23T18:30:11+00:00"
-    },
-    {
-      "title": "Should we get excited about California’s latest virtual power plant?",
-      "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Wednesday via Substack.",
-      "link": "https://www.canarymedia.com/articles/virtual-power-plants/california-latest-virtual-power-plant",
-      "image_url": "https://img.canarymedia.com/content/uploads/CW-santaclara-16.9.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=19881324d860718d093435973d91629a",
-      "source": "Canary Media",
-      "published": "2026-09-23T18:00:00+00:00"
-    },
-    {
-      "title": "Long-Lost Gertrude Abercrombie Painting Bought by a Bargain Hunter for $30 Could Fetch $250,000",
-      "summary": "At a Michigan estate sale in July, a “treasure hunter” noticed an undisturbed painting hanging in a hallway depicting a series of seashells on a dark grey and black field.",
-      "link": "https://www.goodnewsnetwork.org/long-lost-gertrude-abercrombie-painting-bought-by-a-bargain-hunter-for-30-could-fetch-250000/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Alderman-Merriams-Shells-credit-Freemans-Auctions.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-23T15:30:08+00:00"
-    },
-    {
-      "title": "Life after: a diagnosis for panic disorder",
-      "summary": "Molly Lambert went viral discussing OCD, helping others recognise frightening experiences they’d been too scared to share",
-      "link": "https://www.positive.news/lifestyle/life-after-a-diagnosis-for-panic-disorder/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/Image_enhanced_under_1MB-e1790244717672.jpg",
-      "source": "Positive News",
-      "published": "2026-09-23T13:14:20+00:00"
-    },
-    {
-      "title": "Scientists Pioneer Chemical Bath Method to Restore Aging EV Batteries Without Breaking Them Down",
-      "summary": "What if instead of investing billions into battery recycling plants, you could simply take your aging electric vehicle battery back, give it a good scrub, and get all that lost range back?",
-      "link": "https://www.goodnewsnetwork.org/scientists-pioneer-chemical-bath-method-to-restore-aging-ev-batteries-without-breaking-them-down/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/A-conventional-battery-pack-credit-Getty-Images-via-Unsplash-.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-23T13:00:49+00:00"
-    },
-    {
-      "title": "Flagship Restoration Project in Brazil’s Cerrado Savannah Working to Restore 4.4 Million Acres",
-      "summary": "A Brazilian ecosystem-scale restoration program was honored at a recent UN conference as one of the 3 most ambitious and impactful currently underway around the world.",
-      "link": "https://www.goodnewsnetwork.org/flagship-restoration-project-in-brazils-cerrado-savannah-working-to-restore-4-4-million-acres/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Brazil-Collage.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-23T11:00:25+00:00"
-    },
-    {
-      "title": "Marine protected areas aren’t as protected as you think",
-      "summary": "Earlier this year, ocean conservation advocates celebrated what seemed like a major milestone: 10 percent of the Earth’s oceans had been officially designated as marine protected areas.",
-      "link": "https://grist.org/oceans/marine-protected-areas-arent-as-protected-as-you-think/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/07/earth-oceans-heat.jpg",
-      "source": "Grist",
-      "published": "2026-09-23T08:30:00+00:00"
-    },
-    {
-      "title": "What We’re Reading: Singapore Is Paying People to Read",
-      "summary": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
-      "link": "https://reasonstobecheerful.world/what-were-reading-singapore-paying-people-to-read/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2024/01/The-Guardian-logo.jpeg",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-09-23T08:00:22+00:00"
-    },
-    {
-      "title": "A new fleet of electric school buses hits New York City streets",
-      "summary": "NEW YORK CITY — School districts nationwide are grappling with record diesel prices this fall as they resume shuttling students back and forth.",
-      "link": "https://www.canarymedia.com/articles/electric-vehicles/electric-school-buses-new-york-city",
-      "image_url": "https://img.canarymedia.com/content/uploads/IMG_6013.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=cf7e99bd59a128b86898ee32ab167307",
-      "source": "Canary Media",
-      "published": "2026-09-23T07:30:00+00:00"
     }
   ]
 }
