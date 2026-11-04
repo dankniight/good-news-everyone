@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-03T05:24:31.189674+00:00",
+  "lastUpdated": "2026-11-04T04:52:27.309938+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 195
+      "count": 196
     },
     {
       "name": "Positive News",
@@ -23,19 +23,19 @@
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 60
+      "count": 59
     },
     {
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 27
+      "count": 26
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 28
+      "count": 29
     },
     {
       "name": "Futurism",
@@ -46,12 +46,116 @@
   ],
   "articles": [
     {
+      "title": "Loch Ness Is About to Welcome a New Monster Not Seen There in 500 Years–the Beaver!",
+      "summary": "Loch Ness is about to welcome a new monster. This beastie is not to be trifled with: it has razor-sharp teeth and can easily knock down a fully-grown tree.",
+      "link": "https://www.goodnewsnetwork.org/loch-ness-is-about-to-welcome-a-new-monster-the-beaver-500-years-since-it-last-lived-there/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-NatureScot.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-03T19:30:09+00:00"
+    },
+    {
+      "title": "He Donated His Ultra-rare Blood 545 Times While Visiting Every Blood Bank in Australia",
+      "summary": "Pictured here enjoying jokes and a juice box, Trevor Bergman has now successfully donated his ultra-rare blood at all 85 Australian donation centers.",
+      "link": "https://www.goodnewsnetwork.org/ultra-rare-blood-carrier-finishes-grand-tour-around-australia-to-donate-at-all-85-blood-banks/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/supplied-to-ABC-News-by-Trevor-Bergman.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-03T16:30:35+00:00"
+    },
+    {
+      "title": "The Counter-Extremism Expert Building Our Capacity for Compassion",
+      "summary": "A former Los Angeles gang member, a former skinhead and a former radical Islamist walk into a youth center. What sounds like the setup for an uneasy joke is at the core of Farah Pandith’s work: Put people who might otherwise never share a room in front of young people;...",
+      "link": "https://reasonstobecheerful.world/counter-extremism-expert-farah-pandith-compassion-rebuilding-connection/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/U.S._Special_Representative_to_Muslim_Communities_Farah_Pandith_visits_Pesantren_Sirojul_Munir_in_Bekasi_6025301458.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-11-03T15:07:47+00:00"
+    },
+    {
+      "title": "What if we stop treating social care like a service? This village shows the way",
+      "summary": "A village in England has created a social care community based on communal living and shared responsibility. Could it catch on?",
+      "link": "https://www.positive.news/society/what-if-we-stopped-treating-social-care-like-a-service/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/11/iStock-2180754914.jpg",
+      "source": "Positive News",
+      "published": "2026-11-03T14:34:15+00:00"
+    },
+    {
+      "title": "This Wheelchair Skateboarding Teacher Already Conquered Mountains and Marathons",
+      "summary": "This rolling inspiration is Xie Junwu, an iron-willed wheelchair-bound althlete who’s climbed mountains, completed marathons, and now spends his days skateboarding.",
+      "link": "https://www.goodnewsnetwork.org/he-conquered-mountains-and-marathons-now-he-teaches-wheelchair-skateboarding-watch/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/YouTube-screengrab-credit-Xie-Junwu-.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-03T14:00:36+00:00"
+    },
+    {
+      "title": "Here’s how solar and wind developers can hold on to tax credits",
+      "summary": "When Congress passed the Inflation Reduction Act (IRA) in August 2022, solar and wind developers celebrated something that had historically been elusive: long-term certainty about federal tax incentives.",
+      "link": "https://www.canarymedia.com/articles/sponsored/heres-how-solar-and-wind-developers-can-hold-onto-tax-credits",
+      "image_url": "https://img.canarymedia.com/content/uploads/Intersolar-Forum-thumbnail.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=ff3557af593414ea78518f63b9e640d8",
+      "source": "Canary Media",
+      "published": "2026-11-03T13:35:00+00:00"
+    },
+    {
+      "title": "Rebuilding Mosques Brings Sikhs, Hindus and Muslims Together After Punjab Violence",
+      "summary": "In the Indian state of Punjab, Muslims are watching Sikhs and Hindus organize the rebuilding of old mosques destroyed following Partition.",
+      "link": "https://www.goodnewsnetwork.org/rebuilding-mosques-brings-sikhs-hindus-and-muslims-together-after-punjab-violence/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/A-famous-mosque-and-gurudwara-stand-side-by-side-in-Lahore-Pakistani-Punjab-credit-the-Walled-City-of-Lahore-Authority-CC-BY-SA-4.0-via-Wikimedia-Commons.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-03T12:00:24+00:00"
+    },
+    {
+      "title": "Electric aviation is taking off in unexpected ways",
+      "summary": "The call came from a home in Hyde County, a rural expanse of coastal farmland and marsh in North Carolina. Paramedic Quinn Reece jumped into an electric aircraft with one seat, two wings, and eight propellers.",
+      "link": "https://grist.org/solutions/electric-aviation-is-taking-off-in-unexpected-ways/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/10/eVTOL-electric-aviation-Pivotal-EMS-paramedics-electric-airplane.jpeg",
+      "source": "Grist",
+      "published": "2026-11-03T09:45:00+00:00"
+    },
+    {
+      "title": "Louisiana’s accidental blueprint for restoring its coast",
+      "summary": "Arthur Matherne is used to speeding his airboat across a southeastern stretch of the Louisiana coast where lakes and bayous have widened as the Gulf of Mexico’s salty water has moved in, dissolving marshes and swamps.",
+      "link": "https://grist.org/solutions/louisiana-mississippi-river-coast-land-building/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/10/verite-2-ready.jpeg",
+      "source": "Grist",
+      "published": "2026-11-03T09:30:00+00:00"
+    },
+    {
+      "title": "Trump cuts have left tribes without millions of dollars for clean energy",
+      "summary": "This story was originally published by Grist . Sign up for Grist's weekly newsletter . Every year, Kotzebue, a small city in northwest Alaska, has a three-month window to receive all the diesel fuel it will use throughout the following year.",
+      "link": "https://www.canarymedia.com/articles/climate-justice/trump-cuts-tribes-funds-clean-energy",
+      "image_url": "https://img.canarymedia.com/content/uploads/Kotzebue-Alaska-Indigenous-tribes-federal-funding-Trump-DOGE-cuts-underinvestment.webp?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=f8c251e415e404207fa945eb8a91d829",
+      "source": "Canary Media",
+      "published": "2026-11-03T08:30:00+00:00"
+    },
+    {
+      "title": "Good News in History, November 3",
+      "summary": "70 years ago today, The Wizard of Oz was televised for the first time, and was so successful—with 53% of US television viewers tuning in—that it was destined to become an annual event in American homes.",
+      "link": "https://www.goodnewsnetwork.org/events061103/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2013/08/Wizard_of_Oz_road_WS.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-03T08:00:00+00:00"
+    },
+    {
       "title": "Brutal NIMBY Regulations Are Crushing the Kind of Solar Farms Researchers Say Are a Godsend for Local Ecology",
       "summary": "\"We're seeing a complete slowdown.\"",
       "link": "https://futurism.com/science-energy/regulations-crushing-solar-farms-bees-ecology-alberta",
       "image_url": "https://futurism.com/wp-content/uploads/2026/11/regulations-crushing-solar-farms-bees-ecology-alberta.jpg?quality=85&w=2048",
       "source": "Futurism",
       "published": "2026-11-03T02:12:55+00:00"
+    },
+    {
+      "title": "How carbon credits helped unlock the Great Koala National Park in NSW",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM The Great Koala National Park might sound like a place that’s too good to be true, but it is real.",
+      "link": "https://www.optimistdaily.com/2026/11/how-carbon-credits-helped-unlock-the-great-koala-national-park-in-nsw/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/koala-Depositphotos_18324133_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-03T00:00:46+00:00"
+    },
+    {
+      "title": "Astronomers discovered first green star ever. And it’s powered by a dead planet’s chemistry.",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM For most of human history, the night sky came in a limited palette. Orange for the cooler stars, white for something like our sun, pale blue for the hottest ones.",
+      "link": "https://www.optimistdaily.com/2026/11/astronomers-discovered-first-green-star-ever-and-its-powered-by-a-dead-planets-chemistry/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/twinkle-green-star-lens-flare-Depositphotos_91846702_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-03T00:00:25+00:00"
     },
     {
       "title": "New AI Data Center Is So Huge That It’ll Generate the Heat of 23 Atomic Bombs Every Single Day",
@@ -79,7 +183,7 @@
     },
     {
       "title": "Over 750 Ukraine Civilians Evacuated from Famine Conditions in Most Substantial Truce of the War",
-      "summary": "Thousands of Ukrainian residents stranded in a Russian-occupied city have been evacuated through a humanitarian escort corridor.",
+      "summary": "Hundreds of Ukrainian residents stranded in a Russian-occupied city have been evacuated through a humanitarian escort corridor.",
       "link": "https://www.goodnewsnetwork.org/over-750-ukraine-civilians-evacuated-from-famine-conditions-in-most-substantial-truce-of-the-war/",
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/The-evacuation-underway-with-the-buses-seen-on-the-right-which-took-residents-wishing-to-leave-on-their-way-to-Kviv-via-Crimea-credit-Kherson-Regional-State-Administration-CC-BY-4.0.jpg",
       "source": "Good News Network",
@@ -111,7 +215,7 @@
     },
     {
       "title": "The women’s boxing nights helping abuse survivors",
-      "summary": "A new series of all-female fight nights aims to fund free boxing classes that help women rebuild their confidence after abusive relationships",
+      "summary": "A series of all-female fight nights aims to fund free boxing classes that help women rebuild their confidence after abusive relationships",
       "link": "https://www.positive.news/society/the-womens-boxing-nights-helping-abuse-survivors/",
       "image_url": "https://www.positive.news/wp-content/uploads/2026/10/BQ3A3519-scaled.jpg",
       "source": "Positive News",
@@ -3140,110 +3244,6 @@
       "image_url": "https://img.canarymedia.com/content/uploads/Idaho-farm-for-Weekly_260702r2-8536.webp?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=4f8c1e4ecdc3e2b466bb8a621fb1be66",
       "source": "Canary Media",
       "published": "2026-09-25T20:00:00+00:00"
-    },
-    {
-      "title": "Podcast Transcript September 25th, 2026— The tilcayo, cancer-sniffing dogs, and 8 more things going right",
-      "summary": "Episode Description: There’s a startup training dogs to detect cancer across seven types… and there’s over 90 percent accuracy across six hospitals.",
-      "link": "https://www.optimistdaily.com/2026/09/podcast-transcript-september-25th-2026-the-tilcayo-cancer-sniffing-dogs-and-8-more-things-going-right/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Podcast-Logo-3000-×-3000-px-2-13-1024x1024.png",
-      "source": "The Optimist Daily",
-      "published": "2026-09-25T16:30:20+00:00"
-    },
-    {
-      "title": "Whether it’s ‘super’ or ‘Godzilla,’ El Niño is already breaking records",
-      "summary": "By now, you’ve seen the headlines, and there’s more of them every day: It’s “ jaw-dropping . It’s poised to make global warming worse .",
-      "link": "https://grist.org/science/whether-its-super-or-godzilla-el-nino-is-already-breaking-records/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/09/Super-El-Nino_rain.jpg",
-      "source": "Grist",
-      "published": "2026-09-25T08:45:00+00:00"
-    },
-    {
-      "title": "My boomer mom’s cheap online shopping habit drives me nuts",
-      "summary": "Dear Leslie, I’ve noticed a real divide between my mindset and my mom’s. She’s a boomer, I’m a millennial. When she furnished her house through Amazon and Wayfair, the thing she was proudest of was how cheap it all was — same with clothes.",
-      "link": "https://grist.org/culture/ask-a-climate-therapist-boomer-mom-cheap-shopping-habit/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/02/climate-therapist-logo.png",
-      "source": "Grist",
-      "published": "2026-09-25T08:30:00+00:00"
-    },
-    {
-      "title": "Nairobi Is Transforming Neglected Libraries Into Vibrant Civic Hubs",
-      "summary": "As Sunil Totti prepared for a job interview with an international tech firm recently, he was hit by a sudden anxiety: What if the electricity failed midway through?",
-      "link": "https://reasonstobecheerful.world/nairobi-libraries-civic-hubs/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/1_After-scaled.jpg",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-09-25T08:00:13+00:00"
-    },
-    {
-      "title": "What went right this week: a brighter future for Kosovo, plus more",
-      "summary": "Kosovo was cleared of landmines, Germany set a date for quitting oil, and a new species was discovered, plus more",
-      "link": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/iStock-487000750-2.jpg",
-      "source": "Positive News",
-      "published": "2026-09-25T05:11:56+00:00"
-    },
-    {
-      "title": "Ethiopia’s Green Legacy Initiative is turning citizens into foresters",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM For most of the past century, Ethiopia was losing its forests. From the turn of the millennium to 2025, the country shed 560,000 hectares, about 2,160 square miles, of tree cover to agriculture, logging, and charcoal fuel.",
-      "link": "https://www.optimistdaily.com/2026/09/ethiopias-green-legacy-initiative-is-turning-citizens-into-foresters/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_308867466_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-09-25T00:00:49+00:00"
-    },
-    {
-      "title": "How book clubs and bedtime stories protect and build healthier brains",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM If the book on your nightstand has been gathering dust, here’s your reason to finally open it.",
-      "link": "https://www.optimistdaily.com/2026/09/how-book-clubs-and-bedtime-stories-protect-and-build-healthier-brains/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_796265520_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-09-25T00:00:06+00:00"
-    },
-    {
-      "title": "Advanced grid tech gets a $1.9B DOE boost",
-      "summary": "For years now, grid experts have been trying to get utilities to deploy advanced transmission technologies that can squeeze more capacity out of overstressed U.S. power grids.",
-      "link": "https://www.canarymedia.com/articles/transmission/advanced-grid-tech-doe-boost",
-      "image_url": "https://img.canarymedia.com/content/uploads/High-tension-electrical-power-lines-Highway-58_GettyImages-667160146.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=506ce5c2d705144df39e6fa21d2fda22",
-      "source": "Canary Media",
-      "published": "2026-09-24T21:30:00+00:00"
-    },
-    {
-      "title": "Australian Biologists Livestream A Remote Desert Waterhole and All its Wild Visitors",
-      "summary": "1.2 miles from the nearest car park, down a track which few hikers ply, in a national park few will have the opportunity to visit, a lonely camera livestreams the comings and goings of a desert waterhole to the world.",
-      "link": "https://www.goodnewsnetwork.org/australian-biologists-livestream-a-remote-desert-waterhole-and-all-its-wild-visitors/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Watarrka-Waterhole-Livestream.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-24T18:30:53+00:00"
-    },
-    {
-      "title": "Teens Set World Record for Most Sports Balls Recycled in One Day, Diverting 2,675 Pounds from Landfills",
-      "summary": "In March, GNN reported on the attempt by teens to set a Guinness World Record for the most racquet sport balls recycled in a single day, and we’re happy to tell you: they pulled it off.",
-      "link": "https://www.goodnewsnetwork.org/teens-set-world-record-for-most-sports-balls-recycled-in-one-day-diverting-2675-pounds-from-landfills/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/credit-Another-Bounce-Habits-of-Waste-released.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-24T15:30:31+00:00"
-    },
-    {
-      "title": "Millions Channeled to Irrigation Improvements, Leak Repairs Along Colorado River by Corporate Coalition",
-      "summary": "On Monday, e-commerce giant Amazon announced a $20 million investment to conserve water in the Colorado River Basin that’s currently stressed by a mixture of demand and historic drought.",
-      "link": "https://www.goodnewsnetwork.org/millions-channeled-to-irrigation-improvements-leak-repairs-along-colorado-river-by-corporate-coalition/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/09/1564px-Lake_Mead_1-cc-license-wikimedia-commons-Kjkolb-.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-24T13:00:30+00:00"
-    },
-    {
-      "title": "Portuguese Company Turns Cork Wood into Limitless Material, Even to Insulate Spacecraft",
-      "summary": "In Portugal, a 150-year-old business making corks is showing that it’s absolutely possible to teach an old dog new tricks.",
-      "link": "https://www.goodnewsnetwork.org/portuguese-company-turns-cork-wood-into-limitless-material-even-to-insulate-spacecraft/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Stacks-of-harvested-cork-oak-bark-credit-Carsten-Niehaus-CC-3.0.-via-Wikimedia.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-24T11:00:21+00:00"
-    },
-    {
-      "title": "Trump cut their climate jobs. This secretive network found them new ones.",
-      "summary": "Last year was a tough time for anyone who studies climate change for a living. The United States, once respected around the world for its sprawling investments in science, suddenly reversed course.",
-      "link": "https://grist.org/labor/trump-science-funding-network-climate-reserve/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/07/ib8ER.jpeg",
-      "source": "Grist",
-      "published": "2026-09-24T08:30:00+00:00"
     }
   ]
 }
