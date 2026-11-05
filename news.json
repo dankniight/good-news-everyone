@@ -1,35 +1,35 @@
 {
-  "lastUpdated": "2026-11-04T04:52:27.309938+00:00",
+  "lastUpdated": "2026-11-05T05:09:27.017620+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 196
+      "count": 192
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 29
+      "count": 30
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 26
+      "count": 27
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 59
+      "count": 61
     },
     {
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 26
+      "count": 27
     },
     {
       "name": "Canary Media",
@@ -41,10 +41,130 @@
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 35
+      "count": 34
     }
   ],
   "articles": [
+    {
+      "title": "Personalized brain therapy hits 68 percent remission for PTSD",
+      "summary": "Image alt text: Patient receiving transcranial magnetic stimulation therapy for PTSD treatment in a clinical setting A newly FDA-cleared treatment for PTSD reported 68 percent remission in clinical trials.",
+      "link": "https://www.optimistdaily.com/2026/11/personalized-brain-therapy-hits-68-percent-remission-for-ptsd/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/human-brain-Depositphotos_77461184_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-05T00:00:30+00:00"
+    },
+    {
+      "title": "8 surprising household uses for toothpaste, from a pro cleaner",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Image alt text: White toothpaste on a microfiber cloth next to a glass surface being polished in a kitchen Chances are, you’ve got a tube of toothpaste in your bathroom right now.",
+      "link": "https://www.optimistdaily.com/2026/11/8-surprising-household-uses-for-toothpaste-from-a-pro-cleaner/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/cropped-view-blurred-man-pouring-Depositphotos_512405268_S-1.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-05T00:00:25+00:00"
+    },
+    {
+      "title": "Top clean energy wins from the midterm elections",
+      "summary": "The top story from Tuesday’s elections is clear: Democrats won big-time on the national level, dominating U.S.",
+      "link": "https://www.canarymedia.com/articles/politics/top-clean-energy-wins-midterms",
+      "image_url": "https://img.canarymedia.com/content/uploads/Boston-election-night-party_GettyImages-2303015430.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=01fa67acf6acb319fcd22d8479680933",
+      "source": "Canary Media",
+      "published": "2026-11-04T22:30:00+00:00"
+    },
+    {
+      "title": "Hakeem Jeffries Is Bankrolled by the Most Controversial Tech Companies in Existence",
+      "summary": "\"The same corporate donors give to both sides so they win regardless of electoral outcomes.\"",
+      "link": "https://futurism.com/future-society/hakeem-jeffries-donors-corporate-controversial-tech-companies",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/hakeem-jeffries-bankrolled-tech.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-11-04T21:32:35+00:00"
+    },
+    {
+      "title": "The Grandfather Puzzle Pieces Together a Family History One Man Wouldn’t Talk About",
+      "summary": "JoyDrops champions awards-eligible documentary shorts about joy, a counterweight to a category often dominated by tragedy.",
+      "link": "https://www.goodnewsnetwork.org/the-grandfather-puzzle-pieces-together-a-family-history-one-man-wouldnt-talk-about/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-6.05.22-PM.png",
+      "source": "Good News Network",
+      "published": "2026-11-04T19:55:27+00:00"
+    },
+    {
+      "title": "Brazil Expands Protected Area for ‘One of the Richest and Most Sensitive Biomes on the Planet’",
+      "summary": "Brazilian environmental authorities have increased the size of a key national park by more than 25% of its original size.",
+      "link": "https://www.goodnewsnetwork.org/brazil-expands-protected-area-for-one-of-the-richest-and-most-sensitive-biomes-on-the-planet/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/The-Pantanal-landscape-credit-Filipe-Frazao-CC-3.0-BY-SA-1.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-04T19:30:10+00:00"
+    },
+    {
+      "title": "The Election That Transcended Tribalism",
+      "summary": "Pundits are describing last night as a romp for Democrats, a rebuke of Republicans, a blue tsunami, a rout in the red states.",
+      "link": "https://reasonstobecheerful.world/midterm-elections-transcend-tribalism/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/IMG_9652-scaled.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-11-04T16:46:50+00:00"
+    },
+    {
+      "title": "Student-run Automotive Shop Opens to the Public in Houston Where Every Oil Change Helps the Next Generation",
+      "summary": "From the Houston Chronicle comes the story of high schoolers getting down and dirty with their education. Having lately opened an auto shop in the city’s Fifth Ward, students in automotive engineering are ready to change your oil, rotate your tires, or tinker with whatever’s making *that sound.",
+      "link": "https://www.goodnewsnetwork.org/student-run-automotive-shop-opens-to-the-public-in-houston-where-every-oil-change-helps-the-next-generation/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/YouTube-Screengrab-Houston-Independent-School-District.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-04T16:30:37+00:00"
+    },
+    {
+      "title": "Italy Sees Collapse in its Homicide Rate to 3rd Lowest in the EU",
+      "summary": "2023 saw Italy register the lowest homicide rate in the EU, and the 3rd lowest age-standardized homicide rate.",
+      "link": "https://www.goodnewsnetwork.org/italy-sees-collapse-in-its-homicide-rate-to-3rd-lowest-in-the-eu/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Italy-italian-people-e1793791453906.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-04T14:00:41+00:00"
+    },
+    {
+      "title": "Woman Becomes First Person to Swim the Entire California Coastline",
+      "summary": "Long-distance swimmer Catherine Breed has become the first person to swim the length of the entire Californian coastline after cross 900 miles in 111 days.",
+      "link": "https://www.goodnewsnetwork.org/woman-becomes-first-person-to-swim-the-entire-california-coastline/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Catherine-Breed-swins-in-the-open-ocean-south-of-the-Golden-Gate-Bridge-credit-Catherine-Breed-press-photo.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-04T12:30:19+00:00"
+    },
+    {
+      "title": "Who needs a golden ticket? The race to future-proof chocolate",
+      "summary": "A student has made six bars from cocoa grown in Reading, where varieties are being developed that could help with climate change",
+      "link": "https://www.positive.news/society/who-needs-a-golden-ticket-the-race-to-future-proof-chocolate/",
+      "image_url": null,
+      "source": "Positive News",
+      "published": "2026-11-04T10:47:49+00:00"
+    },
+    {
+      "title": "Good News in History, November 4",
+      "summary": "102 years ago today, “Silent” Calvin Coolidge was elected to serve as the 30th President of the United States.",
+      "link": "https://www.goodnewsnetwork.org/events061104/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/11/Coolidge-seated-in-the-middle-along-with-his-1925-cabinet.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-04T08:00:00+00:00"
+    },
+    {
+      "title": "What a historic ‘blue wave’ midterm means for climate action",
+      "summary": "The Democratic Party won a commanding victory in Tuesday’s midterm elections. As of Wednesday morning, the party had secured control of both the Senate and the House of Representatives, as well as several state governments.",
+      "link": "https://grist.org/elections/midterms-2026-blue-wave-climate-races-data-centers/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/11/talarico-result.jpg",
+      "source": "Grist",
+      "published": "2026-11-04T05:10:04+00:00"
+    },
+    {
+      "title": "Maya Higa built a wildlife sanctuary on Twitch, funded by the people who watch it",
+      "summary": "This article is part of The Optimist Daily’s Local Changemakers 2026 series, spotlighting changemakers 30 and under.",
+      "link": "https://www.optimistdaily.com/2026/11/maya-higa-built-a-wildlife-sanctuary-on-twitch-funded-by-the-people-who-watch-it/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Local-Changemakers-Story-Covers-12.png",
+      "source": "The Optimist Daily",
+      "published": "2026-11-04T00:00:49+00:00"
+    },
+    {
+      "title": "Stanford scientists discovered bleached coral can heal through touch",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Two coral fragments fell over in a Stanford lab tank. When they touched, one healed the other.",
+      "link": "https://www.optimistdaily.com/2026/11/stanford-scientists-discovered-bleached-coral-can-heal-through-touch/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/colorful-coral-reef-with-hard-Depositphotos_18119259_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-04T00:00:01+00:00"
+    },
     {
       "title": "Loch Ness Is About to Welcome a New Monster Not Seen There in 500 Years–the Beaver!",
       "summary": "Loch Ness is about to welcome a new monster. This beastie is not to be trifled with: it has razor-sharp teeth and can easily knock down a fully-grown tree.",
@@ -3124,126 +3244,6 @@
       "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/33515_3-scaled.jpg",
       "source": "Reasons to be Cheerful",
       "published": "2026-09-28T08:00:46+00:00"
-    },
-    {
-      "title": "Good News in History September 28",
-      "summary": "39 years ago today, Star Trek: The Next Generation debuted on syndicated TV. Spanning 178 episodes over seven seasons, it starred English actor Patrick Stewart as Captain Jean-Luc Picard of the Starship Enterprise.",
-      "link": "https://www.goodnewsnetwork.org/events060928/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/09/Star-Trek.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-28T07:00:00+00:00"
-    },
-    {
-      "title": "Newly Identified Frog-like Creature Named by Student Scientists After Their Moms",
-      "summary": "A newly identified frog-like creature that lived before the dinosaurs has been named by the student scientists who discovered it—and they named it after their moms.",
-      "link": "https://www.goodnewsnetwork.org/newly-identified-frog-like-creature-named-by-student-scientists-after-their-moms/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Allison-Sefcovic-and-Payton-Kohlberg-hold-epoxy-sculptures-of-new-species-Jeanerpeton-mazonensis-Credit-Chicago-Field-Museum.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-28T03:00:01+00:00"
-    },
-    {
-      "title": "Soft productivity is the smarter way to work, and here’s how to start",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM There’s a kind of workday most of us know too well. You’re logged on early, you barely step away for lunch, and by 6 pm you’re not entirely sure what you have to show for it.",
-      "link": "https://www.optimistdaily.com/2026/09/soft-productivity-is-the-smarter-way-to-work-and-heres-how-to-start/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_610026084_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-09-28T00:00:59+00:00"
-    },
-    {
-      "title": "Athens’ former airport is becoming Europe’s largest coastal urban park",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Two million square meters of former airport land in the southern suburbs of Athens are being converted into The Ellinikon Park.",
-      "link": "https://www.optimistdaily.com/2026/09/athens-former-airport-is-becoming-europes-largest-coastal-urban-park/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Coastal-Front_1-1024x756.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-09-28T00:00:17+00:00"
-    },
-    {
-      "title": "CA Researchers Identify Odors That Repel Honeybees From Pesticides",
-      "summary": "In a win for pollinator conservation, researchers at the University of California, Riverside, have identified chemical compounds that can safely repel honey bees from pesticide-treated crops.",
-      "link": "https://www.goodnewsnetwork.org/ca-researchers-identify-odors-that-repel-honeybees-from-pesticides/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Honeybee-by-Yu-Fang-University-of-California-Riverside-released.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-27T22:50:42+00:00"
-    },
-    {
-      "title": "Archaeologists Risked Their Lives to Save 30,000 Treasures from ISIS Terrorists—New Study Shows How",
-      "summary": "A new study reveals how archaeologists risked their lives to save thousands of historic treasures from imminent destruction by Islamic State terrorists.",
-      "link": "https://www.goodnewsnetwork.org/archaeologists-risked-their-lives-to-save-thousands-of-treasures-from-isis-terrorists/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Evacuation-of-art-crates-from-Deir-ez-Zor-Museum-during-Syria-war-SWNS-cropped.jpeg",
-      "source": "Good News Network",
-      "published": "2026-09-27T19:58:18+00:00"
-    },
-    {
-      "title": "New York City Collects $131 Million From DoorDash for Delivery Workers Unfairly Paid After $13 Billion Earnings",
-      "summary": "The New York City Department of Consumer and Worker Protection (DCWP) announced a historic $131.5 million enforcement action against DoorDash for systematic violations of the local Delivery Worker Laws.",
-      "link": "https://www.goodnewsnetwork.org/nyc-collects-131-million-from-doordash-for-delivery-workers-unfairly-paid/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/DoorDash-workers-reimbursed-New-York-City-Mayors-office-released-.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-27T11:00:38+00:00"
-    },
-    {
-      "title": "Good News in History September 27",
-      "summary": "Happy 50th Birthday to Il Capitano—Francesco Totti. The most iconic Italian football forward of the 21st century, Totti spent a 25-year professional career in the red and orange on the AS Roma team—and is remembered as one of the greatest players of his generation.",
-      "link": "https://www.goodnewsnetwork.org/events060927/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/09/Mural-graffiti-dedicated-to-Francesco-Totti-in-the-Rome-district-Monti-celebrating-the-victory-of-AS-Roma.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-27T07:00:00+00:00"
-    },
-    {
-      "title": "Nike Founder Phil Knight Gives Away a Billion Dollars – the Largest Single Donation to a Public University",
-      "summary": "Phil Knight, who co-founded Nike alongside his former track coach at the University of Oregon (Bill Bowerman), has sprinted back to his alma mater with a huge philanthropic gift.",
-      "link": "https://www.goodnewsnetwork.org/nike-founder-phil-knight-donates-1-billion-to-oregon-university/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2025/08/Phil-Knight-wife-Penny-and-Knight-Cancer-Institute-Director-Dr.-Druker-credit-OSHU-released.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-26T22:29:05+00:00"
-    },
-    {
-      "title": "Nonprofit Puts Ex-Cons to Work with Paid Apprenticeships as Machinists in California",
-      "summary": "In a converted machine shop in southeastern San Diego, men who spent decades in prison are learning critical trade skills just weeks out of incarceration thanks to an inspirational nonprofit.",
-      "link": "https://www.goodnewsnetwork.org/nonprofit-puts-ex-cons-to-work-with-paid-apprenticeships-as-machinists/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/credit-supplied-by-Rise-Up-e1790262542771.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-26T20:30:50+00:00"
-    },
-    {
-      "title": "Data Center Operator Slapped With $1 Million Fine for Belching Noxious Gas Into Surrounding Community",
-      "summary": "\"I'd be lying to say if I were surprised.\"",
-      "link": "https://futurism.com/future-society/data-center-operator-microsoft-new-jersey-generators-exhaust",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/data-center-operator-microsoft-new-jersey-generators-exhaust_291df0.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-09-26T18:02:00+00:00"
-    },
-    {
-      "title": "Climate Change Is Turning Prisons Full of Human Beings Into Industrial-Scale Air Fryers",
-      "summary": "It's cruel, and increasingly usual.",
-      "link": "https://futurism.com/science-energy/climate-change-prisons-incarceration",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/climate-change-prisons-incarceration.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-09-26T16:01:00+00:00"
-    },
-    {
-      "title": "Good News in History September 26",
-      "summary": "Happy 81st Birthday to singer-songwriter Bryan Ferry whose “elegant, seductive croon” and Mod stylings influenced a generation of glam art rock in the 70s.",
-      "link": "https://www.goodnewsnetwork.org/events060926/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2019/09/roxy-cover-fair-use-Bryan-Ferry-2017-GWC-mashup.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-26T07:00:00+00:00"
-    },
-    {
-      "title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
-      "summary": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
-      "link": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-9-26-2026/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-26T05:00:37+00:00"
-    },
-    {
-      "title": "The challenges and opportunities of clean energy in rural America",
-      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. The U.S. energy transition runs through rural America: As of last year, 87% of U.S. clean energy generation happened in areas far outside the country’s urban centers, per a Rural Climate…",
-      "link": "https://www.canarymedia.com/articles/land-use/challenges-opportunities-clean-energy-rural-america",
-      "image_url": "https://img.canarymedia.com/content/uploads/Idaho-farm-for-Weekly_260702r2-8536.webp?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=4f8c1e4ecdc3e2b466bb8a621fb1be66",
-      "source": "Canary Media",
-      "published": "2026-09-25T20:00:00+00:00"
     }
   ]
 }
