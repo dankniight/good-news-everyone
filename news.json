@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T05:09:27.017620+00:00",
+  "lastUpdated": "2026-11-06T05:09:09.779733+00:00",
   "sources": [
     {
       "name": "Good News Network",
@@ -17,7 +17,7 @@
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 27
+      "count": 26
     },
     {
       "name": "The Optimist Daily",
@@ -29,13 +29,13 @@
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 27
+      "count": 26
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 29
+      "count": 31
     },
     {
       "name": "Futurism",
@@ -46,8 +46,112 @@
   ],
   "articles": [
     {
+      "title": "What went right this week: the good news that matters",
+      "summary": "Nature was restored at ‘unprecedented scale’, Barbados halted HIV transmission in babies, and a fuel revolution picked up speed, plus more",
+      "link": "https://www.positive.news/society/good-news-stories-from-week-45-of-2026/",
+      "image_url": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/11/iStock-1964386233.jpg",
+      "source": "Positive News",
+      "published": "2026-11-06T05:00:54+00:00"
+    },
+    {
+      "title": "Democrats' state wins open the door for major clean energy progress",
+      "summary": "Democrats' historic wins in Tuesday’s midterm elections will give them control of Congress and a chance to combat the Trump administration’s anti-climate agenda, but the president’s veto power will limit their options.",
+      "link": "https://www.canarymedia.com/articles/politics/democrat-state-wins-clean-energy-progress",
+      "image_url": "https://img.canarymedia.com/content/uploads/AP26309113540785.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=4de4ff0b0bbc464f6d6ac42310ed298f",
+      "source": "Canary Media",
+      "published": "2026-11-06T00:30:00+00:00"
+    },
+    {
+      "title": "Solar kits are changing what disaster relief looks like",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Every morning in the camp at Teknaf, Bangladesh, Mohammed Saber climbs to the roof of his family’s bamboo-and-tarpaulin home and sets out a single rectangular solar panel.",
+      "link": "https://www.optimistdaily.com/2026/11/solar-kits-are-changing-what-disaster-relief-looks-like/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/solar-panel-panel-solar-energy-Depositphotos_874538412_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-06T00:00:13+00:00"
+    },
+    {
+      "title": "The best places to volunteer this Thanksgiving: 17 options for every schedule",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM There’s a particular kind of motivation that kicks in around the holidays.",
+      "link": "https://www.optimistdaily.com/2026/11/the-best-places-to-volunteer-this-thanksgiving-17-options-for-every-schedule/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/concept-giving-homeless-people-reach-Depositphotos_726148770_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-06T00:00:00+00:00"
+    },
+    {
+      "title": "Got Bad Breath? Get Free Dental Care at This Store",
+      "summary": "At a small store in Stockholm, there’s a discount if you pay with bad breath. In fact, they’ll give you everything you need: toothpaste, a toothbrush, flossers, and more all for free—provided your breath is sufficiently rancid.",
+      "link": "https://www.goodnewsnetwork.org/got-bad-breath-get-free-dental-care-at-this-store/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/The-Breath-Boutique-credit-The-Humble-Co.-released.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-05T19:30:26+00:00"
+    },
+    {
+      "title": "How the midterms could unleash a new era for clean energy in these 3 states",
+      "summary": "When Trump was elected both in 2016 and 2024, promising to make the federal government hostile to climate action, many climate advocates insisted that state and local governments would take up the mantle of pushing for clean energy.",
+      "link": "https://grist.org/politics/midterm-elections-climate-change-trifectas-arizona-wisconsin-pennsylvania/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/11/wisconsin-data-center.jpg",
+      "source": "Grist",
+      "published": "2026-11-05T18:00:54+00:00"
+    },
+    {
+      "title": "The butterfly effect: a brighter way to make paint?",
+      "summary": "Researchers are looking to butterflies in the search for coatings without harmful, chemical-based pigments",
+      "link": "https://www.positive.news/science/the-butterfly-effect-a-brighter-way-to-make-paint/",
+      "image_url": "https://www.positive.news/wp-content/uploads/2026/11/iStock-2179406103.jpg",
+      "source": "Positive News",
+      "published": "2026-11-05T17:32:20+00:00"
+    },
+    {
+      "title": "Will PG&E’s $2B grid cutbacks derail California’s clean energy buildout?",
+      "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Thursday via Substack.",
+      "link": "https://www.canarymedia.com/articles/utilities/pge-2b-cut-in-grid-investments",
+      "image_url": "https://img.canarymedia.com/content/uploads/CW-fire-16.9.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=cbce15497f6452a89b655380a24f53ff",
+      "source": "Canary Media",
+      "published": "2026-11-05T17:00:00+00:00"
+    },
+    {
+      "title": "400-yo Shipwreck Puzzle Finally Cracked After More Than 20 Years of Mystery",
+      "summary": "With the help of a hospital CT scanner, scientists have cracked the code to a 400-year-old padlock discovered in a treasure-laden shipwreck on a beach in Wales.",
+      "link": "https://www.goodnewsnetwork.org/400-yo-padlock-code-finally-cracked-more-than-20-years-after-being-found-in-shipwreck-treasure/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Museum-of-Wales.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-05T16:30:16+00:00"
+    },
+    {
+      "title": "The Montana Ranch Where Autistic People Are Wranglers and Guides",
+      "summary": "The staff at Erik’s Ranch & Retreats has a saying: Sheets, towels and lives changed daily. Erik’s Ranch is a guest retreat where autistic people are concierges, guides, wranglers, cooks and more.",
+      "link": "https://reasonstobecheerful.world/montana-guest-ranch-employing-autistic-people/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/EriksRanch-010-scaled.jpeg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-11-05T15:35:06+00:00"
+    },
+    {
+      "title": "Seabird Sees Miracle Recovery After Avian Flu Wiped Them Out",
+      "summary": "Thanks to dedicated conservation efforts, sandwich terns have reclaimed a colony England’s south coast 3 years after they were wiped out by avian flu.",
+      "link": "https://www.goodnewsnetwork.org/miracle-recovery-sees-seabirds-reclaim-former-colony-after-avian-flu-wiped-them-out/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-David-Kinchin-Smith-RSPB.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-05T12:00:52+00:00"
+    },
+    {
+      "title": "Next Week’s New Moon Is Perfect Backdrop to the Blazing Tails of the Taurid Meteor Shower",
+      "summary": "A meteor shower famous for its fireballs will be visible around the world next week. Though the Northern Taurid Meteor Shower doesn’t peak until 3 days later, the best chance to catch its renowned shooting stars is Monday the 9th, when the New Moon guarantees the least amount of light pollution.",
+      "link": "https://www.goodnewsnetwork.org/next-weeks-new-moon-to-highlight-the-blazing-tails-of-the-taurid-meteor-shower/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Northern-Taurid-bolide-photographed-from-Skibotn-Norway-credit-Medisilvanus-CC-4.0.-BY-SA.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-05T09:15:43+00:00"
+    },
+    {
+      "title": "Good News in History, November 5",
+      "summary": "71 years ago, the Vienna State Opera reopened having been destroyed during World War II. Few cities have contributed more to classical music than the capital of Austria, and the State Opera hall has sourced many musicians to the Vienna Philharmonic orchestra, and hosted Gustav Mahler as its…",
+      "link": "https://www.goodnewsnetwork.org/events061105/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/11/The-State-Opera-Vienna-from-the-rear-credit-Markus-Leupold-Lowenthal-CC-3.0.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-05T08:00:00+00:00"
+    },
+    {
       "title": "Personalized brain therapy hits 68 percent remission for PTSD",
-      "summary": "Image alt text: Patient receiving transcranial magnetic stimulation therapy for PTSD treatment in a clinical setting A newly FDA-cleared treatment for PTSD reported 68 percent remission in clinical trials.",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM A newly FDA-cleared treatment for PTSD reported 68 percent remission in clinical trials.",
       "link": "https://www.optimistdaily.com/2026/11/personalized-brain-therapy-hits-68-percent-remission-for-ptsd/",
       "image_url": "https://www.optimistdaily.com/wp-content/uploads/human-brain-Depositphotos_77461184_S.jpg",
       "source": "The Optimist Daily",
@@ -55,7 +159,7 @@
     },
     {
       "title": "8 surprising household uses for toothpaste, from a pro cleaner",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Image alt text: White toothpaste on a microfiber cloth next to a glass surface being polished in a kitchen Chances are, you’ve got a tube of toothpaste in your bathroom right now.",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Chances are, you’ve got a tube of toothpaste in your bathroom right now. If it’s only going on your teeth, you’re leaving a surprisingly useful cleaning tool sitting on your bathroom counter.",
       "link": "https://www.optimistdaily.com/2026/11/8-surprising-household-uses-for-toothpaste-from-a-pro-cleaner/",
       "image_url": "https://www.optimistdaily.com/wp-content/uploads/cropped-view-blurred-man-pouring-Depositphotos_512405268_S-1.jpg",
       "source": "The Optimist Daily",
@@ -127,7 +231,7 @@
     },
     {
       "title": "Who needs a golden ticket? The race to future-proof chocolate",
-      "summary": "A student has made six bars from cocoa grown in Reading, where varieties are being developed that could help with climate change",
+      "summary": "A student has made chocolate from cocoa grown in England, where new varieties could help with climate change",
       "link": "https://www.positive.news/society/who-needs-a-golden-ticket-the-race-to-future-proof-chocolate/",
       "image_url": null,
       "source": "Positive News",
@@ -550,7 +654,7 @@
       "published": "2026-10-30T07:00:00+00:00"
     },
     {
-      "title": "What went right this week: the good news that matters",
+      "title": "What went right this week: renewed hope for the Brazilian Amazon, plus more",
       "summary": "There was renewed hope for the Amazon, a skin cancer vaccine showed promise, and a nicotine loophole was closed in the UK, plus more",
       "link": "https://www.positive.news/society/good-news-stories-from-week-44-of-2026/",
       "image_url": "https://www.positive.news/wp-content/uploads/2026/10/iStock-495829576.jpg",
@@ -3140,110 +3244,6 @@
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/The-seascape-of-Anfjorden-credit-credit-Jan-Harald-TomassenStatsforvaltaren-i-Troms-and-Finnmark.jpg",
       "source": "Good News Network",
       "published": "2026-09-29T11:00:24+00:00"
-    },
-    {
-      "title": "‘The forest is life’: how Indigenous communities in Peru are preventing wildfires",
-      "summary": "Ancient knowledge and new technology are combining to help Indigenous communities in Peru tackle forest fires",
-      "link": "https://www.positive.news/environment/the-forest-is-life-how-indigenous-communities-in-peru-are-preventing-wildfires/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/RS2995_IMG_7832-1_lpr.jpg",
-      "source": "Positive News",
-      "published": "2026-09-29T08:00:53+00:00"
-    },
-    {
-      "title": "A Place to Sleep for Denver’s Homeless College Students",
-      "summary": "This story was originally published by Chalkbeat. Sign up for their newsletters at ckbe.at/newsletters. During her first semester at Chicago’s Malcolm X College, Nikya Harrell had had enough.",
-      "link": "https://reasonstobecheerful.world/home-for-denver-homeless-college-students/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/RP6MAXEGSRFNDBMMOAKENQDH5E.avif",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-09-29T08:00:24+00:00"
-    },
-    {
-      "title": "Good News in History September 29",
-      "summary": "30 years ago today, the Nintendo 64 video game console was released in North America. Critically acclaimed as “quite simply, the fastest, most graceful game machine on the market”, the N64 was one of the first gaming consoles to have four controller ports and could handle a 4-player split-screen…",
-      "link": "https://www.goodnewsnetwork.org/events060929/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/09/Nintendo-64-gaming-console-public-domain.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-29T07:00:00+00:00"
-    },
-    {
-      "title": "What Japan’s 107,677 centenarians reveal about diet, lifestyle, and aging",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM There are 107,677 people in Japan who are currently aged 100 or older, according to recently released health ministry figures.",
-      "link": "https://www.optimistdaily.com/2026/09/what-japans-107677-centenarians-reveal-about-diet-lifestyle-and-aging/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_55757129_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-09-29T00:00:32+00:00"
-    },
-    {
-      "title": "Colorado’s largest wildlife overpass cut I-25 collisions by 91 percent",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Nine months in, North America’s largest wildlife overpass has cut vehicle collisions on a stretch of Interstate 25 in Colorado by 91 percent.",
-      "link": "https://www.optimistdaily.com/2026/09/colorados-largest-wildlife-overpass-cut-i-25-collisions-by-91-percent/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_401827524_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-09-29T00:00:14+00:00"
-    },
-    {
-      "title": "Resilient French Farmers Use Warming Climate to Grow the Country’s Own Tropical Fruit",
-      "summary": "This is a typical image of the south of France; now the home to an assortment very a-typical European fruit: the banana, the papaya, and the mango.",
-      "link": "https://www.goodnewsnetwork.org/resilient-french-farmers-use-warming-climate-to-grow-the-countrys-own-tropical-fruit/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/maxresdefault-2.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-28T18:30:42+00:00"
-    },
-    {
-      "title": "Vietnam Swiftly Protects Forests Containing the Last of the World’s Most-Endangered Monkey",
-      "summary": "Some of the best forest and mountain scenery Vietnam has to offer will now include a special conservation reserve to protect one of the world’s most-endangered primates.",
-      "link": "https://www.goodnewsnetwork.org/vietnam-swiftly-protects-forests-containing-the-last-of-the-worlds-most-endangered-monkey/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Delacours_langur_Trachypithecus_delacouri_Van_Long_2.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-28T15:30:22+00:00"
-    },
-    {
-      "title": "Brightline shows people want more trains. But who will pay for them?",
-      "summary": "The first thing Brightline wants you to know about its bankruptcy is that the trains will keep running. “BUSINESS AS USUAL,” read a message the company sent to customers after filing for Chapter 11 bankruptcy protection.",
-      "link": "https://grist.org/solutions/brightline-shows-people-want-more-trains-but-who-will-pay-for-them/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/07/California-high-speed-rail-private-funding-bullet-train.jpeg?quality=75&strip=all&w=768",
-      "source": "Grist",
-      "published": "2026-09-28T15:20:00+00:00"
-    },
-    {
-      "title": "Researchers Unearth a Clay Tablet Inscribed With the World’s Oldest Peace Treaty",
-      "summary": "Look, the order fixed for eternity which the Sun God and the God of the Tempest have created for the country of Egypt and the country of Hatti, (that is) peace and fraternity without leaving place among them to any enmity.",
-      "link": "https://www.goodnewsnetwork.org/researchers-unearth-a-clay-tablet-inscribed-with-the-worlds-oldest-peace-treaty/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Turkiyes-ministry-of-culture-and-tourism.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-28T13:00:54+00:00"
-    },
-    {
-      "title": "18 Year-Old from the Bronx Starts Nonprofit to Sponsor School Children in Ghana",
-      "summary": "High school seniors have a lot on their plate as it is between planning for prom, studying for exams, and applying to universities.",
-      "link": "https://www.goodnewsnetwork.org/18-year-old-from-the-bronx-starts-nonprofit-to-sponsor-school-children-in-ghana/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Max-Owobu-pictured-at-center-in-white-smiles-for-the-camera-surrounded-by-children-from-Calvary-Methodist-Elementary-School-credit-supplied-to-GNN.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-28T11:00:52+00:00"
-    },
-    {
-      "title": "Can affordable ethical fashion scale up?",
-      "summary": "With a focus on living wages, better fabrics and sustainability, one clothing brand is pushing to transform the fashion industry",
-      "link": "https://www.positive.news/economics/the-ethical-fashion-brand-championing-change-across-the-industry/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/deborahxyesfriends-2.jpg",
-      "source": "Positive News",
-      "published": "2026-09-28T09:05:56+00:00"
-    },
-    {
-      "title": "After Trump opened Bears Ears land to business, prospectors swooped in",
-      "summary": "It didn’t take long for prospectors to stake their claims on land in southeast Utah that was previously protected in Bears Ears National Monument.",
-      "link": "https://grist.org/politics/trump-bears-ears-mining-claims-prospectors-utah/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/08/bob-marshall-wilderness.jpg",
-      "source": "Grist",
-      "published": "2026-09-28T08:15:00+00:00"
-    },
-    {
-      "title": "Forget Recycling. What If We Could Compost or Reuse Everything?",
-      "summary": "Nora Griefahn’s office showcases her work better than words: The interior walls at the C2C LAB on a busy street in Berlin, Germany, are alive with lush, air-purifying plants; lamp shades have been grown from mycelium; in the kitchen, visitors can choose between tea cultivated via regenerative…",
-      "link": "https://reasonstobecheerful.world/forget-recycling-what-if-we-could-compost-or-reuse-everything/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/33515_3-scaled.jpg",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-09-28T08:00:46+00:00"
     }
   ]
 }
