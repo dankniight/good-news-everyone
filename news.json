@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-06T05:09:09.779733+00:00",
+  "lastUpdated": "2026-11-07T04:42:05.253815+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 192
+      "count": 193
     },
     {
       "name": "Positive News",
@@ -17,13 +17,13 @@
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 26
+      "count": 27
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 61
+      "count": 60
     },
     {
       "name": "Grist",
@@ -35,16 +35,80 @@
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 31
+      "count": 32
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 34
+      "count": 32
     }
   ],
   "articles": [
+    {
+      "title": "People Around the World Help Buy Royal Estate for Wildlife Conservation",
+      "summary": "The curlew, mountain bumblebee, lapwing, and other wading birds are just some of the animals calling a one-of-a-kind noble estate home.",
+      "link": "https://www.goodnewsnetwork.org/people-around-the-world-help-buy-royal-estate-for-wildlife-conservation/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/A-drone-image-of-the-site-of-the-Bronze-Age-Lordenshaw-Hill-Fort-credit-The-Wildlife-Trusts-©.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-06T21:16:55+00:00"
+    },
+    {
+      "title": "Man Spends 12 Days Returning Lost Cash a Laborer Needed for His Daughter",
+      "summary": "A man in southern Brazil was surprised to find a wad of cash on the ground in a public plaza with no one around looking for it.",
+      "link": "https://www.goodnewsnetwork.org/man-spends-12-days-returning-lost-cash-a-laborer-needed-for-his-daughter/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Pedro-Moro-shakes-hands-with-Matheus-Reginaldo-Celestino-whose-money-Moro-returned-credit-Pedro-Moro-supplied-to-the-media.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-06T16:30:31+00:00"
+    },
+    {
+      "title": "Podcast Transcript November 6th, 2026— 2 coral fragments touched in a Stanford lab: a story of healing (plus 9 more solutions)",
+      "summary": "Episode Description: Two coral fragments fell over in a Stanford lab tank and happened to touch, and within days the bleached one started absorbing healthy algae directly through the contact point with its neighbor.",
+      "link": "https://www.optimistdaily.com/2026/11/podcast-transcript-november-6th-2026-2-coral-fragments-touched-in-a-stanford-lab-a-story-of-healing-plus-9-more-solutions/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Podcast-Logo-3000-×-3000-px-2-12-1024x1024.png",
+      "source": "The Optimist Daily",
+      "published": "2026-11-06T16:30:07+00:00"
+    },
+    {
+      "title": "Venomous Primate Believed Extinct for 100 Years Was Hiding in Plain Sight All Along",
+      "summary": "This big-eyed furball is the Bangka slow loris, a creature that in 2015 was believed to potentially be extinct.",
+      "link": "https://www.goodnewsnetwork.org/venomous-primate-believed-extinct-for-100-years-was-hiding-in-plain-sight-all-along/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/The-Bangka-slow-loris-credit-Gunay-M.E.-CC-4.0.-BY-SA.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-06T14:00:28+00:00"
+    },
+    {
+      "title": "Geothermal Utilities Power Wave of US Affordable Housing with 40% Energy Savings",
+      "summary": "A natural gas utility in Vermont struck a first-in-the-nation deal that will soon be saving customers money by turning to geothermal energy.",
+      "link": "https://www.goodnewsnetwork.org/geothermal-utilities-power-wave-of-us-affordable-housing-with-40-energy-savings/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Geothermal-boring-at-Riggs-Meadow-Housing-Development-credit-Dandelion-Energy-released.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-06T12:30:16+00:00"
+    },
+    {
+      "title": "The wins and weak spots in America's solar supply chain",
+      "summary": "See more from Canary Media’s ​“Chart of the Week” column . Now that solar has become America’s go-to choice for new power plants , the pressure is on to assemble a fully domestic supply chain for the technology.",
+      "link": "https://www.canarymedia.com/articles/clean-energy-manufacturing/us-domestic-solar-supply-chain",
+      "image_url": "https://img.canarymedia.com/content/uploads/COTW-solar-supply-chain.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=10e8d721a785a67db329191192f4bce4",
+      "source": "Canary Media",
+      "published": "2026-11-06T08:30:00+00:00"
+    },
+    {
+      "title": "The Spark: When Communities Own the Land, Housing Stays Affordable",
+      "summary": "Welcome back to The Spark, our monthly celebration of how people just like you are creating positive change, one meaningful step at a time.",
+      "link": "https://reasonstobecheerful.world/the-spark-community-land-trusts/",
+      "image_url": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3d8.png",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-11-06T08:00:21+00:00"
+    },
+    {
+      "title": "Good News in History, November 6",
+      "summary": "809 years ago today, the Charter of the Forest was signed in England by King Henry III. This law document is sometimes described as the sister of the Magna Carta, and granted rights of free men to use the forests of England once reserved for King William I and his descendants.",
+      "link": "https://www.goodnewsnetwork.org/events061106/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/11/The-Forest-Charter.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-06T08:00:00+00:00"
+    },
     {
       "title": "What went right this week: the good news that matters",
       "summary": "Nature was restored at ‘unprecedented scale’, Barbados halted HIV transmission in babies, and a fuel revolution picked up speed, plus more",
@@ -87,7 +151,7 @@
     },
     {
       "title": "How the midterms could unleash a new era for clean energy in these 3 states",
-      "summary": "When Trump was elected both in 2016 and 2024, promising to make the federal government hostile to climate action, many climate advocates insisted that state and local governments would take up the mantle of pushing for clean energy.",
+      "summary": "When Trump was elected in both 2016 and 2024, promising to make the federal government hostile to climate action, many climate advocates insisted that state and local governments would take up the mantle of pushing for clean energy.",
       "link": "https://grist.org/politics/midterm-elections-climate-change-trifectas-arizona-wisconsin-pennsylvania/",
       "image_url": "https://grist.org/wp-content/uploads/2026/11/wisconsin-data-center.jpg",
       "source": "Grist",
@@ -126,7 +190,7 @@
       "published": "2026-11-05T15:35:06+00:00"
     },
     {
-      "title": "Seabird Sees Miracle Recovery After Avian Flu Wiped Them Out",
+      "title": "Seabirds See Miracle Recovery After Avian Flu Wiped Them Out",
       "summary": "Thanks to dedicated conservation efforts, sandwich terns have reclaimed a colony England’s south coast 3 years after they were wiped out by avian flu.",
       "link": "https://www.goodnewsnetwork.org/miracle-recovery-sees-seabirds-reclaim-former-colony-after-avian-flu-wiped-them-out/",
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-David-Kinchin-Smith-RSPB.jpg",
@@ -3180,70 +3244,6 @@
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/09/A-page-from-the-libretto-1886-of-The-Pearl-Fishermen-from-La-Scala-in-Milan-pub-domain.jpg",
       "source": "Good News Network",
       "published": "2026-09-30T07:00:00+00:00"
-    },
-    {
-      "title": "Why noise is an underestimated health hazard and what to do about it",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Most of the damage noise does to your body is preventable, and the tools you need are either free or already in your pocket.",
-      "link": "https://www.optimistdaily.com/2026/09/why-noise-is-an-underestimated-health-hazard-and-what-to-do-about-it/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_787470858_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-09-30T00:00:24+00:00"
-    },
-    {
-      "title": "Dolly Parton’s Imagination Library doubles its London reach even after her death",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Dolly Parton launched the Imagination Library in 1995 on a premise that hasn’t changed since: send a free book to every registered child under five, once a month, for the first years of their life.",
-      "link": "https://www.optimistdaily.com/2026/09/dolly-partons-imagination-library-doubles-its-london-reach-even-after-her-death/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_871798200_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-09-30T00:00:22+00:00"
-    },
-    {
-      "title": "12-yo’s Annual ‘Diaper Drive’ Delivers 30,000 Diapers Off at Arizona Food Bank",
-      "summary": "Employees at a food bank in Phoenix were left scratching their heads when they saw an entire Uhaul truck of donated diapers arrive at their location, knowing that a middle-schooler was behind the enormous load.",
-      "link": "https://www.goodnewsnetwork.org/12-yos-annual-diaper-drive-dumps-30000-diapers-off-at-arizona-food-bank/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Sloan-at-the-end-of-her-5th-annual-Diaper-Drive-credit-Sloans-Diaper-Drive.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-29T19:30:02+00:00"
-    },
-    {
-      "title": "Scientists Alarmed by “Kelvin Wave” That Could Raise California Ocean Level by a Whole Foot",
-      "summary": "\"It's a wave unlike the ones you're used to at the beach.\"",
-      "link": "https://futurism.com/science-energy/scientists-alarmed-kelvin-wave-el-nino-california-ecuador-ocean",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/scientists-alarmed-kelvin-wave-el-nino-california-ecuador-ocean.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-09-29T19:25:15+00:00"
-    },
-    {
-      "title": "Scientists Unveil Underwater Solar Panels",
-      "summary": "Far out, literally.",
-      "link": "https://futurism.com/future-society/scientists-underwater-solar-panels-china-pervoskite",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/scientists-underwater-solar-panels-china-pervoskite.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-09-29T16:13:34+00:00"
-    },
-    {
-      "title": "This Stone Wall Seems to Have Finally Settled Debate About The Town That Became Paris",
-      "summary": "Excavations in central Paris have turned up a stone wall that may have finally settled the debate regarding the true origins of the city.",
-      "link": "https://www.goodnewsnetwork.org/this-stone-wall-seems-to-have-finally-settled-debate-about-the-town-that-became-paris/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/credit-Anastasia-Choquet-DRAC-Ile-de-France-released.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-29T15:30:41+00:00"
-    },
-    {
-      "title": "A Strategy of Cash-for-Photos Turns Animal Hunters into Animal Protectors in Indonesia",
-      "summary": "From that magical island called Borneo comes the story of a bottom-up, pay-per-pic program that’s making a significant impact for the conservation of endangered birds and orangutans.",
-      "link": "https://www.goodnewsnetwork.org/a-strategy-of-cash-for-photos-turns-animal-hunters-into-animal-protectors-in-indonesia/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/foto_pengamatan-20250924-003412_8446.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-29T13:00:01+00:00"
-    },
-    {
-      "title": "Norway’s Newest Marine Protected Area Shelters Rich Marine Habitat, Whales, and Seabirds",
-      "summary": "On September 18th, the Norwegian government established a new marine protected area covering approximately 714 square miles, equivalent to almost 260,000 football pitches.",
-      "link": "https://www.goodnewsnetwork.org/norways-newest-marine-protected-area-shelters-rich-marine-habitat-whales-and-seabirds/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/The-seascape-of-Anfjorden-credit-credit-Jan-Harald-TomassenStatsforvaltaren-i-Troms-and-Finnmark.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-29T11:00:24+00:00"
     }
   ]
 }
