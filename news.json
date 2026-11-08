@@ -1,23 +1,23 @@
 {
-  "lastUpdated": "2026-11-07T04:42:05.253815+00:00",
+  "lastUpdated": "2026-11-08T04:29:16.630276+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 193
+      "count": 194
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 30
+      "count": 29
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 27
+      "count": 26
     },
     {
       "name": "The Optimist Daily",
@@ -29,22 +29,78 @@
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 26
+      "count": 27
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 32
+      "count": 31
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 32
+      "count": 33
     }
   ],
   "articles": [
+    {
+      "title": "Mayor Uses AirTag to Catch Capstone Thief who was Stealing 18th-Century Stones Across the Countryside",
+      "summary": "An English mayor-turned-detective solved the case of a thief who was looting $9,000 worth of historic capstones from a 300-year-old stone village wall—and he used a hi-tech tracker and a little trickery.",
+      "link": "https://www.goodnewsnetwork.org/mayor-uses-airtag-to-catch-capstone-thief/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Councillor-Matt-Smith-with-GPS-AirTag-SWNS.jpeg",
+      "source": "Good News Network",
+      "published": "2026-11-07T21:49:37+00:00"
+    },
+    {
+      "title": "Baby Saved After Racing Heartbeat Detected by Family Doberman",
+      "summary": "A baby’s life was likely saved after his racing heartbeat was detected by the family dog—that wouldn’t stop crying.",
+      "link": "https://www.goodnewsnetwork.org/baby-saved-as-racing-heartbeat-detected-by-pet/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Alexander-with-doberman-who-saved-his-life-SWNS.jpeg",
+      "source": "Good News Network",
+      "published": "2026-11-07T16:58:40+00:00"
+    },
+    {
+      "title": "New Democratic Congressional Majority Preparing Barrage of AI Legislation",
+      "summary": "It's a major indicator of how Democrats hope to govern.",
+      "link": "https://futurism.com/future-society/democratic-majority-ai-legislation-regulation-elections",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/democratic-majority-barrage-ai-legislation.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-11-07T14:50:00+00:00"
+    },
+    {
+      "title": "Adventurer Finally Hugs Mom After 28-Year Walk Around the World From Home in UK",
+      "summary": "A British adventurer who has walked around the world on a 28-year hike has finally reunited with his tearful mother.",
+      "link": "https://www.goodnewsnetwork.org/adventurer-finally-hugs-mom-after-28-year-walk-around-the-world-from-home-in-uk/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Karl-Bushby-reunites-with-mom-after-walking-around-world-–-SWNS.jpeg",
+      "source": "Good News Network",
+      "published": "2026-11-07T14:11:37+00:00"
+    },
+    {
+      "title": "These cranberry bogs come with a side of solar",
+      "summary": "It’s cranberry season in southeastern Massachusetts. At bogs throughout the region, growers are collecting the ruby-red berries destined for holiday cakes, juice bottles, and cans of jellied sauce.",
+      "link": "https://grist.org/solutions/these-cranberry-bogs-come-with-a-side-of-solar/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/09/michigan-corn-resized.jpeg?quality=75&strip=all&w=768",
+      "source": "Grist",
+      "published": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "title": "Your Positive Weekly Horoscope: ‘Free Will Astrology’ by Rob Brezsny",
+      "summary": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+      "link": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-11-7-2026/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-07T11:00:33+00:00"
+    },
+    {
+      "title": "Good News in History, November 7",
+      "summary": "17 years ago today, Utah Jazz coach Jerry Sloan became the first in professional basketball history to win 1,000 games with a single team.",
+      "link": "https://www.goodnewsnetwork.org/events061107/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/11/Jerry-Sloan-in-2010-credit-Stephanie-Young-Merzel-CC-2.0.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-07T08:00:00+00:00"
+    },
     {
       "title": "People Around the World Help Buy Royal Estate for Wildlife Conservation",
       "summary": "The curlew, mountain bumblebee, lapwing, and other wading birds are just some of the animals calling a one-of-a-kind noble estate home.",
@@ -198,7 +254,7 @@
       "published": "2026-11-05T12:00:52+00:00"
     },
     {
-      "title": "Next Week’s New Moon Is Perfect Backdrop to the Blazing Tails of the Taurid Meteor Shower",
+      "title": "Next Week’s New Moon Is Perfect Backdrop to Blazing Tails of Taurid Meteor Shower",
       "summary": "A meteor shower famous for its fireballs will be visible around the world next week. Though the Northern Taurid Meteor Shower doesn’t peak until 3 days later, the best chance to catch its renowned shooting stars is Monday the 9th, when the New Moon guarantees the least amount of light pollution.",
       "link": "https://www.goodnewsnetwork.org/next-weeks-new-moon-to-highlight-the-blazing-tails-of-the-taurid-meteor-shower/",
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Northern-Taurid-bolide-photographed-from-Skibotn-Norway-credit-Medisilvanus-CC-4.0.-BY-SA.jpg",
@@ -3188,62 +3244,6 @@
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/tamirkhan-fossil-2460-1384_wideexact_2460.jpg",
       "source": "Good News Network",
       "published": "2026-09-30T18:00:54+00:00"
-    },
-    {
-      "title": "Electric trucks cost too much. California has a law for that.",
-      "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Wednesday via Substack.",
-      "link": "https://www.canarymedia.com/articles/clean-fleets/electric-trucks-cost-too-much-california-has-a-bill-for-that",
-      "image_url": "https://img.canarymedia.com/content/uploads/CW-etruck-16.9.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=cadc2659ec553c9e9deb222df384ed8d",
-      "source": "Canary Media",
-      "published": "2026-09-30T17:30:00+00:00"
-    },
-    {
-      "title": "Chris Evans Puts His Limelight on a Bonded Dog Pair with Cute Video, Immediately Sees Them Adopted",
-      "summary": "Hollywood A-lister Chris Evans recently went out of his way to see if he could convince someone to make room in their home for two dogs who had to be adopted together.",
-      "link": "https://www.goodnewsnetwork.org/chris-evans-puts-his-limelight-on-a-bonded-dog-pair-with-cute-video-immediately-sees-them-adopted/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Left-Greg-and-Carley-a-pair-bonded-dog-couple-right-Chris-Evans-in-2023-credits-Animal-Rescue-League-of-Boston-via-Facebook.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-30T13:00:30+00:00"
-    },
-    {
-      "title": "Coastal Golf Course Turned into Vital Wetland Habitat for Seabirds",
-      "summary": "With an eye towards making room for native wildlife, a pair of golf courses are looking an awful lot more green.",
-      "link": "https://www.goodnewsnetwork.org/coastal-golf-course-turned-into-vital-wetland-habitat-for-seabirds/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Sandilands-Nature-Reserve-credit-National-Trust-photo-by-John-Miller.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-30T11:00:31+00:00"
-    },
-    {
-      "title": "I stopped reading bad news for 48 hours. Here’s what happened",
-      "summary": "What changes when you swap the daily doomscroll for journalism that asks not just what’s wrong, but what’s working?",
-      "link": "https://www.positive.news/lifestyle/i-stopped-reading-bad-news-for-48-hours-heres-what-happened/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/IMG_0702-scaled.jpg",
-      "source": "Positive News",
-      "published": "2026-09-30T10:15:35+00:00"
-    },
-    {
-      "title": "First Ever Recorded Sea Turtle Nests on America’s West Coast",
-      "summary": "A bombshell report last week from the LA Times details that a series of olive ridley sea turtles which laid their eggs on beaches in Southern California are the first of their race ever recorded buildings nests on the country’s West Coast.",
-      "link": "https://www.goodnewsnetwork.org/first-ever-recorded-sea-turtle-nests-on-americas-west-coast/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Eggs-from-an-olive-ridley-sea-turtle-were-laid-near-Seal-Beach-Credit-City-of-Huntington-Beach.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-30T09:52:15+00:00"
-    },
-    {
-      "title": "What We’re Reading: Rat Rangers to the Rescue",
-      "summary": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
-      "link": "https://reasonstobecheerful.world/what-were-reading-rat-rangers-dc/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2025/10/npr-logo-2025.svg",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-09-30T08:00:58+00:00"
-    },
-    {
-      "title": "Good News in History September 30",
-      "summary": "163 years ago, George Bizet’s famous opera Les Pêcheurs de Perles, The Pearl Fishermen, debuted at the Théâtre Lyrique in Paris.",
-      "link": "https://www.goodnewsnetwork.org/events060930/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/09/A-page-from-the-libretto-1886-of-The-Pearl-Fishermen-from-La-Scala-in-Milan-pub-domain.jpg",
-      "source": "Good News Network",
-      "published": "2026-09-30T07:00:00+00:00"
     }
   ]
 }
