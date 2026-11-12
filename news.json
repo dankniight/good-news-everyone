@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-11T04:44:47.914427+00:00",
+  "lastUpdated": "2026-11-12T05:47:36.134746+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 195
+      "count": 194
     },
     {
       "name": "Positive News",
@@ -17,19 +17,19 @@
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 25
+      "count": 26
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 61
+      "count": 63
     },
     {
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 27
+      "count": 26
     },
     {
       "name": "Canary Media",
@@ -41,10 +41,82 @@
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 33
+      "count": 32
     }
   ],
   "articles": [
+    {
+      "title": "After a decade of community pressure, LA bans oil drilling for good",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM For more than a decade, residents in some of Los Angeles’s most densely populated neighborhoods have lived alongside oil wells: down the street from active drilling operations, near idle wells leaking methane, in communities where benzene and hydrogen sulfide…",
+      "link": "https://www.optimistdaily.com/2026/11/after-a-decade-of-community-pressure-la-bans-oil-drilling-for-good/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/oil-pump-jack-city-limits-Depositphotos_199434004_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-12T00:00:35+00:00"
+    },
+    {
+      "title": "The dermatologist guide to a skin-friendly shower routine",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM The morning shower is one of those things most of us have never really questioned.",
+      "link": "https://www.optimistdaily.com/2026/11/the-dermatologist-guide-to-a-skin-friendly-shower-routine/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/woman-applying-body-lotion-Depositphotos_91712082_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-12T00:00:27+00:00"
+    },
+    {
+      "title": "Oh Whale! Revisits the Exploding Whale That Became One of the Internet’s First Viral Videos",
+      "summary": "JoyDrops champions awards-eligible documentary shorts about joy, a counterweight to a category often dominated by tragedy.",
+      "link": "https://www.goodnewsnetwork.org/oh-whale-revisits-the-exploding-whale-that-became-one-of-the-internets-first-viral-videos/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-12.42.29-PM.png",
+      "source": "Good News Network",
+      "published": "2026-11-11T19:32:59+00:00"
+    },
+    {
+      "title": "For Centuries, Visitors Walked Right by 280 Unseen Ice Age Cave Paintings",
+      "summary": "The third-largest collection of Ice Age-era engravings ever found on Spain’s Mediterranean side was sitting in plain sight where visitors for centuries had been walking right by them.",
+      "link": "https://www.goodnewsnetwork.org/for-centuries-visitors-walked-right-by-280-unseen-ice-age-cave-paintings/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/A-horse-representaion-where-cave-floor-is-used-to-represent-the-ground-credit-2026-Verges-et-al.-Antiquiry-CC-4.0.-BY-SA-e1794413594768.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-11T19:30:10+00:00"
+    },
+    {
+      "title": "Brown Bear Population in Spain Doubles With Incredible Increase of its Breeding Range",
+      "summary": "From the brink of extinction to roaming across 6,500 square miles, populations of Cantabrian brown bears have doubled in Spain over the last 20 years to 370.",
+      "link": "https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/A-Cantabrian-brown-bear-credit-Juan-Iacruz-CC-BY-SA-4.0.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-11T16:30:25+00:00"
+    },
+    {
+      "title": "‘I pulled him out, I heard more screaming’ – How a Cadet Saved a Father and Son from Drowning",
+      "summary": "A merchant marine cadet has been hailed as a hero for saving a father who nearly drowned in a swimming pool while trying to save his drowning 25-year-old son.",
+      "link": "https://www.goodnewsnetwork.org/i-pulled-him-out-i-heard-more-screaming-how-a-cadet-saved-a-father-and-son-from-drowning/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Jerge-Zion-is-recognized-at-the-Cal-Poly-Maritime-Academy-credit-@calpoly_maritime.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-11T14:00:06+00:00"
+    },
+    {
+      "title": "Paralysis Could Not Stop Her: How This 84-year-old Made Good on Her Musical Promise",
+      "summary": "A piano player is giving back joy to the place that gave her back health. “I came here as a patient, and now I can give something back,” said 84-year-old Bonnie Fay, who first came to Bryn Mawr Village nursing home in Pennsylvania.",
+      "link": "https://www.goodnewsnetwork.org/paralyzed-woman-promised-to-return-and-play-piano-for-rehab-patients-she-kept-her-word/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Bonnie-Fay-playing-the-piano-at-Bryn-Mawr-Village-supplied-to-GNN-e1794387097651.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-11T12:30:06+00:00"
+    },
+    {
+      "title": "What We’re Reading: An 80-Cent Plastic Bag Is Saving Mothers’ Lives",
+      "summary": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
+      "link": "https://reasonstobecheerful.world/what-were-reading-an-80-cent-plastic-bag-is-saving-mothers-lives/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2024/03/NEW-YORK-TIMES-LOGO.png",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-11-11T08:00:22+00:00"
+    },
+    {
+      "title": "Good News in History, November 11",
+      "summary": "100 years ago today, US Highway 101 was finished. Traversing the states of California, Oregon, and Washington, it passes most of the West Coast’s famous cities, major Silicon Valley counties, crosses the Golden Gate Bridge, and through Redwoods National Park.",
+      "link": "https://www.goodnewsnetwork.org/events061111/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2025/11/US-101.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-11T08:00:00+00:00"
+    },
     {
       "title": "Prince Bashangezi turned personal loss into peer tutoring for refugee students",
       "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM This article is part of The Optimist Daily’s Local Changemakers 2026 series, spotlighting changemakers 30 and under.",
@@ -103,7 +175,7 @@
     },
     {
       "title": "Good News in History, November 10",
-      "summary": "57 years ago today, Sesame Street first aired on 180 PBS public television stations using Jim Henson’s puppets to teach letters, numbers, and colors, with the goal or preparing less advantaged children for school.",
+      "summary": "57 years ago today, Sesame Street first aired on 180 PBS public television stations using Jim Henson’s puppets to teach letters, numbers, and colors, with the goal of preparing less advantaged children for school.",
       "link": "https://www.goodnewsnetwork.org/events061110/",
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/11/Sesame-Street-gang.jpg",
       "source": "Good News Network",
@@ -3172,78 +3244,6 @@
       "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_285836350_S.jpg",
       "source": "The Optimist Daily",
       "published": "2026-10-05T00:00:02+00:00"
-    },
-    {
-      "title": "Pomegranates, Walnuts and Berries Could Unlock Heart Failure Treatment By Producing Urolithin A",
-      "summary": "A compound produced in the body after eating pomegranates improves heart function by up to 80%, particularly for a type of heart failure with limited treatment options.",
-      "link": "https://www.goodnewsnetwork.org/pomegranates-walnuts-and-berries-could-unlock-heart-failure-treatment-with-urolithin-a/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/11/pomegranates-fruit-pubdomain-Margarita-Zueva.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-04T23:21:48+00:00"
-    },
-    {
-      "title": "Finalists Win Big Laughs in The Comedy Wildlife Photography Awards – LOOK",
-      "summary": "It’s that time of the year again, when the cutest, most spontaneous snapshots that capture the amusing side of nature, compete in a bid to win the Comedy Wildlife Photography Awards.",
-      "link": "https://www.goodnewsnetwork.org/finalists-win-big-laughs-in-the-comedy-wildlife-photography-awards-look/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Squirrel-by-Udo-Harms-Nikon-Comedy-Wildlife-Award.jpeg",
-      "source": "Good News Network",
-      "published": "2026-10-04T21:21:40+00:00"
-    },
-    {
-      "title": "Rare 1-in-100M ‘Ghost Lobster’ Goes to School to Help Scientists Crack Genetic Mystery–in Time for Halloween",
-      "summary": "A ‘ghost’ lobster so rare that the odds of finding one are 1 in 100 million is going to school, and its new home is Maine’s Marine Science Center—arriving just in time for Halloween.",
-      "link": "https://www.goodnewsnetwork.org/100m-ghost-lobster-goes-to-college/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Casper-the-white-lobster-at-University-of-New-England-Arthur-P-Girard-Marine-Science-Center-released.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-04T15:04:49+00:00"
-    },
-    {
-      "title": "Facebook Is Letting Accounts Commit Stolen Valor Using AI Slop of Troops in Warzones",
-      "summary": "\"My mother won't just lose a soldier — she'll lose the boy she raised. If you still support our veterans, hit that follow button.\"",
-      "link": "https://futurism.com/artificial-intelligence/facebook-content-farms-stolen-valor-ai-slop-troops-war",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/facebook-content-farms-stolen-valor-ai-slop-troops-war.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-10-04T14:01:00+00:00"
-    },
-    {
-      "title": "To win over locals, data centers pump $340M into rural Texas projects",
-      "summary": "A new water tower in Turkey: $3 million. Upgrades for a museum in Stamford: $400,000. A first responders appreciation barbecue in Medina County: $10,000.",
-      "link": "https://grist.org/accountability/to-win-over-locals-data-centers-pump-340m-into-rural-texas-projects/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/08/GettyImages-2276899078.jpg?quality=75&strip=all&w=768",
-      "source": "Grist",
-      "published": "2026-10-04T13:00:00+00:00"
-    },
-    {
-      "title": "AI Chatbots Will Never Replace Advice From Elders, Say Seven of 10 in New Poll",
-      "summary": "More than seven in 10 Brits believe AI will never replace advice from their elders. A study of 2,000 adults found while 21 percent use these artificial intelligence tools for help several times a week, 92 percent believe some forms of wisdom can only be gained through lived experience.",
-      "link": "https://www.goodnewsnetwork.org/ai-chatbots-will-never-replace-advice-from-elders-say-seven-of-10-in-new-poll/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Senior-Actress-Sue-Johnston-for-Maltesers-SWNS.jpeg",
-      "source": "Good News Network",
-      "published": "2026-10-04T11:00:36+00:00"
-    },
-    {
-      "title": "Good News in History, October 4",
-      "summary": "22 years ago today, SpaceShipOne, funded by Microsoft’s Paul Allen, became the first private manned spacecraft to fly into sub-orbital space.",
-      "link": "https://www.goodnewsnetwork.org/events061004/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/10/SpaceShipOne-after-first-private-space-launch-2004-cc-D-Ramey-Logan.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-04T07:00:00+00:00"
-    },
-    {
-      "title": "Underwater Umbrellas Could Protect Coral Reefs From Heat Damage",
-      "summary": "Underwater umbrellas could protect coral reefs from heat—and even partly reverse the bleaching, according to a new study by Florida scientists.",
-      "link": "https://www.goodnewsnetwork.org/underwater-umbrellas-could-protect-coral-reefs-from-heat-damage/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Underwater-Coral-umbrellas-by-Nova-Southeastern-University-in-Florida-Journal-Frontiers-in-Marine-Science.jpeg",
-      "source": "Good News Network",
-      "published": "2026-10-03T21:13:54+00:00"
-    },
-    {
-      "title": "Ancient Christian Complex Reopens in Syria After 14 Years, a War, and an Earthquake",
-      "summary": "A 5th-century Christian heritage site has reopened to visitors in Aleppo, Syria, after rehabilitation, restoration, and clearing the remnants of war.",
-      "link": "https://www.goodnewsnetwork.org/ancient-christian-site-reopens-in-syria-after-14-years-a-war-and-an-earthquake/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Saint-Simeon-church-by-Syrian-Directorate-General-of-Antiquities-and-Museums-SWNS.jpeg",
-      "source": "Good News Network",
-      "published": "2026-10-03T17:18:47+00:00"
     }
   ]
 }
