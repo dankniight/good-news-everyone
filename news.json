@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-11-12T05:47:36.134746+00:00",
+  "lastUpdated": "2026-11-13T05:06:38.510860+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 194
+      "count": 195
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 29
+      "count": 28
     },
     {
       "name": "Reasons to be Cheerful",
@@ -35,16 +35,120 @@
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 30
+      "count": 31
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 32
+      "count": 31
     }
   ],
   "articles": [
+    {
+      "title": "How two Princeton graduates built the world’s first microplastics removal system",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM For decades, wastewater treatment plants have been filtering out bacteria, chemicals, and biological waste before discharging treated water back into the environment.",
+      "link": "https://www.optimistdaily.com/2026/11/how-two-princeton-graduates-built-the-worlds-first-microplastics-removal-system/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/modern-urban-wastewater-treatment-plant-Depositphotos_10917326_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-13T00:00:54+00:00"
+    },
+    {
+      "title": "Why spiders show up in your home every fall, and what to do about it",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM If you’ve noticed more spiders lately, near window frames, behind boxes in the garage, lurking in basement corners, you’re not imagining it.",
+      "link": "https://www.optimistdaily.com/2026/11/why-spiders-show-up-in-your-home-every-fall-and-what-to-do-about-it/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/brown-spider-poisonous-arachnid-walking-Depositphotos_302168698_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-13T00:00:47+00:00"
+    },
+    {
+      "title": "China Switches on World’s Biggest Example of New, Cheap Green Energy Storage",
+      "summary": "World’s Largest, Liquid-Air Renewable Energy Storage System Switches On China Switches On World’s Biggest Example of New, Cheap Green Energy Storage (I think for SEO sake, we could consider keeping the clunkier ‘Liquid Air Energy Storage’ in the headline) The world’s largest demonstration plant for…",
+      "link": "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Qinghai-60MW-Liquid-Air-Energy-Storage-Project-credit-China-Green-Development-Investment-Group.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-12T19:30:02+00:00"
+    },
+    {
+      "title": "Documentarian Helps 103-yo D-Day Survivor Recover His Lost War Medals",
+      "summary": "A 103-year-old D-Day veteran was reunited with his war medals just in time for Remembrance Day. The story came about through a remarkable coincidence when an amateur WWII historian came across the man’s military record and medals, and contacted the family wondering if he still had them.",
+      "link": "https://www.goodnewsnetwork.org/documentarian-helps-103-yo-d-day-survivor-recover-his-lost-war-medals-just-in-time-for-veterans-day/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Douglas-Halley-103-with-his-grandson-Luke-credit-SWNS.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-12T16:30:00+00:00"
+    },
+    {
+      "title": "100-Year-Old ‘Store Mom’ Surprised With Her First Birthday Party",
+      "summary": "After 100 years, Gretchen Sollo had a major first: a surprise birthday party, thrown by the Lowe’s employees she sees every day.",
+      "link": "https://www.goodnewsnetwork.org/100-year-old-store-mom-first-birthday-party/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/fw-gretchen.png",
+      "source": "Good News Network",
+      "published": "2026-11-12T14:07:08+00:00"
+    },
+    {
+      "title": "‘There’s a Georgia O’Keeffe in the Closet’ – Words that Led to Painting’s Joyous Rediscovery",
+      "summary": "“Oh, by the way, there’s a Georgia O’Keeffe in the closet. One can only imagine the pause, double-take, or request for clarity which followed this comment, made by a woman’s elderly aunt in the midst of an effort to clean out her East Village apartment.",
+      "link": "https://www.goodnewsnetwork.org/theres-a-georgia-okeefe-in-the-closet-words-that-led-to-paintings-joyous-rediscovery/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Christies-released.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-12T14:00:23+00:00"
+    },
+    {
+      "title": "Brave Teens Execute Paddleboard Rescue of Flooded Neighbors – ‘Faith in Humanity Restored’",
+      "summary": "A woman has had her faith in humanity restored after neighbors arrived on paddleboards to rescue her and her son during recent flooding in Florida.",
+      "link": "https://www.goodnewsnetwork.org/brave-teens-execute-paddleboard-rescue-of-flooded-neighbors-faith-in-humanity-restored/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Britanny-Grant-via-Facebook.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-12T12:30:42+00:00"
+    },
+    {
+      "title": "Climate progressives won the midterms without saying ‘climate’",
+      "summary": "On October 20, the two candidates running to represent Michigan in the U.S. Senate, Abdul El-Sayed and Mike Rogers, took questions for an hour at the Detroit Economic Club.",
+      "link": "https://grist.org/elections/climate-progressives-won-the-midterms-without-saying-climate/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/11/Wisconsin-Crowley-election-celebration.jpg?quality=75&strip=all&w=768",
+      "source": "Grist",
+      "published": "2026-11-12T09:30:00+00:00"
+    },
+    {
+      "title": "Climate change is coming for the cactus. Yes, the cactus.",
+      "summary": "The humble cactus is an icon of resiliency. Stuck in a desert with little rain and abundant searing sun, these plants don’t just survive — they thrive and in turn provide habitat for owls and other birds, and flowers for bats and other pollinators.",
+      "link": "https://grist.org/science/climate-change-is-coming-for-the-cactus-yes-the-cactus/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/10/GettyImages-2298283881s.jpeg?quality=75&strip=all&w=768",
+      "source": "Grist",
+      "published": "2026-11-12T09:15:00+00:00"
+    },
+    {
+      "title": "The GOP lost its iron grip on Ohio. What’s the outlook for clean energy?",
+      "summary": "Democrats have finally managed to gain footing in Ohio’s halls of power — a shift that bodes well for clean energy in a state that’s become particularly hostile toward solar and wind.",
+      "link": "https://www.canarymedia.com/articles/politics/gop-lost-ohio-outlook-clean-energy",
+      "image_url": "https://img.canarymedia.com/content/uploads/Amy-Acton-Ohio-onstage-November-3_GettyImages-2303422637.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=50f432458a60dc3de650bdfe45ad502a",
+      "source": "Canary Media",
+      "published": "2026-11-12T08:30:00+00:00"
+    },
+    {
+      "title": "Bay Area finalizes rules to boost heat-pump water heater adoption",
+      "summary": "San Francisco Bay Area regulators have finalized a long-awaited rule that limits pollution from residential water heaters.",
+      "link": "https://www.canarymedia.com/articles/heat-pumps/bay-area-heat-pump-water-heater-rules",
+      "image_url": "https://img.canarymedia.com/content/uploads/Vernon-Coleman-heat-pump-installation.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=9ff29eb69a31437b3632cf2f400439d3",
+      "source": "Canary Media",
+      "published": "2026-11-12T08:30:00+00:00"
+    },
+    {
+      "title": "Imagining the Mossy Cities of the Future",
+      "summary": "This story has been co-published by Reasons to be Cheerful and the Outrider Foundation. In 2012, Philip Wallisfurth wanted to save a tree.",
+      "link": "https://reasonstobecheerful.world/moss-as-living-infrastructure/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/Wallisfurth_Moos-Graffiti-Kuenstler-im-Einkaufszentrum.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-11-12T08:00:43+00:00"
+    },
+    {
+      "title": "Good News in History, November 12",
+      "summary": "46 years ago today, NASA’s Voyager 1 probe arrived at Saturn and beamed back the first images ever taken of its rings.",
+      "link": "https://www.goodnewsnetwork.org/events061112/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/11/Saturn-as-pictured-by-Voyager-1-credit-NASA.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-12T08:00:00+00:00"
+    },
     {
       "title": "After a decade of community pressure, LA bans oil drilling for good",
       "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM For more than a decade, residents in some of Los Angeles’s most densely populated neighborhoods have lived alongside oil wells: down the street from active drilling operations, near idle wells leaking methane, in communities where benzene and hydrogen sulfide…",
@@ -3140,110 +3244,6 @@
       "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_757307428_S.jpg",
       "source": "The Optimist Daily",
       "published": "2026-10-06T00:00:21+00:00"
-    },
-    {
-      "title": "Our Solar System Is Unstable and Doomed for Destruction",
-      "summary": "Finally, some good news!",
-      "link": "https://futurism.com/space/solar-system-unstable-doomed-destruction",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/solar-system-unstable-doomed-destruction.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-10-05T20:17:03+00:00"
-    },
-    {
-      "title": "Fighting Wildfires from Prison, A New Law Gives Ex-Cons Route to California Fire Dept. Jobs on Release",
-      "summary": "Rather than being stuck on the chain gang, California prisoners are often on the bucket brigade. Roughly half of all California firefighters are incarcerated individuals.",
-      "link": "https://www.goodnewsnetwork.org/fighting-wildfires-from-prison-a-new-law-gives-ex-cons-route-to-california-fire-dept-jobs-on-release/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Calmatters.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-05T18:30:19+00:00"
-    },
-    {
-      "title": "Star Quarterback Wants to Help Gen Z Handle Money with New Video Series ‘Finance with Fernando’",
-      "summary": "As starting quarterback, Heisman Trophy winner, #1 NFL Draft pick, and aspiring philanthropist, Fernando Mendoza seems all lined up for a dynamite career in football.",
-      "link": "https://www.goodnewsnetwork.org/star-quarterback-wants-to-help-gen-z-handle-money-with-new-video-series-finance-with-fernando/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Fernando-Mendoza-screengrab.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-05T15:30:35+00:00"
-    },
-    {
-      "title": "Nonprofit Brings Free Music Education to More Than 20,000 Miami Students in 131 Schools",
-      "summary": "Down in Miami-Dade County, educators are seeing how school doesn’t mean a thing if it ain’t got that swing. Showing up, taking an interest in school and the community therein, comes that much easier for the some 21,000 students benefiting from free music classes offered at 131 schools by Young…",
-      "link": "https://www.goodnewsnetwork.org/nonprofit-brings-free-music-education-to-more-than-20000-miami-students-in-131-schools/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/maxresdefault-1.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-05T13:00:20+00:00"
-    },
-    {
-      "title": "Orphaned, Rescued, and Rewilded, Female Gorilla Becomes a Mother in Historic Conservation Success",
-      "summary": "One of the first-ever eastern lowland gorillas to be successfully returned to the wild gave birth on May 21st in her new/old home of Virunga National Park in the Democratic Republic of the Congo (DRC).",
-      "link": "https://www.goodnewsnetwork.org/orphaned-rescued-and-rewilded-female-gorilla-becomes-a-mother-in-historic-conservation-success/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Lulingu-and-her-infant-credit-Rewild-released-e1791180403372.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-05T11:00:53+00:00"
-    },
-    {
-      "title": "Extreme heat left this student athlete on life support. He won’t be the last.",
-      "summary": "Matthew Mayich stepped onto the field of Sun Angel Stadium in Tempe, Arizona, at about 7 a.m. on August 20. It was the standout hockey player’s first official practice with his new team, and temperatures were already in the mid-80s.",
-      "link": "https://grist.org/extreme-heat/extreme-heat-left-this-student-athlete-on-life-support-he-wont-be-the-last/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/10/Matthew-Mayich-St-Louis-Blues-Arizona-State-hockey-heat-.jpeg",
-      "source": "Grist",
-      "published": "2026-10-05T08:45:00+00:00"
-    },
-    {
-      "title": "Two years after Hurricane Helene, survivors are taking lessons for the future",
-      "summary": "In the days and weeks after Hurricane Helene, people throughout western North Carolina and beyond found themselves thrust into new situations, forced to learn new skills to help themselves and their neighbors.",
-      "link": "https://grist.org/extreme-weather/two-years-after-hurricane-helene-survivors-are-taking-lessons-for-the-future/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/10/Katie-Myers-microgrids2.jpg",
-      "source": "Grist",
-      "published": "2026-10-05T08:30:00+00:00"
-    },
-    {
-      "title": "The Hospital That Silenced the Machines",
-      "summary": "Beep. Beep. Beep. The heartbeat monitor chirps. Hospitals have long tried to fight acoustic chaos with passive tactics — hanging sound-absorbing ceiling tiles, laying soft rubber flooring or begging clinical staff to whisper in the corridors.",
-      "link": "https://reasonstobecheerful.world/the-hospital-that-silenced-the-machines/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/shutterstock_2714031703-scaled.jpg",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-10-05T08:00:28+00:00"
-    },
-    {
-      "title": "This hidden device could free up gigawatts of power for the US grid",
-      "summary": "America’s energy supply crunch is driving a surge of federal and private investment in new electricity generation — from polluting gas turbines to cleaner developments like solar farms and geothermal plants.",
-      "link": "https://www.canarymedia.com/articles/energy-efficiency/hidden-device-free-up-gigawatts-grid",
-      "image_url": "https://img.canarymedia.com/content/uploads/Danfoss-VFD-1.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=bb01bb06202acf5a2ad7c9380c37526c",
-      "source": "Canary Media",
-      "published": "2026-10-05T07:30:00+00:00"
-    },
-    {
-      "title": "Meet the 14-year-old uncovering London’s lost history",
-      "summary": "Seasoned mudlark Emmylou Vaxby has spent nearly a decade searching the Thames foreshore for fragments of the city’s past",
-      "link": "https://www.positive.news/environment/meet-the-14-year-old-uncovering-londons-lost-history/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/09/IMG_4220-copy.jpg",
-      "source": "Positive News",
-      "published": "2026-10-05T07:00:44+00:00"
-    },
-    {
-      "title": "Good News in History, October 5",
-      "summary": "20 years ago today, the 60-year-old rock star Jon Bon Jovi, who’s sold 100 million records, launched a charity foundation to combat poverty issues like food and housing to ease economic despair.",
-      "link": "https://www.goodnewsnetwork.org/events061005/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/01/Jon-Bon-Jovi-JBJ-Soul-Kitchen-Instagram.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-05T07:00:00+00:00"
-    },
-    {
-      "title": "Wisconsin’s first certified Shinrin-yoku trail is open to everyone",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Think about the last time you went for a walk in the woods. Were you listening to a podcast?",
-      "link": "https://www.optimistdaily.com/2026/10/wisconsins-first-certified-shinrin-yoku-trail-is-open-to-everyone/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_80631962_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-10-05T00:00:46+00:00"
-    },
-    {
-      "title": "DeafCity Hub and the fight to build a space where sign language can live and thrive",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Sign language interpreters at rap concerts go viral for a reason. There’s something genuinely arresting about watching BSL in full flight: the expressiveness, the grammar operating in three-dimensional space, a face carrying as much meaning as the hands.",
-      "link": "https://www.optimistdaily.com/2026/10/deafcity-hub-and-the-fight-to-build-a-space-where-sign-language-can-live-and-thrive/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_285836350_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-10-05T00:00:02+00:00"
     }
   ]
 }
