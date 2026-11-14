@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T05:06:38.510860+00:00",
+  "lastUpdated": "2026-11-14T04:57:29.357758+00:00",
   "sources": [
     {
       "name": "Good News Network",
@@ -11,31 +11,31 @@
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 28
+      "count": 27
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 26
+      "count": 27
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 63
+      "count": 60
     },
     {
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 26
+      "count": 27
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 31
+      "count": 33
     },
     {
       "name": "Futurism",
@@ -45,6 +45,110 @@
     }
   ],
   "articles": [
+    {
+      "title": "How California Gov.-elect Becerra could be better on climate than Newsom",
+      "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it weekly via Substack.",
+      "link": "https://www.canarymedia.com/articles/politics/california-gov-elect-becerra-climate",
+      "image_url": "https://img.canarymedia.com/content/uploads/CW-bayarea-16.9.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=b6f8f97bd9e066d5ce2aa834c9387c5e",
+      "source": "Canary Media",
+      "published": "2026-11-13T20:00:00+00:00"
+    },
+    {
+      "title": "Dr. King’s Lost Draft of ‘I Have a Dream’ Emerges from a Desk Drawer",
+      "summary": "Dr. King’s Final Draft of ‘I have a dream’ Appears After 60 Years (totally alternative approach) Incredible Discovery of King’s Own ‘I have a dream’ Draft Chills Readers with its Insights A penned draft of the famous ‘I have a Dream’ speech, written by Martin Luther King Jr. the morning of the…",
+      "link": "https://www.goodnewsnetwork.org/dr-kings-lost-draft-of-i-have-a-dream-emerges-from-a-desk-drawer/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Christies-released-1.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-13T19:30:02+00:00"
+    },
+    {
+      "title": "Stanford Scientists Intrigued by Method for Bringing Bleached Coral Back to Life",
+      "summary": "This could be a game changer.",
+      "link": "https://futurism.com/science-energy/method-bringing-bleached-coral-back-life",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/method-bringing-bleached-coral-back-life.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-11-13T17:03:00+00:00"
+    },
+    {
+      "title": "Man Rescues Trapped Neighbors from ‘Biblical’ Florida Flooding",
+      "summary": "A man put his life on the line to rescue his vulnerable neighbors during a flood in Florida he he described as “biblical.",
+      "link": "https://www.goodnewsnetwork.org/update-stories-of-daring-rescues-continue-to-surface-from-flooded-florida-communities/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-@rickaddante-via-X.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-13T16:30:59+00:00"
+    },
+    {
+      "title": "Podcast Transcript November 13th, 2026— This midterm’s historic governor firsts, flying electric ferries, and eat-your-skincare",
+      "summary": "Episode Description: Los Angeles tried to ban oil drilling once before, in 2022, and the oil companies won in court.",
+      "link": "https://www.optimistdaily.com/2026/11/podcast-transcript-november-13th-2026-this-midterms-historic-governor-firsts-flying-electric-ferries-and-eat-your-skincare/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Podcast-Logo-3000-×-3000-px-2-15-1024x1024.png",
+      "source": "The Optimist Daily",
+      "published": "2026-11-13T16:30:25+00:00"
+    },
+    {
+      "title": "The US Government Has a Track Record of Falsely Accusing People of Being Chinese Spies",
+      "summary": "\"I need to get back my reputation. I need to let other people see I didn't do anything wrong.\"",
+      "link": "https://futurism.com/future-society/us-government-chinese-spy-false-accusations-huang",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/government-track-record-chinese-spies.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-11-13T14:02:00+00:00"
+    },
+    {
+      "title": "Infant Goes from 110 Seizures a Day to Seizure-Free with Experimental Treatment",
+      "summary": "From the first day of his life, little infant Adnan has suffered a seizure roughly every 13 minutes. One can only imagine the reactions from his Dubai hospital bedside when, having received a still-experimental drug, his seizures stopped for the day.",
+      "link": "https://www.goodnewsnetwork.org/infant-goes-from-110-seizures-a-day-to-seizure-free-after-rare-treatment/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/NICU-infant-ward-unsplash.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-13T14:00:22+00:00"
+    },
+    {
+      "title": "WWII Tryst at the Center of 80+Year Mystery That’s Now United Two Families",
+      "summary": "An 81-year-old Englishman grew up wondering who his real father was. What he didn’t know was that an entire family tree in Canada was wondering who and where he was.",
+      "link": "https://www.goodnewsnetwork.org/canadian-family-finally-identifies-grandfathers-long-lost-wwii-baby-in-england-after-80-years/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Left-Charles-Blackney-holding-his-Canadian-daughter-in-1942-right-Yvonne-Anderson-holding-Rodney-in-1945-credits-Dawn-Anderson.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-13T12:30:36+00:00"
+    },
+    {
+      "title": "The affordability election delivered billions for public transit",
+      "summary": "In an election dominated by concerns about affordability, voters across the country overwhelmingly agreed to raise taxes to preserve or expand public transit.",
+      "link": "https://grist.org/transportation/the-affordability-election-delivered-billions-for-public-transit/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/09/brightline-florida-rail-high-speed-bankruptcy-chapter-11-.jpeg?quality=75&strip=all&w=768",
+      "source": "Grist",
+      "published": "2026-11-13T09:45:00+00:00"
+    },
+    {
+      "title": "The cozy radicalism of repair cafés",
+      "summary": "On an unusually cool and rainy Saturday morning in Decatur, Georgia, dozens of people filed into a warehouse at the back of a church parking lot, their arms full of what a less hopeful group might call junk.",
+      "link": "https://grist.org/culture/cozy-radicalism-right-to-repair-cafes/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/11/chair-pettus-repair-cafe-2.jpg",
+      "source": "Grist",
+      "published": "2026-11-13T09:30:00+00:00"
+    },
+    {
+      "title": "Solar PAC got revenge on clean energy’s enemies in Congress",
+      "summary": "Before this election cycle, it was hard to identify any politician who feared the solar industry. The Invest in Tomorrow Coalition PAC set out to change that, and now has a roster of wins to back up its threats.",
+      "link": "https://www.canarymedia.com/articles/politics/solar-pac-revenge-in-congress",
+      "image_url": "https://img.canarymedia.com/content/uploads/ITC-PAC-truck_GettyImages-2280948571.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a57e837a909931e69fdc4e38f82a0653",
+      "source": "Canary Media",
+      "published": "2026-11-13T08:30:00+00:00"
+    },
+    {
+      "title": "Maui Is Becoming a Living Laboratory for Regenerative Tourism",
+      "summary": "On August 8, 2023, fast-moving wildfires swept through several parts of West Maui. The town of Lahaina, which holds a deep place in Hawaiian history and once served as the capital of the Hawaiian Kingdom, suffered the greatest devastation: Most of its buildings were destroyed, and thousands of…",
+      "link": "https://reasonstobecheerful.world/maui-living-laboratory-regenerative-tourism/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/L1060171.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-11-13T08:00:12+00:00"
+    },
+    {
+      "title": "Good News in History, November 13",
+      "summary": "70 years ago today, the US Supreme Court struck down Alabama’s policy of racial segregation on public buses, ending the Montgomery Bus Boycott, made famous by Rosa Parks.",
+      "link": "https://www.goodnewsnetwork.org/events061113/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/11/Rosa-Parks-on-Bus-After-Boycott-Wikipedia.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-13T08:00:00+00:00"
+    },
     {
       "title": "How two Princeton graduates built the world’s first microplastics removal system",
       "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM For decades, wastewater treatment plants have been filtering out bacteria, chemicals, and biological waste before discharging treated water back into the environment.",
@@ -63,7 +167,7 @@
     },
     {
       "title": "China Switches on World’s Biggest Example of New, Cheap Green Energy Storage",
-      "summary": "World’s Largest, Liquid-Air Renewable Energy Storage System Switches On China Switches On World’s Biggest Example of New, Cheap Green Energy Storage (I think for SEO sake, we could consider keeping the clunkier ‘Liquid Air Energy Storage’ in the headline) The world’s largest demonstration plant for…",
+      "summary": "The world’s largest demonstration plant for a new kind of renewable energy storage is up and running in the west of the China.",
       "link": "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/",
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Qinghai-60MW-Liquid-Air-Energy-Storage-Project-credit-China-Green-Development-Investment-Group.jpg",
       "source": "Good News Network",
@@ -3140,110 +3244,6 @@
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2014/10/yo-yo-ma-songs-from-the-arc-of-life-cover-grab.jpg",
       "source": "Good News Network",
       "published": "2026-10-07T07:00:00+00:00"
-    },
-    {
-      "title": "Fatima Ezzahra El Mansouri becomes Morocco’s first woman prime minister",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM On September 29, King Mohammed VI appointed Fatima Ezzahra El Mansouri as Morocco’s prime minister, making the 50-year-old urban planner and longtime mayor of Marrakesh the first woman to hold the role in the kingdom’s history.",
-      "link": "https://www.optimistdaily.com/2026/10/fatima-ezzahra-el-mansouri-becomes-moroccos-first-woman-prime-minister/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/fatima-ezzahra-el-mansouri-portrait-683x1024.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-10-07T00:00:32+00:00"
-    },
-    {
-      "title": "How to choose running shoes: what a physical therapists wants you to know",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM The running boom shows no sign of slowing, and the shoe market has followed with thicker foams, carbon-fiber plates, and marketing claims that more technology means less injury and faster times.",
-      "link": "https://www.optimistdaily.com/2026/10/how-to-choose-running-shoes-what-a-physical-therapists-wants-you-to-know/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_168757080_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-10-07T00:00:27+00:00"
-    },
-    {
-      "title": "Oldest Man in Oregon Credits Clean Diet and “Good Mind” for Reaching 108-years Young",
-      "summary": "A man who’s believed to be the oldest individual in the state of Oregon recently rung in 108-years-young with a cake and some words of wisdom.",
-      "link": "https://www.goodnewsnetwork.org/oldest-man-in-oregon-credits-clean-diet-and-good-mind-for-reaching-108-years-young/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/maxresdefault-2.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-06T18:30:43+00:00"
-    },
-    {
-      "title": "Nokia and NASA Team Up to Bring 4G to the Moon and Our Astronauts",
-      "summary": "Children of astronauts may soon be able to video call their parents in space, as NASA wants to bring terrestrial 4G to the Lunar surface.",
-      "link": "https://www.goodnewsnetwork.org/nokia-and-nasa-team-up-to-bring-4g-to-the-moon-and-our-astronauts/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/An-artistic-rendering-of-the-Lunar-lander-and-rover-with-4G-antennae-extended-credit-Intuitive-Machines-Nokia-Bell-Labs.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-06T15:30:13+00:00"
-    },
-    {
-      "title": "As the Planet Burns, Massive Climate Lawsuit Against Oil Companies Goes to the Supreme Court",
-      "summary": "This is one to watch.",
-      "link": "https://futurism.com/science-energy/planet-burns-climate-lawsuit-oil-companies-supreme-court",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/planet-burns-climate-lawsuit-oil-companies-supreme-court.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-10-06T13:52:06+00:00"
-    },
-    {
-      "title": "Illinois Community Members Honored for Helping Save Woman in Submerged Vehicle (WATCH)",
-      "summary": "On a stormy afternoon in Illinois in August, an elderly driver lost control of her vehicle as it plunged into a flooded retention pond.",
-      "link": "https://www.goodnewsnetwork.org/illinois-community-members-honored-for-helping-save-woman-in-submerged-vehicle-watch/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Champaign-Illinois-Police-Department-e1791276599357.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-06T13:00:29+00:00"
-    },
-    {
-      "title": "Parents Are AI-Generating Pictures of Their Kids Instead of Paying for School Photos",
-      "summary": "\"ChatGPT for the win.\"",
-      "link": "https://futurism.com/artificial-intelligence/parents-ai-school-photos-chatgpt",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/parents-ai-school-photos-chatgpt.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-10-06T12:45:24+00:00"
-    },
-    {
-      "title": "Virginia Becomes Latest State to Enact ‘Clean Slate’ Law, to Help Residents Move on from Minor Offenses",
-      "summary": "Virginia’s new Clean Slate law came into effect last Thursday, meaning that thousands of misdemeanor offenses will be automatically sealed to help residents move forward with employment or loan opportunities.",
-      "link": "https://www.goodnewsnetwork.org/virginia-becomes-latest-state-to-enact-clean-slate-law-to-help-residents-move-on-from-minor-offenses/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2019/05/silouette-overcoming-jail-cc-Kit.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-06T11:00:30+00:00"
-    },
-    {
-      "title": "The future of commuter rail could be taking shape in Boston",
-      "summary": "Marvin Martin was in the Four Corners area of Dorchester one day when a train sped by on the Fairmount Line into downtown Boston.",
-      "link": "https://grist.org/solutions/the-future-of-commuter-rail-could-be-taking-shape-in-boston/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/03/Caltrain-electrification-electric-trains-transit-rail.jpeg?quality=75&strip=all&w=768",
-      "source": "Grist",
-      "published": "2026-10-06T08:45:00+00:00"
-    },
-    {
-      "title": "The women putting community at the heart of elephant conservation",
-      "summary": "Across Africa, women are challenging old assumptions about who conservation is for – and who gets to lead it",
-      "link": "https://www.positive.news/environment/the-women-putting-community-at-the-heart-of-elephant-conservation/",
-      "image_url": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/09/SharedLand_Story02b_WebHeader_1800x1080.jpg",
-      "source": "Positive News",
-      "published": "2026-10-06T07:00:43+00:00"
-    },
-    {
-      "title": "Good News in History, October 6",
-      "summary": "115 years ago today, Beatrix de Rijk became the first female licensed Dutch aircraft pilot. This pioneering aviator was born in Surabaya, modern-day Indonesia in the Dutch East Indies, to a Javan mother and a Dutch father.",
-      "link": "https://www.goodnewsnetwork.org/events061006/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/Beatrix-de-Rijk-—-pub-domain.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-06T07:00:00+00:00"
-    },
-    {
-      "title": "Social physiology: the hidden health cost of eating alone, according to science",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM A study published in Science Advances found that eating the same meal with a close companion produces measurably better blood sugar control than eating it alone.",
-      "link": "https://www.optimistdaily.com/2026/10/social-physiology-the-hidden-health-cost-of-eating-alone-according-to-science/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_625473724_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-10-06T00:00:41+00:00"
-    },
-    {
-      "title": "6 things that will bring more birds to your backyard this autumn",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM If you’ve ever caught a flash of movement in the branches in early October – something small and unfamiliar, not the usual backyard regulars – there’s a good chance it was a migrating bird passing through and looking for somewhere to stop.",
-      "link": "https://www.optimistdaily.com/2026/10/6-things-that-will-bring-more-birds-to-your-backyard-this-autumn/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_757307428_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-10-06T00:00:21+00:00"
     }
   ]
 }
