@@ -1,23 +1,23 @@
 {
-  "lastUpdated": "2026-11-14T04:57:29.357758+00:00",
+  "lastUpdated": "2026-11-15T04:51:35.220462+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 195
+      "count": 197
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 27
+      "count": 26
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 27
+      "count": 26
     },
     {
       "name": "The Optimist Daily",
@@ -29,22 +29,78 @@
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 27
+      "count": 26
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 33
+      "count": 32
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 31
+      "count": 33
     }
   ],
   "articles": [
+    {
+      "title": "Couple with Autism and ADHD Find Passion Cleaning Filthy Street Signs",
+      "summary": "A married couple is spending their time cleaning filthy street signs—with dreams of traveling across the country until they are all spotless.",
+      "link": "https://www.goodnewsnetwork.org/couple-with-autism-and-adhd-find-passion-cleaning-filthy-street-signs/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Before-and-after-cleaning-road-signs-in-East-Sussex-SWNS.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-14T18:56:02+00:00"
+    },
+    {
+      "title": "AI Chatbots Won’t Stop Recommending Scam Websites to People Trying to Shop",
+      "summary": "Think twice before you shop somewhere that ChatGPT recommended.",
+      "link": "https://futurism.com/artificial-intelligence/ai-chatbots-recommend-scam",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/chatbots-recommending-shoppers-scam-websites.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-11-14T18:02:00+00:00"
+    },
+    {
+      "title": "Two of the ‘Last Wild Ecosystems’ Untouched by Humans Are Declared New Sanctuaries",
+      "summary": "Some of the “very last wild and healthy ecosystems” unblemished by humans have been discovered in the remote atolls of the Pacific Ocean teeming with life.",
+      "link": "https://www.goodnewsnetwork.org/two-of-last-wild-ecosystems-untouched-by-humans-declared-new-sanctuaries/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Shark-in-reef-habitat-at-Bikar-in-Marshall-island-in-Pacific-Ocean-by-Manu-San-Felix-via-SWNS.jpeg",
+      "source": "Good News Network",
+      "published": "2026-11-14T16:16:07+00:00"
+    },
+    {
+      "title": "Judge Blasts Tesla as Fraudulent for Selling Junk Solar Panels That Never Worked",
+      "summary": "Yet another massive product failure from Tesla.",
+      "link": "https://futurism.com/science-energy/judge-blasts-tesla-fraud-solar-roof-panels",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/judge-telsa-fraudulent-solar-panels.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-11-14T15:01:00+00:00"
+    },
+    {
+      "title": "Heroic Bravery of Woman who Hid Troops from Nazis in WWII Revealed in Diaries 40 Years After her Death",
+      "summary": "The heroic wartime bravery of a British shopkeeper who hid Allied commandos from the Nazis during WWII has been revealed 40 years after her death.",
+      "link": "https://www.goodnewsnetwork.org/heroic-bravery-of-woman-who-hid-troops-from-nazis-in-wwii/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Ada-Le-Poidevin-during-WW-and-niece-Liz-Walton-SWNS.jpeg",
+      "source": "Good News Network",
+      "published": "2026-11-14T13:26:31+00:00"
+    },
+    {
+      "title": "Your Positive Weekly Horoscope: ‘Free Will Astrology’ by Rob Brezsny",
+      "summary": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+      "link": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-11-14-2026/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-14T11:00:12+00:00"
+    },
+    {
+      "title": "Good News in History, November 14",
+      "summary": "88 years ago today, the Lion’s Gate Bridge opened in Vancouver. Crossing the Burrard Inlet, the total length of the bridge including the north viaduct is 5,981 feet (1,823 meters), with the length of the main span alone exceeding 1,500 feet.",
+      "link": "https://www.goodnewsnetwork.org/events061114/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/11/Lions-Gate-Bridge-CC-3.0.-Tom-Richards-e1699945046178.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-14T08:00:00+00:00"
+    },
     {
       "title": "How California Gov.-elect Becerra could be better on climate than Newsom",
       "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it weekly via Substack.",
@@ -55,7 +111,7 @@
     },
     {
       "title": "Dr. King’s Lost Draft of ‘I Have a Dream’ Emerges from a Desk Drawer",
-      "summary": "Dr. King’s Final Draft of ‘I have a dream’ Appears After 60 Years (totally alternative approach) Incredible Discovery of King’s Own ‘I have a dream’ Draft Chills Readers with its Insights A penned draft of the famous ‘I have a Dream’ speech, written by Martin Luther King Jr. the morning of the…",
+      "summary": "A penned draft of the famous ‘I have a Dream’ speech, written by Martin Luther King Jr. the morning of the famous event on the Lincoln Memorial, has resurfaced after 6 decades.",
       "link": "https://www.goodnewsnetwork.org/dr-kings-lost-draft-of-i-have-a-dream-emerges-from-a-desk-drawer/",
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Christies-released-1.jpg",
       "source": "Good News Network",
@@ -174,7 +230,7 @@
       "published": "2026-11-12T19:30:02+00:00"
     },
     {
-      "title": "Documentarian Helps 103-yo D-Day Survivor Recover His Lost War Medals",
+      "title": "Filmmaker Helps 103-yo D-Day Survivor Recover His Lost War Medals",
       "summary": "A 103-year-old D-Day veteran was reunited with his war medals just in time for Remembrance Day. The story came about through a remarkable coincidence when an amateur WWII historian came across the man’s military record and medals, and contacted the family wondering if he still had them.",
       "link": "https://www.goodnewsnetwork.org/documentarian-helps-103-yo-d-day-survivor-recover-his-lost-war-medals-just-in-time-for-veterans-day/",
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Douglas-Halley-103-with-his-grandson-Luke-credit-SWNS.jpg",
@@ -3188,62 +3244,6 @@
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/09/man-at-night-in-stars-meteor-shower-space-pubdomain-Klemen-Vrankar.jpg",
       "source": "Good News Network",
       "published": "2026-10-07T16:00:40+00:00"
-    },
-    {
-      "title": "Saudi Solar Park Proves Brilliant Breeding Ground for Threatened Sand Gazelles",
-      "summary": "In clearing two hurdles with one bound, Saudi conservationists have turned a large solar farm into a breeding shelter for a vulnerable species of native gazelle.",
-      "link": "https://www.goodnewsnetwork.org/saudi-solar-park-proves-brilliant-breeding-ground-for-threatened-sand-gazelles/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/supplied-by-the-Prince-bin-Salman-Nature-Reserve.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-07T13:00:15+00:00"
-    },
-    {
-      "title": "‘You’re Walking!’ – Dad Surprises Children Having Recovered Ability to Walk After Serious Brain Injury",
-      "summary": "After 3 years of recovery from a brain injury sustained in a car accident, a father surprised his children by walking independently again.",
-      "link": "https://www.goodnewsnetwork.org/youre-walking-dad-surprises-children-having-recovered-ability-to-walk-after-serious-brain-injury/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-screengrab-via-@glittersparkles.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-07T11:00:39+00:00"
-    },
-    {
-      "title": "A future worth building. What to expect in the new issue of Positive News magazine",
-      "summary": "From future-focused projects to secret schools, the people in this issue are choosing to act for a world they may never see",
-      "link": "https://www.positive.news/society/media/a-future-worth-building-what-to-expect-in-the-new-issue-of-positive-news-magazine/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/PN127-tile-shot-3x5_1200px.jpg",
-      "source": "Positive News",
-      "published": "2026-10-07T10:16:24+00:00"
-    },
-    {
-      "title": "The Northeast’s reliance on heating oil is turning into a crisis",
-      "summary": "There are many markers of fall: vibrant foliage, apple picking, and pumpkin-spiced everything, to name a few. Cranking up the heat is another.",
-      "link": "https://grist.org/solutions/the-northeasts-reliance-on-heating-oil-is-turning-into-a-crisis/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/09/diesel-fuel-record-high-all-time-price-united-states-iran-war.jpeg?quality=75&strip=all&w=768",
-      "source": "Grist",
-      "published": "2026-10-07T08:30:00+00:00"
-    },
-    {
-      "title": "What We’re Reading: California Joins the Balcony Solar Revolution",
-      "summary": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
-      "link": "https://reasonstobecheerful.world/what-were-reading-california-balcony-solar/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2024/04/grist-logo.png",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-10-07T08:00:46+00:00"
-    },
-    {
-      "title": "Connecticut’s solar ambitions hit skepticism from a major utility",
-      "summary": "Connecticut is trying to clean up its grid with more solar energy. But a major utility’s reluctance to commit to buying power from some projects is raising questions about the prospects for success.",
-      "link": "https://www.canarymedia.com/articles/solar/connecticut-solar-utility-skepticism",
-      "image_url": "https://img.canarymedia.com/content/uploads/BlueWave-solar-farm-MA_GettyImages-893157996.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a2b010c92ed9f7a47fcfe198c8e305fd",
-      "source": "Canary Media",
-      "published": "2026-10-07T07:30:00+00:00"
-    },
-    {
-      "title": "Good News in History, October 7",
-      "summary": "Happy 71st Birthday to the brilliant cellist Yo-Yo Ma, who was born in France. The Chinese-American musician was a child prodigy, performing from the age of five, when his mother, a singer, and father, a violinist, moved to New York City.",
-      "link": "https://www.goodnewsnetwork.org/events061007/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2014/10/yo-yo-ma-songs-from-the-arc-of-life-cover-grab.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-07T07:00:00+00:00"
     }
   ]
 }
