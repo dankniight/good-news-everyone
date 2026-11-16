@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-15T04:51:35.220462+00:00",
+  "lastUpdated": "2026-11-16T04:47:17.165915+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 197
+      "count": 199
     },
     {
       "name": "Positive News",
@@ -23,7 +23,7 @@
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 60
+      "count": 61
     },
     {
       "name": "Grist",
@@ -35,16 +35,64 @@
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 32
+      "count": 31
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 33
+      "count": 31
     }
   ],
   "articles": [
+    {
+      "title": "This Tourette’s wrist device cut tics by a quarter in a UK trial",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM In a 2023 clinical trial of 121 people in the UK, wearing a prototype wrist device reduced tic frequency by an average of 25 percent.",
+      "link": "https://www.optimistdaily.com/2026/11/this-tourettes-wrist-device-cut-tics-by-a-quarter-in-a-uk-trial/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/close-up-female-hand-with-Depositphotos_190349414_XL-1024x784.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-16T00:00:57+00:00"
+    },
+    {
+      "title": "8 simple habits time management experts say build a better morning",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM You know that feeling when it’s two in the afternoon, and you can’t quite account for where the morning went?",
+      "link": "https://www.optimistdaily.com/2026/11/8-simple-habits-time-management-experts-say-build-a-better-morning/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/young-man-waking-up-Depositphotos_158926690_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-16T00:00:02+00:00"
+    },
+    {
+      "title": "They Became Pen Pals as Teens, Now 32 Years Later They’re Happily Married",
+      "summary": "In 1994, David vacationed on the Greek island of Kos with his family for a memorable week in which the English teen met a new pen pal.",
+      "link": "https://www.goodnewsnetwork.org/they-became-pen-pals-as-teens-now-32-years-later-theyre-happily-married/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/David-McArdle-married-pen-pal-Jodie-SWNS.jpeg",
+      "source": "Good News Network",
+      "published": "2026-11-15T22:29:05+00:00"
+    },
+    {
+      "title": "World-First Bone Marrow Transplant Successfully Treats Non-Malignant Disease",
+      "summary": "A Catholic health care system in the American Midwest has successfully completed the world’s first reported bone marrow transplant to treat a non-malignant disease.",
+      "link": "https://www.goodnewsnetwork.org/world-first-bone-marrow-transplant-successfully-treats-non-malignant-disease/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Patient-liver-tissue-specimen-in-lab-by-CBC-wLYNbwhcq3U-unsplash.jpeg",
+      "source": "Good News Network",
+      "published": "2026-11-15T20:32:08+00:00"
+    },
+    {
+      "title": "San Francisco Gets its Largest-Ever Gift: $100M for Public Parks From Airbnb Founder",
+      "summary": "Airbnb CEO Brian Chesky announced a groundbreaking $100 million donation to San Francisco’s parks, the largest-ever single-donor gift to the city in its history.",
+      "link": "https://www.goodnewsnetwork.org/san-francisco-gets-100m-gift-for-public-parks-from-airbnb-ceo/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/05/San-Francisco-davidyuweb-CC.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-15T15:36:21+00:00"
+    },
+    {
+      "title": "Good News in History, November 15",
+      "summary": "122 years ago today, King Gillette patented the disposable safety razor: an enormous improvement over the day’s shaving technology of straight, forged blades that needed to be honed every day with a leather strop.",
+      "link": "https://www.goodnewsnetwork.org/events061115/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/11/The-patent-design-of-the-Gillette-razor.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-15T08:00:00+00:00"
+    },
     {
       "title": "Couple with Autism and ADHD Find Passion Cleaning Filthy Street Signs",
       "summary": "A married couple is spending their time cleaning filthy street signs—with dreams of traveling across the country until they are all spotless.",
@@ -3196,54 +3244,6 @@
       "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_199512700_S.jpg",
       "source": "The Optimist Daily",
       "published": "2026-10-08T00:00:55+00:00"
-    },
-    {
-      "title": "London’s Oxford Street gets fully pedestrianized this month: here’s what that means",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Oxford Street, one of the busiest shopping streets in the world, goes traffic-free on October 26.",
-      "link": "https://www.optimistdaily.com/2026/10/londons-oxford-street-gets-fully-pedestrianized-this-month-heres-what-that-means/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_29807437_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-10-08T00:00:44+00:00"
-    },
-    {
-      "title": "Finland Orders Google to Suspend New Data Centers After Contractors Pave Over Protected Forests",
-      "summary": "A company spokesperson admitted they have \"fallen short of our own high standards.\"",
-      "link": "https://futurism.com/artificial-intelligence/finland-google-data-centers-forests-environment",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/finland-google-data-centers-forests-environment.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-10-07T19:58:01+00:00"
-    },
-    {
-      "title": "Strangers Showed Up to Man’s Destroyed House to Put Up a Tarp Having Seen His Televised Plea",
-      "summary": "After a storm dumped a silver maple tree down through his roof, Kansas resident Gilbert Kirk told local news that he wasn’t looking for a miracle or an insurance handout.",
-      "link": "https://www.goodnewsnetwork.org/strangers-showed-up-to-mans-destroyed-house-to-put-up-a-tarp-having-seen-his-televised-plea/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Gilbert-Kirk-is-interviewed-amid-work-by-his-neighbors-to-put-a-tarp-on-his-house-roof-credit-Steven-Vega-retrieved-from-Facebook.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-07T18:30:02+00:00"
-    },
-    {
-      "title": "California amps up pressure on grid buildouts that take too long",
-      "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Wednesday via Substack.",
-      "link": "https://www.canarymedia.com/articles/transmission/california-amps-grid-upgrades",
-      "image_url": "https://img.canarymedia.com/content/uploads/CW-transmission-16.9.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=02c73addbc47ca348e049a1e78707169",
-      "source": "Canary Media",
-      "published": "2026-10-07T17:00:00+00:00"
-    },
-    {
-      "title": "“Has No Friends”: Amazon Is Keeping Amazingly Detailed Records on Its Customers and They Are Downright Insulting",
-      "summary": "Here's how to check yours.",
-      "link": "https://futurism.com/future-society/amazon-detailed-records-customers-insulting",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/amazon-detailed-records-customers-insulting.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-10-07T16:54:19+00:00"
-    },
-    {
-      "title": "A Swarm of Seven Meteor Showers Will Light Up the Night Skies All October Long",
-      "summary": "October will feature nothing less than 7 separate meteor showers, but in terms of activity, one above all others merits an entry on your calendar.",
-      "link": "https://www.goodnewsnetwork.org/a-swarm-of-seven-meteor-showers-will-light-up-the-night-skies-all-october-long/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/09/man-at-night-in-stars-meteor-shower-space-pubdomain-Klemen-Vrankar.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-07T16:00:40+00:00"
     }
   ]
 }
