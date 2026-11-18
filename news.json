@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-11-17T06:34:43.617777+00:00",
+  "lastUpdated": "2026-11-18T05:55:51.153858+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 199
+      "count": 201
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 25
+      "count": 22
     },
     {
       "name": "Reasons to be Cheerful",
@@ -35,7 +35,7 @@
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 32
+      "count": 33
     },
     {
       "name": "Futurism",
@@ -45,6 +45,102 @@
     }
   ],
   "articles": [
+    {
+      "title": "US homelessness decline hits its steepest one-year drop in a decade",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Homelessness in the United States fell by more than six percent in 2025, the steepest one-year homelessness decline in more than a decade, which works out to roughly 49,000 fewer people without housing.",
+      "link": "https://www.optimistdaily.com/2026/11/us-homelessness-decline-hits-its-steepest-one-year-drop-in-a-decade/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/los-angeles-california-august-2021-Depositphotos_502426064_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-18T00:00:36+00:00"
+    },
+    {
+      "title": "April Surac built NeuraSensa so art adapts to the people using it",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM This article is part of The Optimist Daily’s Local Changemakers 2026 series, spotlighting changemakers 30 and under.",
+      "link": "https://www.optimistdaily.com/2026/11/how-april-surac-turned-textile-art-into-therapeutic-tools-for-neurodivergent-communities/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Local-Changemakers-Story-Covers-14.png",
+      "source": "The Optimist Daily",
+      "published": "2026-11-18T00:00:03+00:00"
+    },
+    {
+      "title": "Power sector emissions set to fall in US amid lower coal use",
+      "summary": "The U.S. electricity sector is set to emit less planet-warming carbon dioxide this year despite record-high demand and the Trump administration’s efforts to prop up uncompetitive coal-fired power plants.",
+      "link": "https://www.canarymedia.com/articles/fossil-fuels/us-power-sector-emissions-fall-coal",
+      "image_url": "https://img.canarymedia.com/content/uploads/Coal-stacks-behind-coal-pile-Castle-Dale_GettyImages-1150837934.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e0b5f05206c8584bb29477d049f350b5",
+      "source": "Canary Media",
+      "published": "2026-11-17T20:00:00+00:00"
+    },
+    {
+      "title": "West Coast’s First Ever Sea Turtle Hatchlings Released into the Pacific (LOOK)",
+      "summary": "Olive ridley sea turtle hatchlings saved from an approaching storm in California were released into the wild over the weekend.",
+      "link": "https://www.goodnewsnetwork.org/west-coasts-first-ever-sea-turtle-hatchlings-released-into-the-pacific-look/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Turtle-hatchlings-rush-for-the-sea-on-Seal-Beach-credit-Robin-Riggs-Aquarium-of-the-Pacific-©.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-17T19:30:43+00:00"
+    },
+    {
+      "title": "Nvidia Stock Is Sinking Like a Stone",
+      "summary": "The economy's fate is riding on its success.",
+      "link": "https://futurism.com/artificial-intelligence/nvidia-stock-sinking-stone",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/nvidia-stock-sinking-stone.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-11-17T18:03:43+00:00"
+    },
+    {
+      "title": "Algeria Returns Kindness Shown by Kansans Who Welcomed its World Cup Team with the Trip of a Lifetime",
+      "summary": "In early November, several exhausted Kansas families touched down in Algeria at 4:30 a.m. and were shocked at what was waiting for them.",
+      "link": "https://www.goodnewsnetwork.org/algeria-returns-kindness-shown-by-kansans-who-welcomed-its-world-cup-team-with-the-trip-of-a-lifetime/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screengrabs-retrieved-from-LAlgerie-fi-Kansas-City.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-17T16:30:41+00:00"
+    },
+    {
+      "title": "Warren Buffett Gives Away $5.5 Billion in Thanksgiving Gift, Saying Kindness Is Priceless",
+      "summary": "Warren Buffett marked another Thanksgiving by converting thousands of Berkshire Hathaway shares into a charitable donation valued at about $5.5 billion.",
+      "link": "https://www.goodnewsnetwork.org/warren-buffett-gives-away-5-5-billion-thanksgiving-gift/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-17T15:55:24+00:00"
+    },
+    {
+      "title": "Largest Electric Bus Fleet in New York to Serve Bronx Neighborhood Elevated Asthma Rates",
+      "summary": "The largest fleet of electric school buses in New York State is up and running in a South Bronx neighborhood where childhood asthma rates are more than twice the national average.",
+      "link": "https://www.goodnewsnetwork.org/largest-electric-bus-fleet-in-new-york-to-serve-bronx-neighborhood-riddled-with-asthma/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/GVCs-Michael-Townsend-scissors-still-in-hand-applauds-during-the-ribbon-cutting-ceremony-credit-Con-Edison-released.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-17T14:00:28+00:00"
+    },
+    {
+      "title": "Eric Trump’s Robot Soldier Startup Fails to Pay Employees After CEO Bought a $4.6 Mansion With Company Funds",
+      "summary": "\"We have to win robotics in the United States of America.\"",
+      "link": "https://futurism.com/future-society/eric-trump-foundation-robotics-soldier-startup-ceo-mansion-payroll",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/eric-trump-robot-ceo-mansion.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-11-17T13:29:21+00:00"
+    },
+    {
+      "title": "A Waterfall of Fog and Lots of Lighting, These Images Won the UK’s Weather Photography Awards",
+      "summary": "From a waterfall of fog to almighty storms and sunrises, the winners of the 2026 Weather Photographer of the Year competition have been announced.",
+      "link": "https://www.goodnewsnetwork.org/a-waterfall-of-fog-and-almighty-storms-these-images-won-the-uks-weather-photography-awards/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/AF333-Mares-de-niebla-Francisco-Bailon-Rodriguez-Low-res-e1794904256445.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-17T12:30:18+00:00"
+    },
+    {
+      "title": "The People Who Became Wildlife",
+      "summary": "What might it be like to be a bird? Initially Helen Lawy thought being a kestrel would mean freedom. “I love birds, and particularly kestrels — when they’re hovering, they have an amazing overview of the landscape,” she says.",
+      "link": "https://reasonstobecheerful.world/people-became-wildlife-river-tone/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/shutterstock_1760537801-scaled.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-11-17T08:00:02+00:00"
+    },
+    {
+      "title": "Good News in History, November 17",
+      "summary": "56 years ago today, a patent on the first computer mouse was presented to the engineer and inventor Douglas Engelbart.",
+      "link": "https://www.goodnewsnetwork.org/events061117/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2019/11/first-computer-mouse-SRI-International-cc-inventor-Douglas-C.-Engelbart-by-Alex-Handy-cc.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-17T08:00:00+00:00"
+    },
     {
       "title": "The Greek coastline cleanup that turned trash into a pollution map",
       "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM At some point in the past three decades, a beer can printed with a Spanish-language ad for a 1990s World Cup washed up on Patroklos, a small islet in the Saronic Gulf about 65 nautical miles (75 miles) from Athens.",
@@ -3148,102 +3244,6 @@
       "image_url": "https://img.canarymedia.com/content/uploads/GettyImages-2278694786.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=0f2047773ec06fb1bfdf49b11813f9c5",
       "source": "Canary Media",
       "published": "2026-10-09T17:33:00+00:00"
-    },
-    {
-      "title": "Chinese High-Speed Rail Station Breaks World Record, Serving One Million Riders in a Single Day",
-      "summary": "Jaw-dropping.",
-      "link": "https://futurism.com/advanced-transport/china-high-speed-rail-record-million-riders",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/chinese-rail-station-breaks-world-record-riders.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-10-09T16:49:02+00:00"
-    },
-    {
-      "title": "Podcast Transcript October 9th, 2026— (Guest Interview) A place to breathe: inside #CreateConnectCare, the youth mental health program giving young people a voice | World Mental Health Day 2026",
-      "summary": "Episode Description: If you have a teenager in your life and you’ve felt them pull away from conversations you used to have easily, this episode is for you.",
-      "link": "https://www.optimistdaily.com/2026/10/podcast-transcript-october-9th-2026-guest-interview-a-place-to-breathe-inside-createconnectcare-the-youth-mental-health-program-giving-young-people-a-voice-world-mental-health-day-202/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Podcast-Logo-3000-×-3000-px-2-12-1024x1024.png",
-      "source": "The Optimist Daily",
-      "published": "2026-10-09T16:30:08+00:00"
-    },
-    {
-      "title": "Meta Won’t Say If It Violates Its Policies to Upload AI-Generated Videos of Sobbing Little Children Begging for Likes and Follows So They Don’t Get Arrested by Police",
-      "summary": "\"You don't have enough followers and shares on your videos,\" the officer explains. \"If the person watching this video follows and shares, then you will be free.\"",
-      "link": "https://futurism.com/artificial-intelligence/meta-facebook-ai-generated-videos-sobbing-children-begging-arrested",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/meta-facebook-ai-generated-videos-sobbing-children-begging-arrested.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-10-09T16:04:38+00:00"
-    },
-    {
-      "title": "Australia Announces 3 New National Parks to Protect Gliders, Owls, and Other Victoria Wildlife",
-      "summary": "More than 250 square miles of forests at the center of Victoria state in Australia have become new national parks.",
-      "link": "https://www.goodnewsnetwork.org/australia-announces-3-new-national-parks-to-protect-gliders-owls-and-other-victoria-wildlife/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Lederderg-River-in-Wombat-Forest-credit-Sandy-Scheltema-via-Victorian-National-Parks-Association-all-rights-reserved.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-09T15:30:11+00:00"
-    },
-    {
-      "title": "Local Opinion and Involvement Found as Key Determinant in World’s Conservation Success Stories",
-      "summary": "Scientists seeking out why some endangered animals or ecosystems are thriving while others are in decline have made an encouraging determination.",
-      "link": "https://www.goodnewsnetwork.org/local-opinion-and-involvement-found-as-key-determinant-in-worlds-conservation-success-stories/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Professor-Josh-Cinner-working-on-coral-reef-conservation-with-local-community-in-PNG.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-09T13:00:08+00:00"
-    },
-    {
-      "title": "‘I can breathe again’. Readers share their experiences of a more balanced media diet",
-      "summary": "We often talk about the impact journalism has on democracy and how we understand the world. But what about its impact on how we feel?",
-      "link": "https://www.positive.news/society/media/readers-share-their-experiences-of-a-more-balanced-media-diet/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/shutterstock_1458127130-scaled.jpg",
-      "source": "Positive News",
-      "published": "2026-10-09T12:45:19+00:00"
-    },
-    {
-      "title": "World’s Largest ‘Glacial Archeology’ Expedition Recovers 48 Stone Age Arrowheads and Shafts",
-      "summary": "In a mountainous region of southern Norway, scientists are in their 20th year of surveying glaciers for ancient artifacts entombed therein.",
-      "link": "https://www.goodnewsnetwork.org/worlds-largest-glacial-archeology-expedition-recovers-48-stone-age-arrowheads-and-shafts/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/14.-Complete-arrow-with-arrowhead-and-shaft.-Photo.-Espen-Finstad-Innlandet-County-Municipality-Secrets-of-The-Ice.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-09T11:00:30+00:00"
-    },
-    {
-      "title": "Gen Z Is Rescuing Millions in Medical Supplies",
-      "summary": "In early August, a freight truck pulled up to an OhioHealth facility in Columbus and took roughly 30,000 pounds of N95 masks and hot-and-cold packs, all boxed, sealed and stamped with expiration dates still a year or two out.",
-      "link": "https://reasonstobecheerful.world/gen-z-is-rescuing-millions-in-medical-supplies/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/DSC5239-1-scaled.jpg",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-10-09T08:00:14+00:00"
-    },
-    {
-      "title": "Three surprising reasons to slow down for a thoughtful, nutritious breakfast",
-      "summary": "From cognitive function to reinforcing family bonds, the benefits of making time for good, whole foods in the morning are plentiful",
-      "link": "https://www.positive.news/environment/food/three-surprising-reasons-to-slow-down-for-a-thoughtful-nutritious-breakfast/",
-      "image_url": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/iStock-1355162946.jpg",
-      "source": "Positive News",
-      "published": "2026-10-09T07:00:26+00:00"
-    },
-    {
-      "title": "Good News in History, October 9",
-      "summary": "On this day, in Game 2 of the 1909 World Series, Ty Cobb stole home base. The details around this famous of all capers are what make it so.",
-      "link": "https://www.goodnewsnetwork.org/events061009/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/Cobb-slides-into-third-base-for-a-triple-against-the-Washington-Senators-at-Griffith-Stadium-August-16-1924-Pub-domain.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-09T07:00:00+00:00"
-    },
-    {
-      "title": "What went right this week: people-powered climate justice, plus more",
-      "summary": "A pivotal moment for climate justice in Australia, the Nobel prize winners, and a promising drug for Parkinson’s, plus more",
-      "link": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/shutterstock_1156815706.jpg",
-      "source": "Positive News",
-      "published": "2026-10-09T05:09:55+00:00"
-    },
-    {
-      "title": "The floating scarecrow saving seabirds from fishing nets",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM A bird-shaped kite and a floating scarecrow with spinning eyes reduced seabird deaths in Cornish fishing nets by up to 71 percent in a two-year trial.",
-      "link": "https://www.optimistdaily.com/2026/10/the-floating-scarecrow-saving-seabirds-from-fishing-nets/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_534880686_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-10-09T00:00:41+00:00"
     }
   ]
 }
