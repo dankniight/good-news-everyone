@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-18T05:55:51.153858+00:00",
+  "lastUpdated": "2026-11-19T05:56:09.324335+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 201
+      "count": 199
     },
     {
       "name": "Positive News",
@@ -17,34 +17,114 @@
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 26
+      "count": 27
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 61
+      "count": 63
     },
     {
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 26
+      "count": 25
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 33
+      "count": 32
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 31
+      "count": 32
     }
   ],
   "articles": [
+    {
+      "title": "Bans cut two forever chemicals by 30 percent in England’s rivers",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Concentrations of PFOS and PFOA, the two most toxic forever chemicals, have fallen by 30 percent and 29 percent in England’s rivers over the past 10 years, according to new figures from the Environment Agency (EA).",
+      "link": "https://www.optimistdaily.com/2026/11/bans-cut-two-forever-chemicals-by-30-percent-in-englands-rivers/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/water-drops-pfas-text-forever-Depositphotos_739563806_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-19T00:00:51+00:00"
+    },
+    {
+      "title": "Dreading plans you made yourself? There’s a name for that feeling",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM It’s 6 p.m. on a Friday, and the dinner you booked two weeks ago is in an hour.",
+      "link": "https://www.optimistdaily.com/2026/11/dreading-plans-you-made-yourself-theres-a-name-for-that-feeling/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/girl-has-stomach-pain-lies-Depositphotos_718846914_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-19T00:00:22+00:00"
+    },
+    {
+      "title": "Students Fighting to Save Poached Plant Species That Only Exists in Near Their Campus",
+      "summary": "Scientists at Santa Clara University are sparing no effort to save a one-of-a-kind wildflower as unique as their county.",
+      "link": "https://www.goodnewsnetwork.org/students-fighting-to-save-poached-plant-species-that-only-exists-near-their-campus/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Santa-Clara-Valley-Habitat-Authority.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-18T19:30:50+00:00"
+    },
+    {
+      "title": "Siblings Build 430-Step ‘Sky Ladder’ for Their Mother Who Refuses to Live in the City",
+      "summary": "The children of an elderly Chinese mother have touched the hearts of millions by painstakingly building a new staircase by hand up the side of a mountain to help her reach her home more easily.",
+      "link": "https://www.goodnewsnetwork.org/siblings-build-430-step-sky-ladder-for-their-mother-who-refuses-to-live-in-the-city/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/86-year-old-mother-Chen-family-photo.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-18T16:30:42+00:00"
+    },
+    {
+      "title": "Conspiracy Cranks Are Having an Absolute Field Day With All These Global Outages",
+      "summary": "\"You won't have time to get prepared when it all happens so make sure you're holding crypto.\"",
+      "link": "https://futurism.com/future-society/conspiracy-theory-cranks-global-outages-viral-rumors",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/conspiracy-cranks-field-day-global-outages.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-11-18T16:25:21+00:00"
+    },
+    {
+      "title": "Banks and the NSA Admit That Yes, It Was AI That Caused the Massive Outages",
+      "summary": "There's good news and there's bad news.",
+      "link": "https://futurism.com/artificial-intelligence/banks-nsa-admit-ai-massive-outages",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/banks-nsa-admit-ai-massive-outages.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-11-18T15:16:49+00:00"
+    },
+    {
+      "title": "This Blue Whale Population Grew 1,000% Since the End of Antarctic Whaling",
+      "summary": "Antarctic blue whales have increased in number 1,000% since 1973 when the harpoons were finally hung up for good.",
+      "link": "https://www.goodnewsnetwork.org/this-blue-whale-population-grew-1000-since-the-end-of-whaling/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/06/blue-whale-NOAA-pubdomain.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-18T14:00:45+00:00"
+    },
+    {
+      "title": "Scientists ‘Cure’ Deadly Brain Tumors in Every Mouse Tested with New Cancer Therapy",
+      "summary": "In experiments involving mice, scientists successfully eliminated an aggressive childhood brain cancer while also providing lasting protection.",
+      "link": "https://www.goodnewsnetwork.org/scientists-cure-deadly-brain-tumors-in-every-mouse-tested-with-new-cancer-therapy/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Laboratory-mouse-credit-NIH-pub-domain-e1794992945692.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-18T12:30:20+00:00"
+    },
+    {
+      "title": "What We’re Reading: Phone Bans Are Improving Kids’ Test Scores",
+      "summary": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
+      "link": "https://reasonstobecheerful.world/what-were-reading-phone-bans-improving-test-scores/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2024/03/NEW-YORK-TIMES-LOGO.png",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-11-18T08:00:04+00:00"
+    },
+    {
+      "title": "Good News in History, November 18",
+      "summary": "75 years ago today, the pioneering newsmagazine series, See It Now, was first broadcast. Running for seven years on CBS, it was created by iconic newsman Edward R.",
+      "link": "https://www.goodnewsnetwork.org/events061118/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/11/Edward-R-Murrow-and-Fred-Friendly.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-18T08:00:00+00:00"
+    },
     {
       "title": "US homelessness decline hits its steepest one-year drop in a decade",
       "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Homelessness in the United States fell by more than six percent in 2025, the steepest one-year homelessness decline in more than a decade, which works out to roughly 49,000 fewer people without housing.",
@@ -3164,86 +3244,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/tesla-factory-toxic-emissions-elementary-school-california.jpg?quality=85&w=2048",
       "source": "Futurism",
       "published": "2026-10-11T11:01:00+00:00"
-    },
-    {
-      "title": "Good News in History, October 11",
-      "summary": "51 years ago today, Saturday Night Live premiered on NBC with George Carlin as host. The seminal comedy television program in American history, SNL has launched the careers of dozens of talented writers, comics, and actors.",
-      "link": "https://www.goodnewsnetwork.org/events061011/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2014/10/chevy-chase-weekend-update.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-11T07:00:00+00:00"
-    },
-    {
-      "title": "Sloth Bear Named By Julia Roberts is Flourishing After Rescue From Dancing Trade in India",
-      "summary": "A sloth bear that made headlines when it was given a name by Julia Roberts after being saved from abuse is now flourishing, according to a rescue charity.",
-      "link": "https://www.goodnewsnetwork.org/sloth-bear-given-a-name-by-julia-roberts-is-flourishing/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/A-sloth-bear-named-Odum-by-Intl-Animal-Rescue-and-Wildlife-SOS-via-SWNS.jpeg",
-      "source": "Good News Network",
-      "published": "2026-10-10T19:57:53+00:00"
-    },
-    {
-      "title": "One of America’s Last Remaining Chestnut Groves Could Soon Be Wiped Out to Make Room for an AI Data Center",
-      "summary": "It's \"one of the largest single AI infrastructure investments in US history.\"",
-      "link": "https://futurism.com/artificial-intelligence/chestnut-grove-last-remaining-anthropic-ai-data-center",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/chestnut-grove-last-remaining-anthropic-ai-data-center.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-10-10T17:01:00+00:00"
-    },
-    {
-      "title": "Daughter Gets to Join Dad as Co-Pilot, With Mom Serving on Flight’s Cabin Crew: A Surprise Full Circle Moment",
-      "summary": "A young pilot flew a commercial jet alongside her father as captain for the first time—while her mother worked in the cabin crew on the same flight.",
-      "link": "https://www.goodnewsnetwork.org/daughter-gets-to-join-dad-as-co-pilot-with-mom-serving-on-cabin-crew/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Family-is-airline-crew-released-by-Zoe-de-Bruijn-via-SWNS.jpeg",
-      "source": "Good News Network",
-      "published": "2026-10-10T15:25:15+00:00"
-    },
-    {
-      "title": "Lost Italian Statue by Trevi Fountain Artist Discovered in Salvage Yard Among the Garden Ornaments",
-      "summary": "A Roman artifact from the Italian sculptor responsible for the Trevi Fountain was discovered in a reclamation yard for a mere 300 British pounds ($400).",
-      "link": "https://www.goodnewsnetwork.org/lost-italian-statue-by-trevi-fountain-artist-discovered-in-salvage-yard/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Model-detail-by-Baroque-master-Pietro-Bracci-of-Pope-Clement-XII-circa-1736-Woolley-and-Wallis-SWNS.jpeg",
-      "source": "Good News Network",
-      "published": "2026-10-10T13:46:41+00:00"
-    },
-    {
-      "title": "Fifty billion seedlings: Can Ethiopia replant its ravaged forests?",
-      "summary": "Niku Argane’s farm sits on a steep hillside in central Ethiopia’s semi-mountainous Gurage Zone, where years of flooding have carved deep gullies through the land.",
-      "link": "https://grist.org/solutions/fifty-billion-seedlings-can-ethiopia-replant-its-ravaged-forests/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/10/Ethiopia-Planting_Clayton.webp",
-      "source": "Grist",
-      "published": "2026-10-10T13:00:00+00:00"
-    },
-    {
-      "title": "Your Weekly Horoscope – ‘Free Will Astrology’ by Rob Brezsny",
-      "summary": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
-      "link": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-10-2026/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-10T10:00:59+00:00"
-    },
-    {
-      "title": "Good News in History, October 10",
-      "summary": "63 years ago today, the second, and often considered best film starring James Bond, was released as From Russia With Love.",
-      "link": "https://www.goodnewsnetwork.org/events061010/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/From_Russia_with_Love_–_UK_cinema_poster.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-10T07:00:00+00:00"
-    },
-    {
-      "title": "NPR-Inspired Homework Leads Teen to Find Hidden Message a Decade After a Stranger’s Kindness",
-      "summary": "From Seattle’s chapter of National Public Radio comes the remarkable story of the kindness of strangers immortalized in an origami crane.",
-      "link": "https://www.goodnewsnetwork.org/npr-inspired-homework-leads-teen-to-find-hidden-message-a-decade-after-a-strangers-kindness/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/courtesy-of-Mika-Matsuda-supplied-to-KUOW.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-09T18:30:46+00:00"
-    },
-    {
-      "title": "Clean-energy super PAC names its target list for general elections",
-      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Midterm elections are less than a month away.",
-      "link": "https://www.canarymedia.com/articles/politics/clean-energy-super-pac-target",
-      "image_url": "https://img.canarymedia.com/content/uploads/GettyImages-2278694786.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=0f2047773ec06fb1bfdf49b11813f9c5",
-      "source": "Canary Media",
-      "published": "2026-10-09T17:33:00+00:00"
     }
   ]
 }
