@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-19T05:56:09.324335+00:00",
+  "lastUpdated": "2026-11-20T05:44:36.162840+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 199
+      "count": 198
     },
     {
       "name": "Positive News",
@@ -17,7 +17,7 @@
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 27
+      "count": 28
     },
     {
       "name": "The Optimist Daily",
@@ -29,22 +29,102 @@
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 25
+      "count": 27
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 32
+      "count": 33
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 32
+      "count": 29
     }
   ],
   "articles": [
+    {
+      "title": "6 hosting habits that leave holiday guests feeling uneasy (and how to avoid them)",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM The best holiday parties tend to be the ones where nobody thinks about the hosting at all.",
+      "link": "https://www.optimistdaily.com/2026/11/6-hosting-habits-that-leave-holiday-guests-feeling-uneasy-and-how-to-avoid-them/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/overjoyed-diverse-friends-have-fun-Depositphotos_840180690_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-20T00:00:19+00:00"
+    },
+    {
+      "title": "CAR-T therapy helps stiff person syndrome patients walk and work again",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM A cell therapy built to fight cancer is helping people with stiff person syndrome get back on their feet.",
+      "link": "https://www.optimistdaily.com/2026/11/car-t-therapy-helps-stiff-person-syndrome-patients-walk-and-work-again/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/avenue-of-stars-krakow-rmf-Depositphotos_139619212_S-1.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-20T00:00:07+00:00"
+    },
+    {
+      "title": "How would Becerra’s solar Power Hour actually work?",
+      "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it weekly via Substack.",
+      "link": "https://www.canarymedia.com/articles/politics/becerra-solar-power-hour",
+      "image_url": "https://img.canarymedia.com/content/uploads/CW-freehour-16.9.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=520fbd859f30bcf5cd43f7c12e5ea784",
+      "source": "Canary Media",
+      "published": "2026-11-19T19:00:00+00:00"
+    },
+    {
+      "title": "She Checked on Her ‘Loud’ Upstairs Neighbor, Inspiring Strangers to Raise More Than $100,000",
+      "summary": "Neighbors and total strangers rallied around an 87-year-old woman with Parkinson’s Disease named Carole, raising more than $109,000 and proving she was much less alone than she thought.",
+      "link": "https://www.goodnewsnetwork.org/loud-neighbor-parkinsons-gofundme/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/IMG_8105-2.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-19T16:26:23+00:00"
+    },
+    {
+      "title": "Empire State Building Lit Up with Gold Marks Historic Milestone of NASA’s Voyager 1 This Week",
+      "summary": "This week the Empire State Building was illuminated in gold to celebrate NASA’s Voyager 1 spacecraft passing one light-day away from Earth.",
+      "link": "https://www.goodnewsnetwork.org/empire-state-building-lit-up-with-gold-to-celebrate-nasa-spacecraft-passing-one-light-day-from-earth/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/NYC-at-night-Empire-State-Building-lit-up-in-gold-SWNS.jpeg",
+      "source": "Good News Network",
+      "published": "2026-11-19T14:00:49+00:00"
+    },
+    {
+      "title": "Over 100 Cave Bear Skeletons Found in ‘Sensational’ Discovery by Alpine Guide",
+      "summary": "The “sensational” discovery of a cave containing the skeletons of over 100 extinct cave bears has been revealed by local authorities.",
+      "link": "https://www.goodnewsnetwork.org/over-100-cave-bear-skeletons-found-in-sensational-discovery-by-alpine-guide/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-USP-Ufficio-Beni-archeologici-released-e1795074752326.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-19T12:30:10+00:00"
+    },
+    {
+      "title": "As black lung disease surges, the Trump administration proposes ‘deregulatory’ protections for miners",
+      "summary": "Coal mining is dangerous and takes a toll on the body, but a miner working underground can earn enough to buy a house, drive a nice car, and send the kids to college.",
+      "link": "https://grist.org/health/as-black-lung-disease-surges-the-trump-administration-proposes-deregulatory-protections-for-miners/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/11/MSHA-silica-exposure-standard-mining-black-lung-Trump-Biden-rule.jpeg",
+      "source": "Grist",
+      "published": "2026-11-19T09:30:00+00:00"
+    },
+    {
+      "title": "Wisconsin’s new Dem trifecta could be a boon for clean energy",
+      "summary": "The Democratic sweep in this year’s midterm elections has opened up new opportunities for advancing the clean energy transition in states across the country.",
+      "link": "https://www.canarymedia.com/articles/politics/wisconsin-dem-trifecta-clean-energy",
+      "image_url": "https://img.canarymedia.com/content/uploads/David-Crowley-election-Wisconsin_GettyImages-2303423425.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=9cfc40b5497e4563dca8440207176b92",
+      "source": "Canary Media",
+      "published": "2026-11-19T08:30:00+00:00"
+    },
+    {
+      "title": "The Waterless, Hyper-Efficient Machines That Clean Clothes With Carbon Dioxide",
+      "summary": "This story was originally published by Grist. Sign up for Grist’s weekly newsletter here. Doing the laundry has grown easier and more efficient over the years, yet two things have always remained the same: A washing machine needs water, and a dryer needs heat.",
+      "link": "https://reasonstobecheerful.world/carbon-dioxide-laundry-machine/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/tersus-solutions-CO2-carbon-dioxide-laundry-washing-machine-LG-Samsung-clothes.webp",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-11-19T08:00:13+00:00"
+    },
+    {
+      "title": "Good News in History, November 19",
+      "summary": "41 years ago today, US President Ronald Reagan and Soviet Union leader Mikhail Gorbachev met for the first time.",
+      "link": "https://www.goodnewsnetwork.org/events061119/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2014/11/Reagan-and-Gorbachev-relax-at-geneva-summit-Reagan-library.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-19T08:00:00+00:00"
+    },
     {
       "title": "Bans cut two forever chemicals by 30 percent in England’s rivers",
       "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Concentrations of PFOS and PFOA, the two most toxic forever chemicals, have fallen by 30 percent and 29 percent in England’s rivers over the past 10 years, according to new figures from the Environment Agency (EA).",
@@ -62,7 +142,7 @@
       "published": "2026-11-19T00:00:22+00:00"
     },
     {
-      "title": "Students Fighting to Save Poached Plant Species That Only Exists in Near Their Campus",
+      "title": "Students Fighting to Save Poached Plant Species That Only Exists Near Their Campus",
       "summary": "Scientists at Santa Clara University are sparing no effort to save a one-of-a-kind wildflower as unique as their county.",
       "link": "https://www.goodnewsnetwork.org/students-fighting-to-save-poached-plant-species-that-only-exists-near-their-campus/",
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Santa-Clara-Valley-Habitat-Authority.jpg",
@@ -764,6 +844,14 @@
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/11/Sesame-Street-gang.jpg",
       "source": "Good News Network",
       "published": "2026-11-10T08:00:00+00:00"
+    },
+    {
+      "title": "2 years after Mexico relocated their climate-ravaged community, residents struggle to adapt",
+      "summary": "It’s 3 a.m. and the beach in El Bosque, in southeast Mexico, is humming with small talk and laughter as Viviana Velázquez eases out of her hammock and dashes to the shoreline to greet a boat returning with the night’s catch.",
+      "link": "https://grist.org/culture/2-years-after-mexico-relocated-their-climate-ravaged-community-residents-struggle-to-adapt/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/11/El_Bosque_3995_1600x900.jpg",
+      "source": "Grist",
+      "published": "2026-11-10T07:00:00+00:00"
     },
     {
       "title": "Fall activities for you and your dog: a trainer’s guide",
@@ -3156,94 +3244,6 @@
       "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/Body-image-1-idea-1-Paper-scaled.jpeg",
       "source": "Reasons to be Cheerful",
       "published": "2026-10-12T08:00:25+00:00"
-    },
-    {
-      "title": "With scaled-back plans, green banks navigate Trump’s funding freeze",
-      "summary": "A community solar project built for New Orleans’ oldest historically Black Catholic order of nuns. An all-electric affordable housing complex in Salt Lake City.",
-      "link": "https://www.canarymedia.com/articles/climatetech-finance/green-banks-progress-trump-funding-freeze",
-      "image_url": "https://img.canarymedia.com/content/uploads/Sisters-of-the-Holy-Family-community-solar-nun-in-foreground-courtesy-Together-New-Orleans.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=102ad73cb69b806a5e51017716acafd8",
-      "source": "Canary Media",
-      "published": "2026-10-12T07:30:00+00:00"
-    },
-    {
-      "title": "Good News in History, October 12",
-      "summary": "81 years ago today, Desmond Doss became the only conscientious objector to win the Medal of Honor after saving an estimated 75 men during the Battle of Hacksaw Ridge in the invasion of Okinawa.",
-      "link": "https://www.goodnewsnetwork.org/events061012/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/Corporal-Doss-receiving-the-Medal-of-Honor-from-President-Harry-S.-Truman-on-October-12-1945.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-12T07:00:00+00:00"
-    },
-    {
-      "title": "Family Sells 650 Acres on East Texas Lake to Become State Park, Saying Land is ‘Part of my soul’",
-      "summary": "A “gem” of a landscape in eastern Texas has been sold by its multigenerational owners for the purpose of becoming a state park.",
-      "link": "https://www.goodnewsnetwork.org/family-sells-650-acres-on-east-texas-lake-to-become-state-park-saying-land-is-part-of-my-soul/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Sunset-on-Lake-Palestine-credit-TexasLand-provided-to-TPWF-as-a-courtesy.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-12T06:21:02+00:00"
-    },
-    {
-      "title": "How to quiet performance anxiety, according to sport psychology",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM You know that moment. The job interview is starting in 30 seconds, and your brain decides now is the perfect time to replay every mistake you’ve ever made.",
-      "link": "https://www.optimistdaily.com/2026/10/how-to-quiet-performance-anxiety-according-to-sport-psychology/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_72551725_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-10-12T00:00:56+00:00"
-    },
-    {
-      "title": "Australia sets a new renewable energy record, with rooftop solar leading the way",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM On Saturday, September 22, solar and wind met 80.4 percent of demand on Australia’s national electricity market, with the grid covering the eastern states, South Australia, and the Australian Capital Territory.",
-      "link": "https://www.optimistdaily.com/2026/10/australia-sets-a-new-renewable-energy-record-with-rooftop-solar-leading-the-way/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_9578065_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-10-12T00:00:55+00:00"
-    },
-    {
-      "title": "New Way to Relieve Arthritic Knees Without Drugs or Surgery by Changing Your Gait",
-      "summary": "Scientists are reporting that a simple adjustment to how people walk can relieve knee arthritis pain as effectively as prescription drugs—while also slowing the deterioration of cartilage.",
-      "link": "https://www.goodnewsnetwork.org/new-way-to-relieve-arthritic-knees-without-drugs-or-surgery-by-changing-your-gait/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Knee-pain-from-arthritis-by-Getty-Images-For-Unsplash-Zfi2Hb_qlaY.jpeg",
-      "source": "Good News Network",
-      "published": "2026-10-11T22:18:55+00:00"
-    },
-    {
-      "title": "The AI Data Center Boom Is Causing a Gigantic Spike in Smog-Spewing Gas Power Plants",
-      "summary": "\"These facilities could lock America into decades of continued fossil fuel dependence.\"",
-      "link": "https://futurism.com/future-society/ai-data-center-boom-smog-spewing-gas-power",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/ai-data-center-boom-smog-spewing-gas-power.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-10-11T17:01:00+00:00"
-    },
-    {
-      "title": "Giant Tortoise Population is Thriving–Survey Finds 180,000 on One Island Chain",
-      "summary": "A landmark survey of the world’s largest free-roaming giant tortoise population has revealed the once-endangered species is now thriving.",
-      "link": "https://www.goodnewsnetwork.org/giant-tortoise-population-is-thriving-survey-finds-180000-on-one-island-chain/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Giant-Tortoises-in-the-Seychelles-SWNS.jpeg",
-      "source": "Good News Network",
-      "published": "2026-10-11T16:11:41+00:00"
-    },
-    {
-      "title": "Amid Terrifying Readings, Experts Fear El Niño Is About to Wreak Havoc",
-      "summary": "\"The warning lights are flashing.\"",
-      "link": "https://futurism.com/science-energy/experts-fear-el-nino-wreak-havoc",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/experts-fear-el-nino-wreak-havoc.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-10-11T16:01:00+00:00"
-    },
-    {
-      "title": "Statins May Protect People From Glaucoma or Blindness By Preventing or Slowing Nerve Cell Death",
-      "summary": "Statins may be protecting people from more than just cholesterol, suggests new research from the University of California in San Diego.",
-      "link": "https://www.goodnewsnetwork.org/statin-drugs-may-protect-people-from-glaucoma/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/04/eye-sight-eyeball-pubdomain-Vanessa-Bumbeers.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-11T15:20:19+00:00"
-    },
-    {
-      "title": "Tesla Factory Planning Massive Increase of Toxic Heavy Metal Emissions Near Elementary School",
-      "summary": "\"This will include toxic metals such as arsenic, beryllium, and cadmium.\"",
-      "link": "https://futurism.com/advanced-transport/tesla-factory-toxic-emissions-elementary-school-california",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/tesla-factory-toxic-emissions-elementary-school-california.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-10-11T11:01:00+00:00"
     }
   ]
 }
