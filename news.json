@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-11-20T05:44:36.162840+00:00",
+  "lastUpdated": "2026-11-21T05:39:56.753288+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 198
+      "count": 199
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 22
+      "count": 20
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 28
+      "count": 27
     },
     {
       "name": "The Optimist Daily",
       "site": "https://www.optimistdaily.com",
       "color": "#B84F94",
-      "count": 63
+      "count": 62
     },
     {
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 27
+      "count": 28
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 33
+      "count": 35
     },
     {
       "name": "Futurism",
@@ -45,6 +45,86 @@
     }
   ],
   "articles": [
+    {
+      "title": "33 Kids Wrote Letters to a Wounded Veteran. 50 Years Later, His Son Is Searching to Thank Each One",
+      "summary": "In 1967, 33 Massachusetts schoolchildren were given a project: write a letter to a Navy corpsman they had never met who was wounded in Vietnam.",
+      "link": "https://www.goodnewsnetwork.org/__trashed-70/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screenshot-2026-11-19-124524.png",
+      "source": "Good News Network",
+      "published": "2026-11-20T22:00:41+00:00"
+    },
+    {
+      "title": "Podcast Transcript November 20th, 2026— A Tourette’s wristband, a trash map and why you dread your plans",
+      "summary": "Episode Description: A wristband developed at the University of Nottingham sends small electrical pulses to a nerve in your wrist, and for some people with Tourette’s, their tics settle within moments of switching it on.",
+      "link": "https://www.optimistdaily.com/2026/11/podcast-transcript-november-20th-2026-a-tourettes-wristband-a-trash-map-and-why-you-dread-your-plans/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Podcast-Logo-3000-×-3000-px-2-15-1024x1024.png",
+      "source": "The Optimist Daily",
+      "published": "2026-11-20T16:30:25+00:00"
+    },
+    {
+      "title": "New York awards ports $230M in repurposed offshore wind grants",
+      "summary": "New York state is upgrading its ports for what it hopes will be a return to U.S. offshore wind development in the years after President Donald Trump leaves office.",
+      "link": "https://www.canarymedia.com/articles/offshore-wind/new-york-ports-get-230m-boost-for-offshore-wind-other-industries",
+      "image_url": "https://img.canarymedia.com/content/uploads/GettyImages-2212787358.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=f121cadfc50f9c613d515fed94870fdf",
+      "source": "Canary Media",
+      "published": "2026-11-20T16:15:00+00:00"
+    },
+    {
+      "title": "Community Steps Up to Replace Teen Business Owner’s Stolen Landscaping Equipment",
+      "summary": "When a Kansas business owner suffered the theft of some $20,000 in landscaping machinery, his community raised money to replace all of it.",
+      "link": "https://www.goodnewsnetwork.org/community-steps-up-to-replace-teen-business-owners-stolen-landscaping-equipment/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Sonny-Gallardo-on-his-first-riding-lawnmower-credit-Monica-Gallardo-via-GoFundMe.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-20T16:00:53+00:00"
+    },
+    {
+      "title": "Rhino Dung Paper Is How This Family Makes Money and Protects These Amazing Animals",
+      "summary": "A father-daughter entrepreneurial duo in India have pioneered a method of paper making with rhino dung harvested by locals.",
+      "link": "https://www.goodnewsnetwork.org/father-daughter-business-sells-paper-and-stationery-made-from-rhino-dung/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Peter-Neumann-unsplash.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-20T14:00:46+00:00"
+    },
+    {
+      "title": "Senate OKs permitting bill that would boost clean and dirty energy",
+      "summary": "A bipartisan bill that would make it easier to build energy infrastructure — both dirty and clean — has passed the Senate by a 62 to 33 vote.",
+      "link": "https://www.canarymedia.com/articles/clean-energy/senate-oks-permitting-bill-that-would-boost-clean-and-dirty-energy",
+      "image_url": "https://img.canarymedia.com/content/uploads/GettyImages-2297379138_2026-11-19-210001_gesg.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e728af1b2e1631ceb468db4d06dc76be",
+      "source": "Canary Media",
+      "published": "2026-11-20T14:00:00+00:00"
+    },
+    {
+      "title": "Every Tuesday, This Chef Cooks for 100 People in Need Using Random Food Bank Ingredients",
+      "summary": "Cooking content can be extremely popular on social media, but watching Toronto-area Chef Maddy Goldberg narrate her made-from-scratch recipes, it suddenly all tastes a little sweeter.",
+      "link": "https://www.goodnewsnetwork.org/every-tuesday-this-chef-cooks-for-100-people-in-need-using-random-food-bank-ingredients/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screengrabs-@maddygoldberg-via-Instagram.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-20T12:30:29+00:00"
+    },
+    {
+      "title": "Is it OK to want a ‘normal life’ during the climate crisis?",
+      "summary": "“I would love to be a parent, but I worry it is unethical to bring children into a world that is wrecked by climate change.",
+      "link": "https://grist.org/culture/ask-a-climate-therapist-advice-normal-life-during-climate-crisis/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/02/climate-therapist-logo.png",
+      "source": "Grist",
+      "published": "2026-11-20T09:30:00+00:00"
+    },
+    {
+      "title": "Montreal Is Harnessing Soothing Ocean Sounds to Combat Traffic Noise",
+      "summary": "Parc des Madelinots, a humble wedge of green space in the Verdun borough of Montreal, is not in the most tranquil of settings.",
+      "link": "https://reasonstobecheerful.world/montreal-harnessing-ocean-sounds-countering-traffic-noise/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/Credit-Paysages-studio-1-scaled.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-11-20T08:00:05+00:00"
+    },
+    {
+      "title": "Good News in History, November 20",
+      "summary": "101 years ago today, Robert F. Kennedy was born. The US Senator from New York became Attorney General during his brother John Kennedy’s years in the White House—and would eventually launch his own race for president after JFK’s assassination.",
+      "link": "https://www.goodnewsnetwork.org/events061120/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2014/11/Robert-bobby-kennedy.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-20T08:00:00+00:00"
+    },
     {
       "title": "6 hosting habits that leave holiday guests feeling uneasy (and how to avoid them)",
       "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM The best holiday parties tend to be the ones where nobody thinks about the hosting at all.",
@@ -3164,86 +3244,6 @@
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Mary-the-theater-worker-credit-GoFundMe.jpg",
       "source": "Good News Network",
       "published": "2026-10-13T11:00:52+00:00"
-    },
-    {
-      "title": "The ‘in awe’ artist painting a wilder Britain",
-      "summary": "Rebecca Howard’s paintings capture a wilder Britain in the making. Her exhibition celebrates nine projects restoring nature",
-      "link": "https://www.positive.news/environment/the-in-awe-artist-painting-a-wilder-britain/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/DSCF2218.jpg",
-      "source": "Positive News",
-      "published": "2026-10-13T09:25:37+00:00"
-    },
-    {
-      "title": "Young Adults Are Building Safe Spaces for Unhoused Peers",
-      "summary": "In his first year at the University of California, Davis, Liam commuted three hours a day from his family’s home in the Bay Area to campus and back again.",
-      "link": "https://reasonstobecheerful.world/young-adults-are-building-safe-spaces-for-unhoused-peers/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/y2y-kitchen-2.png",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-10-13T08:00:49+00:00"
-    },
-    {
-      "title": "Good News in History, October 13",
-      "summary": "95 years ago today, Cristo Redentor, or Christ the Redeemer, opened to the public in the hills above Rio de Janeiro.",
-      "link": "https://www.goodnewsnetwork.org/events061013/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/10/Christ-the-Redeemer-above-Rio-de-Janeiro-credit-Artyominc-CC-3.0.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-13T07:00:00+00:00"
-    },
-    {
-      "title": "The common skin care mistakes dermatologists say are working against your routine",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM There’s a particular kind of Sunday evening spiral that happens when you’ve spent twenty minutes reading about an ingredient you’ve never heard of, and you’re now convinced your entire routine is wrong.",
-      "link": "https://www.optimistdaily.com/2026/10/the-common-skin-care-mistakes-dermatologists-say-are-working-against-your-routine/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_605033682_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-10-13T00:00:49+00:00"
-    },
-    {
-      "title": "How a floating shade can help coral survive a marine heatwave",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM When divers installed floating shade structures over 20 colonies of brain coral in the lower Florida Keys in August 2024, the corals underneath began recovering their color.",
-      "link": "https://www.optimistdaily.com/2026/10/how-a-floating-shade-can-help-coral-survive-a-marine-heatwave/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Screenshot-2026-10-11-at-74619-PM-1024x788.png",
-      "source": "The Optimist Daily",
-      "published": "2026-10-13T00:00:30+00:00"
-    },
-    {
-      "title": "Montana High School Softball Player Discovered Long-Lost Sister on Opposing Team",
-      "summary": "A softball diamond in Montana was the scene of a larger-than-life family reunion. Like something out of Field of Dreams, a teen softball player had lined up against an out-of-state team for an August match—and her long-lost biological sister was on the opposite roster.",
-      "link": "https://www.goodnewsnetwork.org/montana-high-school-softball-player-discovered-long-lost-sister-on-opposing-team/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Kyann-Dean-left-and-Samantha-Rensvold-right-credit-Rensvold-family-photo.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-12T18:30:44+00:00"
-    },
-    {
-      "title": "‘Like Caring for a Pet’ – the App That Lets You Know if Your Neighborhood Tree Is Thirsty",
-      "summary": "An open-source app has thousands of Berliners adopting and watering city trees as if they were their pets, helping keep the city green amid repeated summer heatwaves.",
-      "link": "https://www.goodnewsnetwork.org/like-caring-for-a-pet-the-app-that-lets-you-know-if-your-neighborhood-tree-is-thirsty/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Thanh-Thu-Nguyen-CityLAB-Berlin.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-12T15:30:39+00:00"
-    },
-    {
-      "title": "Teen’s Wish to Return Kindness She Received Sees Her Lemonade Stand Become $5 Million Charity Engine",
-      "summary": "When summer’s heat becomes too much to bear, a glass of iced lemonade is a welcome relief, but what tens of thousands across Ohio have learned is that lemonade can provide a different sort of relief as well.",
-      "link": "https://www.goodnewsnetwork.org/teens-wish-to-return-kindness-she-received-sees-her-lemonade-stand-become-5-million-charity-engine/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Patyons-Lemonade-Stand.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-12T12:30:49+00:00"
-    },
-    {
-      "title": "Putting a ring on it: the plan to green London’s beloved edges",
-      "summary": "Ten million people will benefit from a more biodiverse capital, say the organisers of an ambitious project to reconnect its wilder spaces",
-      "link": "https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/iStock-471932407.jpg",
-      "source": "Positive News",
-      "published": "2026-10-12T09:55:22+00:00"
-    },
-    {
-      "title": "Can Students and Teachers Learn to Trust Each Other in the Age of A.I.?",
-      "summary": "“I’m worried if I use an em dash they’ll think it’s A.I.,” I told my mom from where I sat at the kitchen counter, trying to work on one of my college essays.",
-      "link": "https://reasonstobecheerful.world/can-students-and-teachers-learn-to-trust-each-other-in-the-age-of-ai/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/Body-image-1-idea-1-Paper-scaled.jpeg",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-10-12T08:00:25+00:00"
     }
   ]
 }
