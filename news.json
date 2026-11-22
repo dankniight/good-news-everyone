@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-21T05:39:56.753288+00:00",
+  "lastUpdated": "2026-11-22T05:07:31.217230+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 199
+      "count": 200
     },
     {
       "name": "Positive News",
@@ -35,7 +35,7 @@
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 35
+      "count": 34
     },
     {
       "name": "Futurism",
@@ -46,7 +46,47 @@
   ],
   "articles": [
     {
-      "title": "33 Kids Wrote Letters to a Wounded Veteran. 50 Years Later, His Son Is Searching to Thank Each One",
+      "title": "Breath of a Whale Captured by Drone Allows Full Genome Sequencing Without Intrusion",
+      "summary": "The exhale from a whale’s blowhole has been captured by drones, and used to complete the genome sequencing of one of the ocean giants for the first time.",
+      "link": "https://www.goodnewsnetwork.org/breath-of-whale-captured-via-drone-to-complete-genome-sequence/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Whale-spout-by-NorthCoastCetaceanSociety-via-SWNS-.jpeg",
+      "source": "Good News Network",
+      "published": "2026-11-21T17:30:30+00:00"
+    },
+    {
+      "title": "Pub Owner Spends Thousands on Stunning Holiday Display–All to Cheer Up Depressed Locals",
+      "summary": "A pub owner took advantage of the Christmas season, spending thousands on a festive light display to cheer up his town’s locals.",
+      "link": "https://www.goodnewsnetwork.org/pub-owner-spends-thousands-on-stunning-holiday-display-all-to-cheer-up-depressed-locals/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Christian-Ogley-w-Christmas-lights-on-his-pub-SWNS.jpeg",
+      "source": "Good News Network",
+      "published": "2026-11-21T15:53:53+00:00"
+    },
+    {
+      "title": "First Human Trial to Slash Bad Cholesterol by 50% With One Injection of CRISPR Gene-Editing Therapy",
+      "summary": "A one-time infusion of CRISPR gene editing therapy slashed dangerous cholesterol by 52%, with the patients still experiencing the benefit 12 months after initial treatment, and without side effects.",
+      "link": "https://www.goodnewsnetwork.org/first-human-trial-to-slash-bad-cholesterol-by-50pt-with-one-crispr-injection/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/DNA-strand-break-CRISPR-by-Sangharsh-Lohakare-8o_LkMpo8ug-unsplash.jpeg",
+      "source": "Good News Network",
+      "published": "2026-11-21T14:24:30+00:00"
+    },
+    {
+      "title": "Your Positive Weekly Horoscope: ‘Free Will Astrology’ by Rob Brezsny",
+      "summary": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
+      "link": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-11-21-2026/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-21T11:00:55+00:00"
+    },
+    {
+      "title": "Good News in History, November 21",
+      "summary": "This daily column features all the good news, anniversaries and birthdays from this day in history—November 21.",
+      "link": "https://www.goodnewsnetwork.org/events061121/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/11/Files-pixabay.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-21T08:00:00+00:00"
+    },
+    {
+      "title": "33 Kids Wrote Letters to a Wounded Veteran. 60 Years Later, His Son Is Searching to Thank Each One",
       "summary": "In 1967, 33 Massachusetts schoolchildren were given a project: write a letter to a Navy corpsman they had never met who was wounded in Vietnam.",
       "link": "https://www.goodnewsnetwork.org/__trashed-70/",
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screenshot-2026-11-19-124524.png",
@@ -3204,46 +3244,6 @@
       "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_264749180_S.jpg",
       "source": "The Optimist Daily",
       "published": "2026-10-14T00:00:03+00:00"
-    },
-    {
-      "title": "What to say to Californians worried about grid batteries",
-      "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Wednesday via Substack.",
-      "link": "https://www.canarymedia.com/articles/batteries/how-to-counter-californians-grid-battery-fears-with-safety-facts",
-      "image_url": "https://img.canarymedia.com/content/uploads/CW-battery-16.9.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=aa042617d1c2fbebf98fbe4ca34eac44",
-      "source": "Canary Media",
-      "published": "2026-10-13T22:06:00+00:00"
-    },
-    {
-      "title": "Scientists Shocked to Discover ‘D-rex’, a Giant Fungus from Chinese Forests Dating Back 65 Million Years",
-      "summary": "Deep in the forests of southwest China, scientists have discovered a ‘fungal giant’ that challenges our understanding of how large fungi can become.",
-      "link": "https://www.goodnewsnetwork.org/scientists-shocked-to-discover-d-rex-a-giant-fungus-from-chinese-forests-dating-back-65-million-years/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/pictured-the-stromata-of-Dianjunus-rex-in-the-field.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-13T18:30:53+00:00"
-    },
-    {
-      "title": "Italian Bio-methane Plant Comes Online, Providing Renewable Gas to Over 3,000 Homes",
-      "summary": "A European energy developer has switched on a major biomethane plant in southern Italy that will save some 9,000 tons of CO2 annually by producing a natural gas substitute with agricultural waste.",
-      "link": "https://www.goodnewsnetwork.org/italian-biomethane-plant-comes-online-providing-renewable-gas-supply-to-over-3000-homes/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/The-Grottole-biomethane-plant-operated-by-Axpo-credit-Axpo-released.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-13T15:30:50+00:00"
-    },
-    {
-      "title": "Barbie Honors Serena Williams with New Signature Doll to Serve Inspiration to Next Generation",
-      "summary": "Barbie has released a signature edition doll of none other than tennis legend Serena Williams. The release came in tandem with news that Williams officially joined Team Barbie, a group of powerful female athletes and role models who inspire and uplift as women, as leaders, and as the iconic dolls.",
-      "link": "https://www.goodnewsnetwork.org/barbie-honors-serena-williams-with-new-signature-doll-to-serve-inspiration-to-next-generation-of-women/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/released-by-Barbie.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-13T13:00:10+00:00"
-    },
-    {
-      "title": "Elderly Theater Worker Surprised by $146,000 for Her Retirement Crowdfunded by Young Moviegoer",
-      "summary": "It’s becoming something of a trend: young people encountering elders working long past retirement age and raising thousands for them to finally take a rest.",
-      "link": "https://www.goodnewsnetwork.org/elderly-theater-worker-surprised-with-146000-for-retirement-crowdfunded-by-young-moviegoer/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Mary-the-theater-worker-credit-GoFundMe.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-13T11:00:52+00:00"
     }
   ]
 }
