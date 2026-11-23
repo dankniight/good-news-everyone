@@ -1,23 +1,23 @@
 {
-  "lastUpdated": "2026-11-22T05:07:31.217230+00:00",
+  "lastUpdated": "2026-11-23T05:48:09.183548+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 200
+      "count": 202
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 20
+      "count": 19
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 27
+      "count": 26
     },
     {
       "name": "The Optimist Daily",
@@ -29,7 +29,7 @@
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 28
+      "count": 27
     },
     {
       "name": "Canary Media",
@@ -41,10 +41,66 @@
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 29
+      "count": 30
     }
   ],
   "articles": [
+    {
+      "title": "New Method Treats Severe Thumb Arthritis With Joint Replacement – Just like a New Hip or Shoulder",
+      "summary": "A new thumb implant is transforming hand function for people with advanced arthritis. Traditionally, doctors remove the trapezium, a small bone at the thumb’s base To overcome “bone-on-bone contact” the new treatment that uses a “ball-and-socket” designed as an insert for repairing the trapezium.",
+      "link": "https://www.goodnewsnetwork.org/new-way-to-treat-severe-thumb-arthritis-with-joint-replacement/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/TOUCH-Thumb-transplant-RELEASED.jpeg",
+      "source": "Good News Network",
+      "published": "2026-11-23T01:55:12+00:00"
+    },
+    {
+      "title": "Bored of your holiday decorations? 6 ways to make old holiday decorations feel new",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM There’s a particular feeling that comes with lifting the lid off the holiday storage bin.",
+      "link": "https://www.optimistdaily.com/2026/11/bored-of-your-holiday-decorations-6-ways-to-make-old-holiday-decorations-feel-new/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/close-decorated-christmas-tree-decorations-Depositphotos_527978660_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-23T00:00:19+00:00"
+    },
+    {
+      "title": "Automatic abortion pardons clear women’s records in England and Wales",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Women in England and Wales who were arrested, cautioned or convicted for ending their own pregnancies no longer carry those records.",
+      "link": "https://www.optimistdaily.com/2026/11/automatic-abortion-pardons-clear-womens-records-in-england-and-wales/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/royal-courts-justice-london-london-Depositphotos_507492434_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-23T00:00:10+00:00"
+    },
+    {
+      "title": "World’s First Museum Built in a Children’s Hospital Fulfills Dying Boy’s Wish For Playtime During Chemo",
+      "summary": "While a little boy was fighting a deadly disease in the Children’s Hospital of New Orleans he longed for a place to go get some fresh air or distraction from his woes.",
+      "link": "https://www.goodnewsnetwork.org/the-first-museum-built-in-a-childrens-hospital-fulfills-dying-boys-wish/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Music-dance-stage-display-in-kids-museum-Walkers-Imaginarium-released-by-Manning-Family-Childrens.jpeg",
+      "source": "Good News Network",
+      "published": "2026-11-22T18:41:56+00:00"
+    },
+    {
+      "title": "‘Extraordinary’ Drug May Actually Cure High Blood Pressure Caused by Hormones, And it’s FDA-Approved",
+      "summary": "Millions of people with high blood pressure may be offered an actual cure for its root cause that would bring long-lasting relief.",
+      "link": "https://www.goodnewsnetwork.org/drug-may-actually-cure-high-blood-pressure-caused-by-hormones/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Doctor-takes-blood-pressure-by-Vitaly-Gariev-NDOYHZ_98Rw-unsplash.jpeg",
+      "source": "Good News Network",
+      "published": "2026-11-22T14:58:57+00:00"
+    },
+    {
+      "title": "Putting One Million SpaceX Data Centers in Space Would Be an Environmental Catastrophe, Scientists Warn",
+      "summary": "Starships could release a staggering amount of pollution.",
+      "link": "https://futurism.com/science-energy/one-million-spacex-data-centers-environmental-catastrophe",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/one-million-spacex-data-centers-environmental-catastrophe.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-11-22T12:51:00+00:00"
+    },
+    {
+      "title": "Good News in History, November 22",
+      "summary": "31 years ago today, Toy Story, the world’s first computer-animated film was released to critical acclaim. Made out of a small studio called Pixar which released some of the most beloved children’s films in American history, the story revolves around the life and times of a boy’s favorite cowboy…",
+      "link": "https://www.goodnewsnetwork.org/events061122/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2019/11/Toy-Story-film-poster-mashup.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-22T08:00:00+00:00"
+    },
     {
       "title": "Breath of a Whale Captured by Drone Allows Full Genome Sequencing Without Intrusion",
       "summary": "The exhale from a whale’s blowhole has been captured by drones, and used to complete the genome sequencing of one of the ocean giants for the first time.",
@@ -89,6 +145,14 @@
       "title": "33 Kids Wrote Letters to a Wounded Veteran. 60 Years Later, His Son Is Searching to Thank Each One",
       "summary": "In 1967, 33 Massachusetts schoolchildren were given a project: write a letter to a Navy corpsman they had never met who was wounded in Vietnam.",
       "link": "https://www.goodnewsnetwork.org/__trashed-70/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screenshot-2026-11-19-124524.png",
+      "source": "Good News Network",
+      "published": "2026-11-20T22:00:41+00:00"
+    },
+    {
+      "title": "33 Kids Wrote Letters to a Wounded Veteran. 60 Years Later, His Son Is Searching to Thank Each One",
+      "summary": "In 1967, 33 Massachusetts schoolchildren were given a project: write a letter to a Navy corpsman they had never met who was wounded in Vietnam.",
+      "link": "https://www.goodnewsnetwork.org/dave-jacobson-letters-from-gloucester-project/",
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screenshot-2026-11-19-124524.png",
       "source": "Good News Network",
       "published": "2026-11-20T22:00:41+00:00"
@@ -3180,70 +3244,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/openai-sued-children-fears-hopes-secrets.jpg?quality=85&w=2048",
       "source": "Futurism",
       "published": "2026-10-14T13:04:16+00:00"
-    },
-    {
-      "title": "Inches Below the Forest Floor, Archeologists in Germany Unearthed a Roman Temple to the War God",
-      "summary": "Along a series of Roman fortifications cutting across Germany just north of Frankfurt, archeological excavations have revealed extensive floorplans belonging to a temple, a military camp, and craft center.",
-      "link": "https://www.goodnewsnetwork.org/inches-below-the-forest-floor-archeologists-in-germany-unearthed-a-roman-temple-to-the-war-god/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Lars-Gorze-MA-Hesse-State-Office-for-Monument-Preservation-e1791968271919.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-14T13:00:21+00:00"
-    },
-    {
-      "title": "World’s Heaviest Pumpkin Sets Incredible New Record at 2,856 lbs.",
-      "summary": "This seismic squash was just certified as the largest ever grown by a man at a recent British competition. When volunteers at the Wargrave Nursery Giant Pumpkin Weigh-Off finally hoisted the specimen onto the scale, the reading was simply incredible—2,856.8lbs (1,295.8kg) It’s heavier than a white…",
-      "link": "https://www.goodnewsnetwork.org/worlds-heaviest-pumpkin-sets-incredible-new-record-at-2856-lbs/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Ian-Paton.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-14T11:00:23+00:00"
-    },
-    {
-      "title": "Pampered city trees deal with stress better than their country cousins",
-      "summary": "The next time you pass an urban tree, stop to appreciate what it’s been through. As a youngster, it was especially vulnerable to pests and diseases, not to mention vandalism.",
-      "link": "https://grist.org/cities/pampered-city-trees-deal-with-stress-better-than-their-country-cousins/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/06/GettyImages-2272795415.jpeg?quality=75&strip=all&w=768",
-      "source": "Grist",
-      "published": "2026-10-14T08:30:00+00:00"
-    },
-    {
-      "title": "Teenagers Worldwide Are Tackling the Plastics Crisis",
-      "summary": "When students in Singapore looked around their school cafeteria, they could see a problem shared all over the world: Single-use Styrofoam was ubiquitous.",
-      "link": "https://reasonstobecheerful.world/teenagers-worldwide-are-tackling-the-plastics-crisis/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/shutterstock_2740852089-scaled.jpg",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-10-14T08:00:09+00:00"
-    },
-    {
-      "title": "Wildlife photographer of the year 2026, the winning images",
-      "summary": "This year’s competition has attracted a record-breaking number of entries",
-      "link": "https://www.positive.news/society/wildlife-photographer-of-the-year-2026-the-winning-images/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/©-Loren-Elliott.jpg",
-      "source": "Positive News",
-      "published": "2026-10-14T07:00:50+00:00"
-    },
-    {
-      "title": "Good News in History, October 14",
-      "summary": "And, 136 years ago today, Dwight D. Eisenhower, the 34th US President and Commander of the European Allied Forces in WWII, was born in Texas.",
-      "link": "https://www.goodnewsnetwork.org/events061014/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/President-General-Dwight-D-Eisenhower-1959.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-14T07:00:00+00:00"
-    },
-    {
-      "title": "Why October is the best time to get your flu shot this year",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Flu season usually builds in late fall, but this year it’s getting a jump start.",
-      "link": "https://www.optimistdaily.com/2026/10/why-october-is-the-best-time-to-get-your-flu-shot-this-year/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_42557355_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-10-14T00:00:03+00:00"
-    },
-    {
-      "title": "Scientists discovered the world’s largest octopus nursery off the California coast",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Most of the deep seafloor is cold, dark, and barely mapped. The Monterey Bay National Marine Sanctuary covers more than 6,000 square miles of ocean along California’s central coast and is better studied than most of it.",
-      "link": "https://www.optimistdaily.com/2026/10/scientists-discovered-the-worlds-largest-octopus-nursery-off-the-california-coast/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_264749180_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-10-14T00:00:03+00:00"
     }
   ]
 }
