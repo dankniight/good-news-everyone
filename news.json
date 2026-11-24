@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-11-23T05:48:09.183548+00:00",
+  "lastUpdated": "2026-11-24T08:26:22.974983+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 202
+      "count": 203
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 19
+      "count": 18
     },
     {
       "name": "Reasons to be Cheerful",
@@ -29,13 +29,13 @@
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 27
+      "count": 28
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 34
+      "count": 33
     },
     {
       "name": "Futurism",
@@ -45,6 +45,118 @@
     }
   ],
   "articles": [
+    {
+      "title": "Good News in History, November 24",
+      "summary": "167 years ago today, the British naturalist and geologist Charles Darwin published On the Origin of Species explaining his theory of evolution.",
+      "link": "https://www.goodnewsnetwork.org/events061124/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/11/Darwin-finches-and-On-The-Origin-of-Species.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-24T08:00:00+00:00"
+    },
+    {
+      "title": "Fall hunger is real: four reasons your appetite changes with the season",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Maybe you’ve noticed it creeping in over the last few weeks. You finish lunch, and an hour later you’re already drifting back toward the kitchen.",
+      "link": "https://www.optimistdaily.com/2026/11/fall-hunger-is-real-four-reasons-your-appetite-changes-with-the-season/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/lentil-soup-Depositphotos_41548517_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-24T00:00:52+00:00"
+    },
+    {
+      "title": "Why a Viagra-like blood flow drug may open a new front against Alzheimer’s",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM A once-daily tablet called AR1001 slowed cognitive decline by 31 percent over a year in people with early Alzheimer’s disease who were not on any other Alzheimer’s medication, according to phase 3 results presented at the Clinical Trials on Alzheimer’s Disease…",
+      "link": "https://www.optimistdaily.com/2026/11/why-a-viagra-like-blood-flow-drug-may-open-a-new-front-against-alzheimers/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/close-up-of-old-man-Depositphotos_133692306_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-24T00:00:36+00:00"
+    },
+    {
+      "title": "Chaos Reigns as Army Plans to Explode Toxic Lead “Dirty Bomb” Over Populated Area",
+      "summary": "A nightmare for locals.",
+      "link": "https://futurism.com/science-energy/us-army-delay-explosion-lead",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/us-army-explode-toxic-lead-populated.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-11-23T22:55:03+00:00"
+    },
+    {
+      "title": "33 Kids Wrote Letters to a Wounded Veteran. 60 Years Later, His Son Is Searching to Thank Each One",
+      "summary": "In 1967, 33 Massachusetts schoolchildren were given a project: write a letter to a Navy corpsman they had never met who was wounded in Vietnam.",
+      "link": "https://www.goodnewsnetwork.org/dave-jacobson-letters-from-gloucester-project/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screenshot-2026-11-19-124524.png",
+      "source": "Good News Network",
+      "published": "2026-11-23T22:00:41+00:00"
+    },
+    {
+      "title": "How COP31 became climate diplomacy’s ‘darkest moment’",
+      "summary": "No one expected the 31st Conference of the Parties to be game-changing — from the start, everyone called it an “implementation” COP — but those gathered in Antalya, Turkey, hoped it would at least maintain momentum on clean energy development.",
+      "link": "https://grist.org/cop31/how-cop31-became-climate-diplomacys-darkest-moment/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/11/COP31-fossil-fuels-finance-failure-collapse-cover-protest-climate-change.jpeg",
+      "source": "Grist",
+      "published": "2026-11-23T21:14:22+00:00"
+    },
+    {
+      "title": "Determined Volunteer Rescues Lost Toddler in the Desert: ‘She may not be our child, but she could be’",
+      "summary": "An Arizona community is celebrating a local grandfather who found a missing toddler in the middle of the cold desert night.",
+      "link": "https://www.goodnewsnetwork.org/determined-volunteer-rescues-lost-toddler-in-the-desert-she-may-not-be-our-child-but-she-could-be/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Pinal-County-Sheriffs-Office.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-23T18:00:29+00:00"
+    },
+    {
+      "title": "One-of-a-Kind Refuge to 200,000 Walrus Protected Forever in Alaska",
+      "summary": "American conservationists have secured protections for a truly unique-in-the-world ecosystem along the state’s Bering Sea coastline.",
+      "link": "https://www.goodnewsnetwork.org/one-of-a-kind-refuge-to-200000-walrus-protected-forever-in-alaska/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Walruses-concentrate-at-Point-Lay-Alaska-public-domain-NOAA-e1795423753131.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-23T16:04:07+00:00"
+    },
+    {
+      "title": "Freddie Nole Waits at the Prison Gates So No One Walks Out Alone",
+      "summary": "JoyDrops champions awards-eligible documentary shorts about joy, a counterweight to a category often dominated by tragedy.",
+      "link": "https://www.goodnewsnetwork.org/freddie-nole-waits-at-the-prison-gates-so-no-one-walks-out-alone/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/The-Second-life-of-Freddie-Nole_Press-Image-1.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-23T13:35:29+00:00"
+    },
+    {
+      "title": "How a T-Shirt Startup’s Manifesto Got People Everywhere Rethinking Their Lives",
+      "summary": "Just in time for the holidays, Good News Network has teamed up with Holstee on a curated collection of gifts that celebrate living well.",
+      "link": "https://www.goodnewsnetwork.org/how-a-t-shirt-startups-manifesto-got-people-everywhere-rethinking-their-lives/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Holstee-founders-Summit-Series-2014-e1795210461563.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-23T12:40:07+00:00"
+    },
+    {
+      "title": "First of 3 Consecutive Supermoons to Begin Tonight – Look to the East for the Beaver Moon",
+      "summary": "The next 3 consecutive full moons will weigh in as supermoons—and the first one is set to dazzle tonight and tomorrow.",
+      "link": "https://www.goodnewsnetwork.org/first-of-3-consecutive-supermoons-to-begin-tonight-look-to-the-east-for-the-beaver-moon/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2025/11/moon-and-supermoon-comparison.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-23T12:30:42+00:00"
+    },
+    {
+      "title": "The world doesn’t need solar or wind — it needs both",
+      "summary": "Humans are still hunter-gatherers — not for food, but for energy. Much like we once roamed the landscape digging up edible roots, today we gouge the planet for coal, oil, and gas.",
+      "link": "https://grist.org/energy/the-world-doesnt-need-solar-or-wind-it-needs-solar-and-wind/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/11/13-map-potential1a.jpg",
+      "source": "Grist",
+      "published": "2026-11-23T09:45:00+00:00"
+    },
+    {
+      "title": "The City That Kicked Out Cars Before It Was Cool",
+      "summary": "As a taxi driver, Juan Barbosa should in theory be one of the strongest opponents of a crackdown on cars. But, puffing on a cigarette beside his vehicle on a sultry August afternoon, the inhabitant of Pontevedra, Spain, admits that he finds himself in something of an existential crisis.",
+      "link": "https://reasonstobecheerful.world/pontevedra-car-free-city/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/IMG_9933-scaled.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-11-23T08:00:33+00:00"
+    },
+    {
+      "title": "Good News in History, November 23",
+      "summary": "63 years ago today, the very first episode of Doctor Who was broadcast on the BBC. An Unearthly Child, starring William Hartnell, is set amid a power struggle between warring Stone Age factions who have lost the secret of making fire after the original “companions” Ian and Barbara, find the…",
+      "link": "https://www.goodnewsnetwork.org/events061123/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/11/Unearthly_Child_2.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-23T08:00:00+00:00"
+    },
     {
       "title": "New Method Treats Severe Thumb Arthritis With Joint Replacement – Just like a New Hip or Shoulder",
       "summary": "A new thumb implant is transforming hand function for people with advanced arthritis. Traditionally, doctors remove the trapezium, a small bone at the thumb’s base To overcome “bone-on-bone contact” the new treatment that uses a “ball-and-socket” designed as an insert for repairing the trapezium.",
@@ -145,14 +257,6 @@
       "title": "33 Kids Wrote Letters to a Wounded Veteran. 60 Years Later, His Son Is Searching to Thank Each One",
       "summary": "In 1967, 33 Massachusetts schoolchildren were given a project: write a letter to a Navy corpsman they had never met who was wounded in Vietnam.",
       "link": "https://www.goodnewsnetwork.org/__trashed-70/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screenshot-2026-11-19-124524.png",
-      "source": "Good News Network",
-      "published": "2026-11-20T22:00:41+00:00"
-    },
-    {
-      "title": "33 Kids Wrote Letters to a Wounded Veteran. 60 Years Later, His Son Is Searching to Thank Each One",
-      "summary": "In 1967, 33 Massachusetts schoolchildren were given a project: write a letter to a Navy corpsman they had never met who was wounded in Vietnam.",
-      "link": "https://www.goodnewsnetwork.org/dave-jacobson-letters-from-gloucester-project/",
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screenshot-2026-11-19-124524.png",
       "source": "Good News Network",
       "published": "2026-11-20T22:00:41+00:00"
@@ -3140,110 +3244,6 @@
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/low-res_herugavialis_cairensis-e1792061695449.jpg",
       "source": "Good News Network",
       "published": "2026-10-15T17:30:16+00:00"
-    },
-    {
-      "title": "Tribe Just a Signature Away from Recovering 1,100 Ancestral Acres Along Undammed Elwha River",
-      "summary": "20 years after a Washington state dam was slated for demolition, 1,100 acres of ecosystem along the Lower Elwha River is recovering, having lain muddy and dormant under the dam’s engorged reservoir for more than a century.",
-      "link": "https://www.goodnewsnetwork.org/tribe-just-a-signature-away-from-recovering-1100-ancestral-acres-along-undammed-elwha-river/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Left-the-Elwha-Dam-in-2005-right-and-the-dam-in-2013-several-years-after-its-removal-credit-left-Ben-Cody-CC-3.0.-BY-SA-right-Zandcee-CC-3.0.-BY-SA.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-15T15:30:41+00:00"
-    },
-    {
-      "title": "ESA’s New Sentinel 3C Satellite Makes its Debut with Sumptuous Images of Italy and the Arctic",
-      "summary": "Two weeks after launching, the European Space Agency’s Copernicus Sentinel 3C satellite has returned its first images of our world in sumptuous color.",
-      "link": "https://www.goodnewsnetwork.org/esas-new-sentinel-3c-satellite-makes-its-debut-with-sumptuous-images-of-italy-and-the-arctic/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Italy-satellite-image-credit-Copernicus-Sentinel-3C-ESA-copyright-.jpeg",
-      "source": "Good News Network",
-      "published": "2026-10-15T13:00:06+00:00"
-    },
-    {
-      "title": "Woman Who Lost Her Sister Invents a Child’s Car Seat Sticker That Doubles as Hospital Bracelet",
-      "summary": "A sister turned her personal tragedy into a brilliant emergency safety product. Simple yet vital, the Roth ID Tag is an adhesive designed to stick forever on the fabric of a child’s car seat.",
-      "link": "https://www.goodnewsnetwork.org/woman-who-lost-her-sister-invents-a-childs-car-seat-sticker-that-doubles-as-hospital-bracelet/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Roth-ID-Tag-e1792051060617.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-15T11:00:37+00:00"
-    },
-    {
-      "title": "A new report just busted another myth about heat pumps",
-      "summary": "You may have heard by now that heat pumps — which transfer warmth from outdoor air to an indoor space, instead of generating it like a furnace — don’t work when it gets really cold out.",
-      "link": "https://grist.org/solutions/a-new-report-just-busted-another-myth-about-heat-pumps/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/07/GettyImages-2226699225.jpeg?quality=75&strip=all&w=768",
-      "source": "Grist",
-      "published": "2026-10-15T11:00:00+00:00"
-    },
-    {
-      "title": "The Library Is Closed. Feel Free to Come In.",
-      "summary": "This story was originally published in the Daily Yonder. For more rural reporting and small-town stories visit dailyyonder.com.",
-      "link": "https://reasonstobecheerful.world/the-library-is-closed-feel-free-to-come-in/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/IMG_3111.jpg",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-10-15T08:00:15+00:00"
-    },
-    {
-      "title": "A new class of batteries helps data centers play nicely with the grid",
-      "summary": "Lithium-ion batteries could do so much for AI data centers and the power grid. They’re cheaper than the fossil-gas turbines that tech giants are building at gigawatt scale for their “AI factories.",
-      "link": "https://www.canarymedia.com/articles/data-centers/on-energy-ups-battery-grid-interruption",
-      "image_url": "https://img.canarymedia.com/content/uploads/OnEnergy-battery-array-NLR-test-site-men-walking-ground-view.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=f1183294ae7c812924d80367fec8fdc0",
-      "source": "Canary Media",
-      "published": "2026-10-15T07:30:00+00:00"
-    },
-    {
-      "title": "In Ukraine, the repair movement is heading underground",
-      "summary": "A Ukrainian city is preparing to hold a repair festival in an underground shelter, giving new meaning to the act of fixing broken things",
-      "link": "https://www.positive.news/society/in-ukraine-the-repair-movement-is-heading-underground/",
-      "image_url": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/Repair-volunteer-and-visitor-repair-together-at-a-Fixfest-Photo-credit_-The-Restart-Project_Mark-A-Phillips-licensed-under-CC-BY-NC-SA-4.0-scaled.jpg",
-      "source": "Positive News",
-      "published": "2026-10-15T07:00:51+00:00"
-    },
-    {
-      "title": "Good News in History, October 15",
-      "summary": "29 years ago today, NASA and ESA’s Cassini Mission, meant to gather data on Saturn and its moons, was launched from Cape Canaveral.",
-      "link": "https://www.goodnewsnetwork.org/events061015/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/Official-project-image-NASA.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-15T07:00:00+00:00"
-    },
-    {
-      "title": "6 smart things to do with an empty egg carton before you toss it in the recycling bin",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM There’s a half-second every time you finish a carton of eggs. The lid flops open, the last two slots are empty, and you’re already reaching for the recycling bin.",
-      "link": "https://www.optimistdaily.com/2026/10/6-smart-things-to-do-with-an-empty-egg-carton-before-you-toss-it-in-the-recycling-bin/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_449707050_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-10-15T00:00:50+00:00"
-    },
-    {
-      "title": "Indonesia’s mosque loudspeakers might save lives during natural disasters",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM The hardest part of any early warning system isn’t the science. It’s finding infrastructure that reaches everyone, holds up under pressure, and gets maintained over years by the people who depend on it.",
-      "link": "https://www.optimistdaily.com/2026/10/indonesias-mosque-loudspeakers-might-save-lives-during-natural-disasters/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_239550774_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-10-15T00:00:08+00:00"
-    },
-    {
-      "title": "Teen Triathlete Raises More Than $30,000 to Donate Bikes and Riding Lessons to Low-Income Families",
-      "summary": "Continuing GNN’s coverage of youth nonprofit leaders, the Pedal Forward Foundation in Georgia has distributed hundreds of bicycles to low income families, and taught hundreds of children how to ride them.",
-      "link": "https://www.goodnewsnetwork.org/teen-triathlete-raises-more-than-30000-to-donate-bikes-and-riding-lessons-to-low-income-families/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Jonathan-Thai-credit-screengrab-via-Pedal-Forward.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-14T18:30:16+00:00"
-    },
-    {
-      "title": "Pittsburgh Water Launches Debt Forgiveness Program to Help Families with Rising Costs",
-      "summary": "Residents of Pittsburgh with outstanding debt on their water utilities can see it forgiven over a 24-month period.",
-      "link": "https://www.goodnewsnetwork.org/pittsburgh-water-launches-debt-forgiveness-program-to-help-families-with-rising-costs/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/09/erase-debt-CC-Images_of_Money-e1776148421784.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-14T15:30:44+00:00"
-    },
-    {
-      "title": "OpenAI Sued for Allegedly Building Models Out of Children’s “Fears, Hopes, and Secrets”",
-      "summary": "\"OpenAI manipulates children into sharing their most private thoughts and images with ChatGPT.\"",
-      "link": "https://futurism.com/artificial-intelligence/openai-sued-children-fears-hopes-secrets",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/openai-sued-children-fears-hopes-secrets.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-10-14T13:04:16+00:00"
     }
   ]
 }
