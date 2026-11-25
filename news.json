@@ -1,23 +1,23 @@
 {
-  "lastUpdated": "2026-11-24T08:26:22.974983+00:00",
+  "lastUpdated": "2026-11-25T07:00:35.530192+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 203
+      "count": 205
     },
     {
       "name": "Positive News",
       "site": "https://www.positive.news",
       "color": "#E0A21B",
-      "count": 18
+      "count": 17
     },
     {
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 26
+      "count": 25
     },
     {
       "name": "The Optimist Daily",
@@ -29,22 +29,102 @@
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 28
+      "count": 29
     },
     {
       "name": "Canary Media",
       "site": "https://www.canarymedia.com",
       "color": "#1799A6",
-      "count": 33
+      "count": 31
     },
     {
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 30
+      "count": 31
     }
   ],
   "articles": [
+    {
+      "title": "Miki Kawamura: a 19-year-old’s peace network brings ice cream to a Nobel summit",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM This article is part of The Optimist Daily’s Local Changemakers 2026 series, spotlighting changemakers 30 and under.",
+      "link": "https://www.optimistdaily.com/2026/11/miki-kawamura-a-19-year-olds-peace-network-brings-ice-cream-to-a-nobel-summit/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Local-Changemakers-Story-Covers-15.png",
+      "source": "The Optimist Daily",
+      "published": "2026-11-25T00:00:23+00:00"
+    },
+    {
+      "title": "Sunscreen, sweat and permastank: the science of stubborn laundry stains",
+      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Most stubborn laundry stains are a chemistry problem, and the fix depends on matching the treatment to the molecule.",
+      "link": "https://www.optimistdaily.com/2026/11/sunscreen-sweat-and-permastank-the-science-of-stubborn-laundry-stains/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/hand-asian-housewife-washing-white-Depositphotos_789309788_S.jpg",
+      "source": "The Optimist Daily",
+      "published": "2026-11-25T00:00:16+00:00"
+    },
+    {
+      "title": "Major Success Sees Viral Infections Fall 68% in Brazil After Releasing Wolbachia-Infected Mosquitoes",
+      "summary": "A major success in population-scale control of mosquito-borne viruses comes now from Brazil, where schoolchildren are enjoying a 68% lower risk of such diseases.",
+      "link": "https://www.goodnewsnetwork.org/major-success-sees-viral-infections-fall-68-in-brazil-after-releasing-wolbachia-infected-mosquitoes/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/07/mosquito-Aedes_Albopictus-publicdomain.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-24T20:29:57+00:00"
+    },
+    {
+      "title": "Nvidia Stock Now Falling After Reinstating Sex Pest Jensen Huang as CEO",
+      "summary": "Don't call it a comeback.",
+      "link": "https://futurism.com/artificial-intelligence/nvidia-stock-now-falling-after-reinstating-jensen-huang",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/nvidia-stock-now-falling-after-reinstating-jensen-huang.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-11-24T17:46:43+00:00"
+    },
+    {
+      "title": "Retired Teacher Turns Retired Musical Instruments into Bird Feeders (LOOK)",
+      "summary": "A Canadian man is writing a coda into the lives of scrapped musical instruments by using them to offer a free lunch to his feathered neighbors.",
+      "link": "https://www.goodnewsnetwork.org/retired-teacher-turns-retired-musical-instruments-into-bird-feeders-look/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Credit-Rob-Burke-retrieved-from-Facebook.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-24T16:30:36+00:00"
+    },
+    {
+      "title": "A Childhood Promise Mobilizes ‘Thanksgiving Heroes,’ Serving Thousands Nationwide This Holiday",
+      "summary": "What began as an 11-year-old boy’s promise to his mother has launched ‘Thanksgiving Heroes,’ a nationwide effort to bring holiday meals to those in need.",
+      "link": "https://www.goodnewsnetwork.org/thanksgiving-heroes-rob-adams-childhood-promise/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/1280px-Gfp-thanksgiving-turkey.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-24T12:52:48+00:00"
+    },
+    {
+      "title": "Charity Swaps Tuition Fees for Coconuts So Every Islander Can Afford School",
+      "summary": "The coconut palm is often called the Tree of 1,000 Uses, though ‘school tuition voucher’ is not typically one of those 1,000.",
+      "link": "https://www.goodnewsnetwork.org/charity-swaps-tuition-fees-for-coconuts-so-every-islander-can-afford-school/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/FCA-students-Shaya-Lani-and-Joyleen-with-coconuts.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-24T12:30:30+00:00"
+    },
+    {
+      "title": "A walkable city of tomorrow is growing in suburban Utah",
+      "summary": "Sarah Miller biked with her 5-year-old son on a hot afternoon this summer to a vibrant new park in Utah City, a community rising on 700 acres in the heart of Vineyard, one of Utah’s fastest-growing cities, and envisioned as its new downtown.",
+      "link": "https://grist.org/cities/utah-city-walkable-growing-vineyard/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/10/utah-city-featured.jpg",
+      "source": "Grist",
+      "published": "2026-11-24T09:45:00+00:00"
+    },
+    {
+      "title": "Voters are fed up with for-profit utilities, but they keep rejecting ‘public power’",
+      "summary": "Climate activists around the country saw this month’s midterm elections as a win. From congressional seats to governors’ mansions to local offices, progressive candidates leveraged voters’ frustration with the rising cost of living, especially high power bills, to defeat fossil fuel-friendly…",
+      "link": "https://grist.org/elections/public-power-ballot-kitsap-county-washington-ann-arbor-michigan/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/11/KPUD.jpg",
+      "source": "Grist",
+      "published": "2026-11-24T09:30:00+00:00"
+    },
+    {
+      "title": "Nepal hoped for flood aid at COP31. It got nothing.",
+      "summary": "When almost 200 countries endorsed the Paris Agreement in 2015 , they agreed to a massive transfer of money between the world’s largest carbon emitters and the poor countries on the front lines of climate change.",
+      "link": "https://grist.org/cop31/nepal-glacier-flood-cop31-climate-finance/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/11/Manjeet-Dhakal.jpg",
+      "source": "Grist",
+      "published": "2026-11-24T09:15:00+00:00"
+    },
     {
       "title": "Good News in History, November 24",
       "summary": "167 years ago today, the British naturalist and geologist Charles Darwin published On the Origin of Species explaining his theory of evolution.",
@@ -3164,86 +3244,6 @@
       "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/Dad-and-I-at-Thanksgiving-1-scaled.jpg",
       "source": "Reasons to be Cheerful",
       "published": "2026-10-16T08:30:34+00:00"
-    },
-    {
-      "title": "Advice from a climate therapist: Touch grass. (No, really.)",
-      "summary": "In my years as a psychotherapist, I’ve worked with many people facing similar struggles. One such pattern is embodied by a client I’ll call Emma (whose real name and identifying details I’ve changed for privacy purposes).",
-      "link": "https://grist.org/culture/ask-a-climate-therapist-advice-nature-mental-health-touch-grass/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/02/climate-therapist-logo.png",
-      "source": "Grist",
-      "published": "2026-10-16T08:30:00+00:00"
-    },
-    {
-      "title": "Welcome to the Depolarization Project",
-      "summary": "If you’re anything like us, you’re not exactly in a congenial mood right now. With the U.S. midterm elections fewer than three weeks away, you might be feeling combat-ready.",
-      "link": "https://reasonstobecheerful.world/depolarization-project-introduction/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/Landing-Page-1024x576.png",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-10-16T08:00:02+00:00"
-    },
-    {
-      "title": "Is coal really making a comeback?",
-      "summary": "Coal was on the way out. That’s how it looked last year, anyway, when the International Energy Agency forecast that global demand for the dirtiest fossil fuel had plateaued and was poised to start declining .",
-      "link": "https://grist.org/energy/is-coal-making-comeback-energy-crisis/",
-      "image_url": "https://grist.org/wp-content/uploads/2026/07/US-tech-coal-power-AI-data-center.jpg?quality=75&strip=all&w=768",
-      "source": "Grist",
-      "published": "2026-10-16T08:00:00+00:00"
-    },
-    {
-      "title": "US clean energy jobs fell in 2025 for the first time in years",
-      "summary": "See more from Canary Media’s ​“Chart of the Week” column . Clean energy installations have persisted at record levels despite President Donald Trump’s best efforts to stop them.",
-      "link": "https://www.canarymedia.com/articles/clean-energy-jobs/trump-us-employment-falls-data-2025",
-      "image_url": "https://img.canarymedia.com/content/uploads/COTW-rooftop-solar-4_2026-10-15-195509_xcwk.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=500fcdc042a8cbedb9efa60e9697be3d",
-      "source": "Canary Media",
-      "published": "2026-10-16T07:30:00+00:00"
-    },
-    {
-      "title": "Good News in History, October 16",
-      "summary": "57 years ago today, New York’s underdog baseball crew ‘The Miracle Mets’ won the World Series in just 5 games, a romantic triumph over a heavily-favored Orioles team.",
-      "link": "https://www.goodnewsnetwork.org/events061016/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/10/Miracle-Mets-1969-fairuse-youtube.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-16T07:00:00+00:00"
-    },
-    {
-      "title": "What went right this week: Indonesia’s plummeting poverty rate, plus more",
-      "summary": "Indonesia’s plummeting poverty rate, America’s largest wildlife bridge, and ‘a new era’ for the River Thames, plus more",
-      "link": "https://www.positive.news/society/good-news-stories-from-week-42-of-2026/",
-      "image_url": "https://www.positive.news/wp-content/uploads/2026/10/iStock-475084328.jpg",
-      "source": "Positive News",
-      "published": "2026-10-16T05:00:50+00:00"
-    },
-    {
-      "title": "What to leave alone in your garden this October to help overwintering bees",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM Every fall there’s a pull to tidy things up. Cut back the perennials, rake the leaves, clear the beds, put the garden to rest.",
-      "link": "https://www.optimistdaily.com/2026/10/what-to-leave-alone-in-your-garden-this-october-to-help-overwintering-bees/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_607168542_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-10-16T00:00:41+00:00"
-    },
-    {
-      "title": "What sets Japanese sweet potatoes apart, nutritionally speaking",
-      "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM If you’ve bought a Japanese sweet potato, cut into it expecting orange, and found creamy white instead, you’ve already spotted the first thing that sets it apart.",
-      "link": "https://www.optimistdaily.com/2026/10/what-sets-japanese-sweet-potatoes-apart-nutritionally-speaking/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Depositphotos_226713878_S.jpg",
-      "source": "The Optimist Daily",
-      "published": "2026-10-16T00:00:30+00:00"
-    },
-    {
-      "title": "Tech giants want clean energy in N.C. Is Duke finally ready to help?",
-      "summary": "In North Carolina, tech giants and other large corporations that want their own 24/7 carbon-free electricity have a problem.",
-      "link": "https://www.canarymedia.com/articles/data-centers/tech-giants-want-clean-energy-in-n-c-is-duke-finally-ready-to-help",
-      "image_url": "https://img.canarymedia.com/content/uploads/GettyImages-1945727090-copy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=ffd33165822abac37d9c590c136d6306",
-      "source": "Canary Media",
-      "published": "2026-10-15T20:25:00+00:00"
-    },
-    {
-      "title": "An Extinct Crocodilian’s Skull Was Found in the Rocks That Built the Sphinx, and it’s Also Missing its Nose",
-      "summary": "A new crocodilian species has been identified from fossils recovered from a rock layer harvested by ancient Egyptians to build the Sphinx And funnily enough, just like the iconic Egyptian landmark, this fossilized reptile is missing the tip of its snout.",
-      "link": "https://www.goodnewsnetwork.org/an-extinct-crocodilians-skull-was-found-in-the-rocks-that-built-the-sphinx-and-its-also-missing-its-nose/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/low-res_herugavialis_cairensis-e1792061695449.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-15T17:30:16+00:00"
     }
   ]
 }
