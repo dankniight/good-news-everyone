@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-25T07:00:35.530192+00:00",
+  "lastUpdated": "2026-11-26T06:53:52.169122+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 205
+      "count": 203
     },
     {
       "name": "Positive News",
@@ -29,7 +29,7 @@
       "name": "Grist",
       "site": "https://grist.org",
       "color": "#6F8A2B",
-      "count": 29
+      "count": 30
     },
     {
       "name": "Canary Media",
@@ -41,10 +41,90 @@
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 31
+      "count": 32
     }
   ],
   "articles": [
+    {
+      "title": "Detectives Recover 13th Century Sculpture Stolen by Notorious ‘Gentleman Thief’ Erik the Belgian",
+      "summary": "Another of the infamous gentleman art thief “Erik the Belgian’s” heists have been solved. For nearly half a century, a 13th-century carving of the Virgin Mary sat in a Spanish police database as an unsolved case.",
+      "link": "https://www.goodnewsnetwork.org/detectives-recover-13th-century-sculpture-stolen-by-notorious-gentleman-thief-erik-the-belgian/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/The-13th-century-Virgin-pictured-during-its-handover-in-London-at-the-Embassy-of-Spain-Courtesy-Ministry-of-Foreign-Affairs-European-Union.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-25T19:30:55+00:00"
+    },
+    {
+      "title": "Military Instructs Residents to Remain Indoors After “Dirty Bomb” Blast, But to Also Clean Toxic Residue Off Outdoor Surfaces",
+      "summary": "What a joke.",
+      "link": "https://futurism.com/science-energy/military-army-bomb-blast-toxic-lead-residue",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/military-dirty-bomb-blast-toxic.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-11-25T18:48:55+00:00"
+    },
+    {
+      "title": "Podcast Transcript Thanksgiving 2026— What we’re most thankful for this year (hint: it’s you!)",
+      "summary": "Episode Description: This week’s episode is a short one with a single theme. Arielle takes a few minutes to thank the people who keep pressing play, wherever they happen to be spending this Thursday, from a crowded family table to a Friendsgiving far from home.",
+      "link": "https://www.optimistdaily.com/2026/11/podcast-transcript-thanksgiving-2026-what-were-most-thankful-for-this-year-hint-its-you/",
+      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Podcast-Logo-3000-×-3000-px-2-15-1024x1024.png",
+      "source": "The Optimist Daily",
+      "published": "2026-11-25T16:30:55+00:00"
+    },
+    {
+      "title": "Roman Glass Among the Silk Road Treasures Unearthed in Nomadic Noble’s Tomb",
+      "summary": "The legendary character of the Silk Road was in full focus recently in Mongolia, where excavations of a nomad’s tomb unearthed objects all the way from Classical Rome.",
+      "link": "https://www.goodnewsnetwork.org/roman-glass-among-the-silk-road-treasures-unearthed-in-nomadic-nobles-tomb/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/An-aerial-view-of-the-tomb-credit-National-Museum-of-Korea.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-25T16:30:05+00:00"
+    },
+    {
+      "title": "US Military Blows Up Huge “Dirty Bomb,” Sending Plume of Horrifying Chemicals Over America",
+      "summary": "So it begins.",
+      "link": "https://futurism.com/science-energy/us-military-blows-up-huge-dirty-bomb",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/military-dirty-bomb-plume-chemicals.jpg?quality=85&w=2048",
+      "source": "Futurism",
+      "published": "2026-11-25T16:26:23+00:00"
+    },
+    {
+      "title": "What We’re Reading: Building a Walkable City From Scratch",
+      "summary": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here.",
+      "link": "https://reasonstobecheerful.world/what-were-reading-walkable-utah-city/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2024/04/grist-logo.png",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-11-25T14:09:59+00:00"
+    },
+    {
+      "title": "‘Autos for Love’ Owners Delight in Giving Away Cars to Needy Neighbors",
+      "summary": "Once a year, the owners of a Texas auto-repair shop would refurbish a donated car and then hand the keys to a member of their community in need.",
+      "link": "https://www.goodnewsnetwork.org/texas-auto-shop-couple-is-hungry-to-keep-giving-cars-away-to-neighbors-in-need/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Cathy-and-Dane-Bailey-from-Auto-Experts-of-Colleyville-credit-Autos-for-Love.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-25T14:00:36+00:00"
+    },
+    {
+      "title": "Land Returned to Native American Ownership 400 Years After the First Thanksgiving",
+      "summary": "More than 400 years after the Pilgrims first explored the Cape Cod area, land belonging to Native Americans was returned to Indigenous ownership.",
+      "link": "https://www.goodnewsnetwork.org/land-returned-indigenous-care-first-encounter-beach/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/1280px-Waiting_for_Sunset_14287123165.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-25T12:59:08+00:00"
+    },
+    {
+      "title": "These Maine heat-pump owners will get discounted power this winter",
+      "summary": "A discount electricity rate for heat pump owners in Maine seemed dead earlier this year. Now, it's been revived as regulators look for ways to encourage households to ditch increasingly pricey heating oil and make winter warming more affordable for those already using the electric systems.",
+      "link": "https://www.canarymedia.com/articles/heat-pumps/maine-heat-pump-winter-discount",
+      "image_url": "https://img.canarymedia.com/content/uploads/Heat-pump-snow-Freeport-Maine_2026-11-24-224936_mnsu_2026-11-24-225029_rkcj.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=43ac8f22f460c943ecf0a15f8f7cc7d3",
+      "source": "Canary Media",
+      "published": "2026-11-25T08:30:00+00:00"
+    },
+    {
+      "title": "Good News in History, November 25",
+      "summary": "121 years ago today, American photographer Alfred Stieglitz opened the Little Galleries of the Photo-Secession at 291 Fifth Avenue in NYC.",
+      "link": "https://www.goodnewsnetwork.org/events061125/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/11/The-Little-Galleries-at-291-credit-Alfred-Stieglitz-public-domain-Copy.webp",
+      "source": "Good News Network",
+      "published": "2026-11-25T08:00:00+00:00"
+    },
     {
       "title": "Miki Kawamura: a 19-year-old’s peace network brings ice cream to a Nobel summit",
       "summary": "BY THE OPTIMIST DAILY EDITORIAL TEAM This article is part of The Optimist Daily’s Local Changemakers 2026 series, spotlighting changemakers 30 and under.",
@@ -262,7 +342,7 @@
       "published": "2026-11-23T00:00:10+00:00"
     },
     {
-      "title": "World’s First Museum Built in a Children’s Hospital Fulfills Dying Boy’s Wish For Playtime During Chemo",
+      "title": "First Museum Built Inside a Children’s Hospital Fulfills Dying Boy’s Wish For Diversion During Chemo",
       "summary": "While a little boy was fighting a deadly disease in the Children’s Hospital of New Orleans he longed for a place to go get some fresh air or distraction from his woes.",
       "link": "https://www.goodnewsnetwork.org/the-first-museum-built-in-a-childrens-hospital-fulfills-dying-boys-wish/",
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Music-dance-stage-display-in-kids-museum-Walkers-Imaginarium-released-by-Manning-Family-Childrens.jpeg",
@@ -652,6 +732,14 @@
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/AF333-Mares-de-niebla-Francisco-Bailon-Rodriguez-Low-res-e1794904256445.jpg",
       "source": "Good News Network",
       "published": "2026-11-17T12:30:18+00:00"
+    },
+    {
+      "title": "Tribes push back as Congress moves to fast-track energy projects",
+      "summary": "After years of negotiation, Congress is on the cusp of passing a bipartisan “permitting reform” bill that would make it far easier to build power plants and electric transmission lines in the United States.",
+      "link": "https://grist.org/indigenous/permitting-reform-clean-energy-senate-tribes-historic-preservation/",
+      "image_url": "https://grist.org/wp-content/uploads/2026/11/Lee-and-Heinrich.jpg",
+      "source": "Grist",
+      "published": "2026-11-17T09:45:00+00:00"
     },
     {
       "title": "The People Who Became Wildlife",
@@ -3156,94 +3244,6 @@
       "image_url": "https://futurism.com/wp-content/uploads/2026/10/global-warning-threshold-climate-change-speeding-up-2028.jpg?quality=85&w=2048",
       "source": "Futurism",
       "published": "2026-10-17T16:48:00+00:00"
-    },
-    {
-      "title": "Massive 70lb Dog the Size of Baby Hippo Sheds Pounds and Gets New Home",
-      "summary": "A massive shelter dog that weighed the same as a baby hippo has shed the pounds—and found a new home. The huge bulldog named Peggy Sue swelled to 70 pounds (32.5kg) before she was taken to the RSPCA’s West Hatch Animal Centre in England.",
-      "link": "https://www.goodnewsnetwork.org/massive-70lb-dog-the-size-of-baby-hippo-sheds-lbs/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Before-and-After-weight-loss-RSPCA-bulldog-via-SWNS.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-17T13:51:35+00:00"
-    },
-    {
-      "title": "Your Positive Weekly Horoscope: ‘Free Will Astrology’ by Rob Brezsny",
-      "summary": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood.",
-      "link": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-10-17-2026/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-17T10:00:17+00:00"
-    },
-    {
-      "title": "Good News in History, October 17",
-      "summary": "166 years ago today, the Open Championship, also known as the British Open, was first played in Scotland, at the Prestwick Golf Club in Ayrshire.",
-      "link": "https://www.goodnewsnetwork.org/events061017/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2019/10/Royal_Portrush_Golf_Club-cc-Average-Golfer-and-Greg-Norman-cc-Great-White-Shark-Enterprises.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-17T07:00:00+00:00"
-    },
-    {
-      "title": "Amazon Launches Ominous Wearable Ankle Monitor-Style Gadget That Records You Constantly",
-      "summary": "It's designed to \"stay with you through a full week without interruption.\"",
-      "link": "https://futurism.com/future-society/amazon-launches-bee-device-surveillance-watch-ai",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/amazon-launches-bee-device-surveillance-watch-ai.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-10-16T19:59:28+00:00"
-    },
-    {
-      "title": "North America’s Largest Wildlife Overpass Is Working: Animal Collisions on I-25 Down 91%",
-      "summary": "In March, GNN reported that North America’s largest wildlife overpass had opened in December over Interstate 25 near Larkspur, in Colorado.",
-      "link": "https://www.goodnewsnetwork.org/north-americas-largest-wildlife-overpass-is-working-animal-collisions-on-i-25-down-91/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Colorado-Department-of-Transportation.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-16T18:30:38+00:00"
-    },
-    {
-      "title": "Podcast Transcript October 16th, 2026— Flu is already spreading: why October is the window to get vaccinated, plus nine more solutions",
-      "summary": "Episode Description: Arielle and Karissa cover ten solutions this week, including 20,000 octopuses hiding in well-studied waters off the California coast, what Indonesian mosque loudspeakers have to do with earthquake survival, and a garden chore you now have a very good reason to skip.",
-      "link": "https://www.optimistdaily.com/2026/10/podcast-transcript-october-16th-2026-flu-is-already-spreading-why-october-is-the-window-to-get-vaccinated-plus-nine-more-solutions/",
-      "image_url": "https://www.optimistdaily.com/wp-content/uploads/Podcast-Logo-3000-×-3000-px-2-14-1024x1024.png",
-      "source": "The Optimist Daily",
-      "published": "2026-10-16T16:30:22+00:00"
-    },
-    {
-      "title": "Drape Some ‘Plant Armor’ Fabric Over a Strawberry Patch to Triple Yields with Less Pesticides",
-      "summary": "A new textile used to cover strawberry plants more than tripled fruit yields in field tests, without negatively impacting plant health.",
-      "link": "https://www.goodnewsnetwork.org/drape-some-of-this-plant-armor-fabric-over-a-strawberry-patch-to-triple-yields-with-less-pesticides/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Left-uncovered-strawberry-yield-right-yield-from-strawberries-grown-with-Plant-Armor-credit-Gabriel-Olawuyi-released-by-NCSU.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-16T15:30:40+00:00"
-    },
-    {
-      "title": "US EV sales are rising again. Here’s why the recovery is set to last.",
-      "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. It’s a great time to have an electric vehicle — and more Americans are getting the message.",
-      "link": "https://www.canarymedia.com/articles/electric-vehicles/us-ev-sales-rebound",
-      "image_url": "https://img.canarymedia.com/content/uploads/GettyImages-1430176974.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=fb1d5a80da28abfeacf7269d752636a8",
-      "source": "Canary Media",
-      "published": "2026-10-16T14:23:00+00:00"
-    },
-    {
-      "title": "Teen’s Disaster Messaging App Can ‘Hop’ Across Bluetooth When Cellular Networks Collapse",
-      "summary": "It’s not just homes that collapse during an earthquake, but cell towers and the networks they maintain. On February 6th, 2023, earthquakes devastated southern Türkiye and northern Syria.",
-      "link": "https://www.goodnewsnetwork.org/teens-disaster-messaging-app-can-hop-across-bluetooth-when-cellular-networks-collapse/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Crisis-Connect-Press-1400x700-1.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-16T13:00:35+00:00"
-    },
-    {
-      "title": "Largest Private Conservation Project in the US Hits Major Milestone as Free-Roaming Bison Pass 1,000",
-      "summary": "As autumn descends upon the Great Plains of North America, the largest private land conservation project in the country is ringing in an inspirational milestone.",
-      "link": "https://www.goodnewsnetwork.org/largest-private-conservation-project-in-the-us-hits-major-milestone-as-free-roaming-bison-pass-1000/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/unnamed.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-16T11:00:30+00:00"
-    },
-    {
-      "title": "What Dementia Taught Me About Living Through a Callous Time",
-      "summary": "Just as President Joe Biden was showing signs of cognitive decline so conspicuous that he was compelled to drop out of the presidential race in 2024, my own father’s dementia was worsening.",
-      "link": "https://reasonstobecheerful.world/what-dementia-taught-me-about-living-through-a-callous-time/",
-      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/Dad-and-I-at-Thanksgiving-1-scaled.jpg",
-      "source": "Reasons to be Cheerful",
-      "published": "2026-10-16T08:30:34+00:00"
     }
   ]
 }
