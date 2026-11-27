@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-26T06:53:52.169122+00:00",
+  "lastUpdated": "2026-11-27T06:46:07.834971+00:00",
   "sources": [
     {
       "name": "Good News Network",
       "site": "https://www.goodnewsnetwork.org",
       "color": "#2E8B57",
-      "count": 203
+      "count": 204
     },
     {
       "name": "Positive News",
@@ -17,7 +17,7 @@
       "name": "Reasons to be Cheerful",
       "site": "https://reasonstobecheerful.world",
       "color": "#3B82C4",
-      "count": 25
+      "count": 26
     },
     {
       "name": "The Optimist Daily",
@@ -41,10 +41,66 @@
       "name": "Futurism",
       "site": "https://futurism.com",
       "color": "#6E56CF",
-      "count": 32
+      "count": 30
     }
   ],
   "articles": [
+    {
+      "title": "Town Rewards a Woman Whose Thanksgiving Meal Feeds Thousands with a New Car",
+      "summary": "After 37 years of eating Gloria Kennard’s Thanksgiving dinners, a Texas community was hungry to return the kindness.",
+      "link": "https://www.goodnewsnetwork.org/town-rewards-a-woman-whose-thanksgiving-meal-feeds-thousands-with-a-new-car/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/maxresdefault-7.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-26T16:30:18+00:00"
+    },
+    {
+      "title": "For This NYC Restaurant Owner, Thanksgiving Comes Every Wednesday",
+      "summary": "This story came to us from PassItOn.com, which is part of The Foundation for a Better Life. Their goal is to offer inspirational messages to people everywhere as a contribution toward promoting universal values, good role models and a better life.",
+      "link": "https://www.goodnewsnetwork.org/for-this-nyc-restaurant-owner-thanksgiving-comes-every-wednesday/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/11/turkey-tribune-video-permission.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-26T16:15:31+00:00"
+    },
+    {
+      "title": "Family Is Thankful Their Baby, Given Weeks to Live on Christmas Eve, Now Brain Cancer-Free",
+      "summary": "An infant girl with weeks to live from aggressive brain cancer has made a full recovery after her case arrived at the desk of a hospital which had just finished a rigorous study on her form of cancer.",
+      "link": "https://www.goodnewsnetwork.org/girl-given-weeks-to-live-on-christmas-eve-makes-miracle-recovery-after-serendipitous-call-to-st-jude/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/The-Mehtabd-family-with-Imani-on-the-right-credit-family-photo.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-26T14:00:54+00:00"
+    },
+    {
+      "title": "Texans Work for Free on Farms That Aren’t Theirs to Send Others’ Kids to College",
+      "summary": "Texas residents are farming land that isn’t theirs for free in order to raise money to help send kids—who also aren’t theirs—off to college.",
+      "link": "https://www.goodnewsnetwork.org/texans-work-for-free-on-farms-that-arent-theirs-to-send-others-kids-to-college/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Gruver-High-School.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-26T12:30:16+00:00"
+    },
+    {
+      "title": "This Year, The Perfect Thanksgiving Film Features Two Icons, One Friendship and Endless Joy",
+      "summary": "Thanksgiving is a time for gathering, giving thanks, and remembering that joy is possible even when life has been hard.",
+      "link": "https://www.goodnewsnetwork.org/mission-joy-perfect-friendship-film-key-to-happiness/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/mission-joy-1-1.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-26T11:00:41+00:00"
+    },
+    {
+      "title": "The Portlanders Turning Rescued Food Into Restaurant-Quality Meals",
+      "summary": "It’s a Tuesday morning in early October and chef Bradley Cohen, 49, is trying to improvise a meal from a hotel pan full of pork loins.",
+      "link": "https://reasonstobecheerful.world/portland-urban-gleaners/",
+      "image_url": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/IMG_0019-rotated.jpg",
+      "source": "Reasons to be Cheerful",
+      "published": "2026-11-26T08:00:37+00:00"
+    },
+    {
+      "title": "Good News in History, November 26",
+      "summary": "105 years ago today, Rued Langgaard’s “Music of the Spheres” (Sfærernes Musik) premiered at Konzerthaus in Karlsruhe, Germany.",
+      "link": "https://www.goodnewsnetwork.org/events061125-2/",
+      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/11/Rued-Langgaard.jpg",
+      "source": "Good News Network",
+      "published": "2026-11-26T08:00:00+00:00"
+    },
     {
       "title": "Detectives Recover 13th Century Sculpture Stolen by Notorious ‘Gentleman Thief’ Erik the Belgian",
       "summary": "Another of the infamous gentleman art thief “Erik the Belgian’s” heists have been solved. For nearly half a century, a 13th-century carving of the Virgin Mary sat in a Spanish police database as an unsolved case.",
@@ -3188,62 +3244,6 @@
       "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Fire-and-Rescue-service-rescues-kitten-in-suspension-SUBMITTED.jpg",
       "source": "Good News Network",
       "published": "2026-10-18T20:32:45+00:00"
-    },
-    {
-      "title": "Director Blows $1.5 Million Generating Horrendous AI Slop Movie, Says AI Actually Saved Him Tens of Millions",
-      "summary": "The magic of Christmas, brought to life with horrendous slop.",
-      "link": "https://futurism.com/artificial-intelligence/director-slop-movie-savings",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/director-slop-movie-savings.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-10-18T17:50:00+00:00"
-    },
-    {
-      "title": "Retired Couple Surprised With New HVAC System Worth $16k in a ‘Feel the Love’ Program That’s Aided 3100 Folks",
-      "summary": "An Oregon couple facing financial hardship can now endure the winter in comfort and with ‘peace of mind’ since a new HVAC system was installed in their home at no cost.",
-      "link": "https://www.goodnewsnetwork.org/retired-couple-surprised-with-new-hvac-system-worth-16k/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Aviator-Heating-and-Cooling-gives-Diane-and-Brian-Johnsen-free-HVAC-Submitted.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-18T17:19:59+00:00"
-    },
-    {
-      "title": "Village Installs Knitted Traffic Cops to Slow Down Speeding Drivers",
-      "summary": "Villagers have knitted speed cameras and life-sized traffic cops to fake-out reckless motorists, in a bid to slow down drivers.",
-      "link": "https://www.goodnewsnetwork.org/village-installs-knitted-traffic-cops-to-slow-speeding-drivers/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Knitted-traffic-officer-by-Emma-Trimble-via-SWNS.jpeg",
-      "source": "Good News Network",
-      "published": "2026-10-18T13:42:17+00:00"
-    },
-    {
-      "title": "Good News in History, October 18",
-      "summary": "896 years ago today, Zhu Xi, a revolutionary Confucian scholar of the Song Dynasty, was born. His shifting of the emphasis from the I Ching to the Four Books reshaped the Chinese view of the world, which is not an easy thing to do.",
-      "link": "https://www.goodnewsnetwork.org/events061018/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/Zhu-Xi-pub-domain.jpg",
-      "source": "Good News Network",
-      "published": "2026-10-18T07:00:00+00:00"
-    },
-    {
-      "title": "99-yo Woman Snags ‘World’s Oldest Wing-Walker’ Title – 3 Months After Another Gran Did It (LOOK)",
-      "summary": "A 99-year-old has become the world’s oldest wing-walker—just three months after her niece saw another elderly woman do it, and the staff at her assisted-living facility urged her to try.",
-      "link": "https://www.goodnewsnetwork.org/99-yo-woman-snags-worlds-oldest-wing-walker-title/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Helga-Duffy-breaks-world-record-for-wingwalking-AeroSuperBatics-Wingwalkers-via-SWNS.jpeg",
-      "source": "Good News Network",
-      "published": "2026-10-17T19:56:32+00:00"
-    },
-    {
-      "title": "Coral Bleaching Reversed at Record Speed Using New Stanford Method: ‘Not a Lost Cause, at All’",
-      "summary": "Coral bleaching has been reversed at record speed using a new method developed at Stanford University. Corals that were ghostly white returned to full health in their lab in a mere seven weeks—the fastest documented recovery to date.",
-      "link": "https://www.goodnewsnetwork.org/coral-bleaching-reversed-at-record-speed-using-new-stanford-method/",
-      "image_url": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Coral-bleaching-restoration-at-Stanford-by-Dan-Griffin-GG-Films-via-SWNS.jpeg",
-      "source": "Good News Network",
-      "published": "2026-10-17T17:20:40+00:00"
-    },
-    {
-      "title": "You Know That Terrifying Global Warning Threshold They’ve Been Worried About for a Decade? Climate Change Is Speeding Up So Much That Now We’re Due to Cross It In Just Over a Year",
-      "summary": "It's \"nearly a decade earlier than previous estimates.\"",
-      "link": "https://futurism.com/science-energy/global-warning-threshold-climate-change-speeding-up-2028",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/global-warning-threshold-climate-change-speeding-up-2028.jpg?quality=85&w=2048",
-      "source": "Futurism",
-      "published": "2026-10-17T16:48:00+00:00"
     }
   ]
 }
